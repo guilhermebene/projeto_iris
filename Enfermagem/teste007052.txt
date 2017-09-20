@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.007052
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+19/09/2007 - Processo: 07.5.36.84.1
+
+
+Responsável:
+6365822-1 William Bragagnollo Montini 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4384750
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Localização:       (Patrimônio CCE nº 84005884)
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+LX 201- REDE
+Tipo:
+PREGÃO CTI 001/2006
+
+
+Doc.:
+nota fiscal
+Num.:
+599641
+Data:
+22/02/2007
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERVIDOR (S/Nº C23N501800038)
+
+
+Assinatura Digital:
+
+

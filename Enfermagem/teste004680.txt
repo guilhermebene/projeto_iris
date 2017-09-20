@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.004680
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+18/02/2003 - Processo: 02.1.894.7.2
+
+
+Responsável:
+3055463-2 Priscila Câmara Alves 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2117681
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Localização: Sala 101
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+
+Tipo:
+48 PORTAS - CÓD. 3CI7204/ 3Cl7223
+
+
+Doc.:
+nota fiscal
+Num.:
+2535
+Data:
+17/02/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ENTERNET INFORMÁTICA LTDA
+
+
+Identif:
+SWITCH
+
+
+Assinatura Digital:
+
+

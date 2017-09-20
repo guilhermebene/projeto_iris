@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.009475
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+03/08/2011 - Processo: 11.1.380.7.8
+
+
+Responsável:
+77347-2 Maria Amelia de Campos Oliveira 
+
+
+Material:
+195499 - VITALSIM CONTROL UNIT                                                                               
+
+
+Bem:
+5020190
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LAB.ENFERMAGEM       - LABORATÓRIO DE ENFERMAGEM
+
+
+Complemento:
+Localização: Sala - 304 3º Andar Local (Prédio Anexo)
+
+
+ 
+ 
+
+
+Marca:
+LAERDAL
+Modelo:
+MONITOR CARDIACO
+Tipo:
+VITALSIM SIMULADOR DE SINAIS VITAL
+
+
+Doc.:
+nota fiscal
+Num.:
+000.001.403
+Data:
+28/07/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+LAERDAL MEDICAL IMPORT. E COM. DE PROD. MÉDICOS LTDA
+
+
+Identif:
+VITALSIM CONTROL UNIT
+
+
+Assinatura Digital:
+
+

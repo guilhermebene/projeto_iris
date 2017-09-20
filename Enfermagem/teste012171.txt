@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.012171
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+06/03/2015 - Processo: 14.1.492.7.3
+
+
+Responsável:
+2462945-1 Marco Antonio da Silva Low 
+
+
+Material:
+130443 - TERMINAL DE VIDEOCONFERÊNCIA                                                                        
+
+
+Bem:
+5162718
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SEÇAO AUDIO VISUAIS  - SCREAUD-07
+
+
+Complemento:
+Localização: SCINFOR-07 Sala 101 Contrato 10/2014-TES Pregão 004/2013-STI
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+CTS-SX20-PHD12X-K SÉRIE FTTI9030371
+Tipo:
+9 BR
+
+
+Doc.:
+nota fiscal
+Num.:
+000023288 SÉRIE 1
+Data:
+27/02/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TES TECNOLOGIA SISTEMAS E COMÉRCIO LTDA
+
+
+Identif:
+TERMINAL DE VIDEOCONFERÊNCIA
+
+
+Assinatura Digital:
+
+

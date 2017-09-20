@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.006922
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+14/09/2007 - Processo: 07.1.799.7.4
+
+
+Responsável:
+1897910-1 Vilanice Alves de Araujo Püschel 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4243439
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ENC                  - DEPARTAMENTO DE ENFERMAGEM MÉDICO-CIRÚRGICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VICENT
+Modelo:
+SKYVIN 600
+Tipo:
+PENTIUM IV
+
+
+Doc.:
+nota fiscal
+Num.:
+1244
+Data:
+12/09/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PLUSVISION COMÉRCIO DE ELETROELETRONICOS LTDA - EPP
+
+
+Identif:
+MICRO
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.010092
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+27/01/2012 - Processo: 11.5.661.70.8
+
+
+Responsável:
+77347-2 Maria Amelia de Campos Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Localização:   Sala 101
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+Intel i5 2400 - DDR3 - 2GB
+Tipo:
+Número de Série do Gabiente: 113251
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2672/2011
+Data:
+05/12/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.005118
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+30/03/2004 - Processo: 04.1.19.7.6
+
+
+Responsável:
+3589292-1 Marcelo Vieira Contin 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+2935520
+Origem:
+Sispa Compra        
+Situação:
+Inservível     
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VECTRON
+Modelo:
+MV IP SPECIAL
+Tipo:
+SERVIDOR DE BANCO DE DADOS
+
+
+Doc.:
+nota fiscal
+Num.:
+5259
+Data:
+29/03/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VECTRON ELETRONICA INDUSTRIA E COMERCIO LTDA.
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

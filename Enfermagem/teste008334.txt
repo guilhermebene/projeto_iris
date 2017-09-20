@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.008334
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+19/02/2010 - Processo: 10.1.2123.1.2
+
+
+Responsável:
+2802655-1 Rubens Chiquinato 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STTRANS              - SETOR DE TRANSPORTES
+
+
+Complemento:
+Localização: Sala S-01 - Placa EEF 7025-
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+ZAFIRA
+Tipo:
+Nº MOTOR U800002243
+
+
+Doc.:
+nota fiscal
+Num.:
+194329
+Data:
+15/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Nº CHASSI 9BGTS75C0AC180879
+
+
+Assinatura Digital:
+
+

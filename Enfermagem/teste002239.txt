@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.002239
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+18/09/2000 - Processo: 00.1.198.7.4
+
+
+Responsável:
+2766054-1 Maria Ines Jeronimo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+675334
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VECTRON
+Modelo:
+PENTIUM III - 550 MHZ
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2271
+Data:
+06/09/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VECTRON ELETRÔNICA INDÚSTRIA E COMÉRCIO LTDA
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

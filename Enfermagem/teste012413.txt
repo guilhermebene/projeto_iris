@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.012413
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+18/01/2017 - Processo: 17.5.45.1.8
+
+
+Responsável:
+3055463-2 Priscila Câmara Alves 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095663
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-205-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4934
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CNBPHMJD37
+
+
+Assinatura Digital:
+
+
