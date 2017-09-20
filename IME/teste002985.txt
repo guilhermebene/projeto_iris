@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.002985
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+14/08/2000 - Processo: 
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SUN
+Modelo:
+SPARCSTATION-1PC - PROC.32 BITES 8MBYTES
+Tipo:
+ACESSOR - SR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SUN MICROSYSTEMS INC. - USA
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003966
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+03/10/2001 - Processo: 01.1.832.45.9
+
+
+Responsável:
+74772-1 Francisco Rui Tavares de Almeida 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+1143280
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MAT                  - DEPTO DE MATEMATICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+LOREN SID
+Modelo:
+VENTILADOR BIVOLT-3 PÁS-40CM
+Tipo:
+PAREDE
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.04949
+Data:
+27/09/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+COMPACTA COMERCIAL LTDA-EPP
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

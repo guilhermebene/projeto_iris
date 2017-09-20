@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003954
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+24/09/2001 - Processo: 01.1.679.45.6
+
+
+Responsável:
+86500-1 Alan Mitchell Durham 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+1120972
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CEC                  - CENTRO DE ENSINO DA COMPUTAÇÃO
+
+
+Complemento:
+Notebook Compaq Intel 800mhz, cv.16/2001, está na sala 146-B
+
+
+ 
+ 
+
+
+Marca:
+COMPAQ
+Modelo:
+MICRO-PORTÁTIL[EVO N150-P3800]
+Tipo:
+NOTEBOOK
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.029825
+Data:
+31/08/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003899
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+10/09/2001 - Processo: 01.1.605.45.2
+
+
+Responsável:
+2458999-1 Morilo Alves da Costa 
+
+
+Material:
+87408 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+992313
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVMAT                - SEÇÃO DE MATERIAL
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SEAL/SYMBOL
+Modelo:
+SPT-1700 - COLETOR DE DADOS
+Tipo:
+MANUAL
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.061043
+Data:
+31/08/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SEAL ELETRÔNICA LTDA
+
+
+Identif:
+Z1878750 - CÓD.EAN128
+
+
+Assinatura Digital:
+
+

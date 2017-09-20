@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005552
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+30/08/2002 - Processo: 02.1.1704.45.5
+
+
+Responsável:
+2452499-1 Airton Vilela de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1797182
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+W-JET
+Modelo:
+PENTIUM III - 1G.Z    - DESKTOP
+Tipo:
+MICROCOMPUTADOR COMPATÍVEL COM IBM/PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NF02301
+Data:
+28/08/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+W-JET COMERCIAL LTDA. ME
+
+
+Identif:
+N/T**********************
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.013735
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+15/09/2011 - Processo: 11.1.1555.45.9
+
+
+Responsável:
+91288-1 Carlos Eduardo Ferreira 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5123151
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Equipamento na sala Rede Linux 125 A
+
+
+ 
+ 
+
+
+Marca:
+MICROM
+Modelo:
+MIX DUAL SEVER-06  DXS
+Tipo:
+Servidor de rede
+
+
+Doc.:
+nota fiscal
+Num.:
+Danfe: 186 Série: 0
+Data:
+05/09/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+INTERMICRO COMÉCIO E  SERVIÇOS EM INFORMATICA LTDA
+
+
+Identif:
+Serial: 000411 -  D89500814300293
+
+
+Assinatura Digital:
+
+

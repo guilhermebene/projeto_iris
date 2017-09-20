@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.000963
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+14/07/1999 - Processo: 
+
+
+Responsável:
+2090603-1 Henrique Guzzo Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1141090
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DATAPACK
+Modelo:
+PENTIUM 133MHZ
+Tipo:
+TORRE
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+START ELETRONICA LTDA
+
+
+Identif:
+S/N.:5196R478
+
+
+Assinatura Digital:
+
+

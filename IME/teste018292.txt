@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.018292
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+14/02/2017 - Processo: 17.5.21.1.1
+
+
+Responsável:
+1742070-1 Sergio Ricardo Milare 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095655
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-205-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4930
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CM0548265
+
+
+Assinatura Digital:
+
+

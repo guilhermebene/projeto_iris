@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.004293
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+08/02/2002 - Processo: 01.1.1054.45.0
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+450 - MONITORES DE VÍDEO                                                                                  
+
+
+Bem:
+1341057
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PHILIPS
+Modelo:
+MODELO 107E
+Tipo:
+CLORIDO 17POLEGADAS
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.01628
+Data:
+18/01/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DA BRASIL LTDA
+
+
+Identif:
+107E29/68B
+
+
+Assinatura Digital:
+
+

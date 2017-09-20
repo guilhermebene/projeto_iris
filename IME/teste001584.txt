@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.001584
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+17/09/1999 - Processo: 99.1.427.45.4
+
+
+Responsável:
+2494541-1 Jose Euclides Martinelli 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+152692
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVBIBL               - DIRETORIA\SERVIÇO DE BIBLIOTECA
+
+
+Complemento:
+CPU(Está na sala do José-BIME)NF.47.452   25.02.98  - ad-referendum 10.06.99
+
+
+ 
+ 
+
+
+Marca:
+NCR
+Modelo:
+PENTIUM 233MMX
+Tipo:
+DESKTOP
+
+
+Doc.:
+termo de doação
+Num.:
+TD.818.99 - PROC.95/05823-5
+Data:
+02/06/1999
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/N.:19725
+
+
+Assinatura Digital:
+
+

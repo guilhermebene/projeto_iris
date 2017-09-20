@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006730
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+27/09/2004 - Processo: 04.1.787.45.6
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3101177
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CEC                  - CENTRO DE ENSINO DA COMPUTAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Vectron
+Modelo:
+MVA- 2000 - XP
+Tipo:
+Microcomputador compatível com IBM/PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.05533
+Data:
+01/09/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vectron Eletrônica Indústria e Comércio Ltda
+
+
+Identif:
+22392 - sem IP
+
+
+Assinatura Digital:
+
+
