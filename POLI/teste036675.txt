@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.036675
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+23/11/2006 - Processo: 06.5.844.1.7
+
+
+Responsável:
+178979-1 Antonio Saverio Rincon Mungioli 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1126725
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ASSINF               - ASSESSORIA DE INFORMATICA
+
+
+Complemento:
+094-002567
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+POS-AT 850 J-P
+Tipo:
+CPU
+
+
+Doc.:
+nota fiscal
+Num.:
+81936/44/50/38/37
+Data:
+17/01/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+118549
+
+
+Assinatura Digital:
+
+

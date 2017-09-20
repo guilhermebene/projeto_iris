@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.012557
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+25/04/2001 - Processo: 01.1.552.3.0
+
+
+Responsável:
+71765-1 Maria Candida Reginato Facciotti 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+950939
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MICROMAX
+Modelo:
+GOLD 6800
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+2303
+Data:
+23/04/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROMAX COMERCIO E SERVICOS EM INFORMATICA LTDA.
+
+
+Identif:
+000405886
+
+
+Assinatura Digital:
+
+

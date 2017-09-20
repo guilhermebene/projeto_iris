@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.030576
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+28/10/2004 - Processo: 04.1.2878.3.3
+
+
+Responsável:
+67523-1 Pedro Alem Sobrinho 
+
+
+Material:
+125580 - CONTROLADOR ELETRÔNICO                                                                              
+
+
+Bem:
+3230066
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PHA                  - (DEPTO. ENG. HIDRAULICA E AMBIENTAL)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+YOKOGAWA
+Modelo:
+UT320-00
+Tipo:
+CONTROLADOR ELETRONICO
+
+
+Doc.:
+nota fiscal
+Num.:
+62405
+Data:
+18/10/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+YOKOGAWA AMERICA DO SUL LTDA.
+
+
+Identif:
+T1D804647
+
+
+Assinatura Digital:
+
+

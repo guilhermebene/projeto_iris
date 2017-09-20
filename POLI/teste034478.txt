@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034478
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+17/02/2006 - Processo: 05.1.2049.3.8
+
+
+Responsável:
+60901-1 Antonio Carlos de Lima 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+3815137
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM
+Modelo:
+SERIE 226
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+182
+Data:
+04/01/2006
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+MAINLINE SYSTEMS DO BRASIL COM. PROD. INFORMATICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

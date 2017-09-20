@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009791
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+28/09/2000 - Processo: 98.1.963.3.7
+
+
+Responsável:
+61090-1 Deniol Katsuki Tanaka 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMC                  - DEPTO. ENG. MECANICA
+
+
+Complemento:
+O SISTEMA DE PROCESSAMENTO DE IMAGEM É UMA PLACA DE CAPTURA DE IMAGEM QUE VAI DE
+
+
+ 
+NTRO DESTE PROCESSADOR E SOFTWARE 
+
+
+Marca:
+LEICA
+Modelo:
+LEICA Q500IW
+Tipo:
+MICROCOMPUTADOR PENTIUM 233MHZ
+
+
+Doc.:
+declaração de importação
+Num.:
+98/1060146-8
+Data:
+22/10/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+500-C8-59
+
+
+Assinatura Digital:
+
+

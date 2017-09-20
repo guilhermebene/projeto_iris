@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009888
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/10/2000 - Processo: 00.1.15.3.4
+
+
+Responsável:
+337812-1 Augusto Camara Neiva 
+
+
+Material:
+52035 - POTENCIOSTATO                                                                                       
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ECO CHEMIE
+Modelo:
+AUTOLAB PGSTAT30
+Tipo:
+POTENCIOSTATO/GALVONOSTATO
+
+
+Doc.:
+declaração de importação
+Num.:
+00/0386257-1
+Data:
+03/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+AUT70896
+
+
+Assinatura Digital:
+
+

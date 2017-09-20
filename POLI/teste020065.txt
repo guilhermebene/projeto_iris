@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.020065
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+04/09/2002 - Processo: 00.1.2636.3.6
+
+
+Responsável:
+81151-1 Sergio Takeo Kofuji 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+SUBSTITUI A CHAPA 003-019984
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+DE REDE SCP-ASXP5
+Tipo:
+SWITCH
+
+
+Doc.:
+declaração de importação
+Num.:
+01/0252491-7
+Data:
+13/03/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

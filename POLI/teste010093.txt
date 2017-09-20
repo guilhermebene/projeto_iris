@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.010093
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+11/06/2007 - Processo: 00.1.1016.3.4
+
+
+Responsável:
+62900-1 Fabio Gagliardi Cozman 
+
+
+Material:
+98469 - LINK TRANSMISSOR DE RÁDIO E VÍDEO                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+TERMO DE DOAÇÃO 00624/2002COMPOSTO PELA UNIDADE TRANSMISSORA AP4800-E E A UNIDAD
+
+
+ 
+E RECEPTORA UC4800-E; CARTÃO  PCMCIA MOD. PC4800 
+
+
+Marca:
+AIRONET
+Modelo:
+AP4800-E
+Tipo:
+LINK DE RADIO ETHERNET
+
+
+Doc.:
+termo de doação
+Num.:
+00/0913383-0
+Data:
+26/09/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+RP01009785
+
+
+Assinatura Digital:
+
+

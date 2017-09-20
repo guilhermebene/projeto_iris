@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.057550
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/04/2013 - Processo: 13.5.178.70.7
+
+
+Responsável:
+2807111-1 Vanessa Duarte Unger 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MONTADO NO CCE-USP
+Modelo:
+CHAM.TÉC. 234105 PAT. ANTIGO 003.023469
+Tipo:
+INTEL I5 2400, DDR3 2GB, HD 750GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+3095
+Data:
+22/03/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE DO GABINETE 128924
+
+
+Assinatura Digital:
+
+

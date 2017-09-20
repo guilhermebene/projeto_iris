@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.046483
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+10/03/2010 - Processo: 09.1.296.3.1
+
+
+Responsável:
+76134-1 Phillip Mark Seymour Burt 
+
+
+Material:
+185094 - PLACA DE DESENVOLVIMENTO                                                                            
+
+
+Bem:
+4761120
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+XILINX
+Modelo:
+
+Tipo:
+PLACA DE DESENVOLVIMENTO
+
+
+Doc.:
+nota fiscal
+Num.:
+44
+Data:
+11/09/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ELETRONIX COMERCIO DE ELETROELETRONICOS LTDA - ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

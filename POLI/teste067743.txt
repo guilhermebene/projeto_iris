@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.067743
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+29/03/2017 - Processo: 16.1.2227.3.4
+
+
+Responsável:
+6919284-1 Milana Lima dos Santos 
+
+
+Material:
+354341 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+7959214
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+D180
+Tipo:
+intel i5
+
+
+Doc.:
+nota fiscal
+Num.:
+183
+Data:
+23/02/2017
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+JULIANA TEXEIRA BEZERRA
+
+
+Identif:
+1A269SY45
+
+
+Assinatura Digital:
+
+

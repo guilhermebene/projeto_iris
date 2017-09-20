@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008136
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+09/05/2000 - Processo: 98.1.107.3.3
+
+
+Responsável:
+91055-1 Mario Thadeu Leme de Barros 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PHA                  - (DEPTO. ENG. HIDRAULICA E AMBIENTAL)
+
+
+Complemento:
+VERBA DAEE - PROC 96.1.276.3.8
+
+
+ 
+ 
+
+
+Marca:
+NOVADATA
+Modelo:
+PENTIUM 133 MHZ
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+1598
+Data:
+21/08/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+2408569297097
+
+
+Assinatura Digital:
+
+

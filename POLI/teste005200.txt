@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.005200
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+25/10/1999 - Processo: 96.1.2509.3.0
+
+
+Responsável:
+2443954-1 Maria de Fatima Queiroz Carvalhal 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+188409
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIBL                 - BIBLIOTECA CENTRAL
+
+
+Complemento:
+PATRIMONIO POLI  73256
+
+
+ 
+ 
+
+
+Marca:
+NET
+Modelo:
+PENTIUM 133MHZ, 16MB DE RAM
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+1004
+Data:
+22/01/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ENTERNET IMFORMATICA LTDA.
+
+
+Identif:
+A07506115
+
+
+Assinatura Digital:
+
+

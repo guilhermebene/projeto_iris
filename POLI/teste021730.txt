@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.021730
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+17/12/2002 - Processo: 00.1.1804.3.2
+
+
+Responsável:
+81151-1 Sergio Takeo Kofuji 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+SUBSTITUI A CHAPA ESTORNADA POR ERRO NA ORIGEM 003-14254
+
+
+ 
+ 
+
+
+Marca:
+ETHERLINK
+Modelo:
+GS 504 NET GEAR
+Tipo:
+SWITCH
+
+
+Doc.:
+nota fiscal
+Num.:
+2328
+Data:
+22/01/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GS54A09001228
+
+
+Assinatura Digital:
+
+

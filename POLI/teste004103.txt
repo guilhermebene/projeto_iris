@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.004103
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+24/08/1999 - Processo: 98.1.1146.3.2
+
+
+Responsável:
+1693506-1 Victor Francisco Mammana de Barros 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+97950
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ASSINF               - ASSESSORIA DE INFORMATICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+SWITCH 3300
+Tipo:
+SWITCH
+
+
+Doc.:
+nota fiscal
+Num.:
+2429
+Data:
+21/09/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ENTERNET INFORMATICA LTDA
+
+
+Identif:
+72M91CA78
+
+
+Assinatura Digital:
+
+

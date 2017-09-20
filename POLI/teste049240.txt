@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.049240
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+14/09/2010 - Processo: 10.1.2395.3.9
+
+
+Responsável:
+54518-1 Marcilio Alves 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ASUSTEK
+Modelo:
+Z8PE-D16/ASM84-IKVM/GA
+Tipo:
+CLUSTER ALTA PERFORMANCE 16 NOS XEON
+
+
+Doc.:
+termo de doação
+Num.:
+04/15404-0
+Data:
+19/05/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+94S2A1004825
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.004792
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+07/10/1999 - Processo: 
+
+
+Responsável:
+49901-1 Geraldo Lino de Campos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642894
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+PATRIMONIO POLI 70063
+
+
+ 
+ 
+
+
+Marca:
+EURODATA
+Modelo:
+486DX4  100MHZ
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/N
+
+
+Assinatura Digital:
+
+

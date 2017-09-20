@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.037361
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+30/01/2007 - Processo: 06.1.3346.3.7
+
+
+Responsável:
+50473-1 Marius Strum 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+OBS: SALA C1-53
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+SUN FIRE V20Z
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+termo de doação
+Num.:
+02289/2006
+Data:
+06/11/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+XG052422704
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.004933
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+14/10/1999 - Processo: 
+
+
+Responsável:
+337812-1 Augusto Camara Neiva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BYTE ON
+Modelo:
+PENTIUM 166 MHZ, 32 MB RAM
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+TD0027963
+
+
+Assinatura Digital:
+
+

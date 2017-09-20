@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.033421
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/09/2005 - Processo: 05.1.2767.3.8
+
+
+Responsável:
+51004-1 Armando Antonio Maria Lagana 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+4300
+Tipo:
+MICROCOMPUTADOR PENTIUM IV 1,6GHz
+
+
+Doc.:
+nota fiscal
+Num.:
+085162
+Data:
+15/03/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

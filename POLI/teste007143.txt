@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.007143
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/02/2000 - Processo: 99.1.3376.3.6
+
+
+Responsável:
+59110-1 Jose Aquiles Baesso Grimoni 
+
+
+Material:
+64157 - VARIADOR DE TENSÃO                                                                                  
+
+
+Bem:
+379700
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AUJE
+Modelo:
+M 2407
+Tipo:
+VARIADOR DE TENSAO
+
+
+Doc.:
+nota fiscal
+Num.:
+4726
+Data:
+18/11/1999
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+AMCLEF FERRAMENTAS LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

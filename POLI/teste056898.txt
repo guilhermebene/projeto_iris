@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.056898
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/12/2012 - Processo: 12.1.2935.3.5
+
+
+Responsável:
+2443954-1 Maria de Fatima Queiroz Carvalhal 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIBLMECNAV           - BIBLIOTECA DO PMC E PNV
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4255
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+192248
+Data:
+29/11/2012
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+ITAUTEC S/A - GRUPO ITAUTEC
+
+
+Identif:
+4006605800024
+
+
+Assinatura Digital:
+
+

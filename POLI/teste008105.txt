@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008105
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/05/2000 - Processo: 99.1.3753.3.4
+
+
+Responsável:
+69532-1 Cláudio Augusto Oller do Nascimento 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643785
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+PRESARIO 5524, C/MONITOR 14" ACOPLADO
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+17
+Data:
+02/05/1996
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F603HRK80028
+
+
+Assinatura Digital:
+
+

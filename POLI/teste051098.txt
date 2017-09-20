@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.051098
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+16/06/2011 - Processo: 11.1.1233.3.6
+
+
+Responsável:
+30925-1 Hernani Luiz Brinati 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+DX2390
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+423822
+Data:
+07/01/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BRG950F4TH
+
+
+Assinatura Digital:
+
+

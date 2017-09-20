@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.007376
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+02/03/2000 - Processo: 98.1.433.3.8
+
+
+Responsável:
+50970-1 Inês Pereyra 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+PENTIUM 233 MHZ MMX
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+596
+Data:
+25/05/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0983st0875
+
+
+Assinatura Digital:
+
+

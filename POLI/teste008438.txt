@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008438
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+31/05/2000 - Processo: 99.1.3796.3.5
+
+
+Responsável:
+55328-1 Julio Cezar Adamowski 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643785
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+PROJETO FINEP - PROC. 77.97.0481.00
+
+
+ 
+ 
+
+
+Marca:
+COMPAQ
+Modelo:
+DESKPRO 4000 200 MMX, C/ACESSORIOS
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+7552
+Data:
+21/11/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F739BPL40067
+
+
+Assinatura Digital:
+
+

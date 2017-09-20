@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.038059
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+10/04/2007 - Processo: 06.1.3297.3.6
+
+
+Responsável:
+5101102-1 Alessandro Pereira de Souza Didier 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+1843753
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSA                  - POLI SANTOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL COMP DO BRASIL
+Modelo:
+POWER EDGE 1950
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+720
+Data:
+14/03/2007
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+LTA-RH INFORMATICA COM. REP. LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

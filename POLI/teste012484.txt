@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.012484
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/04/2001 - Processo: 01.1.410.3.1
+
+
+Responsável:
+61260-1 Jayme Pinto Ortiz 
+
+
+Material:
+34991 - UNIDADE INTERFACE DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+CAD 12/32-16, MCS1000-16
+Tipo:
+UNIDADE DE AQUISIÇAO DE DADOS
+
+
+Doc.:
+nota fiscal
+Num.:
+2257
+Data:
+15/03/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

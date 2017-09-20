@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.018336
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/05/2002 - Processo: 02.1.138.3.0
+
+
+Responsável:
+55440-1 Paulo Eigi Miyagi 
+
+
+Material:
+13285 - ZIP DRIVE EXTERNO                                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+IOMEGA
+Modelo:
+EXTERNO, 250MB, PARALELO
+Tipo:
+ZIP DRIVE
+
+
+Doc.:
+nota fiscal
+Num.:
+695
+Data:
+23/02/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NX BL 40918V
+
+
+Assinatura Digital:
+
+

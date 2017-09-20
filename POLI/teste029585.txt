@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.029585
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+17/08/2004 - Processo: 01.1.1767.3.0
+
+
+Responsável:
+53816-1 Nilton Itiro Morimoto 
+
+
+Material:
+100374 - CONTROLADOR DE FLUXO DE MASSA                                                                       
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MKS
+Modelo:
+1179A13CR1BV
+Tipo:
+CONTROLADOR DE FLUXO DE MASSA
+
+
+Doc.:
+declaração de importação
+Num.:
+03/0590865-5
+Data:
+14/07/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+220306001
+
+
+Assinatura Digital:
+
+

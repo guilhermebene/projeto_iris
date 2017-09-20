@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.018438
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/05/2002 - Processo: 01.1.3081.3.9
+
+
+Responsável:
+81252-1 Darci Odloak 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Inservível     
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Professor Lineu Prestes  ,580   (Engenharia Química)
+
+
+ 
+Bloco: PQI/BL21  Andar: TERREO  - laboratório                    de ensino/pesquisa   PQI/LSCP-26-2103    
+
+
+Marca:
+
+Modelo:
+ATX, PLACA INTEL,D850G, P4, 52X, ACESSOR
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+1101
+Data:
+13/07/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Z01379685
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.010773
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/01/2001 - Processo: 00.1.2693.3.0
+
+
+Responsável:
+2086657-1 Augusto Ferreira Brandão Júnior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+852317
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP III 500 MHZ
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+1305
+Data:
+19/01/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRAS INFORMATICA DO BRASIL LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

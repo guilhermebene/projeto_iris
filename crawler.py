@@ -5,9 +5,9 @@ import time
 inicio = time.time()
 
 URL = "https://uspdigital.usp.br/mercurioweb/PatrimonioMostrar?numpat=##START_INDEX##"
-unidade = 46
+unidade = 17
 inicial = 1
-final = 5000
+final = 43000
 
 def itemData(i): #função retorna a sopa da ficha do item de código i
 

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034473
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+17/02/2006 - Processo: 05.1.2049.3.8
+
+
+Responsável:
+178979-1 Antonio Saverio Rincon Mungioli 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+3385086
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ASSINF               - ASSESSORIA DE INFORMATICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM
+Modelo:
+SERIES 226
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+182
+Data:
+04/01/2006
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+MAINLINE SYSTEMS DO BRASIL COM. PROD. DE INFORMATICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

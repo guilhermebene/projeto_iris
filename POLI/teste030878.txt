@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.030878
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+29/11/2004 - Processo: 02.1.27350.1.4
+
+
+Responsável:
+73509-1 Helio Mitio Morishita 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+001-9372
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+Post-ATSeriesJ
+Tipo:
+Athon-AMD 1,333 Ghz; HD 40 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88807
+Data:
+03/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+131244
+
+
+Assinatura Digital:
+
+

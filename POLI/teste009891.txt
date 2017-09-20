@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009891
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+09/10/2000 - Processo: 99.1.1910.3.5
+
+
+Responsável:
+201387-1 Claudio Ruggieri 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SILICON GRAPHICS
+Modelo:
+W12-300S-9G128V(PROC.RISC12000  300MHZ)
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+declaração de importação
+Num.:
+99/1016165-6
+Data:
+25/11/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0800690B8AE2
+
+
+Assinatura Digital:
+
+
