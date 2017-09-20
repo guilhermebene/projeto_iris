@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007147
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+23/08/2005 - Processo: 05.1.38.43.8
+
+
+Responsável:
+2807365-1 Marcel Keiji Kuriyama 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3603644
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CEPA                 - CENTRO DE ENSINO E PESQUISA APLICADA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micromax
+Modelo:
+Platinum7280
+Tipo:
+AMDathol
+
+
+Doc.:
+nota fiscal
+Num.:
+4933
+Data:
+03/08/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Macromax Com. e serviços em informática LTDA.
+
+
+Identif:
+XP2600+
+
+
+Assinatura Digital:
+
+

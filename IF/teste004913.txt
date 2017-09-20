@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004913
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+27/11/2002 - Processo: 02.1.27358.1.5
+
+
+Responsável:
+2636285-1 Maria Aparecida de Oliveira Marques Olivieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+IP 200.136.6.219
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+Post-ATSERIESJ
+Tipo:
+ATHLON-AMD 1,333 GHZ HD 20GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88852
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+130982
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004800
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+01/10/2002 - Processo: 02.1.110.43.8
+
+
+Responsável:
+3061449-1 Antonio Carlos Hernandes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1766945
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Digitron
+Modelo:
+mb 1800p
+Tipo:
+pentium IV 1.8GHz
+
+
+Doc.:
+nota fiscal
+Num.:
+50
+Data:
+17/09/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Comércio e Serviços Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

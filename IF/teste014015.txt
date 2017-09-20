@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.014015
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+27/11/2009 - Processo: 09.1.49.43.3
+
+
+Responsável:
+61152-1 Nemitala Added 
+
+
+Material:
+189278 - MÓDULO DE AQUISIÇÃO DE DADOS                                                                        
+
+
+Bem:
+4873068
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+00607
+Data:
+12/11/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+National Instruments Brazil LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

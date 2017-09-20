@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.016182
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+31/05/2011 - Processo: 11.1.182.43.8
+
+
+Responsável:
+91020-1 Elisabeth Mateus Yoshimura 
+
+
+Material:
+147486 - FONTE DE ALTA TENSÃO PARA LABORATÓRIO                                                               
+
+
+Bem:
+4011392
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+STANFORD
+Modelo:
+PS325
+Tipo:
+0a+2,5KV, 10mA
+
+
+Doc.:
+declaração de importação
+Num.:
+007749
+Data:
+21/03/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Prolab Sales Inc.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018388
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+18/10/2012 - Processo: 10.1.1173.43.1
+
+
+Responsável:
+42178-1 Ibere Luiz Caldas 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5372232
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FAP                  - Departamento de Física Aplicada
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+PROLIANT DL160G6
+Tipo:
+SERVIDOR,C/2 PROC,XEON QUAD CORE
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F.310
+Data:
+19/06/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

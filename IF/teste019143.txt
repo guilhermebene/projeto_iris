@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019143
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+03/09/2013 - Processo: 11.1.834.43.5
+
+
+Responsável:
+1192421-1 Marcia de Almeida Rizzutto 
+
+
+Material:
+108251 - GERADOR DE RAIO X                                                                                   
+
+
+Bem:
+3108163
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AMPTEK
+Modelo:
+COOL-X
+Tipo:
+GEADOR DE RAIO X
+
+
+Doc.:
+declaração de importação
+Num.:
+A12359
+Data:
+10/06/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Amptek Inc
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

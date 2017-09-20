@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.017995
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+17/07/2012 - Processo: 12.1.520.43.1
+
+
+Responsável:
+640391-1 Cristiano Rodrigues de Mattos 
+
+
+Material:
+161594 - CONDICIONADOR DE AR                                                                                 
+
+
+Bem:
+4413377
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+elgin
+Modelo:
+SRQ 12000-2
+Tipo:
+compoeto,1un,cond,ext,e1uni,evap,interna
+
+
+Doc.:
+nota fiscal
+Num.:
+1.276
+Data:
+11/07/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+F.f.l.Comercio,Instalaçao de Ar Condicionado Ltda-me
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

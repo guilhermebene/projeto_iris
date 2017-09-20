@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008527
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/07/2006 - Processo: 06.1.44.43.9
+
+
+Responsável:
+2457358-1 Ellen Gobato Pedroso 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS - AT SERIES J
+Tipo:
+ATHLON - AMD 1.333 MHZ - HD 40 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+088807
+Data:
+03/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+131292
+
+
+Assinatura Digital:
+
+

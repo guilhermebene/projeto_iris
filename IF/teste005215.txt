@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005215
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+31/07/2003 - Processo: 04.1.28316.1.6
+
+
+Responsável:
+1763595-1 Reynaldo Daniel Pinto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CEPA                 - CENTRO DE ENSINO E PESQUISA APLICADA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Digitron
+Modelo:
+MB2100A - HD IDE Maxtor 50 GB DiamondMax
+Tipo:
+Athlon XP palomino 2100+1.733GHz
+
+
+Doc.:
+nota fiscal
+Num.:
+183
+Data:
+23/06/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mb ABiT Socket A KD7R KT 400 DDR - mem DR512Mb
+
+
+Assinatura Digital:
+
+

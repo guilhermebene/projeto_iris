@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007491
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+25/11/2005 - Processo: 05.5.1004.70.4
+
+
+Responsável:
+66713-1 Paulo Reginaldo Pascholati 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3840018
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+CELERON-D
+Tipo:
+CELERON D 2,4 Ghz
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+3852005
+Data:
+13/07/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+92294
+
+
+Assinatura Digital:
+
+

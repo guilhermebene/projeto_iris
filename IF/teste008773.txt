@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008773
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+10/10/2006 - Processo: 06.1.44.43.9
+
+
+Responsável:
+2775120-1 Manoel Moura da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4636813
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ATA                  - Assistência Técnica Administrativa
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CCE
+Modelo:
+AMD SEMPRON 2800
+Tipo:
+84493
+
+
+Doc.:
+nota fiscal
+Num.:
+736
+Data:
+05/10/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+41024
+
+
+Assinatura Digital:
+
+

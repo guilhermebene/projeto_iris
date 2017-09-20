@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.003289
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+20/10/2000 - Processo: 99.1.964.43.3
+
+
+Responsável:
+49791-1 Jose Carlos Sartorelli 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4403398
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+IWILL
+Modelo:
+PENTIUM PRO200
+Tipo:
+256KB CACHE, DRIVE 3,5 PL. VIDEO PCI 2MB
+
+
+Doc.:
+instrumento de convênio
+Num.:
+068/069
+Data:
+09/08/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008429
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+07/06/2006 - Processo: 04.1.800.43.6
+
+
+Responsável:
+314017-1 Adilson Pereira Teles 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4027442
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DELL
+Modelo:
+PREMIUM
+Tipo:
+PENTIUM IV
+
+
+Doc.:
+nota fiscal
+Num.:
+07001
+Data:
+22/03/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+1.6.GHz Dimensão 4400
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.021457
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+01/12/2016 - Processo: 16.1.973.43.0
+
+
+Responsável:
+1164221-1 Fabio Padoa 
+
+
+Material:
+354341 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+7308000
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX9020
+Tipo:
+MICROCOMPUTADOR / COM / TECLADO E MOUSE
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F******000.000.232
+Data:
+29/11/2016
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Advanced Reseller Comercio e Serviços de Tecnologia Ltda - Epp
+
+
+Identif:
+CORE I7 6700,8GB , HD 1TB
+
+
+Assinatura Digital:
+
+

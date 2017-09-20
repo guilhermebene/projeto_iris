@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.020756
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+04/08/2015 - Processo: 15.1.749.43.1
+
+
+Responsável:
+19863-1 Ivan Cunha Nascimento 
+
+
+Material:
+36420 - FILTRO DE LABORATORIO                                                                               
+
+
+Bem:
+4040554
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FAP                  - Departamento de Física Aplicada
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+POLITRON
+Modelo:
+AMPLIFICADOR II
+Tipo:
+RADIO FREQUENCIA
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F*****000.000.001
+Data:
+17/12/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+10KHZ,1MHZ PRF 4KW   FAPESP*******2011/50773-0
+
+
+Assinatura Digital:
+
+

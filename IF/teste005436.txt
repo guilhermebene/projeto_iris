@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005436
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+31/10/2003 - Processo: 03.1.1008.43.3
+
+
+Responsável:
+2636285-1 Maria Aparecida de Oliveira Marques Olivieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LM Computer
+Modelo:
+AMD Athlon 800
+Tipo:
+mb Asus A7V - HD Master Plus 30GB
+
+
+Doc.:
+nota fiscal
+Num.:
+282
+Data:
+01/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mem PC 133-128
+
+
+Assinatura Digital:
+
+

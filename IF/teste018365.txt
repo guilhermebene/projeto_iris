@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018365
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+10/10/2012 - Processo: 12.1.746.43.0
+
+
+Responsável:
+59090-1 Maria Cecilia Barbosa da Silveira Salvadori 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5291615
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FAP                  - Departamento de Física Aplicada
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SDL
+Modelo:
+SD3205
+Tipo:
+microcomputadpr:intel core i7 2600
+
+
+Doc.:
+nota fiscal
+Num.:
+000.489
+Data:
+09/10/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sdl Eletro Eletronica Ltda-epp
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

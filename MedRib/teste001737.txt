@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.001737
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+30/08/1999 - Processo: 
+
+
+Responsável:
+2434411-1 Amelia Baruffi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1056646
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ 
+Modelo:
+PENTIUM 166 MHz
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SOLUCAO COM. SERV. INFORMATICA LTDA
+
+
+Identif:
+056594-3256200
+
+
+Assinatura Digital:
+
+

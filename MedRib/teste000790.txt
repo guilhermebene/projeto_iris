@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.000790
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+21/07/1999 - Processo: 
+
+
+Responsável:
+2479130-1 Carlos Alberto Ribeiro de Carvalho 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642789
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASA COMPUTER
+Modelo:
+SX 486
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S/A
+
+
+Identif:
+4113826
+
+
+Assinatura Digital:
+
+

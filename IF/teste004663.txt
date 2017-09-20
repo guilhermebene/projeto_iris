@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004663
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+02/04/2002 - Processo: 02.1.110.43.8
+
+
+Responsável:
+2636285-1 Maria Aparecida de Oliveira Marques Olivieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1403940
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micro Switch
+Modelo:
+AMD
+Tipo:
+AMD ATHLON XP 1600
+
+
+Doc.:
+nota fiscal
+Num.:
+01528
+Data:
+14/03/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Switch Eletrônica LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

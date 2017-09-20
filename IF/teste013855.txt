@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.013855
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+06/10/2009 - Processo: 09.1.48.43.7
+
+
+Responsável:
+2469622-1 Alvimar Floriano de Sousa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4374916
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LDID                 - Laboratório Didático
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CCE - USP
+Modelo:
+CORE 2 DUO
+Tipo:
+MEM. DDR2 1GB, HDD 160 GB SERIE SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1868/2009
+Data:
+04/08/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

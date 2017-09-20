@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.012049
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+01/09/2006 - Processo: 06.5.860.1.2
+
+
+Responsável:
+2082660-1 Jose Onildo Betioli Contel 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TRONI
+Modelo:
+PENTIUM  IV
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+03/320
+Data:
+20/03/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+2001318620
+
+
+Assinatura Digital:
+
+

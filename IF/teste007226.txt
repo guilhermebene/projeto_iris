@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007226
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+22/09/2005 - Processo: 05.1.39.43.4
+
+
+Responsável:
+28731-1 Gil da Costa Marques 
+
+
+Material:
+51624 - MOTOR                                                                                               
+
+
+Bem:
+2274850
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Redutorque
+Modelo:
+TR 40
+Tipo:
+40
+
+
+Doc.:
+nota fiscal
+Num.:
+843
+Data:
+14/09/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Centuria Ferragens e Parafusos Ltda-me
+
+
+Identif:
+motor redutor
+
+
+Assinatura Digital:
+
+

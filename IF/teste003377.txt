@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.003377
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+26/10/2000 - Processo: 99.1.955.43.4
+
+
+Responsável:
+53027-1 Victor de Oliveira Rivelles 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMA                  - Departamento de Física Matemática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+Pentium MMX 200Mhz
+Tipo:
+32MB MEM EDO RAM
+
+
+Doc.:
+instrumento de convênio
+Num.:
+98/03427-3
+Data:
+11/08/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+HD 3.2GB
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007564
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+16/01/2006 - Processo: 06.1.44.43.9
+
+
+Responsável:
+2696592-1 Rubens Lichtenthaler Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3835880
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VINCENT
+Modelo:
+SKYVIN 500
+Tipo:
+"17"
+
+
+Doc.:
+nota fiscal
+Num.:
+3888
+Data:
+12/01/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vincent do Brasil Eletro Eletrônica Ltda-E.P.P.
+
+
+Identif:
+M290502818100225
+
+
+Assinatura Digital:
+
+

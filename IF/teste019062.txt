@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019062
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+24/07/2013 - Processo: 12.1.144.43.0
+
+
+Responsável:
+2418722-1 Maria de Fatima Juliano da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5435242
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GABINETE /  COLETEK
+Modelo:
+INTEL CORE I5 2400
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+3155
+Data:
+04/07/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FABRICADO POR CCE / /PROÇ;13.5.418.70.8
+
+
+Assinatura Digital:
+
+
