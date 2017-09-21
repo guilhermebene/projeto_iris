@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.021265
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+01/07/2016 - Processo: 14.1.841.43.4
+
+
+Responsável:
+2803020-1 Gennady Gusev 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+145661
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL            /     16GB,HD 1TB
+Modelo:
+PRECISION T7810 / INTEL XEON E5-2609V3
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+termo de doação
+Num.:
+FAPESP*********14/20630-1
+Data:
+15/06/2016
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FAPESP*********14/20630-1
+
+
+Assinatura Digital:
+
+

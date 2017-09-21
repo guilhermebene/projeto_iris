@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.015291
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+17/11/2010 - Processo: 10.1.1702.43.4
+
+
+Responsável:
+7339164-1 Caetano Rodrigues Miranda 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+4747798
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMA                  - Departamento de Física Matemática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+(01)CLUSTER,  (13)CLUSTER
+Modelo:
+DUAL CORE AMD 275 2.2GHz
+Tipo:
+4GB PC3200 DDR1 SDRAM 400MHz
+
+
+Doc.:
+termo de doação
+Num.:
+2007/018156
+Data:
+29/10/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

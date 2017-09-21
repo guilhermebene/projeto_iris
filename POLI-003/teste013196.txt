@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.013196
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/07/2001 - Processo: 01.1.1155.3.5
+
+
+Responsável:
+69532-1 Cláudio Augusto Oller do Nascimento 
+
+
+Material:
+64157 - VARIADOR DE TENSÃO                                                                                  
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+CA/CC TIPO DMA 0116
+Tipo:
+CONVERSOR (VARIADOR DE TENSÃO)
+
+
+Doc.:
+nota fiscal
+Num.:
+398
+Data:
+15/08/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+2444
+
+
+Assinatura Digital:
+
+

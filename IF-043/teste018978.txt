@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018978
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/06/2013 - Processo: 13.1.1042.43.7
+
+
+Responsável:
+3061449-1 Antonio Carlos Hernandes 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+5286697
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+edge r620
+Tipo:
+servidor de aplicaçao
+
+
+Doc.:
+nota fiscal
+Num.:
+000.504
+Data:
+13/06/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+lt Line Comercio e Serviços de Informatica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

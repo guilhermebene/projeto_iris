@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.003663
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+12/09/2001 - Processo: 04.1.324.43.0
+
+
+Responsável:
+74222-1 Vito Roberto Vanin 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+4468368
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+24 portas
+Tipo:
+hub port switch
+
+
+Doc.:
+instrumento de convênio
+Num.:
+97/04084-0
+Data:
+12/08/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+7TSV254B6C
+
+
+Assinatura Digital:
+
+

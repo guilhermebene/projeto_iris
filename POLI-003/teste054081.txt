@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.054081
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+26/06/2012 - Processo: 11.1.2753.3.3
+
+
+Responsável:
+601164-1 Ettore Apolonio de Barros 
+
+
+Material:
+110507 - ROBÔ MANIPULADOR                                                                                    
+
+
+Bem:
+4196961
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+KUKA
+Modelo:
+ROBÔ KR 16/2
+Tipo:
+ROBÔ AMPLIFICADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+3382
+Data:
+31/05/2012
+
+
+Garantia:
+18 mes(es)
+
+
+Fornecedor:
+KUKA ROBOTER DO BRASIL LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

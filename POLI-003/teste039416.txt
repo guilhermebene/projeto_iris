@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.039416
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+13/09/2007 - Processo: 06.1.3193.3.6
+
+
+Responsável:
+53816-1 Nilton Itiro Morimoto 
+
+
+Material:
+136034 - PROGRAMADOR UNIVERSAL                                                                               
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+OBS: O MATERIAL ESTA EM USO NO PMR MS-02 PROF. RICARDO IBRAHIM
+
+
+ 
+ 
+
+
+Marca:
+FLUKE
+Modelo:
+PM 6306
+Tipo:
+PROGRAMADOR RCL
+
+
+Doc.:
+declaração de importação
+Num.:
+07/0130798-0
+Data:
+30/01/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+929002
+
+
+Assinatura Digital:
+
+

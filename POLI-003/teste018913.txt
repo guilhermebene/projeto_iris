@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.018913
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+26/06/2002 - Processo: 02.1.968.3.3
+
+
+Responsável:
+2085600-1 Ernani Vitillo Volpe 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1620150
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ECS
+Modelo:
+P61SA-II INTELSIDE
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+34979
+Data:
+14/06/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRONICA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.006388
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+02/02/2000 - Processo: 99.1.3298.3.5
+
+
+Responsável:
+3022452-1 Alex Eduardo Guerlando 
+
+
+Material:
+9580 - SCANNER DE MESA                                                                                     
+
+
+Bem:
+346004
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCEXPDI              - SECÃO DE EXPEDIÇÃO DE DIPLOMAS (EX-ALUNOS)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HP
+Modelo:
+6250CXI
+Tipo:
+SCANNER DE MESA
+
+
+Doc.:
+nota fiscal
+Num.:
+1530
+Data:
+15/12/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROMAX COMERCIO E SERVICOS EM INFORMATICA LTDA.
+
+
+Identif:
+SG97E130VD
+
+
+Assinatura Digital:
+
+

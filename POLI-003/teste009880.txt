@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009880
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/10/2000 - Processo: 00.1.14.3.8
+
+
+Responsável:
+30911-1 Ivan Gilberto Sandoval Falleiros 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMT                  - DEPTO. ENG. METALURGICA
+
+
+Complemento:
+CARACTERISTICAS: PROCESSADOR ALPHA 21264A, EV67 667MHz. HD DE 18.2 GB (INTERNO) 
+
+
+ 
+FITA DAT 12/24GB (INTERNA) 
+
+
+Marca:
+COMPAQ/DIGITAL
+Modelo:
+PROFESSIONAL XP1000(SN-E2G6W-L2)
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+declaração de importação
+Num.:
+00/038693-0
+Data:
+03/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+4010DRSZ1019
+
+
+Assinatura Digital:
+
+

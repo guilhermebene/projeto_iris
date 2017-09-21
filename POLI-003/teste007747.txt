@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.007747
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+13/04/2000 - Processo: 99.1.27296.1.6
+
+
+Responsável:
+77816-1 José Roberto de Almeida Amazonas 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+TERMO DE DEPÓSITO 11811998 - PROC. 48.1841/96
+
+
+ 
+ 
+
+
+Marca:
+BYTE ON
+Modelo:
+MICRO PENTIUM MMX 200 N - GOLD
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+432
+Data:
+05/03/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+IM0000161
+
+
+Assinatura Digital:
+
+

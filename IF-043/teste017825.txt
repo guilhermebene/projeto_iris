@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.017825
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+12/06/2012 - Processo: 12.1.856.43.0
+
+
+Responsável:
+76652-1 Alain Andre Quivy 
+
+
+Material:
+57061 - UNIDADE BÁSICA DE SISTEMA BSTS                                                                      
+
+
+Bem:
+214248
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+UNIDADE COMUTAÇAO E AQUISIÇAO
+Tipo:
+COM QUATRO  MUDULOS
+
+
+Doc.:
+nota fiscal
+Num.:
+000144733
+Data:
+18/05/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+multiplexador,01,02,atuador de 20canais e actator
+
+
+Assinatura Digital:
+
+

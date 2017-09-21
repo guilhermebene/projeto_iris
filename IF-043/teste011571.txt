@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.011571
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+17/10/2008 - Processo: 03.1.1014.43.3
+
+
+Responsável:
+74222-1 Vito Roberto Vanin 
+
+
+Material:
+122890 - CONVERSOR ANALÓGICO                                                                                 
+
+
+Bem:
+3678881
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CAMAC
+Modelo:
+16.000 CANAIS
+Tipo:
+REF. AD 114
+
+
+Doc.:
+termo de doação
+Num.:
+0747/04
+Data:
+25/04/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

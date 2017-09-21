@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.001191
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+04/03/1999 - Processo: 97.1.333.3.2
+
+
+Responsável:
+65542-1 Jurandir Itizo Yanagihara 
+
+
+Material:
+23159 - MEDIDOR DE VAZÃO                                                                                    
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FISHER-ROSEMOUNT
+Modelo:
+8800W010SA1N1D1
+Tipo:
+MEDIDOR DE VAZAO
+
+
+Doc.:
+declaração de importação
+Num.:
+97/655217-0
+Data:
+28/07/1997
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+16130
+
+
+Assinatura Digital:
+
+

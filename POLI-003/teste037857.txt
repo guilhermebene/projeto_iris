@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+003.037857
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/03/2007 - Processo: 06.1.3150.3.5
+
+
+Responsável:
+30925-1 Hernani Luiz Brinati 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+PENTIUM 4, 3.2GHZ, 2GB HD 250.1 GB CDRW
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+001503
+Data:
+17/08/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+4659
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+1863
+Número:
+S/No.
+Sigla:
+ANP
+
+
+Processo:
+00.1.01033.03.6
+Tipo:
+13 - Convênio
+
+
+Órgão:
+ANP        - Agência Nacional de Petróleo
+

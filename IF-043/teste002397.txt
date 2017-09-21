@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.002397
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/09/1999 - Processo: 99.1.365.43.2
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164180
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MICROTEC
+Modelo:
+MYTHUS 5166
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+BR SYSTEM INFORMATICA LTDA.
+
+
+Identif:
+BZ7393B03D
+
+
+Assinatura Digital:
+
+

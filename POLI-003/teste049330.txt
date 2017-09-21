@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.049330
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+23/09/2010 - Processo: 09.1.1648.3.9
+
+
+Responsável:
+93439-1 Julio Romano Meneghini 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI-SILICON
+Modelo:
+ALTIX ICE 8200
+Tipo:
+CLUSTER
+
+
+Doc.:
+termo de doação
+Num.:
+06/52568-7
+Data:
+18/06/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CLUSTER
+
+
+Assinatura Digital:
+
+

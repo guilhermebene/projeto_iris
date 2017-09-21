@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004952
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+20/01/2003 - Processo: 02.1.110.43.8
+
+
+Responsável:
+2399399-1 Maria Mavilia Vara 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2052962
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FAP                  - Departamento de Física Aplicada
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micromax
+Modelo:
+Plantium 7118
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+003331
+Data:
+17/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Max Com. e Serv. em Informática Ltda.
+
+
+Identif:
+Processador AMD Athlon XP 1800
+
+
+Assinatura Digital:
+
+

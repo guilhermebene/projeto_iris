@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.059633
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+26/09/2013 - Processo: 13.5.608.70.1
+
+
+Responsável:
+2252113-1 Nilton Araujo do Carmo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CCE USP
+Modelo:
+
+Tipo:
+INTEL I5 2400
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+3215
+Data:
+24/09/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+126611
+
+
+Assinatura Digital:
+
+

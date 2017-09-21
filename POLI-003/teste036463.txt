@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+003.036463
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+01/11/2006 - Processo: 06.1.3151.3.1
+
+
+Responsável:
+3054034-1 Guenther Carlos Krieger Filho 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+nf 003298 material esta na sala do PROF. GUINTHER
+
+
+ 
+ 
+
+
+Marca:
+sirocco
+Modelo:
+SV 51
+Tipo:
+VENTILADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+003298
+Data:
+04/01/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+32606
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+1863
+Número:
+S/No.
+Sigla:
+ANP
+
+
+Processo:
+00.1.01033.03.6
+Tipo:
+13 - Convênio
+
+
+Órgão:
+ANP        - Agência Nacional de Petróleo
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.004133
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+14/11/2001 - Processo: 01.1.840.45.1
+
+
+Responsável:
+28578-1 Jefferson Antonio Galves 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1185829
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MAE                  - DEPTO DE ESTATISTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ECS-AMD DURON
+Modelo:
+K7VMA - 850MHZ-ATHLON
+Tipo:
+MICROCOMPUTADOR COMPATÍVEL C/IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.031087
+Data:
+31/10/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

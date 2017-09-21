@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005598
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/11/2003 - Processo: 03.1.1042.43.7
+
+
+Responsável:
+49791-1 Jose Carlos Sartorelli 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Portal PC
+Modelo:
+Athlon XP Palomino 2000+ 1.67 GHz
+Tipo:
+mb ABIT Socket A KX7-333 KT333/DDR
+
+
+Doc.:
+nota fiscal
+Num.:
+1489
+Data:
+17/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+HD IDE Maxtor - mem DDR 512MB
+
+
+Assinatura Digital:
+
+

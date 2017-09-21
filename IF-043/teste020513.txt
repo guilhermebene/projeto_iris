@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.020513
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+30/03/2015 - Processo: 12.1.144.43.0
+
+
+Responsável:
+91872-1 Maria Teresa Moura Lamy 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4992792
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CEPA                 - CENTRO DE ENSINO E PESQUISA APLICADA
+
+
+Complemento:
+DO PROJETO DA PROFª MARIA TERASA CNPq 305082/2011-6
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+OPTIPLEX 3010  */  I5
+Tipo:
+INTEL CORE I 5
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F***003782208
+Data:
+19/09/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MICRO COMPUTADOR
+
+
+Assinatura Digital:
+
+

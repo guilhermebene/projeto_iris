@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.058205
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/06/2013 - Processo: 13.1.196.3.1
+
+
+Responsável:
+52454-1 Luiz Cezar Trintinalia 
+
+
+Material:
+12173 - FONTE DE ALIMENTAÇÃO                                                                                
+
+
+Bem:
+5362059
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AGILENT
+Modelo:
+U8001A
+Tipo:
+FONTE DE ALIMENTAÇÃO
+
+
+Doc.:
+nota fiscal
+Num.:
+17943
+Data:
+14/05/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+AGILENT TECHNOLOGIES BRASIL LTDA.
+
+
+Identif:
+MY53150055
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.038000
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+20/03/2007 - Processo: 06.1.3135.3.6
+
+
+Responsável:
+2085527-1 Reyolando Manoel Lopes Rebello da Fonseca Brasil 
+
+
+Material:
+160016 - SISTEMA DE AQUISIÇÃO DE DADOS                                                                       
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEF                  - DEPTO. ENG. ESTRUTURAS E FUNDAÇÕES
+
+
+Complemento:
+ 
+
+
+ 
+ 
+
+
+Marca:
+LYNX
+Modelo:
+AI2161-VB-16 ADS2000IP-B-3
+Tipo:
+SISTEMA DE  AQUISIÇAO DE DADOS
+
+
+Doc.:
+nota fiscal
+Num.:
+000194
+Data:
+11/10/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+35176
+
+
+Assinatura Digital:
+
+

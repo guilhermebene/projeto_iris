@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.029645
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+20/08/2004 - Processo: 04.1.1166.3.0
+
+
+Responsável:
+2496175-1 Maria Elisete Alves Monteiro 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+3075982
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+IBM
+Modelo:
+THINKPAD G 40 2388BP3
+Tipo:
+MICROCOMPUTADOR PORTATIL (NOTEBOOK)
+
+
+Doc.:
+nota fiscal
+Num.:
+481
+Data:
+02/07/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VINCENT DO BRASIL ELETROELETRONICA LTDA - EPP
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

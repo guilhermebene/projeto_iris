@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.015903
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+07/04/2011 - Processo: 06.1.1451.43.7
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+4747798
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+ALTIX XE 1300
+Tipo:
+XEON SIXCORE 48GB
+
+
+Doc.:
+termo de doação
+Num.:
+00422/11
+Data:
+23/03/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

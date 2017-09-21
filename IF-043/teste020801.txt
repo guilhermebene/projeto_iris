@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.020801
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+29/09/2015 - Processo: 15.1.712.43.0
+
+
+Responsável:
+7824673-1 Bianca Genta Macete 
+
+
+Material:
+354341 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+7312318
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Printmaq
+Modelo:
+max 419
+Tipo:
+gabinete ATX
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F********000.001.283
+Data:
+23/09/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Printimaq Informatica Ltda Me
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

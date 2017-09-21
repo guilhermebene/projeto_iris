@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.012856
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+23/05/2001 - Processo: 01.1.120.3.3
+
+
+Responsável:
+3054034-1 Guenther Carlos Krieger Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+966517
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP III
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+1385
+Data:
+22/05/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRAS INFORMATICA DO BRASIL LTDA.
+
+
+Identif:
+05010500230
+
+
+Assinatura Digital:
+
+

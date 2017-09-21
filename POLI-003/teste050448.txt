@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.050448
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/03/2011 - Processo: 09.1.1648.3.9
+
+
+Responsável:
+93439-1 Julio Romano Meneghini 
+
+
+Material:
+196967 - SISTEMA DE ARMAZENAMENTO DE DADOS                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SGI-SILICON
+Modelo:
+N2K-BASE-S
+Tipo:
+SISTEMA DE ARMAZENAMENTO
+
+
+Doc.:
+termo de doação
+Num.:
+06/52568-7
+Data:
+18/06/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Y0000113
+
+
+Assinatura Digital:
+
+

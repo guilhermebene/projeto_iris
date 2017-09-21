@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034976
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+03/05/2006 - Processo: 06.5.194.70.5
+
+
+Responsável:
+2088808-1 Luiz Lebensztajn 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3831493
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+TRANSFERÊNCIA DO CCE, 70013359, NF 54262
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4341
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+54262
+Data:
+15/03/2006
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+L536601202730
+
+
+Assinatura Digital:
+
+

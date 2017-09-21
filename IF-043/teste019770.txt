@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019770
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+30/07/2014 - Processo: 14.1.79.43.5
+
+
+Responsável:
+3061449-1 Antonio Carlos Hernandes 
+
+
+Material:
+130443 - TERMINAL DE VIDEOCONFERÊNCIA                                                                        
+
+
+Bem:
+5162718
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Cisco
+Modelo:
+sx20
+Tipo:
+saida para dois monitores,video Full-HD
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F.000.021.344
+Data:
+24/07/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Tes Tecnoligia Sistemas e Comercio Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

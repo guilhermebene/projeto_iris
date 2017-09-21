@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.019307
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+12/07/2002 - Processo: 02.1.1312.3.4
+
+
+Responsável:
+54884-1 Wang Jiang Chau 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+VERBA FAAP
+
+
+ 
+ 
+
+
+Marca:
+VECTRON
+Modelo:
+MVT850
+Tipo:
+MICROCOMPUTADOR PENTIUM III 850MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+3822
+Data:
+10/07/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VECTRON ELETRONICA IND. E COMERCIO LTDA
+
+
+Identif:
+12136
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009889
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/10/2000 - Processo: 00.1.15.3.4
+
+
+Responsável:
+337812-1 Augusto Camara Neiva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643807
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DELL
+Modelo:
+DIMENSION XPS T500
+Tipo:
+MICROCOMPUTADOR PIII
+
+
+Doc.:
+declaração de importação
+Num.:
+00/0386257-1
+Data:
+03/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+37527786
+
+
+Assinatura Digital:
+
+

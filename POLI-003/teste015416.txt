@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.015416
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+12/11/2001 - Processo: 01.1.326.3.0
+
+
+Responsável:
+55328-1 Julio Cezar Adamowski 
+
+
+Material:
+107816 - SISTEMA DE PROPULSÃO                                                                                
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+SISTEMA CONSTITUIDO POR 10 PROPULSORES ELETRICOS  Nº DE SERIE: 54-423 A 54-432 (
+
+
+ 
+CADASTRADO COMO SISTEMA PELO PROPRIO SOLICITANTE) 
+
+
+Marca:
+TECNADYNE
+Modelo:
+108 PULSOS, 1,5M, 145 VDC, ACESSORIOS
+Tipo:
+SISTEMA DE PROPULSAO
+
+
+Doc.:
+declaração de importação
+Num.:
+01/1083987-5
+Data:
+06/11/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SÉRIE DOS 10 ITENS 54-423 A 54-432
+
+
+Assinatura Digital:
+
+

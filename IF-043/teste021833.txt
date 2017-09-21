@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.021833
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/07/2017 - Processo: 17.1.176.43.3
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8082154
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP 525
+Modelo:
+JG993a
+Tipo:
+PONTO DE ACESSO REMOTO
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F********1797
+Data:
+12/07/2017
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Ziva Tecnologia e Soluções Ltda
+
+
+Identif:
+EMPENHO 01391986  / 12/04/2017
+
+
+Assinatura Digital:
+
+

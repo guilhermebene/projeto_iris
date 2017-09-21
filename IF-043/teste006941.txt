@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006941
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+29/04/2005 - Processo: 05.1.39.43.4
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3490912
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ALLIED
+Modelo:
+AT 9410-GB
+Tipo:
+12 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+1844
+Data:
+18/04/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vicent do Brasil Eletro Eletrônica Ltda E.P.P.
+
+
+Identif:
+B33740931C
+
+
+Assinatura Digital:
+
+

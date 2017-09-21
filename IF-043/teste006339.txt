@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006339
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+01/06/2004 - Processo: 04.1.12.43.8
+
+
+Responsável:
+2499693-1 Edneia Alves de Rezende 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+1914014
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SMS
+Modelo:
+MANAGER NET
+Tipo:
+1300VA
+
+
+Doc.:
+nota fiscal
+Num.:
+7837
+Data:
+24/05/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Microstart Comércio de Suprimentos Para Informática Ltda
+
+
+Identif:
+27208002308
+
+
+Assinatura Digital:
+
+

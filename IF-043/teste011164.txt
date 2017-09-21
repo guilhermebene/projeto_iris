@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.011164
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+08/08/2008 - Processo: 08.1.180.43.1
+
+
+Responsável:
+2502810-1 Jose Valdir Spadacini 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4272323
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+d-link
+Modelo:
+IEEE 802.11g
+Tipo:
+ponto de acesso p/ rede sem fio
+
+
+Doc.:
+nota fiscal
+Num.:
+10427
+Data:
+05/08/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Microstart Comércio de Suprimentos para informática Ltda - E.P.P.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

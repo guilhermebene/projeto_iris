@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.034671
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+21/10/2013 - Processo: 13.1.1208.17.3
+
+
+Responsável:
+48104-1 Helio Cesar Salgado 
+
+
+Material:
+134597 - SISTEMA DE TELEMETRIA                                                                               
+
+
+Bem:
+5454050
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RFI                  - Depto. de Fisiologia
+
+
+Complemento:
+Proc.de Importação DI - 13/1507724-0
+
+
+ 
+ 
+
+
+Marca:
+MILLAR
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+DI - 13/1507724-0
+Data:
+05/08/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ADINSTRUMENTS Pty, Ltd
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

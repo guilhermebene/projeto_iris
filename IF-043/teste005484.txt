@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005484
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+03/11/2003 - Processo: 03.1.1014.43.3
+
+
+Responsável:
+74222-1 Vito Roberto Vanin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micromax
+Modelo:
+AMD Athlon XP 2000
+Tipo:
+mb Athlon/Duron
+
+
+Doc.:
+nota fiscal
+Num.:
+3597
+Data:
+10/06/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mem Dimm 256MB PC133
+
+
+Assinatura Digital:
+
+

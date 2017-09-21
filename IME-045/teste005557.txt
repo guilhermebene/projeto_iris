@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005557
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+18/09/2002 - Processo: 02.1.1486.45.8
+
+
+Responsável:
+353731-1 Carlos Hitoshi Morimoto 
+
+
+Material:
+90751 - SISTEMA MICROCOMPUTADOR                                                                             
+
+
+Bem:
+1791265
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - DIRETORIA\SEÇÃO TÉCNICA DE INFORMÁTICA
+
+
+Complemento:
+Micro AMD ATHLON XP-2000 cv.21/2002, está na sala 130-B
+
+
+ 
+ 
+
+
+Marca:
+ATRIA
+Modelo:
+ATC - PROCESSADOR ATHLON  XP 2000-266MHZ
+Tipo:
+MICROCOMPUTADOR COMPATÍVEL COM IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.1124
+Data:
+28/08/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ATRIA TECNOLOGIA EM INFORMÁTICA LTDA.
+
+
+Identif:
+021079422
+
+
+Assinatura Digital:
+
+

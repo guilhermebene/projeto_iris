@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034494
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/02/2006 - Processo: 06.1.117.70.3
+
+
+Responsável:
+81975-1 Rui Carlos Botter 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+OBS: UPGRADE DO MICRO DE PATRIMÔNIO 272 (A SER BAIXADO)
+
+
+ 
+ 
+
+
+Marca:
+MONTADO PELO CCE
+Modelo:
+
+Tipo:
+MICROCOMPUTADOR CELERON D 2.4GHz
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+542/2005
+Data:
+20/12/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE GABINETE 46682
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.010784
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/01/2001 - Processo: 00.1.1940.3.3
+
+
+Responsável:
+2086208-1 Roberto Guardani 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SILICON GRAPHICS
+Modelo:
+W12-400S-9G256
+Tipo:
+ESTAÇÃO DE TRABALHO C/2PROC. DE 400MHZ..
+
+
+Doc.:
+declaração de importação
+Num.:
+00/1211443-4
+Data:
+14/01/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

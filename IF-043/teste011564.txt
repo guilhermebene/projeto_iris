@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.011564
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+17/10/2008 - Processo: 08.1.179.43.3
+
+
+Responsável:
+2333670-1 Osvaldir Dias Ibra 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4374916
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SC                   - Seção de Compras
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+Core 2 DUO
+Tipo:
+HDD 160GB SERIAL ATA, 1GB KINGSTON
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1581/2008
+Data:
+11/09/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

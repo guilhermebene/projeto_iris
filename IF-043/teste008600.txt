@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008600
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+01/08/2006 - Processo: 06.1.44.43.9
+
+
+Responsável:
+28731-1 Gil da Costa Marques 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3840484
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC
+Modelo:
+SEMPROM 3000+
+Tipo:
+512MB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+455/2005
+Data:
+15/07/2005
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série 44043
+
+
+Assinatura Digital:
+
+

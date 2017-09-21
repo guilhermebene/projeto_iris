@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.016347
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+28/01/2002 - Processo: 01.1.3081.3.9
+
+
+Responsável:
+81252-1 Darci Odloak 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+PRES 4100 LA CELERON 800, GB 2,0
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+4010
+Data:
+30/11/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F143JLQ51644
+
+
+Assinatura Digital:
+
+

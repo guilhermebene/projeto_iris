@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.036926
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+11/01/2007 - Processo: 06.1.3387.3.5
+
+
+Responsável:
+72787-1 Emilio Carlos Nelli Silva 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+NF 001598 SALA ITBA.
+
+
+ 
+ 
+
+
+Marca:
+D-LINK
+Modelo:
+DI 624 WIRLESS 108 MBPS
+Tipo:
+ROUTEADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+001598
+Data:
+06/11/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+DY0114402360
+
+
+Assinatura Digital:
+
+

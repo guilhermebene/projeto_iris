@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009440
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+30/08/2000 - Processo: 99.1.3544.3.6
+
+
+Responsável:
+60849-1 Jose Alberto Quintanilha 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTR                  - DEPTO. DE ENGENHARIA DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM
+Modelo:
+7013   (RISC 6000 32H DA IBM)
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+nota fiscal
+Num.:
+235228
+Data:
+09/07/1992
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

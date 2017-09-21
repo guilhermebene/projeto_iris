@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.001784
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+11/08/1999 - Processo: 99.1.365.43.2
+
+
+Responsável:
+2607424-1 Valdir Jose Isaias 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+WEST
+Modelo:
+133MHZ
+Tipo:
+pentium
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MASTER BOARD INF. IMP. EXP. SERVS. ENG. LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

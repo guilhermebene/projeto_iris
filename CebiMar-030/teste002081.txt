@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.002081
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+03/07/2013 - Processo: 13.1.34.30.9
+
+
+Responsável:
+2355386-1 Alex Willian Arantes Monteiro 
+
+
+Material:
+171980 - MEDIDOR DE TDS (SÓLIDOS TOTAIS NÃO DISSOLVIDOS)                                                     
+
+
+Bem:
+4356098
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CBM/DIR/DVENPES/LPS  - CEBIMAR/DIRETORIA/DVENPES/LAB.PAULO SAWAYA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HANNA
+Modelo:
+HI 9835
+Tipo:
+DE CAMPO
+
+
+Doc.:
+nota fiscal
+Num.:
+DANFE 31896
+Data:
+28/06/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Hanna Instruments Brasil Imp. Exp Ltda
+
+
+Identif:
+B0000546
+
+
+Assinatura Digital:
+
+

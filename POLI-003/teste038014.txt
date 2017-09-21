@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.038014
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+28/03/2007 - Processo: 07.1.555.3.5
+
+
+Responsável:
+81252-1 Darci Odloak 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+NF 002800
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+SERVIDOR DE REDE POWEREDGE XEON3.2
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+002800
+Data:
+22/06/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GZ6VMB1
+
+
+Assinatura Digital:
+
+

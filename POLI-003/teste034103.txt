@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034103
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+11/01/2006 - Processo: 05.1.1854.3.4
+
+
+Responsável:
+54518-1 Marcilio Alves 
+
+
+Material:
+160016 - SISTEMA DE AQUISIÇÃO DE DADOS                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NATIONAL
+Modelo:
+MULTIFUNÇÃO NI PCI-6110
+Tipo:
+SISTEMA DE AQUISIÇÃO DE SINAIS
+
+
+Doc.:
+termo de doação
+Num.:
+00663/2005
+Data:
+30/05/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+10075F7
+
+
+Assinatura Digital:
+
+

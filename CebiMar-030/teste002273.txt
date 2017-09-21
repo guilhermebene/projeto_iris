@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.002273
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+16/12/2014 - Processo: 14.1.6.30.6
+
+
+Responsável:
+7037438-1 Raphael de Lelis Funchal 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5443296
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CBM/DIR/ADM/COMPRAS  - CEBIMAR/DIRETORIA/ADMINISTRAÇÃO/COMPRAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LENOVO
+Modelo:
+THINKCENTRE E73
+Tipo:
+INTEL CORE I5 - 8GB
+
+
+Doc.:
+nota fiscal
+Num.:
+DANFE 1167
+Data:
+10/12/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+M.M.SÁ COMÉRCIO E REPRESENTAÇÕES LTDA ME
+
+
+Identif:
+PE010CVP
+
+
+Assinatura Digital:
+
+

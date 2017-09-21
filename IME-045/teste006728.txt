@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006728
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+27/09/2004 - Processo: 04.1.787.45.6
+
+
+Responsável:
+2445873-1 Sueli Cacilda de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3101177
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Microcomputador Atlhon XP-2000 "Feioso"- PREGÃO Nº01/2004 - fone empresa:3873-13
+
+
+ 
+93 
+
+
+Marca:
+Vectron
+Modelo:
+MVA- 2000 - XP
+Tipo:
+Microcomputador compatível com IBM/PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.05533
+Data:
+01/09/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vectron Eletrônica Indústria e Comércio Ltda
+
+
+Identif:
+22398 - Feioso - IP.192.168.201.155
+
+
+Assinatura Digital:
+
+

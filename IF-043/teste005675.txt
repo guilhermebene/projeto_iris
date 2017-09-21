@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005675
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+08/12/2003 - Processo: 03.1.53.43.5
+
+
+Responsável:
+2803020-1 Gennady Gusev 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2744970
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RD                   - Diego Trancanelli
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Future
+Modelo:
+pentium IV - 2.66MHZ
+Tipo:
+mb ASUS P4S533
+
+
+Doc.:
+nota fiscal
+Num.:
+253
+Data:
+21/11/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Infobrás Informática do Brasil Ltda
+
+
+Identif:
+mem DDRAM
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006370
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+28/06/2004 - Processo: 04.1.12.43.8
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+1229460
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+3C16985
+Tipo:
+10/100 de 24 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+1345
+Data:
+20/11/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Enternet Informática Ltda
+
+
+Identif:
+7MAV50C6EB8
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.004289
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+08/02/2002 - Processo: 01.1.1054.45.0
+
+
+Responsável:
+2515488-1 Daniela Regina Gonçalves Pinto 
+
+
+Material:
+90751 - SISTEMA MICROCOMPUTADOR                                                                             
+
+
+Bem:
+1341049
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - DIRETORIA\SEÇÃO TÉCNICA DE INFORMÁTICA
+
+
+Complemento:
+Micro AMD Duron 850mhz, está na sala 297-A
+
+
+ 
+ 
+
+
+Marca:
+FUTURE
+Modelo:
+DURON-850
+Tipo:
+MICROCOMPUTADOR(A46b)
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.01628
+Data:
+18/01/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DO BRASIL LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

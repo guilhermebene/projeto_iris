@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.029830
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/09/2004 - Processo: 04.1.2482.3.2
+
+
+Responsável:
+55328-1 Julio Cezar Adamowski 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+NF 224571
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX GX270, PENTUIM IV
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+224571
+Data:
+02/04/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+9WN3N41
+
+
+Assinatura Digital:
+
+

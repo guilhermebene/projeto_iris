@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.007997
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+27/04/2000 - Processo: 99.1.262.3.0
+
+
+Responsável:
+2916912-1 José Antonio Jardini 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+D.I. 97/0313341-0
+
+
+ 
+ 
+
+
+Marca:
+SYTEM ULTRA 1
+Modelo:
+140 C/PROCESSADOR ULTRA SPARC
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+termo de doação
+Num.:
+298/98
+Data:
+29/06/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+651F0352
+
+
+Assinatura Digital:
+
+

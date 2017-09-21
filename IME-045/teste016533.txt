@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.016533
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+23/01/2014 - Processo: 13.1.1667.45.3
+
+
+Responsável:
+353731-1 Carlos Hitoshi Morimoto 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+5480388
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Poweredge
+Modelo:
+R720
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+457
+Data:
+14/01/2014
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Danny Benatto Ferreira da Silva ME
+
+
+Identif:
+5ZRXOY1
+
+
+Assinatura Digital:
+
+

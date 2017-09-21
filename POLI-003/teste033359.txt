@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.033359
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+15/08/2005 - Processo: 04.1.1696.3.9
+
+
+Responsável:
+201387-1 Claudio Ruggieri 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+NF 14613
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+PRECISION 530 2 PROC. P4 XEON 1.7GHZ
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+termo de doação
+Num.:
+00580/2004
+Data:
+24/05/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+DH03511
+
+
+Assinatura Digital:
+
+

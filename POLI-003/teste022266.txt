@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.022266
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+29/01/2003 - Processo: 02.1.862.3.0
+
+
+Responsável:
+2333624-1 Eulina Clementino de Alencar 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1843800
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVMAT                - SERVICO DE MATERIAIS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIES Q
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+98834
+Data:
+24/10/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+POSITIVO INFORMATICA LTDA.
+
+
+Identif:
+146535
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.001775
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+11/05/2000 - Processo: 00.1.161.7.3
+
+
+Responsável:
+1986214-1 Rosilene Laiola 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+514136
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+24 PORTAS
+Tipo:
+DS HUB 500
+
+
+Doc.:
+nota fiscal
+Num.:
+1554
+Data:
+09/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ALPHACHIP INF0RMATICA E SERVIÇOS LTDA.
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

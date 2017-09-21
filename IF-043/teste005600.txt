@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005600
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/11/2003 - Processo: 03.1.53.43.5
+
+
+Responsável:
+1763595-1 Reynaldo Daniel Pinto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CEPA                 - CENTRO DE ENSINO E PESQUISA APLICADA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Portal PC
+Modelo:
+Athlon XP Palomino 2000+ 1.67GHz
+Tipo:
+mb ABIT Socket A KX7
+
+
+Doc.:
+nota fiscal
+Num.:
+1496
+Data:
+17/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mem DDR 512MB
+
+
+Assinatura Digital:
+
+

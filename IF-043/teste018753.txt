@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018753
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+12/03/2013 - Processo: 08.1.967.43.1
+
+
+Responsável:
+74222-1 Vito Roberto Vanin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5264553
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇAO PROPIA
+Modelo:
+INTEL CORE I7-3770,3.40 GHZ
+Tipo:
+MICROCOMPUTADOR,8MB,HD SATA SSDIII,120GB
+
+
+Doc.:
+nota fiscal
+Num.:
+4.980
+Data:
+18/02/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+HD SATA III,1 TB SEAGATE 7200 RPM
+
+
+Assinatura Digital:
+
+

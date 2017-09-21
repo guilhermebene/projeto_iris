@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009132
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/07/2000 - Processo: 98.1.2787.3.1
+
+
+Responsável:
+66049-1 Oswaldo Horikawa 
+
+
+Material:
+92487 - SENSOR DE PROXIMIDADE                                                                               
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BENTLY NEVADA
+Modelo:
+3300 (33173-00-02-10-02-00)
+Tipo:
+SENSOR DE PROXIMIDADE C/UNID. AMPLIFICAD
+
+
+Doc.:
+declaração de importação
+Num.:
+99/0094252-3
+Data:
+03/02/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NVZ156022
+
+
+Assinatura Digital:
+
+

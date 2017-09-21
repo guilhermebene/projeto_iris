@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.001999
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+20/09/1999 - Processo: 97.1.1151.17.5
+
+
+Responsável:
+2479130-1 Carlos Alberto Ribeiro de Carvalho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ 
+Modelo:
+PENTIUM 233 MHz
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ELETRO RIO LTDA.
+
+
+Identif:
+1197034
+
+
+Assinatura Digital:
+
+

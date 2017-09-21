@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.000516
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+04/03/1999 - Processo: 98.1.292.45.0
+
+
+Responsável:
+91288-1 Carlos Eduardo Ferreira 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+43966
+Origem:
+Convênio            
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MITHUS-PENTIUM
+Modelo:
+MITHUS-5233
+Tipo:
+DESKTOP
+
+
+Doc.:
+nota fiscal
+Num.:
+NF-0755
+Data:
+19/08/1998
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BZ8284A04B
+
+
+Assinatura Digital:
+
+

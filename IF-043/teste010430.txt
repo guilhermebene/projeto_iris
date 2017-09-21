@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.010430
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/05/2008 - Processo: 08.1.180.43.1
+
+
+Responsável:
+4361182-1 Jose Milton Fernandes Pessoa 
+
+
+Material:
+49506 - SISTEMA DE CONTROLE DE ACESSO                                                                       
+
+
+Bem:
+799122
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ATA SEG              - (Segurança)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PONTO DIGITAL
+Modelo:
+MAGNETICO TCP-IP
+Tipo:
+LEITOR DE TARJA MAGNÉTICA STAND-ALONE
+
+
+Doc.:
+nota fiscal
+Num.:
+110
+Data:
+01/09/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Controle Digital Tecnologia Desenvolvimento
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

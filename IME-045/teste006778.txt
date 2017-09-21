@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006778
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+27/10/2004 - Processo: 04.1.788.45.2
+
+
+Responsável:
+2515488-1 Daniela Regina Gonçalves Pinto 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3101215
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCMATERIAL           - DIRETORIA\ATFIN\SEÇÃO DE MATERIAL
+
+
+Complemento:
+switch - 4228G - fone empresa:4363-1313
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+4228G - 3C17204
+Tipo:
+SWITCH
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.3151
+Data:
+07/10/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Enternet Informática Ltda
+
+
+Identif:
+LZ1V45B443820
+
+
+Assinatura Digital:
+
+

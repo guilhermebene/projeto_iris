@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.057551
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/04/2013 - Processo: 08.1.1921.3.6
+
+
+Responsável:
+1679080-1 Ricardo Nakamura 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros O 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+RECURSOS BOLSA DOUTORADO ALUNO RICARDO NAKAMURA PROC. CNPQ 141852/20046
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+INTEL QUAD Q6600, DDR2 2GB, HD  SATA 250
+
+
+Doc.:
+nota fiscal
+Num.:
+003509
+Data:
+04/12/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

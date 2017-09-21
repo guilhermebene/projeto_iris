@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005504
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+03/11/2003 - Processo: 03.1.1017.43.2
+
+
+Responsável:
+2483410-2 Amelia Aparecida Ferrari Genova 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMA                  - Departamento de Física Matemática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micromax
+Modelo:
+AMD ATHLON XP 2400+
+Tipo:
+mem 512MB DDR333
+
+
+Doc.:
+nota fiscal
+Num.:
+3514
+Data:
+28/04/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+HD 80GB IDE - floppy 3 1/2
+
+
+Assinatura Digital:
+
+

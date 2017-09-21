@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034380
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+09/02/2006 - Processo: 05.1.1983.3.9
+
+
+Responsável:
+62900-1 Fabio Gagliardi Cozman 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3816877
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIE F
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+229263
+Data:
+03/01/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+POSITIVO INFORMATICA LTDA.
+
+
+Identif:
+672098F
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.000009
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+25/06/1998 - Processo: 98.1.492.43.3
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+15784
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+SUPER STACK II
+Tipo:
+12 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+002622
+Data:
+08/06/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+xecelbyt industria e comercio imp. e exp. ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.038038
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+02/04/2007 - Processo: 07.5.146.70.1
+
+
+Responsável:
+5509441-1 Edmar Sanches Moreno 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+TRANSFERIDO DO CCE
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+CELERON D .
+Tipo:
+MICROCOMPUTADOR DE
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+881/2007
+Data:
+23/02/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+51375
+
+
+Assinatura Digital:
+
+

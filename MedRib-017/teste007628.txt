@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.007628
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+03/06/2004 - Processo: 01.1.1042.17.6
+
+
+Responsável:
+2479130-1 Carlos Alberto Ribeiro de Carvalho 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+3073149
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SUN SPARC
+Modelo:
+INTERPRISE 3000
+Tipo:
+
+
+
+Doc.:
+termo de doação
+Num.:
+D-223/98 PR.95/06187-5
+Data:
+19/05/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

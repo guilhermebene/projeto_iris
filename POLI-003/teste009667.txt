@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009667
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+14/09/2000 - Processo: 99.1.2510.3.0
+
+
+Responsável:
+38902-1 Edith Ranzini 
+
+
+Material:
+27014 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CISCO
+Modelo:
+CISCO2501
+Tipo:
+ROTEADOR DIGITAL
+
+
+Doc.:
+declaração de importação
+Num.:
+99/0773054-8
+Data:
+14/09/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

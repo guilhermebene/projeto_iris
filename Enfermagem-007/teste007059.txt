@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.007059
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+19/09/2007 - Processo: 07.5.36.84.1
+
+
+Responsável:
+6365822-1 William Bragagnollo Montini 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4135962
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Localização:    (Patrimônio CCE nº 84006002)
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+MX 200
+Tipo:
+REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+605388
+Data:
+28/03/2007
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERVIDOR (S/Nº J582301300013)
+
+
+Assinatura Digital:
+
+

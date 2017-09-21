@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.001627
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/04/1999 - Processo: 99.1.331.3.1
+
+
+Responsável:
+65239-1 Claudio Garcia 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+54950
+Origem:
+Convênio            
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEE                  - DEPTO. ENG. ELETRONICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+DESKPRO 6000
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+15956
+Data:
+06/03/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F806BQ430006
+
+
+Assinatura Digital:
+
+

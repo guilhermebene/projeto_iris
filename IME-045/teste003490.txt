@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003490
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+11/05/2001 - Processo: 01.1.67.45.0
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+864609
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP-III
+Tipo:
+PENTIUM III - 700MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura:01362
+Data:
+17/04/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DO BRASIL LTDA
+
+
+Identif:
+0401.064.251-3
+
+
+Assinatura Digital:
+
+

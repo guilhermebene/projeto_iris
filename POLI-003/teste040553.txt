@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.040553
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+28/03/2008 - Processo: 08.1.598.3.7
+
+
+Responsável:
+85405-1 Reinaldo Giudici 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+DC5700
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+002959
+Data:
+26/03/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BRB70938P
+
+
+Assinatura Digital:
+
+
