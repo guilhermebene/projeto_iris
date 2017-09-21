@@ -1,13 +1,36 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+import os
+from difflib import SequenceMatcher
 
-inicio = time.time()
+def similar(a, b):
+    return SequenceMatcher(None, a, b).ratio()
 
-URL = "https://uspdigital.usp.br/mercurioweb/PatrimonioMostrar?numpat=##START_INDEX##"
-unidade = input('Unidade: ')
-inicial = int(input('Ínicio: '))
-final = int(input('Fim: '))
+def selecionarUnidade():
+    achou = False
+    print("Digite o instituto ou unidade para baixar")
+    instituto = input()
+    listaInstitutos = open("Códigos Institutos")
+    
+    for line in listaInstitutos:
+      
+       x = listaInstitutos.readline()
+       Y = similar(x, instituto)
+       
+       if(Y > 0.2):
+          print(x)
+          achou = True
+    
+    
+    if (achou == True):
+       print("Estes foram os resultados obtidos, digite agora o código ideal, ignore os '0' presentes à esquerda do número")
+       listaInstitutos.close()
+    
+    else:
+       print(listaInstitutos.readlines())
+
+    
 
 def itemData(i): #função retorna a sopa da ficha do item de código i
 
@@ -18,6 +41,9 @@ def itemData(i): #função retorna a sopa da ficha do item de código i
     dataSoup = pageSoup.find("table", align = 'center', cellspacing ='1') #sopa da ficha do item
 
     return dataSoup
+
+
+          	
 
 def main():
 
@@ -30,6 +56,18 @@ def main():
         else:
             myFile.write("Erro")
         myFile.close()
+
+
+selecionarUnidade()
+inicio = time.time()
+
+URL = "https://uspdigital.usp.br/mercurioweb/PatrimonioMostrar?numpat=##START_INDEX##"
+unidade = input('Unidade: ')
+inicial = int(input('Ínicio: '))
+final = int(input('Fim: '))
+
+
+
 
 main()
 
