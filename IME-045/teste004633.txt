@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.004633
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+07/08/2002 - Processo: 02.1.946.45.5
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+90751 - SISTEMA MICROCOMPUTADOR                                                                             
+
+
+Bem:
+1697900
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Microcomputador Future, está no CEC sala-lab-1
+
+
+ 
+ 
+
+
+Marca:
+FUTURE
+Modelo:
+ATHLON 1.3ghz
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.01741
+Data:
+22/07/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DO BRASIL LTDA
+
+
+Identif:
+10205000564
+
+
+Assinatura Digital:
+
+

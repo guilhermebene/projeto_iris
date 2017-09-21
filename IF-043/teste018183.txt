@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018183
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+06/08/2012 - Processo: 12.1.836.43.9
+
+
+Responsável:
+1546992-1 Paulo Roberto Costa 
+
+
+Material:
+34894 - ESTAÇÃO METEOROLÓGICA                                                                               
+
+
+Bem:
+5305632
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+WS-2812
+Tipo:
+estaçao meteorologica
+
+
+Doc.:
+nota fiscal
+Num.:
+000.097
+Data:
+02/08/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+A.e.Holdefer
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

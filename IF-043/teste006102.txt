@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006102
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+08/03/2004 - Processo: 04.1.11.43.1
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+2881365
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+SuperStack 3 Switch 4228G
+Tipo:
+24 portas 10/100 Mbps
+
+
+Doc.:
+nota fiscal
+Num.:
+3061
+Data:
+13/02/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda
+
+
+Identif:
+0104LZ1V3CA199A80
+
+
+Assinatura Digital:
+
+

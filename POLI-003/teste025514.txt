@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.025514
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+13/10/2003 - Processo: 03.1.3099.3.7
+
+
+Responsável:
+52454-1 Luiz Cezar Trintinalia 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2603918
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D LINK
+Modelo:
+DES 1024D
+Tipo:
+SWITCH
+
+
+Doc.:
+nota fiscal
+Num.:
+7414
+Data:
+05/09/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROSTART COM. SUP. P/ INFORMATICA LTDA.
+
+
+Identif:
+B21Z137000263
+
+
+Assinatura Digital:
+
+

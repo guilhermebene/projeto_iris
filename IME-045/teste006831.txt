@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006831
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+23/12/2004 - Processo: 04.1.1733.45.7
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+3374335
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVMAT                - SEÇÃO DE MATERIAL
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+APC
+Modelo:
+Smart UPS RMSUA - 1500rM2U
+Tipo:
+No Break
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.004.586
+Data:
+22/12/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+AS0425211581
+
+
+Assinatura Digital:
+
+

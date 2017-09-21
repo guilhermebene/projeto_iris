@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.020061
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/10/2014 - Processo: 14.1.1009.43.0
+
+
+Responsável:
+73854-1 Antonio Martins Figueiredo Neto 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+5594782
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+APC
+Modelo:
+3,0 KVA 127V,7A
+Tipo:
+BATERIAS VRLA
+
+
+Doc.:
+nota fiscal
+Num.:
+  N.F**000.001.866
+Data:
+08/10/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Direct Server Comercio Informatica Ltda - M.E
+
+
+Identif:
+NOBREAK
+
+
+Assinatura Digital:
+
+

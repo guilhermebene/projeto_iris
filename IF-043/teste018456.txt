@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018456
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+25/10/2012 - Processo: 12.1.144.43.0
+
+
+Responsável:
+2114950-1 Claudia Conde Barioni 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3912540
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST 4341
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+59676
+Data:
+05/05/2006
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+I960401502945
+
+
+Assinatura Digital:
+
+

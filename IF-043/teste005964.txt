@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005964
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+09/02/2004 - Processo: 04.1.11.43.1
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2784882
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fulltech
+Modelo:
+F02
+Tipo:
+AMD XP
+
+
+Doc.:
+nota fiscal
+Num.:
+3836
+Data:
+10/12/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Fulltech Informática ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

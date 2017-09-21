@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.005117
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+30/03/2004 - Processo: 04.1.19.7.6
+
+
+Responsável:
+2762821-1 Maria Helena Pereira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2935511
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVCEXUN              - SERVIÇO DE EXTENSÃO E SERVIÇO À COMUNIDADE
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VECTRON
+Modelo:
+MV SPECIAL
+Tipo:
+PENTIUM IV 2.6 GHz
+
+
+Doc.:
+nota fiscal
+Num.:
+5259
+Data:
+29/03/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VECTRON ELETRÕNICA INDUSTRIA E COMERCIO LTDA.
+
+
+Identif:
+MICROCOMPUTADOR PEMTIUM IV
+
+
+Assinatura Digital:
+
+

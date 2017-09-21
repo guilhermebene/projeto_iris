@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.039058
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+18/09/2015 - Processo: 15.1.1519.17.0
+
+
+Responsável:
+470857-1 Eduardo Magalhães Rego 
+
+
+Material:
+253928 - ANALISADOR AUTOMATICO DE DNA                                                                        
+
+
+Bem:
+
+Origem:
+Bens de Terceiros O 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RCM                  - Depto. de Clínica Médica
+
+
+Complemento:
+ Termo de Comodato - tranf.Hemocentro
+
+
+ 
+ 
+
+
+Marca:
+AFFYMETRIX
+Modelo:
+3000DX
+Tipo:
+Complemento Genechip Scanner
+
+
+Doc.:
+termo de permissão de uso
+Num.:
+TC02/2015
+Data:
+19/08/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+611283390-52724570
+
+
+Assinatura Digital:
+
+

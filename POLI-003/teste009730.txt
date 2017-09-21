@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009730
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+25/09/2000 - Processo: 99.1.3251.3.9
+
+
+Responsável:
+81057-2 Ricardo Paulino Marques 
+
+
+Material:
+44067 - SERVOMECANISMO                                                                                      
+
+
+Bem:
+210447
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LJ TECHNICAL SYSTEMS
+Modelo:
+MS15
+Tipo:
+SERVOMECANISMO
+
+
+Doc.:
+declaração de importação
+Num.:
+00/0865712-7
+Data:
+13/09/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+PROBIT TECNOLOGIA EDUCACIONAL LTDA.
+
+
+Identif:
+BA2060D
+
+
+Assinatura Digital:
+
+

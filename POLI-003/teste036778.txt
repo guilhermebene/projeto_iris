@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.036778
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+27/11/2006 - Processo: 06.5.933.70.2
+
+
+Responsável:
+45845-1 Denizar Blitzkow 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTR                  - DEPTO. DE ENGENHARIA DE TRANSPORTES
+
+
+Complemento:
+EP 48852
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+PROCESSADOR SEMPRON(754)
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+762/2006
+Data:
+20/10/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

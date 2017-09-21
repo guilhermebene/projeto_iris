@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.020558
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+27/04/2015 - Processo: 12.1.144.43.0
+
+
+Responsável:
+957971-1 Kaline Rabelo Coutinho 
+
+
+Material:
+164607 - SUPER COMPUTADOR                                                                                    
+
+
+Bem:
+4004035
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+CAPES X PROEX 23038.0046301/2014-35
+
+
+ 
+ 
+
+
+Marca:
+SuperWorkstation
+Modelo:
+7048 -TR / ITB ECC DDR4 2133MHz
+Tipo:
+intel XENON precessador ES-2600 V3
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F*****000.000.409
+Data:
+29/01/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

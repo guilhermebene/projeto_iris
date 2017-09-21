@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008700
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+04/09/2006 - Processo: 06.1.46.43.1
+
+
+Responsável:
+2502810-1 Jose Valdir Spadacini 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+2304481
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D-LINK
+Modelo:
+DI-604
+Tipo:
+II604A...F2
+
+
+Doc.:
+nota fiscal
+Num.:
+2815
+Data:
+31/08/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sinesis Soluçôes Intergradas em Sistemas LTDA.
+
+
+Identif:
+DY01358056363
+
+
+Assinatura Digital:
+
+

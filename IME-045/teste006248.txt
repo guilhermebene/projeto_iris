@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006248
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+08/12/2003 - Processo: 03.1.1412.45.5
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2763940
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CEC                  - CENTRO DE ENSINO DA COMPUTAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Sinesis
+Modelo:
+S188CY
+Tipo:
+Microcomputador Compatível com IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.02059
+Data:
+25/11/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sinesis Soluções Integradas em Sistemas Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

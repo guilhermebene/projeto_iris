@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034500
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/02/2006 - Processo: 06.1.117.70.3
+
+
+Responsável:
+30741-1 Gil Anderi da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+OBS: UPGRADE DO MICRO DE PATRIMÔNIO 21068 (A SER BAIXADO)
+
+
+ 
+ 
+
+
+Marca:
+MONTADO PELO CCE
+Modelo:
+
+Tipo:
+MICROCOMPUTADOR CELERON D 2.4GHz
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+558/2005
+Data:
+20/12/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE DO GABINETE 46641
+
+
+Assinatura Digital:
+
+

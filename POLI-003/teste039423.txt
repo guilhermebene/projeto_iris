@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.039423
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+13/09/2007 - Processo: 06.1.1739.3.1
+
+
+Responsável:
+29687-1 Joao Antonio Zuffo 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+FAST ETHERNET
+Tipo:
+SWITCH DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+000315
+Data:
+11/09/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

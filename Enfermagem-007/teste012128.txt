@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.012128
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+31/10/2014 - Processo: 14.1.2815.1.5
+
+
+Responsável:
+77347-2 Maria Amelia de Campos Oliveira 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+2935520
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Localização: Sala 105 -  Passagem da Seção de Redes (Mercúrio nº 001-20185)
+
+
+ 
+ 
+
+
+Marca:
+SUN MICROSYSTEMS
+Modelo:
+SUN FIRE X2100 M2
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+558
+Data:
+24/11/2008
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0845QAL0F3
+
+
+Assinatura Digital:
+
+

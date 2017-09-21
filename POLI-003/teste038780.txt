@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.038780
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+31/05/2007 - Processo: 07.1.588.3.0
+
+
+Responsável:
+2083866-1 Andre Fabio Kohn 
+
+
+Material:
+118397 - TRANSDUTOR LINEAR                                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LABWORKS INC.
+Modelo:
+ET-126B-1
+Tipo:
+TRANSDUTOR
+
+
+Doc.:
+nota fiscal
+Num.:
+INVOICE 081006-3
+Data:
+10/08/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+498
+
+
+Assinatura Digital:
+
+

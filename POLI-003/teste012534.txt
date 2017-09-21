@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.012534
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+16/04/2001 - Processo: 01.1.219.3.0
+
+
+Responsável:
+2514595-1 Alvaro de Jesus Guedes 
+
+
+Material:
+15458 - CENTRAL DE ALARME                                                                                   
+
+
+Bem:
+933333
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEF                  - DEPTO. ENG. ESTRUTURAS E FUNDAÇÕES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VECTOR
+Modelo:
+
+Tipo:
+CENTRA;L DE ALARME
+
+
+Doc.:
+nota fiscal
+Num.:
+400
+Data:
+30/03/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VECTOR SISTEMAS DE SEGURANCA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

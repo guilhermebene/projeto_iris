@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.020960
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+30/10/2002 - Processo: 02.1.862.3.0
+
+
+Responsável:
+2454060-1 Mariana Guedes Marques 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1843788
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIES Q
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+98834
+Data:
+24/10/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+POSITIVO INFORMATICA LTDA.
+
+
+Identif:
+146539
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008900
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+26/06/2000 - Processo: 99.1.3733.3.3
+
+
+Responsável:
+68490-1 Jose Roberto Cardoso 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+666890
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PECE                 - PROGRAMA DE ENSINO CONTINUADO DE ENGENHARIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NET  COMPUTER
+Modelo:
+CELERON PII 300MHZ
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+termo de doação
+Num.:
+DP5899
+Data:
+29/11/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+01A10980302415
+
+
+Assinatura Digital:
+
+

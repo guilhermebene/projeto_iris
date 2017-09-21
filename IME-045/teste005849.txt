@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005849
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+05/02/2007 - Processo: 03.1.589.45.9
+
+
+Responsável:
+2515488-1 Daniela Regina Gonçalves Pinto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4508300
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATERIAL           - DIRETORIA\ATFIN\SEÇÃO DE MATERIAL
+
+
+Complemento:
+Microcomputador, AMD Atlhon XP, 2000
+
+
+ 
+ 
+
+
+Marca:
+MICRO-MAX
+Modelo:
+MICRO ATLHON DURON
+Tipo:
+AMD ATLHON XP 2000
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.003.435
+Data:
+13/03/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

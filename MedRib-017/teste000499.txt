@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.000499
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+16/07/1999 - Processo: 
+
+
+Responsável:
+41048-1 Marcos Antonio Rossi 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642886
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ ASA COMPUTER
+Modelo:
+386 SX
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CBD COMPUTADORES S/A
+
+
+Identif:
+4114318
+
+
+Assinatura Digital:
+
+

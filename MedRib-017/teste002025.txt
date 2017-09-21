@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.002025
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+27/09/1999 - Processo: 90.1.5712.1.9
+
+
+Responsável:
+88412-1 Benedito Honório Machado 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1180258
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RFI                  - Depto. de Fisiologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MONYDATA
+Modelo:
+XT 286 16/5 MHZ
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MONYDATA TELEINFORMATICA LTDA
+
+
+Identif:
+11873
+
+
+Assinatura Digital:
+
+

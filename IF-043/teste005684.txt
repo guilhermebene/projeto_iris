@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005684
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+03/06/2004 - Processo: 03.1.1034.43.4
+
+
+Responsável:
+2603740-1 Mikiya Muramatsu 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+OKA
+Modelo:
+ATHLON 1800XP
+Tipo:
+mem 256 RAM DDR
+
+
+Doc.:
+termo de doação
+Num.:
+00160/2004
+Data:
+03/03/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mb ASUS A7S 266V
+
+
+Assinatura Digital:
+
+

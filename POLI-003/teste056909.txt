@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.056909
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/12/2012 - Processo: 12.1.1314.3.7
+
+
+Responsável:
+92056-1 Raúl González Lima 
+
+
+Material:
+189278 - MÓDULO DE AQUISIÇÃO DE DADOS                                                                        
+
+
+Bem:
+4893158
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NATIONAL
+Modelo:
+
+Tipo:
+MÓDULO DE AQUISIÇÃO DE DADOS
+
+
+Doc.:
+nota fiscal
+Num.:
+8321
+Data:
+21/09/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+NATIONAL INSTRUMENTS BRAZIL LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

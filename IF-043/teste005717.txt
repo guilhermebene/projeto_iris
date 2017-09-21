@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005717
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+12/12/2003 - Processo: 03.1.53.43.5
+
+
+Responsável:
+80192-1 Marilia Junqueira Caldas 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+Atlhon 1.2 - HD40.0
+Tipo:
+gabinete ATX - plc de Rede
+
+
+Doc.:
+nota fiscal
+Num.:
+1001/1004
+Data:
+14/12/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

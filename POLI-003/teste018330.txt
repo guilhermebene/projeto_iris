@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.018330
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/05/2002 - Processo: 02.1.138.3.0
+
+
+Responsável:
+55440-1 Paulo Eigi Miyagi 
+
+
+Material:
+94048 - HUBS PARA REDE                                                                                      
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+OFFICE CONECT , 16 PORTAS
+Tipo:
+HUB
+
+
+Doc.:
+nota fiscal
+Num.:
+423
+Data:
+05/05/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+3C16701
+
+
+Assinatura Digital:
+
+

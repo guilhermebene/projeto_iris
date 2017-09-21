@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.020833
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/10/2015 - Processo: 15.1.1010.43.0
+
+
+Responsável:
+586050-1 Diogo Soga 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+6486339
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+FAPESP**********12/01754-6
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO PROPIA   / GABINETE KMEX
+Modelo:
+INTEL CORE I5 4590
+Tipo:
+HD SATA3 1GB,MEM 8GB DDR3
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F********000.003.539
+Data:
+03/11/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

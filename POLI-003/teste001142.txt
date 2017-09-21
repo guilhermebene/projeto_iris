@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.001142
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+02/03/1999 - Processo: 98.1.2629.3.7
+
+
+Responsável:
+2700999-1 Arlindo Tribess 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+43540
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+VERBA FAAP
+
+
+ 
+ 
+
+
+Marca:
+COMPAQ
+Modelo:
+DESKPRO EN 6400
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+917
+Data:
+18/11/1998
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+MICROMAX COMERCIO E SERVICOS EM INFORMATICA LTDA.
+
+
+Identif:
+F844BW321393
+
+
+Assinatura Digital:
+
+

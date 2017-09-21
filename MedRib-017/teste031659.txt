@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.031659
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+31/10/2012 - Processo: 12.5.20.77.0
+
+
+Responsável:
+70253-1 Aguinaldo Luiz Simões 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225477
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RGE                  - Departamento de Genética
+
+
+Complemento:
+ COMPONENTES FORNECIDOS PELA SCMANT/CIRP - CHT-28439
+
+
+ 
+ 
+
+
+Marca:
+INTEL
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+0012/2012
+Data:
+26/07/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+07113010300501001671
+
+
+Assinatura Digital:
+
+

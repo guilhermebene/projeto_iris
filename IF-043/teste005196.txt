@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005196
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+28/07/2003 - Processo: 03.1.53.43.5
+
+
+Responsável:
+883301-1 Juan Iraburu Elizondo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FAP                  - Departamento de Física Aplicada
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Digitron
+Modelo:
+AMD Athlon XP1800 gigabyte 7VA
+Tipo:
+mb c/som on board
+
+
+Doc.:
+nota fiscal
+Num.:
+187
+Data:
+02/07/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mem DDR 256MB NEC
+
+
+Assinatura Digital:
+
+

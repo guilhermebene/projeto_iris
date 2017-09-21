@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018636
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+19/12/2012 - Processo: 12.1.145.43.6
+
+
+Responsável:
+3061449-1 Antonio Carlos Hernandes 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+5286697
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+PowerEdge R620
+Tipo:
+servidor de aplicaçao
+
+
+Doc.:
+nota fiscal
+Num.:
+000.438
+Data:
+10/12/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Transaction Line Brasil Comercio e Serviços de Informatica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

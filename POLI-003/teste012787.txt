@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.012787
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/05/2001 - Processo: 99.1.3734.3.0
+
+
+Responsável:
+53816-1 Nilton Itiro Morimoto 
+
+
+Material:
+100374 - CONTROLADOR DE FLUXO DE MASSA                                                                       
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MKS INSTRUMENTS
+Modelo:
+SPCAL 200 SCCM N20
+Tipo:
+CONTROLADOR DE FLUXO DE MASSA
+
+
+Doc.:
+declaração de importação
+Num.:
+99/1094872-9
+Data:
+17/12/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

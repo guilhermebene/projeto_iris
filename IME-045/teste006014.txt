@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006014
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+16/06/2003 - Processo: 03.1.187.45.8
+
+
+Responsável:
+2803642-1 Marcelo Modesto Costa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2276887
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RENBI
+Modelo:
+MICROCOMPUTADOR COMPATÍVEL IBM/PC
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.0516
+Data:
+07/05/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SETI SERVIÇOS TÉCNICOS DE INFORMÁTICA & COMÉRCIO LTDA
+
+
+Identif:
+030028552
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008984
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+02/02/2007 - Processo: 06.1.44.43.9
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4303032
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Queller
+Modelo:
+Celeron D
+Tipo:
+LGA775, 2.8 Ghz, 512KB, DVD/CD-R/RW
+
+
+Doc.:
+nota fiscal
+Num.:
+1384
+Data:
+01/02/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Queller Informatica & Comércio LTDA - M E
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

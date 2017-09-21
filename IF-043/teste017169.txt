@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.017169
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+09/02/2012 - Processo: 12.1.78.43.7
+
+
+Responsável:
+813452-1 Leandro Romero Gasques 
+
+
+Material:
+33413 - AMPLIFICADOR DE SINAL                                                                               
+
+
+Bem:
+5083591
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MESYTEC
+Modelo:
+STM-16+D-04 C/PREAMPLIFICADOR MOD
+Tipo:
+MPR-32-D-25-25 CABOS MOD SC-19V E 2 DE
+
+
+Doc.:
+termo de doação
+Num.:
+10/11729-3 FAPESP
+Data:
+20/12/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+40CM;ADPITADOR P/ DETECTOR PIXELADO
+
+
+Assinatura Digital:
+
+

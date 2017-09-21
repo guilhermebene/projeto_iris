@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.010441
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+10/11/2000 - Processo: 00.1.2419.3.5
+
+
+Responsável:
+45845-1 Denizar Blitzkow 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTR                  - DEPTO. DE ENGENHARIA DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SUN
+Modelo:
+WORKSTATION 360 MI
+Tipo:
+ESTAÇAO DE TRABALHO
+
+
+Doc.:
+declaração de importação
+Num.:
+I024692/1
+Data:
+05/04/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+TW01215442
+
+
+Assinatura Digital:
+
+

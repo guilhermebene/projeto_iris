@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.001770
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+10/08/1999 - Processo: 99.1.365.43.2
+
+
+Responsável:
+28731-1 Gil da Costa Marques 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GATEWAY
+Modelo:
+
+Tipo:
+PENTIUM II 266 Mhz
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+INFORMAXIMA COMERCIO E REPRESENTACAO LTDA
+
+
+Identif:
+7543335
+
+
+Assinatura Digital:
+
+

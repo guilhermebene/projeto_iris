@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.035633
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/07/2006 - Processo: 06.1.196.3.4
+
+
+Responsável:
+2084593-1 Celso Massatoshi Furukawa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+NF 513644/MATERIAL NA SALA ES-03
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX P 4 650/3 4GHZ
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+2006/013581
+Data:
+06/01/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+39J1991
+
+
+Assinatura Digital:
+
+

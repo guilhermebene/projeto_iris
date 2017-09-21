@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006339
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+02/02/2004 - Processo: 03.1.1413.45.1
+
+
+Responsável:
+1742070-1 Sergio Ricardo Milare 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2768186
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+AXP
+Modelo:
+AXP 1900
+Tipo:
+Microcomputador IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.0176
+Data:
+22/01/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vincent do Brasil eletroeltronica Ltda E.P.P
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

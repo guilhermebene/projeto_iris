@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.046740
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/04/2010 - Processo: 09.1.627.3.8
+
+
+Responsável:
+76134-1 Phillip Mark Seymour Burt 
+
+
+Material:
+63347 - INTERFACE PARA AQUISIÇÃO DE DADOS                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+XILINX
+Modelo:
+HW-V4-ML402-UNI-G
+Tipo:
+PLACA DE DESENVOLVIMENTO
+
+
+Doc.:
+termo de doação
+Num.:
+06/01113-0
+Data:
+20/03/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.022443
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+11/02/2003 - Processo: 01.1.267.3.4
+
+
+Responsável:
+63599-1 Vitor Heloiz Nascimento 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY
+Tipo:
+MICROCOMPUTADOR PIII
+
+
+Doc.:
+nota fiscal
+Num.:
+19921
+Data:
+17/01/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+B1K5601000001
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.004842
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+25/06/2003 - Processo: 03.1.402.7.3
+
+
+Responsável:
+2436622-1 Rodrigo Fernandes da Costa Neto 
+
+
+Material:
+48151 - IMPRESSORA ETIQUETAS DE CÓDIGO DE BARRAS                                                            
+
+
+Bem:
+2413892
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVPATALM             - (Serviço de Patrimonio e Almoxarifado)
+
+
+Complemento:
+Localização: Serviço de Patrimôniol  (Sala S-11)
+
+
+ 
+ 
+
+
+Marca:
+QUEBECK
+Modelo:
+ZEBRA-LINK
+Tipo:
+STRIPE S-400
+
+
+Doc.:
+nota fiscal
+Num.:
+2863
+Data:
+23/06/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+QUEBECK AUTOMAÇÃO E COMÉRCIO LTDA.
+
+
+Identif:
+IMPRESSORA DE CÓDIGO DE BARRAS
+
+
+Assinatura Digital:
+
+

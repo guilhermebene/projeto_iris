@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008684
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+24/08/2006 - Processo: 06.1.1221.43.1
+
+
+Responsável:
+80192-1 Marilia Junqueira Caldas 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+4003349
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SILICON
+Modelo:
+ALTIX 330
+Tipo:
+PROC.(2)PROC. 1,5GHz 6GB
+
+
+Doc.:
+termo de doação
+Num.:
+06/0506,694-3
+Data:
+13/02/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+T2000172
+
+
+Assinatura Digital:
+
+

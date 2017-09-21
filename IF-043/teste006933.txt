@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006933
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+20/04/2005 - Processo: 05.1.37.43.1
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POWER
+Modelo:
+DESKTOP
+Tipo:
+INTEL IV PENTIUM 2,8GHz 1GB
+
+
+Doc.:
+nota fiscal
+Num.:
+5034
+Data:
+14/08/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

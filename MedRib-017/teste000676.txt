@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.000676
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+20/07/1999 - Processo: 
+
+
+Responsável:
+48104-1 Helio Cesar Salgado 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1141171
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RFI                  - Depto. de Fisiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+KELYS
+Modelo:
+PENTIUM MMX 166 MHZ
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+COMPUHOUSE INFORMATICA LTDA.
+
+
+Identif:
+US0121/CUKBB203
+
+
+Assinatura Digital:
+
+

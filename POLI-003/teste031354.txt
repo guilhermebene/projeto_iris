@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.031354
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+23/02/2005 - Processo: 04.1.2914.3.0
+
+
+Responsável:
+77646-1 Denise Consonni 
+
+
+Material:
+156485 - REOSTATO                                                                                            
+
+
+Bem:
+3430669
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ELETELE
+Modelo:
+N12S
+Tipo:
+RESISTORES
+
+
+Doc.:
+nota fiscal
+Num.:
+36001
+Data:
+06/12/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ELETELE IND. DE REOSTATOS E RESISTENCIAS LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005606
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+01/10/2002 - Processo: 02.1.1434.45.8
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+90751 - SISTEMA MICROCOMPUTADOR                                                                             
+
+
+Bem:
+1791281
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+MICRO MB/100A, ESTÁ NO CEC, LAB-2 - CV.18/2002
+
+
+ 
+ 
+
+
+Marca:
+DIGITRON - MICRO BYTE
+Modelo:
+MB-1000A
+Tipo:
+MICRO - SISTEMA MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.046
+Data:
+12/09/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Byte Comércio e Serviços Ltda.
+
+
+Identif:
+021011-0373
+
+
+Assinatura Digital:
+
+

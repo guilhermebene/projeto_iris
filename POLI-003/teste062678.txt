@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.062678
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+15/07/2014 - Processo: 14.1.318.3.0
+
+
+Responsável:
+60895-1 Wilson Komatsu 
+
+
+Material:
+12173 - FONTE DE ALIMENTAÇÃO                                                                                
+
+
+Bem:
+5522862
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AGILENT
+Modelo:
+N2779A
+Tipo:
+FONTE DE ALIMENTAÇÃO
+
+
+Doc.:
+nota fiscal
+Num.:
+312817
+Data:
+02/05/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+FARNELL NEWARK BRASIL DIST. DE PRODUTOS ELETRONICOS LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

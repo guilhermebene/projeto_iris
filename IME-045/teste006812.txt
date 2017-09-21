@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006812
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+01/12/2004 - Processo: 04.1.1508.45.3
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+3287440
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CEC                  - CENTRO DE ENSINO DA COMPUTAÇÃO
+
+
+Complemento:
+No Break - APC 600VA -
+
+
+ 
+ 
+
+
+Marca:
+APC 600VA
+Modelo:
+BE600-BR
+Tipo:
+No-BREAk
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.004.513
+Data:
+23/11/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio em Informática
+
+
+Identif:
+KB0438112436
+
+
+Assinatura Digital:
+
+

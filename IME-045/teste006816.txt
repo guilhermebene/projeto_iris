@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006816
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+02/12/2004 - Processo: 04.1.1359.45.8
+
+
+Responsável:
+2452499-1 Airton Vilela de Oliveira 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3267997
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Planet
+Modelo:
+FSD-503
+Tipo:
+switch
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.104190
+Data:
+12/11/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Uniserv Comércio, Importação e Exportação Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

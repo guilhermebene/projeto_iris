@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.013145
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+29/06/2001 - Processo: 01.1.881.3.4
+
+
+Responsável:
+61260-1 Jayme Pinto Ortiz 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1040324
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ECS
+Modelo:
+P6BAP-AP
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+28369
+Data:
+29/06/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRONICA LTDA.
+
+
+Identif:
+CN200113891
+
+
+Assinatura Digital:
+
+

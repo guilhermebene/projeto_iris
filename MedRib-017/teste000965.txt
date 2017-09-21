@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.000965
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+22/07/1999 - Processo: 
+
+
+Responsável:
+3405470-1 Manoel Pinto Neto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1140566
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SV                   - Setor de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+COMPAQ
+Modelo:
+Pentium P 54C
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+JCC INFORMATICA COMERCIO LTDA
+
+
+Identif:
+8A433HKA2E884
+
+
+Assinatura Digital:
+
+

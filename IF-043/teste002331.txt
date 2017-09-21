@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.002331
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+20/09/1999 - Processo: 99.1.365.43.2
+
+
+Responsável:
+2435235-1 Sergio Alexandre da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642959
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ASA
+Modelo:
+386SX
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES SA/ASA COMP.
+
+
+Identif:
+4113295
+
+
+Assinatura Digital:
+
+

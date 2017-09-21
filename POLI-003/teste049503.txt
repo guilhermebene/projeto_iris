@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.049503
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/10/2010 - Processo: 10.5.86.70.2
+
+
+Responsável:
+2812681-1 Sonia Cristina Delfino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+INTEL CORE 2 DUO
+Tipo:
+CPU
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2007/2010
+Data:
+08/02/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+105600
+
+
+Assinatura Digital:
+
+

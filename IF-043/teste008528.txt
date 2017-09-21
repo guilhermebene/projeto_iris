@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008528
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/07/2006 - Processo: 06.1.44.43.9
+
+
+Responsável:
+2462858-1 Vidal Morais Affonso Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4753836
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ATA                  - Assistência Técnica Administrativa
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MIcro Max
+Modelo:
+core 2 quad Q9550
+Tipo:
+2GB DDR2 800MHz HDD 500GB SATA2
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+103/2005
+Data:
+19/04/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

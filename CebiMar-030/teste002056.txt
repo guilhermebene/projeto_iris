@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.002056
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+04/06/2013 - Processo: 13.1.34.30.9
+
+
+Responsável:
+2373491-1 Gabriel Tonani 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+5254108
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CBM/DIR/INFORMÁTICA  - CEBIMAR/DIRETORIA/INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+MX 225
+Tipo:
+INTEL XEON SIX-CORE E5645
+
+
+Doc.:
+nota fiscal
+Num.:
+DANFE 216002 - SERIE 11
+Data:
+23/05/2013
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+ITAUTEC SA - GRUPO ITAUTEC
+
+
+Identif:
+4007396800003
+
+
+Assinatura Digital:
+
+

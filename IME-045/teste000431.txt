@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.000431
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+11/02/1999 - Processo: 98.1.927.45.6
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+13307 - JAZ DRIVE EXTERNO                                                                                   
+
+
+Bem:
+40711
+Origem:
+Bens de Terceiros O 
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CEC                  - CENTRO DE ENSINO DA COMPUTAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IOMEGA
+Modelo:
+DDXV10005
+Tipo:
+SCSI
+
+
+Doc.:
+termo de permissão de uso
+Num.:
+N.F-0646
+Data:
+15/06/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+W1NV14P2G1
+
+
+Assinatura Digital:
+
+

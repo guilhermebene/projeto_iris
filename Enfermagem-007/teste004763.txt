@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.004763
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+05/06/2003 - Processo: 02.1.1047.7.1
+
+
+Responsável:
+2467001-1 Norival Pereira de Moraes 
+
+
+Material:
+117803 - SISTEMA DE MONITORAMENTO DE IMAGEM                                                                  
+
+
+Bem:
+1938525
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCSVAUX              - SEÇÃO DE SERVIÇOS AUXILIARES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HONEYWELL
+Modelo:
+HTLV 960 H
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+37384
+Data:
+29/10/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MICRO SWITCH ELETRÕNICA LTDA.
+
+
+Identif:
+CONJUNTO DE MONITORAMENTO DE SEGURANÇA
+
+
+Assinatura Digital:
+
+

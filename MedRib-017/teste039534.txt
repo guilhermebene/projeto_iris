@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+017.039534
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+21/03/2016 - Processo: 14.1.1526.17.6
+
+
+Responsável:
+51092-1 Heloisa Bettiol 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5515505
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RPP                  - Depto. de Puericultura e Pediatria
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INTEL
+Modelo:
+G3260 3.3GH
+Tipo:
+GAB.ATX
+
+
+Doc.:
+nota fiscal
+Num.:
+4911
+Data:
+01/03/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+36455
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+CAPES      - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+

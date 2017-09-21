@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.013116
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/06/2001 - Processo: 01.1.1190.3.5
+
+
+Responsável:
+2508441-1 Julio Cesar Gomes dos Santos 
+
+
+Material:
+48151 - IMPRESSORA ETIQUETAS DE CÓDIGO DE BARRAS                                                            
+
+
+Bem:
+121835
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCPATR               - SECÃO DE PATRIMONIO
+
+
+Complemento:
+5233402
+
+
+ 
+ 
+
+
+Marca:
+SEAL/ZEBRA
+Modelo:
+S-400
+Tipo:
+IMPRESSORA ETIQUETAS DE CODIGO DE BARRAS
+
+
+Doc.:
+nota fiscal
+Num.:
+58620
+Data:
+21/06/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SEAL ELETRONICA LTDA.
+
+
+Identif:
+PAT
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005597
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/11/2003 - Processo: 03.1.1010.43.8
+
+
+Responsável:
+2636285-1 Maria Aparecida de Oliveira Marques Olivieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LM
+Modelo:
+AMD ATHLON XP 1700+ ( 1,47 GHZ )
+Tipo:
+mb Gb 7VTXH - mem 256MB DDR
+
+
+Doc.:
+nota fiscal
+Num.:
+306
+Data:
+05/03/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+HD Maxtor Diamondmax 40.0GB
+
+
+Assinatura Digital:
+
+

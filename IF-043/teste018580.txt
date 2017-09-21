@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018580
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+03/12/2012 - Processo: 12.1.1078.43.0
+
+
+Responsável:
+2399399-1 Maria Mavilia Vara 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4992792
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FAP                  - Departamento de Física Aplicada
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Printimaq
+Modelo:
+MAX 316
+Tipo:
+MICRO COMPATIVEL C/INTEL CORE I5
+
+
+Doc.:
+nota fiscal
+Num.:
+000.589
+Data:
+27/11/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Printimaq Informatica Ltda - Epp
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

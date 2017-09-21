@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.016594
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+07/02/2002 - Processo: 00.1.2669.3.1
+
+
+Responsável:
+54518-1 Marcilio Alves 
+
+
+Material:
+35009 - UNIDADE DE AQUISIÇÃO DE DADOS                                                                       
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+POLYTEC
+Modelo:
+ATE 5 MILHOES DE AMOSTRAS/S DE 12 BITS
+Tipo:
+UNIDADE DE AQUISIÇAO DE DADOS
+
+
+Doc.:
+declaração de importação
+Num.:
+01/0586226-0
+Data:
+12/06/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

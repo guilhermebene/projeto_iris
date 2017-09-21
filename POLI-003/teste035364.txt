@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.035364
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+12/06/2006 - Processo: 06.1.65.3.7
+
+
+Responsável:
+65239-1 Claudio Garcia 
+
+
+Material:
+14443 - CONDUTIVÍMETRO                                                                                      
+
+
+Bem:
+3925900
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+MAT. ESTA NO ANEXO CEE LABORAT. SALA GD-02
+
+
+ 
+ 
+
+
+Marca:
+DELTA OHM ITALIA
+Modelo:
+DO 9786T
+Tipo:
+CONDHTIVIMETRO
+
+
+Doc.:
+nota fiscal
+Num.:
+8836
+Data:
+06/02/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+IMPAC COMERCIAL E TECNOLOGIA LTDA.
+
+
+Identif:
+2206986097
+
+
+Assinatura Digital:
+
+

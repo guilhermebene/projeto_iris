@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.019675
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+02/08/2002 - Processo: 02.1.1217.3.1
+
+
+Responsável:
+2783262-1 Hernan Prieto Schmidt 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1674307
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RENBI
+Modelo:
+AMD ATHLON 1,4 GHZ
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+269
+Data:
+15/07/2002
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+SETI SERV. TECNICOS DE INF. & COM. LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

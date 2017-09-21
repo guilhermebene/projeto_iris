@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.017062
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+18/08/2014 - Processo: 14.1.1138.45.1
+
+
+Responsável:
+1742070-1 Sergio Ricardo Milare 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+5648858
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+UBIQUITI
+Modelo:
+UNIFI AP-PRO
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1.839
+Data:
+12/08/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ANAM COMÉRCIO DE PRODUTOS PERMANENTES E DE CONSUMO LTDA - EPP
+
+
+Identif:
+0418D6021315
+
+
+Assinatura Digital:
+
+

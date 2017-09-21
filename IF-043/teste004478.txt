@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004478
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+30/01/2002 - Processo: 02.1.110.43.8
+
+
+Responsável:
+28939-1 Luiz Carlos Gomes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1037307
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+STAV                 - Setor de Áudio-visual
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micromax
+Modelo:
+AMD K6 II 500MHz
+Tipo:
+motherboard K6 II - HD 30Gb IDE
+
+
+Doc.:
+nota fiscal
+Num.:
+2429
+Data:
+12/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+micro max com e serv em informatica ltda
+
+
+Identif:
+memória DIMM 128Mb Sdram
+
+
+Assinatura Digital:
+
+

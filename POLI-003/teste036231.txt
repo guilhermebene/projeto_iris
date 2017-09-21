@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.036231
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+28/09/2006 - Processo: 06.1.2885.3.1
+
+
+Responsável:
+72787-1 Emilio Carlos Nelli Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+NF 001508 SALA ITBA
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+PENTIUM DUAL CORE D940 DVD
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+001508
+Data:
+21/08/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BQBX62900461AAD27094-305
+
+
+Assinatura Digital:
+
+

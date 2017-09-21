@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.009244
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+04/05/2007 - Processo: 05.5.1004.70.4
+
+
+Responsável:
+2470412-1 Renata Cristian Mattar Bonato 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3841456
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CCE
+Modelo:
+CELERON D 2,4 GHz
+Tipo:
+CELERON D DDR 256MB HDD80GB IDE 7200RPM
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+298/2005
+Data:
+07/06/2005
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+88551
+
+
+Assinatura Digital:
+
+

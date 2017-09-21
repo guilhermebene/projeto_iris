@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.013064
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+18/06/2001 - Processo: 01.1.572.3.1
+
+
+Responsável:
+2482110-1 Cassio Ricardo Delphino Neves 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1001345
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ECS
+Modelo:
+P6BAP-AP
+Tipo:
+MICROCOMPUTADOR PENTIUM 733MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+28010
+Data:
+11/06/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ECS
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.043105
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+30/04/2009 - Processo: 08.1.997.3.9
+
+
+Responsável:
+53816-1 Nilton Itiro Morimoto 
+
+
+Material:
+100374 - CONTROLADOR DE FLUXO DE MASSA                                                                       
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MKS
+Modelo:
+MFC100
+Tipo:
+CONTROLADOR DE FLUXO DE MASSA
+
+
+Doc.:
+declaração de importação
+Num.:
+08/1363707-9
+Data:
+02/09/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

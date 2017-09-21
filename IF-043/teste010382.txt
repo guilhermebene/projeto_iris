@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.010382
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+06/05/2008 - Processo: 08.1.179.43.3
+
+
+Responsável:
+2803020-1 Gennady Gusev 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4507231
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RD-GUENNADII         - RECURSOS DOCENTES-GUENNADII  GUSEV
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Excel
+Modelo:
+Core2Duo
+Tipo:
+microcomputador
+
+
+Doc.:
+nota fiscal
+Num.:
+9121
+Data:
+30/04/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Excelbyt Ind. e Com. e Exp. Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

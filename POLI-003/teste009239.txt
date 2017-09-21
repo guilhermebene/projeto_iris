@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009239
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+31/07/2000 - Processo: 00.1.10470.1.0
+
+
+Responsável:
+1198236-1 Mauricio Oscar Perez Lisboa 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+ESTA CHAPA ESTÁ SUBSTITUINDO A DE Nº 8413, FEITA COM ORIGEM "CONVÊNIO" E REGULAR
+
+
+ 
+IZADO NESTA DATA. 
+
+
+Marca:
+FUJITSU      (SUBSTIT. A CHAPA Nº 8413)
+Modelo:
+PENTIUM II 233, 32MB, HD 3,2GB, CD 24 x
+Tipo:
+NOTE BOOK
+
+
+Doc.:
+instrumento de convênio
+Num.:
+247
+Data:
+17/04/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FPL 03009A
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.002357
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+06/10/2015 - Processo: 15.1.12.30.7
+
+
+Responsável:
+2429266-1 Wagner San Martin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5605504
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CBM/DIR/ADM/TES.     - CEBIMAR/DIRETORIA/ADMINISTRAÇÃO/TESOURARIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 3020
+Tipo:
+TORRE ATX - INTEL CORE I5 3330
+
+
+Doc.:
+nota fiscal
+Num.:
+1920
+Data:
+01/10/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+A-4 Comercio e Prestação de Serviços e Informática Ltda
+
+
+Identif:
+18989212558
+
+
+Assinatura Digital:
+
+

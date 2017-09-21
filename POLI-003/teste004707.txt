@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.004707
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+07/10/1999 - Processo: 
+
+
+Responsável:
+49901-1 Geraldo Lino de Campos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+PATRIMONIO POLI 75931
+
+
+ 
+ 
+
+
+Marca:
+DFI
+Modelo:
+PENTIUM 100MHZ, RAM DE 32MB
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+97070135
+
+
+Assinatura Digital:
+
+

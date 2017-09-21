@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.020631
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+18/10/2002 - Processo: 02.1.3020.3.0
+
+
+Responsável:
+30672-1 Jose Carlos Teixeira de Barros Moraes 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+1920480
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INTERC
+Modelo:
+GUARD 1200
+Tipo:
+NOBREAK
+
+
+Doc.:
+nota fiscal
+Num.:
+000002
+Data:
+16/10/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+LPM INFORMATICA COMERCIO E ASSISTENCIA TECNICA LTDA.
+
+
+Identif:
+2G2120102456
+
+
+Assinatura Digital:
+
+

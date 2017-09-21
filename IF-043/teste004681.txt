@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004681
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+19/06/2002 - Processo: 02.1.111.43.4
+
+
+Responsável:
+74469-1 Manfredo Harri Tabacniks 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1617800
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Sinesis
+Modelo:
+AMD Athlon 1.0GHz
+Tipo:
+motherboard 8VTAA
+
+
+Doc.:
+nota fiscal
+Num.:
+01618
+Data:
+18/06/2002
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Sinesis Soluções Integradas em Sistemas LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

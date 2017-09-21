@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.020480
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+26/02/2015 - Processo: 14.1.1086.43.5
+
+
+Responsável:
+91872-1 Maria Teresa Moura Lamy 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5435358
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Ello PC INtel
+Modelo:
+Core i3-3250
+Tipo:
+compativel com intel Corei3-2100
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F**000.002.744
+Data:
+12/02/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Ello Armazanagens Ltda
+
+
+Identif:
+microcomputador compativel com  IBM-PC
+
+
+Assinatura Digital:
+
+

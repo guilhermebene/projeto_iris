@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.002146
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+23/11/1999 - Processo: 99.1.1360.17.5
+
+
+Responsável:
+2479130-1 Carlos Alberto Ribeiro de Carvalho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+231487
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCTSPM               - Setor de Patrimônio e Materiais
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+KELYX
+Modelo:
+PENTIUM 450 MHz
+Tipo:
+TORRE PADRÃO - ATX
+
+
+Doc.:
+nota fiscal
+Num.:
+5572
+Data:
+17/11/1999
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+COMPUHOUSE INFORMÁTICA LTDA
+
+
+Identif:
+NAO CONSTA N.DE SÉRIE
+
+
+Assinatura Digital:
+
+

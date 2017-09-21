@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.015381
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+17/01/2011 - Processo: 10.1.114.43.1
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4996615
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LLUMIX
+Modelo:
+UPCOM 65-PXP CORE2DUO DE 2,8 GHz
+Tipo:
+E700,MEM.800DDR2,HDD320GB 7200SATA
+
+
+Doc.:
+nota fiscal
+Num.:
+589
+Data:
+06/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+UP Shop Comercial LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

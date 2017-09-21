@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009999
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+10/10/2000 - Processo: 98.1.821.3.8
+
+
+Responsável:
+29687-1 Joao Antonio Zuffo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642894
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ZENITH
+Modelo:
+486 DX4
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+24177
+Data:
+27/11/1995
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+VP400566
+
+
+Assinatura Digital:
+
+

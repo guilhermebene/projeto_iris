@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.057804
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/05/2013 - Processo: 12.1.2626.3.2
+
+
+Responsável:
+2090541-1 João Antonio Martino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5343887
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 9010
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+482
+Data:
+19/03/2013
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+IT LINE COMERCIO E SERVIÇOS DE INFORMÁTICA LTDA.
+
+
+Identif:
+64H6W1
+
+
+Assinatura Digital:
+
+

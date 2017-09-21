@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.001006
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+20/07/1999 - Processo: 99.1.483.45.1
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+103365
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ENGETRON
+Modelo:
+RS-232-JUNIOR
+Tipo:
+JUNIOR HORIZONTAL
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.089
+Data:
+06/07/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+FORMATA-Soluções em Energia Ltda
+
+
+Identif:
+S/N.:39252
+
+
+Assinatura Digital:
+
+

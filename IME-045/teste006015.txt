@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006015
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+11/07/2003 - Processo: 03.1.1036.45.3
+
+
+Responsável:
+2515488-1 Daniela Regina Gonçalves Pinto 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2448653
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCMATERIAL           - DIRETORIA\ATFIN\SEÇÃO DE MATERIAL
+
+
+Complemento:
+SWITCH - 3COM, ESTÁ NA SI - FONE EMPRESA:4363-1313
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+CÓDIGO 3C17304
+Tipo:
+SWITCH
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.002.735
+Data:
+27/06/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda
+
+
+Identif:
+7Z1V2D8B6FB00
+
+
+Assinatura Digital:
+
+

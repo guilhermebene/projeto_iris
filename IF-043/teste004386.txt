@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004386
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+28/01/2002 - Processo: 02.1.110.43.8
+
+
+Responsável:
+54286-1 Oscar Jose Pinto Eboli 
+
+
+Material:
+450 - MONITORES DE VÍDEO                                                                                  
+
+
+Bem:
+1172581
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+AOC
+Modelo:
+5E
+Tipo:
+SVGA 15
+
+
+Doc.:
+nota fiscal
+Num.:
+2635
+Data:
+26/10/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO MAX COMERCIO E SERVIÇOS INFORMATICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005005
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/02/2003 - Processo: 03.1.53.43.5
+
+
+Responsável:
+2087338-1 Otaviano Augusto Marcondes Helene 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2052970
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RI                   - Renda Industrial
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Siness
+Modelo:
+SY333G
+Tipo:
+Pentium IV 1.6 Ghz.
+
+
+Doc.:
+nota fiscal
+Num.:
+001829
+Data:
+21/01/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sinesis Soluções Integradas em Sistemas Ltda.
+
+
+Identif:
+memória: 512KB
+
+
+Assinatura Digital:
+
+
