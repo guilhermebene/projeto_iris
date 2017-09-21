@@ -73,4 +73,6 @@ main()
 
 fim = time.time()
 tempo = fim - inicio
-print("Tempo de execução: " + str((tempo/60)//1) + ' min e ' + str((tempo%60)//1) + " segundos")
+
+print("Tempo de execução: " + str((tempo/60)//1) + ' minuto e ' + str((tempo%60)//1) + " segundos")
+
