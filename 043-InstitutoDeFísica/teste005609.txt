@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005609
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+14/11/2003 - Processo: 03.1.55.43.8
+
+
+Responsável:
+25234-1 Alejandro Szanto de Toledo 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+2510618
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ATF                  - Assistência Técnica Financeira
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Allied Tellesyn
+Modelo:
+AT8350GB
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+4722
+Data:
+23/07/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vectron Eletrônica Indústria e Comércio Ltda
+
+
+Identif:
+B1SM-22462B
+
+
+Assinatura Digital:
+
+

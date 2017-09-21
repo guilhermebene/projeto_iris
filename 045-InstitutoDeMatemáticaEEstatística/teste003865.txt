@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003865
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+04/09/2001 - Processo: 01.1.432.45.0
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1039377
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CEC                  - CENTRO DE ENSINO DA COMPUTAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASUS
+Modelo:
+AMD-850MHZ
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.028817
+Data:
+20/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA
+
+
+Identif:
+65954
+
+
+Assinatura Digital:
+
+

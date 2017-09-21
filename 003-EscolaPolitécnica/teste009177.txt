@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009177
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+12/07/2000 - Processo: 00.1.138.3.9
+
+
+Responsável:
+77646-1 Denise Consonni 
+
+
+Material:
+12173 - FONTE DE ALIMENTAÇÃO                                                                                
+
+
+Bem:
+612987
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEE                  - DEPTO. ENG. ELETRONICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+FONTE DE ALIMENTACAO
+
+
+Doc.:
+declaração de importação
+Num.:
+00/0296112-6
+Data:
+05/04/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TEKTRONIX IND. COM. LTDA.
+
+
+Identif:
+TW60514
+
+
+Assinatura Digital:
+
+

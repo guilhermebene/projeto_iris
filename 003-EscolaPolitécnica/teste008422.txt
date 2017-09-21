@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008422
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+29/05/2000 - Processo: 97.1.330.3.3
+
+
+Responsável:
+1481416-1 Marcelo de Aquino Martorano 
+
+
+Material:
+63347 - INTERFACE PARA AQUISIÇÃO DE DADOS                                                                   
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMT                  - DEPTO. ENG. METALURGICA
+
+
+Complemento:
+VERBA CNPq - PROC. 52.0070/94
+
+
+ 
+ 
+
+
+Marca:
+NATIONAL INSTRUMENTS
+Modelo:
+
+Tipo:
+INTERFACE DE AQUIS. DE DADOS
+
+
+Doc.:
+declaração de importação
+Num.:
+97/0443258-5
+Data:
+28/05/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+181445F-01
+
+
+Assinatura Digital:
+
+

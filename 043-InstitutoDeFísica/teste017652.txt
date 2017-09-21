@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.017652
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+26/04/2012 - Processo: 12.1.144.43.0
+
+
+Responsável:
+956959-1 Luiz Carlos Camargo Miranda Nagamine 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5233348
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+intel
+Modelo:
+core i52320 3.0Ghz
+Tipo:
+microcomputador/intel core i5 2320 3.0Gh
+
+
+Doc.:
+nota fiscal
+Num.:
+355
+Data:
+24/04/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Queller Informatica & Comercio Ltda - M E
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

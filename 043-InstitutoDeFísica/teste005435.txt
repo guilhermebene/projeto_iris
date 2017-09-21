@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005435
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+30/10/2003 - Processo: 03.1.53.43.5
+
+
+Responsável:
+2636285-1 Maria Aparecida de Oliveira Marques Olivieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LM Computer
+Modelo:
+AMD Athlon 1.33GHZ
+Tipo:
+mem 256MB DDR
+
+
+Doc.:
+termo de doação
+Num.:
+02574/2002
+Data:
+20/09/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mb ABIT K67
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.019158
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+03/07/2002 - Processo: 02.1.968.3.3
+
+
+Responsável:
+30672-1 Jose Carlos Teixeira de Barros Moraes 
+
+
+Material:
+90751 - SISTEMA MICROCOMPUTADOR                                                                             
+
+
+Bem:
+1620169
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MCS
+Modelo:
+MCP3 1GHZ
+Tipo:
+SISTEMA MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+35016
+Data:
+18/06/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRONICA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

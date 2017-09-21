@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004668
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+02/04/2002 - Processo: 02.1.110.43.8
+
+
+Responsável:
+91020-1 Elisabeth Mateus Yoshimura 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1403931
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micro Switch
+Modelo:
+AMD
+Tipo:
+AMD ATHLON XP 1800
+
+
+Doc.:
+nota fiscal
+Num.:
+33552
+Data:
+20/03/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Switch Eletrônica LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

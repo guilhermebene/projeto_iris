@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.037567
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/02/2007 - Processo: 06.1.3330.3.3
+
+
+Responsável:
+52822-1 Maria Elena Santos Taqueda 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+NF 001566 BLOCO 22 14/16
+
+
+ 
+ 
+
+
+Marca:
+LPM
+Modelo:
+D 945 3.4 GHZ
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+001566
+Data:
+10/10/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+4688
+
+
+Assinatura Digital:
+
+

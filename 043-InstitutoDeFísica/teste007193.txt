@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007193
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+31/08/2005 - Processo: 05.1.38.43.8
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3620301
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Allied Telesyn
+Modelo:
+AT-8326GB
+Tipo:
+24 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+240
+Data:
+02/08/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Ziva Tecnologia e soluções LTDA.
+
+
+Identif:
+B56A4358IE
+
+
+Assinatura Digital:
+
+

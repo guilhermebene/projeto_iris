@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.012301
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+12/03/2009 - Processo: 08.1.116.43.1
+
+
+Responsável:
+73663-1 Adalberto Fazzio 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4377869
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+OBS;DOADO PARA UNICAMP DO PROJETO EM CONJUNTO,PROÇ.FAPESP 05/59581-6
+
+
+ 
+ 
+
+
+Marca:
+SILICON
+Modelo:
+ALTIX 450 SGI
+Tipo:
+DUAL CORE 1.4GHz 24GB DDR 121HDD 250GB
+
+
+Doc.:
+termo de doação
+Num.:
+03404/07
+Data:
+07/12/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

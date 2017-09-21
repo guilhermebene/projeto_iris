@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.004016
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+13/08/1999 - Processo: 99.1.1858.3.3
+
+
+Responsável:
+289566-1 Claudio Mueller Prado Sampaio 
+
+
+Material:
+15458 - CENTRAL DE ALARME                                                                                   
+
+
+Bem:
+123366
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FBI
+Modelo:
+AWXL1
+Tipo:
+CENTRAL DE ALARME
+
+
+Doc.:
+nota fiscal
+Num.:
+528
+Data:
+01/07/1999
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ALARM WOLX ELETRONICA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

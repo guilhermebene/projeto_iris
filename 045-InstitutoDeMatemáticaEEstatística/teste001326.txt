@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.001326
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+13/08/1999 - Processo: 
+
+
+Responsável:
+2452499-1 Airton Vilela de Oliveira 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Estação de Trabalho-40mhz SPARCSERVER 1000C.(SALA 131-A)
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+SPARC-SERVER-1000C
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+DOACAO FAPESP
+
+
+Identif:
+S/N.:350K0185
+
+
+Assinatura Digital:
+
+

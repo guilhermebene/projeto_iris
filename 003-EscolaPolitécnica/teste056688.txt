@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.056688
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+13/11/2012 - Processo: 12.5.2506.11.5
+
+
+Responsável:
+61364-1 Antonio Mauro Saraiva 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Eko
+Modelo:
+
+Tipo:
+Servidor de banco de dados (gateway)
+
+
+Doc.:
+declaração de importação
+Num.:
+10/1987638-9
+Data:
+23/11/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

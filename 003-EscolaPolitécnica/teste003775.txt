@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.003775
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+01/07/1999 - Processo: 98.1.2558.3.2
+
+
+Responsável:
+1693506-1 Victor Francisco Mammana de Barros 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ASSINF               - ASSESSORIA DE INFORMATICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MICROTEC
+Modelo:
+MYTHUS 6300MX
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+956
+Data:
+03/12/1998
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+MICROMAX COMERCIO E SERVIÇOS EM INFORMATICA LTDA.
+
+
+Identif:
+BZ8475L02V
+
+
+Assinatura Digital:
+
+

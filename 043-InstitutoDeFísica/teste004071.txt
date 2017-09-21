@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004071
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/09/2001 - Processo: 01.1.328.43.2
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Compaq
+Modelo:
+ 
+Tipo:
+Pentium 733
+
+
+Doc.:
+nota fiscal
+Num.:
+118170
+Data:
+16/12/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

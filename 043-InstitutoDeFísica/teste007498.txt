@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007498
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+25/11/2005 - Processo: 05.5.846.70.1
+
+
+Responsável:
+2812034-1 Demostenes Jose de Melo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3840018
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCCOMTR              - Seção de Comunicações e Transportes
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CCE
+Modelo:
+CELERON-D
+Tipo:
+CELERON D 2,4Ghz
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+106/2005
+Data:
+19/04/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+90918
+
+
+Assinatura Digital:
+
+

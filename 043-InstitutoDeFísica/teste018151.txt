@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018151
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+01/08/2012 - Processo: 12.1.1017.43.1
+
+
+Responsável:
+5998778-1 Marcio Teixeira do Nascimento Varella 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4957652
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FGE                  - Departamento de Física Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+intel
+Modelo:
+i7 2600
+Tipo:
+quad box intel,3.40GHs
+
+
+Doc.:
+nota fiscal
+Num.:
+00003041
+Data:
+20/04/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+micro computador / montagen propia
+
+
+Assinatura Digital:
+
+

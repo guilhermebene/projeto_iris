@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.016355
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+19/08/2011 - Processo: 11.1.179.43.7
+
+
+Responsável:
+3364412-1 Mauricio Rheinlander de Pinho Klein 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5075718
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CEPA                 - CENTRO DE ENSINO E PESQUISA APLICADA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+INTEL i5-650
+Tipo:
+HDD 1TB SATA, 2GB, DDR3
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2495/2011
+Data:
+04/08/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

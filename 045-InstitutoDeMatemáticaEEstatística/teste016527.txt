@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.016527
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+23/01/2014 - Processo: 13.1.1667.45.3
+
+
+Responsável:
+91288-1 Carlos Eduardo Ferreira 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5498589
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+PowerEdge R720
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2.212
+Data:
+16/01/2014
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Ello Armazenagens Ltda
+
+
+Identif:
+7R16CZ1
+
+
+Assinatura Digital:
+
+

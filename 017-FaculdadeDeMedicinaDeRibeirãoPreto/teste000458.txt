@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.000458
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+16/07/1999 - Processo: 
+
+
+Responsável:
+52930-1 Francisco Silveira Guimarães 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1141171
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RFA                  - Depto. de Farmacologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+UIS
+Modelo:
+PENTIUM 166 MHZ
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+WELCOM COMPUTADORES LTDA.
+
+
+Identif:
+19118
+
+
+Assinatura Digital:
+
+

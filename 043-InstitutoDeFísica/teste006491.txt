@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006491
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+17/08/2004 - Processo: 04.1.12.43.8
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3126781
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+IFMT                 - Informática - Depto de Física dos Mats e Mecânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Allied Telesyn
+Modelo:
+AT8326GB
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+5484
+Data:
+09/08/2004
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Vectron Eletrônica Ind. e Com. Ltda
+
+
+Identif:
+BSO640481E
+
+
+Assinatura Digital:
+
+

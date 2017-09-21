@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+003.042489
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+04/11/2008 - Processo: 04.1.13841.1.2
+
+
+Responsável:
+89069-1 Kazuo Nishimoto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+COMPAQ
+Modelo:
+
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+termo de depósito
+Num.:
+2004/005069
+Data:
+12/05/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+4G28KVL1Z16C
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+15891
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+CNPq       - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+

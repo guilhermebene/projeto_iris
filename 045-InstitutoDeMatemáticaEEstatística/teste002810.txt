@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.002810
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+01/06/2000 - Processo: 00.1.414.45.1
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+546259
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVMAT                - SEÇÃO DE MATERIAL
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+LOREN SID
+Modelo:
+C-1(COLONIAL)
+Tipo:
+TETO
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.0356
+Data:
+01/06/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VENTO-TEC-Ventiladores Ltda-ME
+
+
+Identif:
+*********************************
+
+
+Assinatura Digital:
+
+

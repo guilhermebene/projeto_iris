@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.002645
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+01/03/2001 - Processo: 00.1.503.7.1
+
+
+Responsável:
+2515432-1 Ana Clelia Campos do Nascimento 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+889709
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVCEXUN              - SERVIÇO DE EXTENSÃO E SERVIÇO À COMUNIDADE
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VECTROM
+Modelo:
+MVT-700
+Tipo:
+PENTIUM III
+
+
+Doc.:
+nota fiscal
+Num.:
+2600
+Data:
+22/02/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VECTRON ELETRONICA INDUSTRIA E COMERCIO LTDA
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

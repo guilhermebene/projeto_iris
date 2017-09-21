@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005685
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+29/11/2002 - Processo: 02.1.2061.45.0
+
+
+Responsável:
+47621-1 Yoshiko Wakabayashi 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+1932772
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+MINI-HUB, 10MB-8PORTAS, está na sala 298-A - fone empresa.3766-7388/7390
+
+
+ 
+ 
+
+
+Marca:
+SURCOM
+Modelo:
+IDE - 608-ST
+Tipo:
+HUBS PARA REDE DE INFORMÁTICA
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.01762
+Data:
+12/11/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SINESIS SOLUÇÕES INTEGRADAS EM SISTEMAS LTDA.
+
+
+Identif:
+UB012H0013
+
+
+Assinatura Digital:
+
+

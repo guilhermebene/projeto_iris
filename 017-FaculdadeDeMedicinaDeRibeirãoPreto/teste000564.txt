@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.000564
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+19/07/1999 - Processo: 
+
+
+Responsável:
+82792-1 Rui Alberto Ferriani 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643769
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DFI
+Modelo:
+PENTIUM 166 MHZ
+Tipo:
+MINI TORRE
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+REITORIA USP
+
+
+Identif:
+11981
+
+
+Assinatura Digital:
+
+

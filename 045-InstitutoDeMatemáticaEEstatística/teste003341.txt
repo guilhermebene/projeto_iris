@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003341
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+28/03/2001 - Processo: 00.1.996.45.0
+
+
+Responsável:
+87731-1 Antonio Elias Fabris 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1192914
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BLASTER/400/32
+Modelo:
+TR.5003 -32mb-4gb-512k
+Tipo:
+DESKTOP
+
+
+Doc.:
+nota fiscal
+Num.:
+NF-Fatura.:088987
+Data:
+16/09/1998
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/N.:3265278
+
+
+Assinatura Digital:
+
+

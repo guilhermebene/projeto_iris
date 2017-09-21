@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.049512
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+21/10/2010 - Processo: 10.5.426.70.8
+
+
+Responsável:
+1380699-1 Pedro Wellington Gonçalves do Nascimento Teixeira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEF                  - DEPTO. ENG. ESTRUTURAS E FUNDAÇÕES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+INTEL CORE 2 DUO
+Tipo:
+CPU
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2202/2010
+Data:
+14/09/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+107162
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.011184
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+04/04/2013 - Processo: 13.1.239.7.5
+
+
+Responsável:
+51460-1 Dulce Maria Rosa Gualda 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5314640
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ENP                  - DEPARTAMENTO DE ENFERMAGEM MATERNO INF.E PSIQUIÁTR
+
+
+Complemento:
+Localização: Departamento ENP Sala 218 Profª Dulce Maria Rosa Gualda
+
+
+ 
+ 
+
+
+Marca:
+HP COMPATÍVEL IBM-PC
+Modelo:
+23B010BR SÉRIE BRG24700V5
+Tipo:
+COMPATÍVEL COM INTEL CORE i3 2120
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.691
+Data:
+04/04/2013
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ETS COMERCIAL LTDA
+
+
+Identif:
+MICROCOMPUTADOR COMPATÍVEL IBM-PC
+
+
+Assinatura Digital:
+
+

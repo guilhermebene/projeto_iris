@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.038869
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+15/06/2007 - Processo: 07.1.836.3.4
+
+
+Responsável:
+649484-1 Alexandre Nicolaos Simos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+SUBSTITUI A 003-038563
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+PENTIUM DUOL CORE D820,HD120GB CDRW
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+1337
+Data:
+17/02/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+4545
+
+
+Assinatura Digital:
+
+

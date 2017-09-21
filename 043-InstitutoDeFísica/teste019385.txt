@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019385
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+08/11/2013 - Processo: 13.1.1193.43.5
+
+
+Responsável:
+73962-1 Elcio Abdalla 
+
+
+Material:
+57100 - MICROCOMPUTADOR COMPATÍVEL COM MACINTOSH                                                            
+
+
+Bem:
+5423120
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMA                  - Departamento de Física Matemática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Aplle
+Modelo:
+intel Xeon 6core de 2.4 GHz {12 nuclos }
+Tipo:
+MICROCOMPUTADOR MACPRO
+
+
+Doc.:
+nota fiscal
+Num.:
+000001086
+Data:
+07/11/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+APLLE MACPRO MD771BZ/A
+
+
+Assinatura Digital:
+
+

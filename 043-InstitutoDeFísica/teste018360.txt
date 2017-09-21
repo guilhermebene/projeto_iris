@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018360
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+08/10/2012 - Processo: 12.1.1194.43.0
+
+
+Responsável:
+73854-1 Antonio Martins Figueiredo Neto 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+4730194
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+nhs
+Modelo:
+5000va/12
+Tipo:
+nobreak
+
+
+Doc.:
+nota fiscal
+Num.:
+84510
+Data:
+05/10/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Nhs Sistemas Eletronicos Ltda
+
+
+Identif:
+RA-NAP-A.FIGUREDO
+
+
+Assinatura Digital:
+
+

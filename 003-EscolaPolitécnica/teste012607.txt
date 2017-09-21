@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.012607
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+03/05/2001 - Processo: 01.1.626.3.4
+
+
+Responsável:
+1693506-1 Victor Francisco Mammana de Barros 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+722570
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ASSINF               - ASSESSORIA DE INFORMATICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ACER
+Modelo:
+POWER SX
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+80999
+Data:
+30/04/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ACER DO BRASIL LTDA.
+
+
+Identif:
+APSX170PY0211716453AB
+
+
+Assinatura Digital:
+
+

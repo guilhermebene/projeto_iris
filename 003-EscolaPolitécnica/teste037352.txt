@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.037352
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+30/01/2007 - Processo: 06.1.3107.3.2
+
+
+Responsável:
+29687-1 Joao Antonio Zuffo 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+PRECISION 690
+Tipo:
+ESTAÇAO DE TRABALHO XEON 5060 3.2GHz
+
+
+Doc.:
+nota fiscal
+Num.:
+788223
+Data:
+06/11/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+5V2COC1
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.007849
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+30/08/2006 - Processo: 06.1.1089.45.2
+
+
+Responsável:
+2515488-1 Daniela Regina Gonçalves Pinto 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4152417
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCMATERIAL           - DIRETORIA\ATFIN\SEÇÃO DE MATERIAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D LINK
+Modelo:
+DES 3526 C/ 24 PORTAS
+Tipo:
+SWITCH
+
+
+Doc.:
+nota fiscal
+Num.:
+6781
+Data:
+29/08/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TEND INFORMATICA E SERVIÇOS LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

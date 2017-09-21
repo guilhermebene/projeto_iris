@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.021341
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/11/2002 - Processo: 02.1.3382.3.0
+
+
+Responsável:
+29687-1 Joao Antonio Zuffo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+MICROCOMPUTADOR PENTIM III
+
+
+Doc.:
+nota fiscal
+Num.:
+002476
+Data:
+27/03/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN200008669
+
+
+Assinatura Digital:
+
+

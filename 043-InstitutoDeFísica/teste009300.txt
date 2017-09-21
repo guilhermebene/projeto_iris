@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.009300
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/06/2007 - Processo: 07.1.731.43.7
+
+
+Responsável:
+50747-1 Philippe Gouffon 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4025717
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FAPESP
+Modelo:
+AMD ATHLON 64 3400
+Tipo:
+512MB HDD120GB
+
+
+Doc.:
+instrumento de convênio
+Num.:
+05/51311-0
+Data:
+02/08/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

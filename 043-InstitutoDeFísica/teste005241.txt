@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005241
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+26/08/2003 - Processo: 03.1.55.43.8
+
+
+Responsável:
+496265-2 Eronides Alves de Almeida 
+
+
+Material:
+33413 - AMPLIFICADOR DE SINAL                                                                               
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Stanford
+Modelo:
+RS232
+Tipo:
+Lock In
+
+
+Doc.:
+declaração de importação
+Num.:
+99/0381747-9
+Data:
+13/05/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+08378
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008056
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/05/2000 - Processo: 00.1.7.3.1
+
+
+Responsável:
+56437-1 Galo Antonio Carrillo Le Roux 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+PENTIUM 100 MHZ, 1 GB - PROLINEA 500
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+9503
+Data:
+07/08/1996
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F625HTC30278
+
+
+Assinatura Digital:
+
+

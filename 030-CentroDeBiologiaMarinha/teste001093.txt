@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.001093
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+10/04/2007 - Processo: 07.1.2.30.3
+
+
+Responsável:
+77837-1 Alvaro Esteves Migotto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4342828
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CBM/DIR/DVENPES      - CEBIMAR/DIRETORIA/DVENPES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+Intel Pentium D 945 - 3,4 Ghz
+
+
+Doc.:
+nota fiscal
+Num.:
+757
+Data:
+04/04/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Help Host Informática Ltda - ME
+
+
+Identif:
+607024295
+
+
+Assinatura Digital:
+
+

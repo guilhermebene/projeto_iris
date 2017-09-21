@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.007703
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+07/04/2000 - Processo: 97.1.1440.3.7
+
+
+Responsável:
+77816-1 José Roberto de Almeida Amazonas 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+3C37000A
+Tipo:
+SWITCH ATM
+
+
+Doc.:
+declaração de importação
+Num.:
+98/0340255-2
+Data:
+13/04/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0DGT11282
+
+
+Assinatura Digital:
+
+

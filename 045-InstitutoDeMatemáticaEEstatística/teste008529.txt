@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.008529
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+31/08/2007 - Processo: 07.1.568.45.5
+
+
+Responsável:
+2090749-1 Marco Dimas Gubitoso 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MAC                  - DEPTO CIENCIA DA COMPUTAÇÃO
+
+
+Complemento:
+Processo FAPESP n.00/11799-0 Doação n. 00612/07 Prof. Marco D. Gubitoso ( O equi
+
+
+ 
+pamento encontra no ICB II) 
+
+
+Marca:
+SUNSET
+Modelo:
+Sunfire V880
+Tipo:
+Computador tipo servidor
+
+
+Doc.:
+nota fiscal
+Num.:
+Proforma Invoice  04/0002471-8
+Data:
+05/01/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Serial 0348AM0005
+
+
+Assinatura Digital:
+
+

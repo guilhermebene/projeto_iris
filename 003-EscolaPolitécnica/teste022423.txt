@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.022423
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+07/02/2003 - Processo: 02.1.2408.3.5
+
+
+Responsável:
+2634011-1 Francisco Javier Ramírez Fernandez 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+FINEP
+
+
+ 
+ 
+
+
+Marca:
+COMPAQ
+Modelo:
+1200XL CELERON 600, 64MB,24X
+Tipo:
+NOTEBOOK
+
+
+Doc.:
+nota fiscal
+Num.:
+488
+Data:
+15/05/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F102FP450247
+
+
+Assinatura Digital:
+
+

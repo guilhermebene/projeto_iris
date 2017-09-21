@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005471
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+18/06/2008 - Processo: 03.1.1011.43.4
+
+
+Responsável:
+61468-1 Jorge Lacerda de Lyra 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+4662300
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMA                  - Departamento de Física Matemática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AMD Athlon XP 2200+
+Modelo:
+fonte gabinete ATX 300W
+Tipo:
+mb Athlon/Duron - PR 3Com 10/100 3C905C
+
+
+Doc.:
+nota fiscal
+Num.:
+3328
+Data:
+17/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mem DDR 256MB
+
+
+Assinatura Digital:
+
+

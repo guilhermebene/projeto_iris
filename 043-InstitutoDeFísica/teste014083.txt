@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.014083
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+09/02/2010 - Processo: 09.1.48.43.7
+
+
+Responsável:
+4344982-1 Rodolfo Gomes Almeida 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878906
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCCOMTR              - Seção de Comunicações e Transportes
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+Astra Sedan Advantage
+Tipo:
+NºMotor: U70048680
+
+
+Doc.:
+nota fiscal
+Num.:
+218507
+Data:
+15/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NºChassi: 9BGTR69C0AB210911
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.002899
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+21/07/2000 - Processo: 00.1.494.45.5
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+573353
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+I B M
+Modelo:
+NETIFINITY 5000 PIII-650
+Tipo:
+PENTIUM-650MHZ(SERVIDOR)
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.030037
+Data:
+13/07/2000
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+COMPU SHOP-TRADE COMERCIAL LTDA
+
+
+Identif:
+SÉRIE.:1S865971-2RA2HB
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.003883
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+19/09/2001 - Processo: 01.1.142.43.6
+
+
+Responsável:
+50747-1 Philippe Gouffon 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+Superstack II
+Tipo:
+Switch Gigabit
+
+
+Doc.:
+instrumento de convênio
+Num.:
+98/08352-1
+Data:
+10/10/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+99490079710E
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.033236
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+03/08/2005 - Processo: 05.1.1903.3.5
+
+
+Responsável:
+2086208-1 Roberto Guardani 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HP
+Modelo:
+D330
+Tipo:
+PENTIUM IV 2,66GHz
+
+
+Doc.:
+termo de doação
+Num.:
+00699/05
+Data:
+07/06/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BRB4110030
+
+
+Assinatura Digital:
+
+

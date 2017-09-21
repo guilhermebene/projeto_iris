@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.030934
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+16/12/2004 - Processo: 03.1.3155.3.4
+
+
+Responsável:
+2716162-1 Marcelo Knorich Zuffo 
+
+
+Material:
+120227 - FIREWALL                                                                                            
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+FSU526-SLV
+Tipo:
+MODULO DE HUB FIREWIRE 6 PORTAS
+
+
+Doc.:
+declaração de importação
+Num.:
+03/0761124-2
+Data:
+05/09/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.009677
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+25/09/2007 - Processo: 03.1.1018.43.9
+
+
+Responsável:
+53027-1 Victor de Oliveira Rivelles 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3923967
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMA                  - Departamento de Física Matemática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3 COM
+Modelo:
+SUPERSTACK
+Tipo:
+BASELINE 10/100/1000
+
+
+Doc.:
+termo de doação
+Num.:
+00832-4
+Data:
+04/11/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+71DF2E0010339
+
+
+Assinatura Digital:
+
+

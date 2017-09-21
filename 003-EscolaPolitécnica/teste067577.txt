@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.067577
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/01/2017 - Processo: 17.5.52.1.4
+
+
+Responsável:
+5101102-1 Alessandro Pereira de Souza Didier 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095671
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSA                  - POLI SANTOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-204-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4931
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CNC3HMG25G
+
+
+Assinatura Digital:
+
+

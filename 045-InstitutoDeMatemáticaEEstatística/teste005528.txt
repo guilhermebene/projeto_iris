@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005528
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+26/08/2002 - Processo: 02.1.1668.45.9
+
+
+Responsável:
+2508820-1 Sergio da Silva Klen Oliveira 
+
+
+Material:
+55948 - TRANSCODIFICADOR                                                                                    
+
+
+Bem:
+1774417
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+transcodificador BR-650 -palm 1300, está no audiovisual
+
+
+ 
+ 
+
+
+Marca:
+TRANSCODER
+Modelo:
+BR-6500 - NTSC - PALM 1300
+Tipo:
+TRANSCODIFICADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.026937
+Data:
+22/08/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+EZAKI DISTRIBUIDORA LTDA
+
+
+Identif:
+******************************
+
+
+Assinatura Digital:
+
+

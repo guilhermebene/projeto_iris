@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.064820
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+26/11/2014 - Processo: 14.1.2662.3.0
+
+
+Responsável:
+3116425-1 Gustavo Roque da Silva Assi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5583322
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LPM
+Modelo:
+INTEL CORE I74790
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+1454
+Data:
+11/11/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+LPM INFORMATICA COMERCIO E ASSISTENCIA TECNICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

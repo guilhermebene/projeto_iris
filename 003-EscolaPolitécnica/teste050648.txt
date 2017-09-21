@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.050648
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/05/2011 - Processo: 11.1.1305.3.7
+
+
+Responsável:
+2088808-1 Luiz Lebensztajn 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+PAVILION P6760BB
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+000121280
+Data:
+01/03/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BRG107007P
+
+
+Assinatura Digital:
+
+

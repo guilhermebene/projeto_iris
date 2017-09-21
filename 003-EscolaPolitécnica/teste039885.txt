@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.039885
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+26/10/2007 - Processo: 07.1.3334.3.0
+
+
+Responsável:
+81252-1 Darci Odloak 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+NF 002833, BLOCO 21
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+PRECISION WORKSTATION 380, PIV HD 250GB
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+NF 002833
+Data:
+29/09/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+3XHWWB1
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.014078
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+23/11/2011 - Processo: 10.1.1470.45.2
+
+
+Responsável:
+2017173-1 Roberto Hirata Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros O 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+Precision T5400N
+Tipo:
+Processador Quad Core Xeon PROC X5450
+
+
+Doc.:
+nota fiscal
+Num.:
+517054
+Data:
+02/07/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

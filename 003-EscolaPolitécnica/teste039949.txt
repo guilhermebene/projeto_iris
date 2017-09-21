@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.039949
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+13/11/2007 - Processo: 07.5.740.70.0
+
+
+Responsável:
+64068-1 José Luis de Paiva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+UPGRADE FEITA NO MICRO 003-021092.
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+PENTIUM 4 HD 80GB LEITORA COMBO
+Tipo:
+MICROCMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1159/2007
+Data:
+06/09/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+55163
+
+
+Assinatura Digital:
+
+

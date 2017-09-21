@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006528
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+24/05/2004 - Processo: 99.1.5585.1.5
+
+
+Responsável:
+2452499-1 Airton Vilela de Oliveira 
+
+
+Material:
+36650 - UNIDADE DE FITA DAT EXTERNA                                                                         
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SUN
+Modelo:
+DDS-3 - Fita Backup
+Tipo:
+Unidade de Fita Magnética
+
+
+Doc.:
+nota fiscal
+Num.:
+PRO.INVOICE.4384/1998
+Data:
+24/11/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+904C0076
+
+
+Assinatura Digital:
+
+

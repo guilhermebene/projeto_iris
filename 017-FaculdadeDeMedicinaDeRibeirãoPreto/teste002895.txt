@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.002895
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+21/11/2000 - Processo: 00.1.1362.17.0
+
+
+Responsável:
+82792-1 Rui Alberto Ferriani 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+757870
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+RGO                  - Depto. de Ginecologia e Obstetricia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ALCABYT
+Modelo:
+ALC 6700 III
+Tipo:
+PENTIUM III
+
+
+Doc.:
+nota fiscal
+Num.:
+4014
+Data:
+09/11/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+FIRE INFORMÁTICA COMÉRCIO LTDA
+
+
+Identif:
+SÉRIE Nº  422300920000217
+
+
+Assinatura Digital:
+
+

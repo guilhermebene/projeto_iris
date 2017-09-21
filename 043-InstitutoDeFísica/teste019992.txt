@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019992
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+17/09/2014 - Processo: 10.1.114.43.1
+
+
+Responsável:
+150492-1 Airton Deppman 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5390303
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+FAPESP*****2010/16641-7
+
+
+ 
+ 
+
+
+Marca:
+CPU  XXX
+Modelo:
+CORE I7960 quad core
+Tipo:
+LGA 1366 Box Intel
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F.16
+Data:
+27/05/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

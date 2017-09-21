@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.006260
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+10/03/2006 - Processo: 06.1.210.7.0
+
+
+Responsável:
+2007672-1 Sonia Maria Gardim 
+
+
+Material:
+87408 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+3949915
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCATUSU              - SEÇÃO DE ATENDIMENTO AO USUÁRIO
+
+
+Complemento:
+Localização: Seção de Atendimento ao Usuário
+
+
+ 
+ 
+
+
+Marca:
+CIPHERLAB
+Modelo:
+CPT-8001L
+Tipo:
+ PORTÁTIL
+
+
+Doc.:
+nota fiscal
+Num.:
+10824
+Data:
+17/02/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+COMPEX TECNOLOGIA LTDA
+
+
+Identif:
+COLETOR DE DADOS
+
+
+Assinatura Digital:
+
+

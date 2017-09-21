@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.005825
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+12/11/1999 - Processo: 99.1.387.3.7
+
+
+Responsável:
+59110-1 Jose Aquiles Baesso Grimoni 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+215350
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PLANET
+Modelo:
+FN-402
+Tipo:
+HUB
+
+
+Doc.:
+nota fiscal
+Num.:
+901
+Data:
+12/08/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SINESIS SOLUCOES INTEGRADAS EM SISTEMAS LTDA.
+
+
+Identif:
+DHD8019500527
+
+
+Assinatura Digital:
+
+

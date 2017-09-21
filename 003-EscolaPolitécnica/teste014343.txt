@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+003.014343
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+14/09/2001 - Processo: 01.1.1877.3.0
+
+
+Responsável:
+30925-1 Hernani Luiz Brinati 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TOSHIBA
+Modelo:
+SATELLITE1800, PIII 850MHZ, 15GB, DVD 8x
+Tipo:
+NOTEBOOK
+
+
+Doc.:
+nota fiscal
+Num.:
+581
+Data:
+21/08/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+71231638PU
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+1863
+Número:
+S/No.
+Sigla:
+ANP
+
+
+Processo:
+00.1.01033.03.6
+Tipo:
+13 - Convênio
+
+
+Órgão:
+ANP        - Agência Nacional de Petróleo
+

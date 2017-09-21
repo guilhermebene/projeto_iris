@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.004410
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+10/04/2002 - Processo: 02.1.438.45.0
+
+
+Responsável:
+2515488-1 Daniela Regina Gonçalves Pinto 
+
+
+Material:
+53511 - IMPRESSORA/COPIADORA/SCANNER INTEGRADOS                                                             
+
+
+Bem:
+1471538
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCMATERIAL           - DIRETORIA\ATFIN\SEÇÃO DE MATERIAL
+
+
+Complemento:
+IMPRESSORA HP,  LASER JET 1220C, está na sala 303-A
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+LASER JET 1200C
+Tipo:
+LASER
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.001.565
+Data:
+03/04/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ENTERNET INFORMÁTICA LTDA
+
+
+Identif:
+CNDRJ24270
+
+
+Assinatura Digital:
+
+

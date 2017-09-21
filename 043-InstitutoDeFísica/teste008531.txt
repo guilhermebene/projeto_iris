@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008531
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/07/2006 - Processo: 06.1.44.43.9
+
+
+Responsável:
+3061449-1 Antonio Carlos Hernandes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+864609
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Tatung
+Modelo:
+Pentium III 700mhz
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+04332
+Data:
+21/05/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+34120021
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004662
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+02/04/2002 - Processo: 02.1.110.43.8
+
+
+Responsável:
+2468315-1 Rosana Batista Gimenes Biz 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1403958
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Sinesis
+Modelo:
+AMD
+Tipo:
+AMD Athlon 133 Ghz
+
+
+Doc.:
+nota fiscal
+Num.:
+1528
+Data:
+14/03/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sinesis Solução Integradas em Sistemas LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

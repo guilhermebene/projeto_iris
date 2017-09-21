@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019821
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+08/08/2014 - Processo: 14.1.872.43.7
+
+
+Responsável:
+25241-1 Alinka Lepine 
+
+
+Material:
+110469 - MÓDULO AMPLIFICADOR                                                                                 
+
+
+Bem:
+4545834
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INV100FC00438
+Modelo:
+V785AC
+Tipo:
+ANALOGICO  EM DIGITAL
+
+
+Doc.:
+termo de doação
+Num.:
+CNPq  4778803/2008-3
+Data:
+17/05/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MODULO  ADC COM 32
+
+
+Assinatura Digital:
+
+

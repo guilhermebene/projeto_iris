@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018355
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+08/10/2012 - Processo: 12.1.1194.43.0
+
+
+Responsável:
+73854-1 Antonio Martins Figueiredo Neto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5284660
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+INTEL CORE I7 2600
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+000.891
+Data:
+05/10/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Direct Server Comercial Informatica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

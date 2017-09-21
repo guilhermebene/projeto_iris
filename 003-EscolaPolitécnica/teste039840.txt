@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+003.039840
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+23/10/2007 - Processo: 07.1.3336.3.2
+
+
+Responsável:
+30925-1 Hernani Luiz Brinati 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+LAB. NDF.
+
+
+ 
+ 
+
+
+Marca:
+LPM
+Modelo:
+CORE2 DUOHD250GB MOUSE ÓPTICO
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+002041
+Data:
+27/09/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+4868
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+1863
+Número:
+S/No.
+Sigla:
+ANP
+
+
+Processo:
+00.1.01033.03.6
+Tipo:
+13 - Convênio
+
+
+Órgão:
+ANP        - Agência Nacional de Petróleo
+

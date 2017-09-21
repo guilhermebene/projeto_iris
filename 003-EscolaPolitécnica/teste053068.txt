@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.053068
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/02/2012 - Processo: 11.1.2810.3.7
+
+
+Responsável:
+812976-1 João Francisco Justo Filho 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+ALTIX XE 340
+Tipo:
+CLUSTER
+
+
+Doc.:
+termo de doação
+Num.:
+01801/2011
+Data:
+23/08/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

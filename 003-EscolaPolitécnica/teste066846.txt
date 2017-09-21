@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.066846
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+14/09/2016 - Processo: 16.1.1234.3.7
+
+
+Responsável:
+2716162-1 Marcelo Knorich Zuffo 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+8203156
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LGEBR                - (conv. LG 37511)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+POWEREDGE T630
+Tipo:
+SERVIDOR
+
+
+Doc.:
+nota fiscal
+Num.:
+313
+Data:
+23/08/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+VITADELL CONSULTORIA E SERVIÇOS EM TI LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

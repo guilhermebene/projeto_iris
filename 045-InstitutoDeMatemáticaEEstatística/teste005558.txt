@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005558
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+18/09/2002 - Processo: 02.1.1486.45.8
+
+
+Responsável:
+47490-1 Arnaldo Mandel 
+
+
+Material:
+90751 - SISTEMA MICROCOMPUTADOR                                                                             
+
+
+Bem:
+1791265
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ATRIA
+Modelo:
+ATC - PROCESSADOR ATHLON  XP 2000-266MHZ
+Tipo:
+MICROCOMPUTADOR COMPATÍVEL COM IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.1124
+Data:
+28/08/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ATRIA TECNOLOGIA EM INFORMÁTICA LTDA.
+
+
+Identif:
+021089901
+
+
+Assinatura Digital:
+
+

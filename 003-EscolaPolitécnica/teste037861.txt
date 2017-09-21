@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.037861
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+06/03/2007 - Processo: 06.1.1374.3.3
+
+
+Responsável:
+337812-1 Augusto Camara Neiva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3939790
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIE F
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+13028
+Data:
+06/12/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+POSITIVO INFORMATICA LTDA.
+
+
+Identif:
+1511070
+
+
+Assinatura Digital:
+
+

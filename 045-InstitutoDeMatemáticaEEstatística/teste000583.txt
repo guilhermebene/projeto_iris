@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.000583
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+20/04/1999 - Processo: 98.1.874.45.0
+
+
+Responsável:
+2458999-1 Morilo Alves da Costa 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+55360
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCPATR               - SEÇÃO DE PATRIMONIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MULT ADM-K6II
+Tipo:
+TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.0829
+Data:
+03/12/1998
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRÁS-INFORMÁTICA DO BRASIL .LTDA.
+
+
+Identif:
+1198/088.254-1
+
+
+Assinatura Digital:
+
+

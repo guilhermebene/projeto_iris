@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.004279
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+22/01/2002 - Processo: 01.1.224.45.9
+
+
+Responsável:
+91288-1 Carlos Eduardo Ferreira 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+1052411
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+nobreak engetron, está na sala 125-A Rede Linux ADM,
+
+
+ 
+ 
+
+
+Marca:
+ENGETRON
+Modelo:
+SEN1000
+Tipo:
+NOBREAK
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.01435
+Data:
+16/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DO BRASIL LTDA
+
+
+Identif:
+120438
+
+
+Assinatura Digital:
+
+

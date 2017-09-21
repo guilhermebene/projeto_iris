@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005776
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+27/01/2003 - Processo: 02.1.2377.45.8
+
+
+Responsável:
+690112-1 Lourdes Vaz da Silva Netto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2098890
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Vectron
+Modelo:
+Pentium VI
+Tipo:
+Microcomputador compatível c/IBM
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.04275
+Data:
+13/01/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vectron Eletrônica Indústria e comércio Ltda
+
+
+Identif:
+14388
+
+
+Assinatura Digital:
+
+

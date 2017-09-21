@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005127
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/05/2003 - Processo: 03.1.55.43.8
+
+
+Responsável:
+353474-1 Claudio Hiroyuki Furukawa 
+
+
+Material:
+113247 - VARIAC                                                                                              
+
+
+Bem:
+1508202
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LDID                 - Laboratório Didático
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Mult Test
+Modelo:
+MT130
+Tipo:
+monofásico
+
+
+Doc.:
+nota fiscal
+Num.:
+11544
+Data:
+25/04/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Instronic Instrumentos de Testes Ltda
+
+
+Identif:
+110
+
+
+Assinatura Digital:
+
+

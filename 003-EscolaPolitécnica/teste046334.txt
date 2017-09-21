@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.046334
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/02/2010 - Processo: 10.1.145.3.5
+
+
+Responsável:
+60849-1 Jose Alberto Quintanilha 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTR                  - DEPTO. DE ENGENHARIA DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+WORKSTATION  Z400
+Tipo:
+INTEL XEON W3503
+
+
+Doc.:
+termo de doação
+Num.:
+03237/2009
+Data:
+22/12/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BRC 920F3XV
+
+
+Assinatura Digital:
+
+

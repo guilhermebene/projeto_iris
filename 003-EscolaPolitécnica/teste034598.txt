@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034598
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+14/03/2006 - Processo: 06.1.144.3.4
+
+
+Responsável:
+2143622-1 Túlio Nogueira Bittencourt 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEF                  - DEPTO. ENG. ESTRUTURAS E FUNDAÇÕES
+
+
+Complemento:
+NF 226230.
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+PRECISION 450 PROC.INTEL XEON ,2HD80,120
+Tipo:
+SERVIDOR
+
+
+Doc.:
+termo de doação
+Num.:
+02321/2005
+Data:
+15/12/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GGO5M41
+
+
+Assinatura Digital:
+
+

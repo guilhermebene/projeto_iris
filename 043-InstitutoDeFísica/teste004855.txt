@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004855
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+24/10/2002 - Processo: 01.1.679.43.0
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+77976 - DETECTOR                                                                                            
+
+
+Bem:
+1467581
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ASM
+Modelo:
+180 t
+Tipo:
+portátil
+
+
+Doc.:
+termo de doação
+Num.:
+00807/2001
+Data:
+03/05/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+detector de vazamento de helio    RUSP 25.401
+
+
+Assinatura Digital:
+
+

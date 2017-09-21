@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005097
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+15/04/2003 - Processo: 03.1.53.43.5
+
+
+Responsável:
+3061449-1 Antonio Carlos Hernandes 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+2155419
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+3C17203
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2550
+Data:
+11/02/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda
+
+
+Identif:
+0101/7LSV318550
+
+
+Assinatura Digital:
+
+

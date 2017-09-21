@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003244
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+06/12/2000 - Processo: 00.1.1019.45.9
+
+
+Responsável:
+2452499-1 Airton Vilela de Oliveira 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+807818
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SI                   - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SUPER STACK II
+Modelo:
+SWITCH 3300 - 3C16980
+Tipo:
+3COM - 24 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+N.Fiscal.:0905
+Data:
+24/11/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+M.M.SÁ COMÉRCIO e REPRESENTAÇÕES LTDA
+
+
+Identif:
+S/N.:KZNS4E07B38-subs:0602/7znv49d7f38
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.003584
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+17/06/1999 - Processo: 98.1.639.3.5
+
+
+Responsável:
+41181-1 Jose Woiler 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643769
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PRO                  - (DEPTO. ENGENHARIA DE PRODUÇÃO)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ 
+Modelo:
+PENTIUM 233 MHZ MMX
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+624
+Data:
+29/05/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0985ST0211
+
+
+Assinatura Digital:
+
+

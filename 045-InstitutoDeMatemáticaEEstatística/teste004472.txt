@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.004472
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+16/05/2002 - Processo: 02.1.194.45.3
+
+
+Responsável:
+2774985-1 Manoel Euclides dos Santos 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+1533460
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCSVGER              - SEÇÃO DE SERVIÇOS GERAIS
+
+
+Complemento:
+Ventilador de parede, está na sala B-139
+
+
+ 
+ 
+
+
+Marca:
+VENTISILVA
+Modelo:
+VPL-110/220V 60hz
+Tipo:
+VENTILADORES
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura:0102119
+Data:
+06/05/2002
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+METALÚRGICA VENTISILVA LTDA
+
+
+Identif:
+313870
+
+
+Assinatura Digital:
+
+

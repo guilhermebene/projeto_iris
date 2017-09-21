@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.009211
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+20/04/2007 - Processo: 06.1.908.43.3
+
+
+Responsável:
+957971-1 Kaline Rabelo Coutinho 
+
+
+Material:
+94048 - HUBS PARA REDE                                                                                      
+
+
+Bem:
+876798
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HUB/SWITCH
+Modelo:
+16PORTAS
+Tipo:
+10/100
+
+
+Doc.:
+instrumento de convênio
+Num.:
+01/13845-1
+Data:
+13/04/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+08004e3ac760
+
+
+Assinatura Digital:
+
+

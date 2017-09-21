@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006716
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+24/09/2004 - Processo: 04.1.787.45.6
+
+
+Responsável:
+1742070-1 Sergio Ricardo Milare 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3101185
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Microcomputador - MVA-2400-XP
+
+
+ 
+ 
+
+
+Marca:
+Vectron
+Modelo:
+MVA2400-XP
+Tipo:
+Microcomputador compatível com IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura-05534
+Data:
+02/09/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vectron Eletrônica Indústria e Comércio Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

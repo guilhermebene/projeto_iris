@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004778
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+10/09/2002 - Processo: 02.1.110.43.8
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1766937
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Soyo
+Modelo:
+K7VTA
+Tipo:
+Processador Duron 950 - 128MB
+
+
+Doc.:
+nota fiscal
+Num.:
+1771
+Data:
+20/08/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Infobrás Informática do Brasil Ltda
+
+
+Identif:
+AGP 16 MB - HD 20GB
+
+
+Assinatura Digital:
+
+

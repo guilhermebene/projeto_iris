@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.017846
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+20/06/2012 - Processo: 12.1.144.43.0
+
+
+Responsável:
+2428550-1 Maria Madalena Salgado Bermudez Zeitum 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+itautec
+Modelo:
+Infoway ST4255
+Tipo:
+microcomputador core i3-2100 ou superior
+
+
+Doc.:
+nota fiscal
+Num.:
+170329
+Data:
+18/06/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Itautec S/A -- Grupo Itautec
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

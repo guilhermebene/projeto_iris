@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008609
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+03/08/2006 - Processo: 06.1.44.43.9
+
+
+Responsável:
+3061449-1 Antonio Carlos Hernandes 
+
+
+Material:
+141089 - WIRELESS LAN ACCESS POINT                                                                           
+
+
+Bem:
+3308740
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Foundry Network
+Modelo:
+Iron Point
+Tipo:
+Wireless Lan Access Point
+
+
+Doc.:
+nota fiscal
+Num.:
+2420
+Data:
+01/03/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+AN04290393
+
+
+Assinatura Digital:
+
+

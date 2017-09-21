@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.001037
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+11/02/1999 - Processo: 98.1.784.3.5
+
+
+Responsável:
+2482169-1 Rosany Costa Perez 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+40720
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVCOMSO              - SERVIÇO DE COMUNICAÇÃO SOCIAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INTEL
+Modelo:
+PENTIUM 200
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+982
+Data:
+05/06/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+DOUBLE SYSTEM TECNOLOGIA EM INFORMATICA LTDA.
+
+
+Identif:
+4569
+
+
+Assinatura Digital:
+
+

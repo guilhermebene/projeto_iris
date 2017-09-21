@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034335
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+02/02/2006 - Processo: 05.1.246.3.0
+
+
+Responsável:
+53816-1 Nilton Itiro Morimoto 
+
+
+Material:
+147141 - GERADOR DE CORRENTE                                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+COMPOSTO POR 3 PARTES GERADOR DE RF, CONTROLADOR DO GERADOR E MALHA DE ACLOPAMEN
+
+
+ 
+TO 
+
+
+Marca:
+ADVANCED ENERGY
+Modelo:
+RFX600
+Tipo:
+GERADOR DE RADIO FREQUENCIA(RF)
+
+
+Doc.:
+declaração de importação
+Num.:
+05/0404096-5
+Data:
+20/04/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+C388438
+
+
+Assinatura Digital:
+
+

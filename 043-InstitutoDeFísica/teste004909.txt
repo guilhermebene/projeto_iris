@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004909
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+27/11/2002 - Processo: 02.1.27358.1.5
+
+
+Responsável:
+3562650-1 Marcelo e Silva Paulino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+MP                   - Seção de Manutenção Predial
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+Post-ATSERIESJ
+Tipo:
+ATHLON-AMD 1,333 GHZ HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88852
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+131176
+
+
+Assinatura Digital:
+
+

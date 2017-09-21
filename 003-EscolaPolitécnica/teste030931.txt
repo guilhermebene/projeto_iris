@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.030931
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+09/12/2004 - Processo: 04.1.30694.1.4
+
+
+Responsável:
+75279-1 Wilson Vicente Ruggiero 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+SERVIDOR DE REDE XEON 3.00GHz
+
+
+Doc.:
+instrumento de convênio
+Num.:
+T. DEPOSITO 2004/007265
+Data:
+18/10/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+56023P8R26AA0420007
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.010606
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+02/04/2009 - Processo: 08.1.1287.55.8
+
+
+Responsável:
+84724-1 Fabio Kon 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+2935520
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+PROJETO QUALIPSO - RESP. JOSÉ CARLOS MALDONADO
+
+
+ 
+ 
+
+
+Marca:
+Servidor (Dell)
+Modelo:
+PowerEdge 840
+Tipo:
+Proc. Intel Xeon X3220
+
+
+Doc.:
+nota fiscal
+Num.:
+628013
+Data:
+10/09/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Sn.Nt Projeto. QualiPSO
+
+
+Assinatura Digital:
+
+

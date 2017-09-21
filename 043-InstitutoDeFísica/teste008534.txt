@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008534
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/07/2006 - Processo: 06.1.44.43.9
+
+
+Responsável:
+2457358-1 Ellen Gobato Pedroso 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+864609
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TATUNG
+Modelo:
+TTF 2280 Pentium III 700mhz
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+4285
+Data:
+06/04/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+34120024
+
+
+Assinatura Digital:
+
+

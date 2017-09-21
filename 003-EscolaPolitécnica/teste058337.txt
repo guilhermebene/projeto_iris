@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.058337
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+20/06/2013 - Processo: 12.1.3373.3.0
+
+
+Responsável:
+83390-1 Linilson Rodrigues Padovese 
+
+
+Material:
+33413 - AMPLIFICADOR DE SINAL                                                                               
+
+
+Bem:
+5083591
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DAQ
+Modelo:
+1-DQ413-START
+Tipo:
+AMPLIFICADOR DE SINAL
+
+
+Doc.:
+nota fiscal
+Num.:
+16946
+Data:
+27/03/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SPECTRIS DO BRASIL INSTRUMENTOS ELETRÔNICOS - LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

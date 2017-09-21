@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005207
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+30/07/2003 - Processo: 03.1.55.43.8
+
+
+Responsável:
+28731-1 Gil da Costa Marques 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+2507382
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Garmin
+Modelo:
+GPS MAP70S
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1755
+Data:
+17/07/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Fulltech Informática Ltda
+
+
+Identif:
+93638324
+
+
+Assinatura Digital:
+
+

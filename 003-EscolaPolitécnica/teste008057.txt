@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008057
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/05/2000 - Processo: 00.1.7.3.1
+
+
+Responsável:
+1693506-1 Victor Francisco Mammana de Barros 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ASSINF               - ASSESSORIA DE INFORMATICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+PENTIUM 100 MHZ, 1 GB - PROLINEA 500
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+9503
+Data:
+07/08/1996
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F625HTC31290
+
+
+Assinatura Digital:
+
+

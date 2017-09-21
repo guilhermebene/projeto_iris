@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.013322
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+15/08/2012 - Processo: 12.1.1314.45.2
+
+
+Responsável:
+3223835-1 Ernesto Julian Goldberg Birgin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5014883
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+PROCESSO FAPESP 2009/10241-0
+
+
+ 
+ 
+
+
+Marca:
+MONTADO
+Modelo:
+XEON HERA
+Tipo:
+CORE  X 5650
+
+
+Doc.:
+nota fiscal
+Num.:
+DANFE 033
+Data:
+21/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0056PXJ98186
+
+
+Assinatura Digital:
+
+

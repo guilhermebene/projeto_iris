@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.067501
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/01/2017 - Processo: 17.5.52.1.4
+
+
+Responsável:
+2477271-1 Regina Elena Pereira 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095655
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-205-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4930
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CM0552454
+
+
+Assinatura Digital:
+
+

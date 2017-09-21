@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005624
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+23/10/2002 - Processo: 02.1.2138.45.3
+
+
+Responsável:
+2114967-1 Sebastiao Francisco Pinho Sousa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1943960
+Origem:
+Avaliação           
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MAC                  - DEPTO CIENCIA DA COMPUTAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+OLIVETTI - VONGOLE
+Modelo:
+M7000P
+Tipo:
+MICRO PENTIUMIII - 450MHZ
+
+
+Doc.:
+termo de avaliação
+Num.:
+PROJ.VERASS.
+Data:
+16/10/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+84.489.988/0001-94  -  22012
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.017880
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+26/06/2012 - Processo: 11.1.712.43.7
+
+
+Responsável:
+6331932-1 Felix Guillermo Gonzalez Hernandez 
+
+
+Material:
+192422 - INSTRUMENTO PARA MEDIÇÃO DA INTENSIDADE                                                             
+
+
+Bem:
+4949439
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ottime
+Modelo:
+perfil aluminio;1 guia linear,2 patins
+Tipo:
+linear,c/esferas,motor de passo
+
+
+Doc.:
+termo de doação
+Num.:
+-09/15007-5
+Data:
+12/04/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+posicionador-linear
+
+
+Assinatura Digital:
+
+

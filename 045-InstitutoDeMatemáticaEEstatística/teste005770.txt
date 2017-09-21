@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005770
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+22/01/2003 - Processo: 02.1.3919.3.3
+
+
+Responsável:
+2452499-1 Airton Vilela de Oliveira 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+1989871
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Switch 3C17300, via passagem de Bens da EP-Escola Politécnica-USP.
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+3C17300 - 4226T
+Tipo:
+SWITCH
+
+
+Doc.:
+nota fiscal
+Num.:
+2396
+Data:
+18/11/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+7Y1V1J7969640
+
+
+Assinatura Digital:
+
+

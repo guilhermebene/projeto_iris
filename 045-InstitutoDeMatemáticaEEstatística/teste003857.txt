@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003857
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+04/09/2001 - Processo: 01.1.432.45.0
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1039377
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+CPU AMD 850mhz, cv.11/2001, está no lab-4 CEC - IP.192.168.46.102
+
+
+ 
+ 
+
+
+Marca:
+ASUS
+Modelo:
+AMD-850MHZ
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.028817
+Data:
+20/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA
+
+
+Identif:
+72540
+
+
+Assinatura Digital:
+
+

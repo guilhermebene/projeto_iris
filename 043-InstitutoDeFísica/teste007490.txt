@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007490
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+25/11/2005 - Processo: 05.5.1004.70.4
+
+
+Responsável:
+2448174-1 Sandraly Aparecida Machado 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3840018
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CPG                  - Seção de Pós-Graduação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+CELERON-D
+Tipo:
+CELERON D 2,4Ghz
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+3032005
+Data:
+07/06/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+88838
+
+
+Assinatura Digital:
+
+

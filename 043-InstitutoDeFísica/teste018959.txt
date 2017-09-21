@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018959
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+27/05/2013 - Processo: 13.5.315.70.4
+
+
+Responsável:
+8852311-1 Alessio Mangiarotti 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5379962
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+OBS;MICROCOMPUTADOR MONTADO PELA CCE
+
+
+ 
+ 
+
+
+Marca:
+DO GABINETE / COLETEK
+Modelo:
+INTEL CORE I5 2400
+Tipo:
+MICOCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+3140
+Data:
+21/05/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+PLACA MAE******DH67GD
+
+
+Assinatura Digital:
+
+

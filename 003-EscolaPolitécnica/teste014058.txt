@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.014058
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+03/09/2001 - Processo: 01.1.1513.3.9
+
+
+Responsável:
+85405-1 Reinaldo Giudici 
+
+
+Material:
+100374 - CONTROLADOR DE FLUXO DE MASSA                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+SUBSTITUINDO A CHAPA 2001-003-9720 POR TROCA DE ORIGEM
+
+
+ 
+ 
+
+
+Marca:
+MKS
+Modelo:
+1179A14CS1AV
+Tipo:
+CONTROLADOR DE FLUXO DE MASSA
+
+
+Doc.:
+termo de doação
+Num.:
+1394
+Data:
+06/07/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0000271351
+
+
+Assinatura Digital:
+
+

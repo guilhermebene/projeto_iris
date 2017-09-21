@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.002806
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+01/06/2000 - Processo: 00.1.414.45.1
+
+
+Responsável:
+1914321-1 Roberto Marcondes Cesar Junior 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+546259
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Ventilador de teto loren-sid (está na sala 303-A "M A C) (vento-tec-813-5166)
+
+
+ 
+ 
+
+
+Marca:
+LOREN SID
+Modelo:
+C-1(COLONIAL)
+Tipo:
+TETO
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.0356
+Data:
+01/06/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VENTO-TEC-Ventiladores Ltda-ME
+
+
+Identif:
+****************
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.010038
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+17/09/2008 - Processo: 07.1.1497.45.4
+
+
+Responsável:
+1914321-1 Roberto Marcondes Cesar Junior 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+PROF. ROBERTO MARCONDES CESAR JR - PROC. FAPESP 05/00587-5
+
+
+ 
+ 
+
+
+Marca:
+POGOLINUX
+Modelo:
+XEON 5140
+Tipo:
+SERVIDOR
+
+
+Doc.:
+termo de doação
+Num.:
+TD 02847/2007
+Data:
+19/11/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/N. 70922
+
+
+Assinatura Digital:
+
+

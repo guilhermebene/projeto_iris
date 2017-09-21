@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.004248
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+09/01/2003 - Processo: 03.1.6.7.0
+
+
+Responsável:
+6365822-1 William Bragagnollo Montini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2090481
+Origem:
+Sispa Compra        
+Situação:
+Inservível     
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Localização: Sala S-11
+
+
+ 
+ 
+
+
+Marca:
+FULLTECH
+Modelo:
+INTEL P-III ON-BOARD
+Tipo:
+ 
+
+
+Doc.:
+nota fiscal
+Num.:
+3281
+Data:
+19/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+FULLTECH INFORMÁTICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

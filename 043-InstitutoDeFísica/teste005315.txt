@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005315
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+16/09/2003 - Processo: 03.1.53.43.5
+
+
+Responsável:
+2803020-1 Gennady Gusev 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4018753
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MICRO MAX
+Modelo:
+MB- ASUS P4S533-X
+Tipo:
+PENTIUM IV 1.7 GHz INTEL
+
+
+Doc.:
+nota fiscal
+Num.:
+3763
+Data:
+08/09/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MEM. RAM DE 256 MB HD DE 40GB
+
+
+Assinatura Digital:
+
+
