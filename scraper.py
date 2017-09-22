@@ -2,77 +2,66 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import os
-from difflib import SequenceMatcher
 
-def similar(a, b):
-    return SequenceMatcher(None, a, b).ratio()
+URL = "https://uspdigital.usp.br/mercurioweb/PatrimonioMostrar?numpat=##START_INDEX##"
+unidade = input('Unidade: ').rjust(3, '0')
 
-def selecionarUnidade():
-    achou = False
-    print("Digite o instituto ou unidade para baixar")
-    instituto = input()
-    listaInstitutos = open("Códigos Institutos")
-    
-    for line in listaInstitutos:
-      
-       x = listaInstitutos.readline()
-       Y = similar(x, instituto)
-       
-       if(Y > 0.2):
-          print(x)
-          achou = True
-    
-    
-    if (achou == True):
-       print("Estes foram os resultados obtidos, digite agora o código ideal, ignore os '0' presentes à esquerda do número")
-       listaInstitutos.close()
-    
-    else:
-       print(listaInstitutos.readlines())
+def folderName(): # define a unidade e o nome da pasta destino dos dados
 
-    
+    try:
+        foldersNames = open("NomesPastas", 'r')
+        lines = foldersNames.read().splitlines() # lines recebe um array com tds as linhas exceto \n
+        folderName = lines[int(unidade)-1] #folderName recebe a linha equivalente à unidade digitada
+        foldersNames.close()
+    except: # caso não exista o arquivo "NomesPastas" no mesmo diretório onde o programa está rodando, folderName recebe apenas o código da unidade
+        print('Arquivo "NomesPastas" não encontrado')
+        folderName = unidade
+
+    return folderName
+
+
+inicial = int(input('Ínicio: '))
+final = int(input('Fim: '))
+
+def dataDirectory(name): # troca para a pasta com nome igual a name, se falhar, cria essa pasta
+
+    try:
+        os.chdir(name)
+    except:
+        os.mkdir(name)
+        os.chdir(name)
 
 def itemData(i): #função retorna a sopa da ficha do item de código i
 
-    rURL = URL.replace("##START_INDEX##", str(unidade).rjust(3, '0') + '.' + str(i).rjust(6,'0'))
+    rURL = URL.replace("##START_INDEX##", unidade + '.' + str(i).rjust(6,'0')) # rURL recebe URL substituindo "##START_INDEX##" pelo item de código i
 
-    pageSoup = BeautifulSoup(requests.get(rURL).text, "html.parser") #sopa da página do item
+    pageSoup = BeautifulSoup(requests.get(rURL).text, "html.parser") # sopa da página do item
 
-    dataSoup = pageSoup.find("table", align = 'center', cellspacing ='1') #sopa da ficha do item
+    dataSoup = pageSoup.find("table", align = 'center', cellspacing ='1') # sopa da ficha do item
 
     return dataSoup
 
-
-          	
-
 def main():
 
+    inicio = time.time()
+
+    dataDirectory(folderName()) # seta a pasta de destino dos dados
+    log = open("log_" + unidade, 'a')
+
     for n in range(inicial, final + 1):
-        print(str(unidade).rjust(3, '0') + '.' + str(n).rjust(6, '0'))
+        print(unidade + '.' + str(n).rjust(6, '0'))
         dataSoup = itemData(n)
         myFile = open("teste" + str(n).rjust(6, '0') + ".txt", "w")
         if dataSoup is not None:
             myFile.write(dataSoup.get_text())
         else:
-            myFile.write("Erro")
+            log.write(str(n).rjust(6, '0') + '\n')
         myFile.close()
 
+    log.close()
 
-selecionarUnidade()
-inicio = time.time()
-
-URL = "https://uspdigital.usp.br/mercurioweb/PatrimonioMostrar?numpat=##START_INDEX##"
-unidade = input('Unidade: ')
-inicial = int(input('Ínicio: '))
-final = int(input('Fim: '))
-
-
-
+    fim = time.time()
+    tempo = fim - inicio
+    print("Tempo de execução: " + str((tempo/60)//1) + ' minuto e ' + str((tempo%60)//1) + " segundos")
 
 main()
-
-fim = time.time()
-tempo = fim - inicio
-
-print("Tempo de execução: " + str((tempo/60)//1) + ' minuto e ' + str((tempo%60)//1) + " segundos")
-
