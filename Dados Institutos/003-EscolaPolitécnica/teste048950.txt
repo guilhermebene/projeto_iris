@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.048950
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+18/08/2010 - Processo: 10.1.1510.3.9
+
+
+Responsável:
+58119-1 Jorge Alberto Soares Tenório 
+
+
+Material:
+120227 - FIREWALL                                                                                            
+
+
+Bem:
+4042115
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CEPEMA               - Centro de Capacitação e Pesquisa em Meio Ambiente
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SONICWALL
+Modelo:
+
+Tipo:
+FIREWALL
+
+
+Doc.:
+nota fiscal
+Num.:
+84
+Data:
+28/06/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TF COM. SERV. DE TELECOMUNICAÇÕES E TECNOLOGIA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

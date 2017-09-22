@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.034603
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+16/03/2006 - Processo: 05.1.1983.3.9
+
+
+Responsável:
+81151-1 Sergio Takeo Kofuji 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3816885
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIE Q
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+229522
+Data:
+06/01/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+POSITIVO INFORMATICA LTDA
+
+
+Identif:
+672230Q
+
+
+Assinatura Digital:
+
+

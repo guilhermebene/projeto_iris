@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.005507
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+26/10/1999 - Processo: 
+
+
+Responsável:
+72828-1 Eduardo Cesar Senger 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642959
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASA COMPUTER
+Modelo:
+386 SX 25MHZ
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+4114237
+
+
+Assinatura Digital:
+
+

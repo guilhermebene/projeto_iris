@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.043397
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/08/2009 - Processo: 08.1.2959.3.7
+
+
+Responsável:
+73509-1 Helio Mitio Morishita 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4766431
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+224
+Data:
+03/07/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+IN SITE TECNOLOGIA LTDA.
+
+
+Identif:
+G4DMBK1
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.029577
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+17/08/2004 - Processo: 01.1.1766.3.4
+
+
+Responsável:
+53816-1 Nilton Itiro Morimoto 
+
+
+Material:
+43567 - GERADOR DE SINAL                                                                                    
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+EQUIPAMENTOS INCORPORADO ATRAVES DO PROC. DE IMPORTAÇÃO (EQUIPAMENTOS MAIS ACESS
+
+
+ 
+ORIOS) 
+
+
+Marca:
+ADVANCED ENERGY
+Modelo:
+RFX600A
+Tipo:
+GERADOR DE SINAIS C/ REDE DE CONTR. AUT.
+
+
+Doc.:
+declaração de importação
+Num.:
+04/0147905
+Data:
+16/02/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+350716
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.021784
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+19/05/2017 - Processo: 17.1.614.43.0
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+7305818
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+PowerEdge  R630
+Tipo:
+SERVIDOR
+
+
+Doc.:
+nota fiscal
+Num.:
+N.F************000.000.270
+Data:
+19/05/2017
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Advanced Reseller Comercio e Serviços de Tecnologia Ltda - Epp
+
+
+Identif:
+EMPENHO 01656084
+
+
+Assinatura Digital:
+
+

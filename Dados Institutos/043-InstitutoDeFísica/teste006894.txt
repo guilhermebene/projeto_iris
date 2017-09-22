@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006894
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+01/04/2005 - Processo: 05.1.39.43.4
+
+
+Responsável:
+2458961-1 Liliam Maria Matheus Gimenez 
+
+
+Material:
+14990 - APARELHO DE FAX                                                                                     
+
+
+Bem:
+946419
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIR\DIR
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TCE
+Modelo:
+F-500
+Tipo:
+TCEF500
+
+
+Doc.:
+nota fiscal
+Num.:
+3458
+Data:
+17/04/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Cani Informática e Comércio Ltda
+
+
+Identif:
+IR05000203
+
+
+Assinatura Digital:
+
+

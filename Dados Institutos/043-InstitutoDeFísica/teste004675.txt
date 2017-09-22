@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004675
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+07/06/2002 - Processo: 02.1.111.43.4
+
+
+Responsável:
+28731-1 Gil da Costa Marques 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+1553810
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+3C16980A 24 protas 10/100 base
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+34812
+Data:
+06/06/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Switch Eletro Eletrônica LTDA
+
+
+Identif:
+7MMV6A289B8
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005294
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+16/09/2003 - Processo: 03.1.55.43.8
+
+
+Responsável:
+2143560-1 Paulo Alberto Nussenzveig 
+
+
+Material:
+126314 - FONTE DE TENSÃO                                                                                     
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+E3631A
+Tipo:
+25V/1A
+
+
+Doc.:
+declaração de importação
+Num.:
+99/00822781
+Data:
+29/01/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+KR83915646
+
+
+Assinatura Digital:
+
+

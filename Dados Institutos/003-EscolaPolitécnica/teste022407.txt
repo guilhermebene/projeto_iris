@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.022407
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+31/01/2003 - Processo: 02.1.805.3.7
+
+
+Responsável:
+133930-1 Elisabete Galeazzo 
+
+
+Material:
+126314 - FONTE DE TENSÃO                                                                                     
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+SUBSTITUI A CHAPA 003-019976 MOTIVO ORIGEM OBS: TERMO DE DEPOSITO CNPq 2005/0091
+
+
+ 
+06 -20/05/2005 (PR 05.1.1626.1.2) 
+
+
+Marca:
+KHEITHLEY
+Modelo:
+NR 2400
+Tipo:
+FONTE DE CORRENTE DE TENSÃO DIGITAL
+
+
+Doc.:
+declaração de importação
+Num.:
+02/0394079-7
+Data:
+03/05/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0900149
+
+
+Assinatura Digital:
+
+

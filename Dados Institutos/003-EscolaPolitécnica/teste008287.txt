@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008287
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/05/2000 - Processo: 99.1.2142.3.1
+
+
+Responsável:
+69532-1 Cláudio Augusto Oller do Nascimento 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643785
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+VECTRA-C333
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+57169
+Data:
+09/04/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BR85050085
+
+
+Assinatura Digital:
+
+

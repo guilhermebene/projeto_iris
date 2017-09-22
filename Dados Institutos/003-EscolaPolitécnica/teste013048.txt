@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.013048
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+18/06/2001 - Processo: 01.1.572.3.1
+
+
+Responsável:
+60411-1 Gilmar Ferreira Batalha 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1001299
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ECS
+Modelo:
+P6BAP-P
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+28009
+Data:
+11/06/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRONICA LTDA.
+
+
+Identif:
+CN200045848
+
+
+Assinatura Digital:
+
+

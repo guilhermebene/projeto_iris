@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.008410
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+22/04/2010 - Processo: 10.1.387.7.1
+
+
+Responsável:
+2802655-1 Rubens Chiquinato 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+4964365
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+STTRANS              - SETOR DE TRANSPORTES
+
+
+Complemento:
+Localização: Sala S-01
+
+
+ 
+ 
+
+
+Marca:
+GARMIN
+Modelo:
+1300
+Tipo:
+4.3 "
+
+
+Doc.:
+nota fiscal
+Num.:
+401
+Data:
+19/04/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+RCM - COM. DE EQUIPAMENTOS ELETRO-ELETRÔNICOS LTDA - EPP
+
+
+Identif:
+GPS
+
+
+Assinatura Digital:
+
+

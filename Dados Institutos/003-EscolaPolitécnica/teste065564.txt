@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.065564
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+23/04/2015 - Processo: 14.1.2795.3.0
+
+
+Responsável:
+52454-1 Luiz Cezar Trintinalia 
+
+
+Material:
+144380 - AMPLIFICADOR DE POTÊNCIA                                                                            
+
+
+Bem:
+7495013
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+STMI MICROELECTRONICS
+Modelo:
+STEVAL-TDR001V1
+Tipo:
+AMPLIFICADOR DE POTENCAI
+
+
+Doc.:
+nota fiscal
+Num.:
+344864
+Data:
+30/01/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+FARNELL NEWARK BRASIL DIST PRODUTOS ELETRONICOS LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

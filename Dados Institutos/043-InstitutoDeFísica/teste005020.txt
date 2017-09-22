@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005020
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+19/02/2003 - Processo: 04.1.28322.1.6
+
+
+Responsável:
+7339164-1 Caetano Rodrigues Miranda 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMA                  - Departamento de Física Matemática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micromax
+Modelo:
+motherboard Athlon/Duron
+Tipo:
+memória DDR 256MB
+
+
+Doc.:
+nota fiscal
+Num.:
+3398
+Data:
+10/02/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+HD 40GB IDE
+
+
+Assinatura Digital:
+
+

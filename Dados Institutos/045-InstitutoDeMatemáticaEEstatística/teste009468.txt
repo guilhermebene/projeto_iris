@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.009468
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+22/04/2008 - Processo: 03.1.200.69.1
+
+
+Responsável:
+2778190-1 Irma Teresa Felipe 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3334651
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DTBIBL               - DIRETORIA TÉCNICA DE BIBLIOTECA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+POS_AT SERIES F (CELERON R)
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota fiscal
+Num.:
+1505/06/07/08/09/10/11
+Data:
+14/01/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+297823
+
+
+Assinatura Digital:
+
+

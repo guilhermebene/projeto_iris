@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003252
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+12/12/2000 - Processo: 00.1.1002.45.9
+
+
+Responsável:
+64801-1 Leonidas de Oliveira Brandao 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+810339
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Micro AMD K6II - 550mhz,(cv.13/2000)está na sala 163-B, fone empresa:3714-9694
+
+
+ 
+ 
+
+
+Marca:
+MICROMAX
+Modelo:
+AMD K6II - 550MHZ
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.:02.137
+Data:
+08/12/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROMAX COMÉRCIO EM INFORMÁTICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

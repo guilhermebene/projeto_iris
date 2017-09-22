@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.012476
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+04/04/2001 - Processo: 01.1.77.3.0
+
+
+Responsável:
+2479613-1 Marcia Costa Pinto Barros 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+927538
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVGRAD               - SERVICO DE GRADUACÃO (ALUNOS)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP III
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+1349
+Data:
+04/04/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INFOBRAS INFORMATICA DO BRASIL LTDA.
+
+
+Identif:
+3010973187
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.053859
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+05/06/2012 - Processo: 11.1.3710.3.6
+
+
+Responsável:
+1198236-1 Mauricio Oscar Perez Lisboa 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5054907
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUPERMICRO
+Modelo:
+
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+401
+Data:
+25/04/2012
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TITAN SOLUTIONS EQUIP. DE INFORMÁTICA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

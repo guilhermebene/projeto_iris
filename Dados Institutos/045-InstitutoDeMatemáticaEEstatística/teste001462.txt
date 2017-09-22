@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.001462
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+08/09/1999 - Processo: 99.1.619.45.0
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+145661
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SUN
+Modelo:
+(SPARCSTATION-4)  -  1PROCESSADOR
+Tipo:
+X-TERMINAL-MICROSPARC-II
+
+
+Doc.:
+termo de doação
+Num.:
+DI.511741/96.TD.1086/97
+Data:
+04/08/1999
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/N.:525F00AJ
+
+
+Assinatura Digital:
+
+

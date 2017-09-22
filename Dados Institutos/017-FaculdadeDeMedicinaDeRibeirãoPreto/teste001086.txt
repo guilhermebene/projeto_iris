@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.001086
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+23/07/1999 - Processo: 
+
+
+Responsável:
+2479130-1 Carlos Alberto Ribeiro de Carvalho 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643769
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ZENITH
+Modelo:
+PENTIUM 166 MHZ LX2
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+WELCOM COMPUTADORES LTDA.
+
+
+Identif:
+LX2P008187
+
+
+Assinatura Digital:
+
+

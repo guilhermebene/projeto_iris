@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.021173
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/11/2002 - Processo: 02.1.27350.1.4
+
+
+Responsável:
+2807107-1 Mario Gomes de Sena 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVGRAD               - SERVICO DE GRADUACÃO (ALUNOS)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+Post-ATSERIESJ
+Tipo:
+ATHLON-AMD 1,333 GHZ HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88852
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+132246
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.003698
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+13/09/2001 - Processo: 
+
+
+Responsável:
+1374094-1 Nelson Carlin Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GATEWAY2000
+Modelo:
+GP5-200
+Tipo:
+Pentium 200
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+COMPUMAXIMA COMERCIO E REPRESENTACAO LTDA.
+
+
+Identif:
+0008767714
+
+
+Assinatura Digital:
+
+

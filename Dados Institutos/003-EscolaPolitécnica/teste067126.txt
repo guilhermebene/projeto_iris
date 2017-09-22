@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.067126
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+24/11/2016 - Processo: 16.1.1514.3.0
+
+
+Responsável:
+892701-1 Lucio Coiti Yajima 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+7295715
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LENOVO
+Modelo:
+THINKSERVER RD350
+Tipo:
+SERVIDOR
+
+
+Doc.:
+nota fiscal
+Num.:
+152
+Data:
+02/11/2016
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ALAMO COMERCIO SERVIÇOS ASS. CONSULTORIA EIRELLI EPP
+
+
+Identif:
+PE0214DH
+
+
+Assinatura Digital:
+
+

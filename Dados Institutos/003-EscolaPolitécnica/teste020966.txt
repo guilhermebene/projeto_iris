@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.020966
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+30/10/2002 - Processo: 02.1.862.3.0
+
+
+Responsável:
+64068-1 José Luis de Paiva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1843800
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIES Q
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM PC
+
+
+Doc.:
+nota fiscal
+Num.:
+98834
+Data:
+24/10/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+POSITIVO INFORMATICA LTDA.
+
+
+Identif:
+146561
+
+
+Assinatura Digital:
+
+

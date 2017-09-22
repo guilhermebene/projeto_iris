@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.013307
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+23/07/2001 - Processo: 01.1.811.3.6
+
+
+Responsável:
+81975-1 Rui Carlos Botter 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1052993
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ECS
+Modelo:
+2P6VXM
+Tipo:
+MICROCOMPUTADOR PIII 850MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+28791
+Data:
+18/07/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRONICA LTDA
+
+
+Identif:
+61981
+
+
+Assinatura Digital:
+
+

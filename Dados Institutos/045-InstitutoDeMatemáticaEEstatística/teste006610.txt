@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006610
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+07/07/2004 - Processo: 04.1.763.45.0
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+81248 - MESA PARA SALA DE AULA                                                                              
+
+
+Bem:
+3057607
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Albert Fort
+Modelo:
+melamína ovo
+Tipo:
+cadeira fixa s/braços(true - table)
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.07442
+Data:
+28/05/2004
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+Alber Fort Móveis para Escritório Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

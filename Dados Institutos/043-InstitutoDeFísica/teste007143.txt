@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007143
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+23/08/2005 - Processo: 05.1.38.43.8
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3644715
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Allied Telesyn
+Modelo:
+AT-8326GB
+Tipo:
+24 portas 10/100 Base Tx
+
+
+Doc.:
+nota fiscal
+Num.:
+223
+Data:
+12/07/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Ziva Tecnologia e Soluções Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

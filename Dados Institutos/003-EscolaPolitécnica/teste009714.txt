@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.009714
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/09/2000 - Processo: 98.1.1877.3.7
+
+
+Responsável:
+55328-1 Julio Cezar Adamowski 
+
+
+Material:
+100382 - EQUIP. PULSO-ECO                                                                                    
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PANAMETRICS
+Modelo:
+5072PR
+Tipo:
+PULSADOR RECEPTOR ULTRASSONICO
+
+
+Doc.:
+declaração de importação
+Num.:
+98/1060694-0
+Data:
+22/10/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+98048805
+
+
+Assinatura Digital:
+
+

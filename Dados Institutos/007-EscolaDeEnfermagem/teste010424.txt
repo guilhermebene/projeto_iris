@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.010424
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+18/06/2012 - Processo: 12.1.270.7.9
+
+
+Responsável:
+3055463-2 Priscila Câmara Alves 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+5107881
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Localização: CI-Centro de Informática
+
+
+ 
+ 
+
+
+Marca:
+TP LINK
+Modelo:
+IEEE802.3 300MBPS
+Tipo:
+1 PORTA WAN 10/100
+
+
+Doc.:
+nota fiscal
+Num.:
+1139
+Data:
+14/06/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MASTERDATA INFORMÁTICA LTDA.-ME
+
+
+Identif:
+ROTEADOR DE REDE
+
+
+Assinatura Digital:
+
+

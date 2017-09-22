@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.020724
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+22/10/2002 - Processo: 02.1.1100.3.7
+
+
+Responsável:
+91055-1 Mario Thadeu Leme de Barros 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PHA                  - (DEPTO. ENG. HIDRAULICA E AMBIENTAL)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+COMP GEOPC
+Modelo:
+PENTIUM 4
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+81232
+Data:
+17/04/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+34555B670X
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.005750
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+09/11/1999 - Processo: 99.1.2906.3.1
+
+
+Responsável:
+2086208-1 Roberto Guardani 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+205010
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+3C16702
+Tipo:
+HUB
+
+
+Doc.:
+nota fiscal
+Num.:
+3434
+Data:
+15/10/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+EXCELBYT IND. COM. IMP. EXP. LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

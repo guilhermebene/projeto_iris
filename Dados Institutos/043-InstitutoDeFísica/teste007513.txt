@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.007513
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+19/12/2005 - Processo: 05.1.38.43.8
+
+
+Responsável:
+2803020-1 Gennady Gusev 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3841600
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMT                  - Departamento de Física dos Materiais e Mecânica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MICROMAX
+Modelo:
+PLATIUM 8340
+Tipo:
+ADM ATHLON 64 3400 M512MB DDR 400MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+5132
+Data:
+15/12/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda.
+
+
+Identif:
+H050281810000061
+
+
+Assinatura Digital:
+
+

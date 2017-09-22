@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006823
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+08/12/2004 - Processo: 04.1.1453.45.4
+
+
+Responsável:
+763245-1 Gislaine Olivi Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3275493
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Microcomputador AMD
+
+
+ 
+ 
+
+
+Marca:
+Micromax - Platinum
+Modelo:
+7230
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura.004.536
+Data:
+06/12/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

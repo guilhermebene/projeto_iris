@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.001969
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+30/07/2012 - Processo: 12.5.550.70.2
+
+
+Responsável:
+3656870-1 Camila Romera Sevilha 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5253020
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CBM/DIR/ADM          - CEBIMAR/DIRETORIA/ADMINISTRAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+PLACA MÃE INTEL DH67GD
+Tipo:
+INTEL I5 2400 - 2GB - HD 500GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+CHT 202.515
+Data:
+02/07/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+114692
+
+
+Assinatura Digital:
+
+

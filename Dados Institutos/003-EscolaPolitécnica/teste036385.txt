@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.036385
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+18/10/2006 - Processo: 05.1.1499.3.0
+
+
+Responsável:
+1199860-1 Marcelo Augusto Leal Alves 
+
+
+Material:
+155780 - SISTEMA DE MEDIÇÃO DE PROPR. DINÂMICAS                                                              
+
+
+Bem:
+3345513
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+DI 05/1110355-1, LABORATÓRIO DE DESENVOLVIMENTO DO PRODUTO.
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+C/ AMPLIFICADOR DE SINAL E CONDICIONADOR
+Tipo:
+SISTEMA DE MEDIÇÃO DE PROPR. DINÂMICAS
+
+
+Doc.:
+declaração de importação
+Num.:
+DI 05/1110355-1
+Data:
+14/10/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SIGNAL WORKS COM. IMP. E  EXP. LTDA.
+
+
+Identif:
+246E790A01
+
+
+Assinatura Digital:
+
+

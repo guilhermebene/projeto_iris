@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.005892
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/11/1999 - Processo: 99.1.2868.3.2
+
+
+Responsável:
+69532-1 Cláudio Augusto Oller do Nascimento 
+
+
+Material:
+14869 - CENTRAL TELEFÔNICA PABX                                                                             
+
+
+Bem:
+218944
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MATEC
+Modelo:
+MICROX10 40/2
+Tipo:
+CENTRAL TELEFONICA PABX
+
+
+Doc.:
+nota fiscal
+Num.:
+7389
+Data:
+15/10/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ERIVAL TELECOMUNICACOES COM. REPRES. LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

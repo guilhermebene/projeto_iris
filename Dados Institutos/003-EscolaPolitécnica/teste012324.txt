@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.012324
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+19/03/2001 - Processo: 94.1.1978.3.4
+
+
+Responsável:
+62862-1 Newton Maruyama 
+
+
+Material:
+49131 - PROGRAMADOR TESTADOR                                                                                
+
+
+Bem:
+930016
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+*OBS, N.SÉRIE 32599/941849/029425485675 ACESSÓRIOS DOS CLPs.
+
+
+ 
+ 
+
+
+Marca:
+KLOCKNER-MOELLER
+Modelo:
+SIM2-PS3-P306,C/ ACESSÓRIOS *
+Tipo:
+PROGRAMADOR TESTADOR
+
+
+Doc.:
+declaração de importação
+Num.:
+500786
+Data:
+18/01/1995
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+EDUARDO LOBO LUSTOSA CABRAL
+
+
+Identif:
+940276
+
+
+Assinatura Digital:
+
+

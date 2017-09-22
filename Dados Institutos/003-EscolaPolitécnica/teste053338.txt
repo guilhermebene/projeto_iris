@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.053338
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+30/03/2012 - Processo: 12.5.225.70.4
+
+
+Responsável:
+44159-1 Jose Sidnei Colombo Martini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MONTADO NO CCE USP
+Modelo:
+INTEL i5 2400
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2901
+Data:
+08/03/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

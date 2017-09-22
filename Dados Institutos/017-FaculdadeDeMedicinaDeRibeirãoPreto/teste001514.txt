@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.001514
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+26/08/1999 - Processo: 95.1.21.17.9
+
+
+Responsável:
+2992370-1 Rita de Cassia dos Reis 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642789
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCMATER              - Seção de Material
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MYTHUS
+Modelo:
+486 D2
+Tipo:
+PROCESSADOR
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICROTEC SISTEMAS IND.COM.S/A
+
+
+Identif:
+01672655
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.011398
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+24/05/2006 - Processo: 04.1.2374.17.5
+
+
+Responsável:
+48104-1 Helio Cesar Salgado 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4050630
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+RFI                  - Depto. de Fisiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INTEL
+Modelo:
+PENTIUN IV
+Tipo:
+PROCESSADOR INTEL COMPLETO
+
+
+Doc.:
+instrumento de convênio
+Num.:
+NFF- 000181
+Data:
+11/01/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

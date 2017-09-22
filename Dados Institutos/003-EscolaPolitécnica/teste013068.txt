@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.013068
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+18/06/2001 - Processo: 01.1.572.3.1
+
+
+Responsável:
+2482110-1 Cassio Ricardo Delphino Neves 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1001345
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+VERBA FAAP
+
+
+ 
+ 
+
+
+Marca:
+ECS
+Modelo:
+P6BAP-AP
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+028010
+Data:
+11/06/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRONICA LTDA.
+
+
+Identif:
+200059283
+
+
+Assinatura Digital:
+
+

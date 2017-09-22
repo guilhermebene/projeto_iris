@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.025990
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+15/12/2003 - Processo: 03.1.4396.3.5
+
+
+Responsável:
+68524-1 Nicola Pacileo Netto 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+2744201
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PTR                  - DEPTO. DE ENGENHARIA DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GARMIN INTERNATIONAL
+Modelo:
+GPS ETREX
+Tipo:
+SISTEMA DE POSICIONAMENTO GLOBAL (GPS)
+
+
+Doc.:
+nota fiscal
+Num.:
+512
+Data:
+13/11/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+J & J IMPORTACAO E REPRESENTACAO LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

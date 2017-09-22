@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.057406
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+21/03/2013 - Processo: 10.5.41.70.9
+
+
+Responsável:
+3576287-1 Caio Goncalves Reginato 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+SOLICITANTE ALEXANDRE RODRIGUES DE OLIVEIRA PATRIM. ANTIGO 003.015933
+
+
+ 
+ 
+
+
+Marca:
+MONTADO NO CCE USP - CHAMADO TECN. 10487
+Modelo:
+
+Tipo:
+INTEL CORE 2DUO- DDR2 1GB - HD 160G SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1950/2010
+Data:
+22/01/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NUMERO DE SÉRIE GABINETE  101975
+
+
+Assinatura Digital:
+
+

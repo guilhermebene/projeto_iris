@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.019910
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+27/08/2002 - Processo: 02.1.1953.3.0
+
+
+Responsável:
+2700999-1 Arlindo Tribess 
+
+
+Material:
+117803 - SISTEMA DE MONITORAMENTO DE IMAGEM                                                                  
+
+
+Bem:
+1724207
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PME                  - DEPTO. DE ENG. MECÂNICA
+
+
+Complemento:
+inclui a CPU
+
+
+ 
+ 
+
+
+Marca:
+GEOVISION
+Modelo:
+
+Tipo:
+SISTEMA DE MONITORAMENTO DE IMAGEM
+
+
+Doc.:
+nota fiscal
+Num.:
+17
+Data:
+05/08/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+LSS CONSULTORIA DE SEGURANÇA S/C LTDA. EPP
+
+
+Identif:
+021070262
+
+
+Assinatura Digital:
+
+

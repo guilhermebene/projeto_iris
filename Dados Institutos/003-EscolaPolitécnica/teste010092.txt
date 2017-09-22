@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.010092
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+04/06/2007 - Processo: 00.1.1016.3.4
+
+
+Responsável:
+55478-1 Jun Okamoto Junior 
+
+
+Material:
+98469 - LINK TRANSMISSOR DE RÁDIO E VÍDEO                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+COMPOSTO PELA UNIDADE TRANSMISSORA AP4800-E E A UNIDADE RECEPTORA UC4800-E;  CAR
+
+
+ 
+TÃO  PCMCIA MOD. PC4800  DI0 0/0913383-0 
+
+
+Marca:
+AIRONET
+Modelo:
+AP4800-E
+Tipo:
+LINK DE RADIO ETHERNET
+
+
+Doc.:
+termo de doação
+Num.:
+00624/2002
+Data:
+05/04/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+RP01009792
+
+
+Assinatura Digital:
+
+

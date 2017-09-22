@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.002144
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+08/11/2013 - Processo: 13.1.34.30.9
+
+
+Responsável:
+2373491-1 Gabriel Tonani 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+4994949
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CBM/DIR/INFORMÁTICA  - CEBIMAR/DIRETORIA/INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+MD 3200I
+Tipo:
+ISCSI
+
+
+Doc.:
+nota fiscal
+Num.:
+DANFE 903 - SÉRIE 1
+Data:
+29/08/2013
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+A-4 COMÉRCIO E PRESTAÇÃO DE SERVIÇOS E INFORMÁTICA LTDA-ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

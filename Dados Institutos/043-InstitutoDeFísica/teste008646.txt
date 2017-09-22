@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.008646
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+15/08/2006 - Processo: 03.1.87.43.7
+
+
+Responsável:
+2470412-1 Renata Cristian Mattar Bonato 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+4148649
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+MEMORIA CACHE DE 2MB, MEMORIA RAM 512MB DIMM, PLACA DE REDE DUOL ON BOAD 10/100 
+
+
+ 
+ETHERNET, FLOPPY DISK, CD-ROM, SOFTWARES,  CONTROLADORA ULTRA2 
+
+
+Marca:
+COMPAQ
+Modelo:
+DS - 10
+Tipo:
+DA - 73BAA - EA
+
+
+Doc.:
+declaração de importação
+Num.:
+01/1005401-0
+Data:
+02/10/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+PROCESSADOR 21264A , 600MHz
+
+
+Assinatura Digital:
+
+

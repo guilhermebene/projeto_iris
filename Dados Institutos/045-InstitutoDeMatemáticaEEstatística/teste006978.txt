@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.006978
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+24/01/2005 - Processo: 95.1.27715.1.5
+
+
+Responsável:
+29311-1 Siang Wun Song 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MAC                  - DEPTO CIENCIA DA COMPUTAÇÃO
+
+
+Complemento:
+Estação de trabalho 535mb Hard Disk interno - Fapesp.95/0767-0[acertar sala corr
+
+
+ 
+eta] 
+
+
+Marca:
+SUN
+Modelo:
+hard.535interno- 32mbRAM - 70mhzsparcI.
+Tipo:
+Estaçãode trabalho
+
+
+Doc.:
+termo de doação
+Num.:
+500306
+Data:
+26/03/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

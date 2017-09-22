@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.019822
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+15/08/2002 - Processo: 02.1.686.3.8
+
+
+Responsável:
+2086208-1 Roberto Guardani 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+NF 000786
+
+
+ 
+ 
+
+
+Marca:
+COMPAQ
+Modelo:
+PRESARIO 1200LB,PROCESSADOR CELERON
+Tipo:
+NOTEBOOK
+
+
+Doc.:
+nota fiscal
+Num.:
+000786
+Data:
+03/01/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F149JNW30461
+
+
+Assinatura Digital:
+
+

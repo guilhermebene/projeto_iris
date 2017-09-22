@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.002047
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+20/06/2000 - Processo: 00.1.125.7.7
+
+
+Responsável:
+1986214-1 Rosilene Laiola 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+551031
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CI                   - CENTRO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VECTRON
+Modelo:
+PENTIUM III - 700MHZ
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2118
+Data:
+15/06/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VECTRON ELETRÕNICA INDÚSTRIA E COMÉRCIO LTDA
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

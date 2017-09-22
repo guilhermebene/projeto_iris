@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.038781
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+31/05/2007 - Processo: 07.1.588.3.0
+
+
+Responsável:
+2083866-1 Andre Fabio Kohn 
+
+
+Material:
+160016 - SISTEMA DE AQUISIÇÃO DE DADOS                                                                       
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PTC                  - DEPTO. DE ENG. TELECOMUNICAÇÕES E CONTROLE
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BIOMETRICS
+Modelo:
+DLK900
+Tipo:
+SISYEMA DE APLIFICAÇAO 8 CANAIS
+
+
+Doc.:
+nota fiscal
+Num.:
+INVOICE 10.001.05
+Data:
+20/10/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+M06898
+
+
+Assinatura Digital:
+
+

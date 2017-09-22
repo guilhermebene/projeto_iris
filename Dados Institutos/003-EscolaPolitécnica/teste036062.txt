@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.036062
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+12/09/2006 - Processo: 06.1.3452.1.5
+
+
+Responsável:
+1954441-1 Ronaldo Domingues Mansano 
+
+
+Material:
+167428 - EQUIPAMENTO CONTROLADOR PARA MALHA DE ACOPLAMENTO                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ADVANCED ENERGY
+Modelo:
+TCMII
+Tipo:
+CONTROLE PARA MALHA DE ACOPLAMENTO
+
+
+Doc.:
+termo de depósito
+Num.:
+2006/011543
+Data:
+27/01/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+327847
+
+
+Assinatura Digital:
+
+

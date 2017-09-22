@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.037936
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/03/2007 - Processo: 06.1.1374.3.3
+
+
+Responsável:
+52371-1 Luiz Cera Zanetta Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3895548
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PEA                  - DEPT. ENG. ELETRICA E AUTOMAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIE Q
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM
+
+
+Doc.:
+nota fiscal
+Num.:
+18002
+Data:
+04/12/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+POSITIVO INFORMATICA LTDA.
+
+
+Identif:
+1511050
+
+
+Assinatura Digital:
+
+

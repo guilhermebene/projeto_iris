@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.043792
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+29/09/2009 - Processo: 07.1.3352.3.8
+
+
+Responsável:
+91778-1 Carmen Cecilia Tadini 
+
+
+Material:
+189278 - MÓDULO DE AQUISIÇÃO DE DADOS                                                                        
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PQI                  - DEPTO. DE ENGENHARIA QUIMICA
+
+
+Complemento:
+.
+
+
+ 
+ 
+
+
+Marca:
+NATIONAL INSTRUMENTS
+Modelo:
+USB9211
+Tipo:
+MÓDULO DE AQUISIÇÃO DE DADOS
+
+
+Doc.:
+termo de doação
+Num.:
+02243/2007
+Data:
+20/09/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NS-12C5434
+
+
+Assinatura Digital:
+
+

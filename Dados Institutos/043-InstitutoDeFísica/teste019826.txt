@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019826
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+08/08/2014 - Processo: 14.1.872.43.7
+
+
+Responsável:
+25241-1 Alinka Lepine 
+
+
+Material:
+99732 - MÓDULO ELETRÔNICO DIGITAL                                                                           
+
+
+Bem:
+735302
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+MODULO CONTRALADOR
+Tipo:
+1GHZ MPC7455,512MB ECC SDRAM
+
+
+Doc.:
+termo de doação
+Num.:
+CNPq 47803/2008-3
+Data:
+17/05/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/N 7073143
+
+
+Assinatura Digital:
+
+

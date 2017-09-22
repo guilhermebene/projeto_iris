@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.002342
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+09/06/2015 - Processo: 15.1.12.30.7
+
+
+Responsável:
+2373491-1 Gabriel Tonani 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+5648858
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CBM/DIR/INFORMÁTICA  - CEBIMAR/DIRETORIA/INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HEWLETT PACKARD
+Modelo:
+MSM430 J9650A
+Tipo:
+SEM FIO
+
+
+Doc.:
+nota fiscal
+Num.:
+DANFE 478.953
+Data:
+29/05/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Cdc Brasil Distribuidora de Tecnologias Especiais Ltda
+
+
+Identif:
+CN48DWY04G
+
+
+Assinatura Digital:
+
+

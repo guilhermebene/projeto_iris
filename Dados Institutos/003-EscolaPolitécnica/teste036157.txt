@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.036157
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+15/09/2006 - Processo: 06.1.1493.3.2
+
+
+Responsável:
+61364-1 Antonio Mauro Saraiva 
+
+
+Material:
+141089 - WIRELESS LAN ACCESS POINT                                                                           
+
+
+Bem:
+3308740
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PCS                  - DEPTO.ENG. COMPUTACAO E SISTEMAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D LINK
+Modelo:
+DWL G700AP/A
+Tipo:
+WIRELESS LAN ACCESS POINT
+
+
+Doc.:
+nota fiscal
+Num.:
+4775
+Data:
+18/05/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VINCENT DO BRASIL ELETRO ELETRONICA LTDA - EPP
+
+
+Identif:
+B2CW15B003441
+
+
+Assinatura Digital:
+
+

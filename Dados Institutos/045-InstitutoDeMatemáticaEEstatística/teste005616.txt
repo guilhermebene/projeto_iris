@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.005616
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+01/10/2002 - Processo: 02.1.1434.45.8
+
+
+Responsável:
+64801-1 Leonidas de Oliveira Brandao 
+
+
+Material:
+90751 - SISTEMA MICROCOMPUTADOR                                                                             
+
+
+Bem:
+1791281
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Micro MB/1000A, era CEC lab-2, agora vai p/sala 163-B, conforme Airton do CEC., 
+
+
+ 
+cv.18/2002. 
+
+
+Marca:
+DIGITRON - MICRO BYTE
+Modelo:
+MB-1000A
+Tipo:
+MICRO - SISTEMA MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.046
+Data:
+12/09/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Byte Comércio e Serviços Ltda.
+
+
+Identif:
+021011-0383
+
+
+Assinatura Digital:
+
+

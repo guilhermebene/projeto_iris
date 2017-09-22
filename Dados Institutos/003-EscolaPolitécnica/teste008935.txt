@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.008935
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+26/06/2000 - Processo: 
+
+
+Responsável:
+77646-1 Denise Consonni 
+
+
+Material:
+49093 - MEDIDOR DE POTÊNCIA                                                                                 
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PSI                  - DEPTO. DE ENG. DE SISTEMAS ELETRÔNICOS
+
+
+Complemento:
+EP 58897
+
+
+ 
+ 
+
+
+Marca:
+YOKOGAWA
+Modelo:
+2039
+Tipo:
+MEDIDOR DE FATOR DE POTENCIA
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+71AR0419
+
+
+Assinatura Digital:
+
+

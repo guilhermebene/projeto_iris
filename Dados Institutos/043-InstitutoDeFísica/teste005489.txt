@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.005489
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+03/11/2003 - Processo: 03.1.1018.43.9
+
+
+Responsável:
+53027-1 Victor de Oliveira Rivelles 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FMA                  - Departamento de Física Matemática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micromax
+Modelo:
+Pentium IV 2.4GHz
+Tipo:
+mb pentium IV - HD 80GB IDE
+
+
+Doc.:
+nota fiscal
+Num.:
+3765
+Data:
+09/09/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+mem DDR 512MB - floppy 3 1/2 1.44MB
+
+
+Assinatura Digital:
+
+

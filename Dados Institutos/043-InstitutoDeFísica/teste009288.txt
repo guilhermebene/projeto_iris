@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.009288
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+06/06/2007 - Processo: 07.1.132.43.6
+
+
+Responsável:
+3061449-1 Antonio Carlos Hernandes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4386604
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCIF                 - Centro de Computação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MASTER SOL
+Modelo:
+DUAL CORE D 945
+Tipo:
+ASUS 775 P5VD2-X  HD160GB DDR2-533 SATA
+
+
+Doc.:
+nota fiscal
+Num.:
+099
+Data:
+25/05/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Master Sol Comércio Eletrônico LTDA EPP.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

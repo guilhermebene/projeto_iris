@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006854
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+30/03/2005 - Processo: 05.1.39.43.4
+
+
+Responsável:
+459882-1 David Barg Filho 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3266311
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ALLIED TELESYN
+Modelo:
+AT 8326GB
+Tipo:
+SWITCH
+
+
+Doc.:
+nota fiscal
+Num.:
+002
+Data:
+05/01/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Segmento Engenharia Ltda
+
+
+Identif:
+B2PZ43181E
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019161
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+18/09/2013 - Processo: 12.1.145.43.6
+
+
+Responsável:
+28731-1 Gil da Costa Marques 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+5021839
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Gamin
+Modelo:
+Portatil c/ Bussola
+Tipo:
+SISTEMA DE POSICIONAMENTO GLOBAL  { GPS}
+
+
+Doc.:
+nota fiscal
+Num.:
+000.289
+Data:
+17/09/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Goinfo Alonso Informatica e Comercio e Serviços Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

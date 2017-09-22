@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.002812
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+07/06/2000 - Processo: 00.1.306.45.4
+
+
+Responsável:
+2508841-1 Onavo Rodrigues de Abreu 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+556130
+Origem:
+Sispa Compra        
+Situação:
+Inservível     
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+Micro Pentium III 550mhz (SERVIDOR PIPOCA)-  (North Computer - 6952-0410)
+
+
+ 
+ 
+
+
+Marca:
+NORTH COMPUTER
+Modelo:
+PENTIUM III 550mhz
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.01529 - NORTH COMPUTER
+Data:
+06/06/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+NORTH COMPUTER-Assistência Técnica de Computadores e Periféricos Ltda.
+
+
+Identif:
+S/N.:1438
+
+
+Assinatura Digital:
+
+

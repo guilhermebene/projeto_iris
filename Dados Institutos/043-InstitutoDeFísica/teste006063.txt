@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.006063
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+03/03/2004 - Processo: 04.1.235.43.7
+
+
+Responsável:
+73861-1 Marcos Nogueira Martins 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4020685
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micromax
+Modelo:
+Pentium IV 2.4GHz
+Tipo:
+mb pentium IV - mem DDR 512MB
+
+
+Doc.:
+nota fiscal
+Num.:
+3952
+Data:
+11/12/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+HD 80GB IDE - gab ATX
+
+
+Assinatura Digital:
+
+

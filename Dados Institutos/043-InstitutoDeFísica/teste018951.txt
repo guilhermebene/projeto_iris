@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.018951
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+17/05/2013 - Processo: 12.1.145.43.6
+
+
+Responsável:
+73854-1 Antonio Martins Figueiredo Neto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5412986
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Gabinete ATX
+Modelo:
+INTEL CORE I7-3770K
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+002.618
+Data:
+30/04/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Fire Informatica Comercio Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

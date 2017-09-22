@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+030.002349
+
+
+Unidade:
+30 - Centro de Biologia Marinha
+
+
+Incorporação:
+12/06/2015 - Processo: 15.1.12.30.7
+
+
+Responsável:
+2373491-1 Gabriel Tonani 
+
+
+Material:
+330884 - CAMERA DE CIRCUITO FECHADO                                                                          
+
+
+Bem:
+7787642
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CBM/DIR/INFORMÁTICA  - CEBIMAR/DIRETORIA/INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INTELBRAS
+Modelo:
+VIP S3120
+Tipo:
+IP
+
+
+Doc.:
+nota fiscal
+Num.:
+DANFE 1223
+Data:
+03/06/2015
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+M.M.Sá Comércio e representações Ltda Me
+
+
+Identif:
+GGKC3001109HN
+
+
+Assinatura Digital:
+
+

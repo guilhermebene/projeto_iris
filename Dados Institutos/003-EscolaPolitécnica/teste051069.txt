@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+003.051069
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+16/06/2011 - Processo: 11.1.1233.3.6
+
+
+Responsável:
+649484-1 Alexandre Nicolaos Simos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PNV                  - DEPTO. DE ENGENHARIA NAVAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+DX2390
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+423822
+Data:
+07/01/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+1863
+Número:
+S/No.
+Sigla:
+ANP
+
+
+Processo:
+00.1.01033.03.6
+Tipo:
+13 - Convênio
+
+
+Órgão:
+ANP        - Agência Nacional de Petróleo
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.004039
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/09/2001 - Processo: 01.1.863.43.5
+
+
+Responsável:
+62692-1 Marina Nielsen 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Compaq
+Modelo:
+Dpend-P400/6
+Tipo:
+Deskpro
+
+
+Doc.:
+nota fiscal
+Num.:
+17
+Data:
+30/04/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+917BW431020
+
+
+Assinatura Digital:
+
+

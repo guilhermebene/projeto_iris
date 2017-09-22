@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+017.040254
+
+
+Unidade:
+17 - Faculdade de Medicina de Ribeirão Preto
+
+
+Incorporação:
+28/07/2016 - Processo: 16.1.783.17.7
+
+
+Responsável:
+2768887-1 Alcione Flavia de Castro 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+7313233
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+RNP                  - (Depto Neurociencias e Ciencias do Comportamento)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+UBIQUITI
+Modelo:
+UAP AC PRO
+Tipo:
+SEGMENTO LAN 01 PORTA
+
+
+Doc.:
+nota fiscal
+Num.:
+3387
+Data:
+25/07/2016
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+SAM TECNOLOGIA EM INFORMATICA LTDA ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

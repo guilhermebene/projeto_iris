@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.039310
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+03/09/2007 - Processo: 05.1.3050.3.0
+
+
+Responsável:
+63366-1 Eduardo Lobo Lustosa Cabral 
+
+
+Material:
+160016 - SISTEMA DE AQUISIÇÃO DE DADOS                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+NF 15380, SALA MS 22
+
+
+ 
+ 
+
+
+Marca:
+COHU
+Modelo:
+C/CAMERA VIDEO DIG.,7800,PLACA DE IMAGEM
+Tipo:
+SISTEMA DE AQUISIÇÃO DE IMAGEM
+
+
+Doc.:
+termo de doação
+Num.:
+FAPESP 01174/2005
+Data:
+04/08/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+425050
+
+
+Assinatura Digital:
+
+

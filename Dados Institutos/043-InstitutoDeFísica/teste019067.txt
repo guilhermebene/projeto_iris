@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.019067
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+30/07/2013 - Processo: 12.1.1388.43.0
+
+
+Responsável:
+813452-1 Leandro Romero Gasques 
+
+
+Material:
+77976 - DETECTOR                                                                                            
+
+
+Bem:
+830283
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FNC                  - Departamento de Física Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MICRON / SEMICONDUCTOR
+Modelo:
+DECTOR DE SILLICONE
+Tipo:
+DESENHO E CONECTOR DE ACOPLAMENTO
+
+
+Doc.:
+termo de doação
+Num.:
+  D. I  12.0687500-5
+Data:
+30/10/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIES  A-3817   /  2741-2     / A-3367  2951-9
+
+
+Assinatura Digital:
+
+

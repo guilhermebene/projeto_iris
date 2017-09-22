@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.037951
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+08/03/2007 - Processo: 06.1.1374.3.3
+
+
+Responsável:
+2805575-1 Elaine Cristina Cogo Honorato 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3939790
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVOC                 - SERVICO DE ORGÃOS COLEGIADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIE F
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM
+
+
+Doc.:
+nota fiscal
+Num.:
+18002
+Data:
+04/12/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+POSITIVO INFORMATICA LTDA.
+
+
+Identif:
+1511905
+
+
+Assinatura Digital:
+
+

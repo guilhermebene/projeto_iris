@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.003844
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+04/09/2001 - Processo: 01.1.431.45.4
+
+
+Responsável:
+91288-1 Carlos Eduardo Ferreira 
+
+
+Material:
+90751 - SISTEMA MICROCOMPUTADOR                                                                             
+
+
+Bem:
+1037757
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MAC                  - DEPTO CIENCIA DA COMPUTAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASUS
+Modelo:
+A7V133
+Tipo:
+Pentium mini torre.
+
+
+Doc.:
+nota fiscal
+Num.:
+NF.028816
+Data:
+20/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA
+
+
+Identif:
+189795
+
+
+Assinatura Digital:
+
+

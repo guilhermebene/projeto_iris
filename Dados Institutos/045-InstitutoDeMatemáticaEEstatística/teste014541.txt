@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.014541
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+04/04/2012 - Processo: 11.1.2381.45.4
+
+
+Responsável:
+1742070-1 Sergio Ricardo Milare 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5212553
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ADM                  - (Administração)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUPERMICRO
+Modelo:
+CSE836E1-R800B
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+DANFE -  355
+Data:
+29/03/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Titan Solutions Equinpametos de Informatica LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

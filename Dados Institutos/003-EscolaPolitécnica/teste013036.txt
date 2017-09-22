@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.013036
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+18/06/2001 - Processo: 01.1.572.3.1
+
+
+Responsável:
+55478-1 Jun Okamoto Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1001329
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PMR                  - DEPTO. DE ENG. MECATRÔNICA E DE SISTEMAS MECÂNICOS
+
+
+Complemento:
+VERBA FAAP
+
+
+ 
+ 
+
+
+Marca:
+ECS
+Modelo:
+P6BAP-ME
+Tipo:
+MICROCOMPUTADOR CELERON 433MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+28010
+Data:
+11/06/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICRO SWITCH ELETRONICA LTDA.
+
+
+Identif:
+2001136312
+
+
+Assinatura Digital:
+
+

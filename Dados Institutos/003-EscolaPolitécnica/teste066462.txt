@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+003.066462
+
+
+Unidade:
+3 - Escola Politécnica
+
+
+Incorporação:
+16/02/2016 - Processo: 15.1.1743.3.8
+
+
+Responsável:
+337812-1 Augusto Camara Neiva 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+7858868
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CCB                  - COORDENAÇÃO DO CICLO BÁSICO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ARUBA
+Modelo:
+IAP-205-RW/AIR WAVE
+Tipo:
+PONTO DE ACESSO REMOTO
+
+
+Doc.:
+nota fiscal
+Num.:
+4386
+Data:
+09/12/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+BINARIO DISTRIBUIDORA DE EQUIPAMENTOS ELETRONICOS LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

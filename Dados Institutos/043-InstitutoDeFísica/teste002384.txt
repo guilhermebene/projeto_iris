@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.002384
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+21/09/1999 - Processo: 99.1.365.43.2
+
+
+Responsável:
+239820-1 Elisabeth Ethiene Varella 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164180
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+YOSHI
+Modelo:
+486DX11 66 8RAM
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+STAR*PANTHER INFORMATICA LTDA.
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

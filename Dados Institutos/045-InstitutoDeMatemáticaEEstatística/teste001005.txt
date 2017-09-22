@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+045.001005
+
+
+Unidade:
+45 - Instituto de Matemática e Estatística
+
+
+Incorporação:
+19/07/1999 - Processo: 96.1.42721.1.3
+
+
+Responsável:
+2412473-1 Luiz Tadeu Bernardo 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+101737
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIRETORIA            - DIRETOR DO IME
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+NETRA-SERVIDOR
+Modelo:
+MOD.150T
+Tipo:
+TORRE
+
+
+Doc.:
+termo de doação
+Num.:
+TD.1004/98.PROC.95/05822-9
+Data:
+27/11/1998
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/N.:639F0A33
+
+
+Assinatura Digital:
+
+

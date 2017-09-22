@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+043.013340
+
+
+Unidade:
+43 - Instituto de Física
+
+
+Incorporação:
+02/09/2009 - Processo: 09.1.48.43.7
+
+
+Responsável:
+73854-1 Antonio Martins Figueiredo Neto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4794052
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FEP                  - Departamento de Física Experimental
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Competitividade Informática
+Modelo:
+INTEL CORE 2 DUO 2.8GHz E7400
+Tipo:
+MEM. 4GB DDRII, HDD 320GB 7200RPM SATA11
+
+
+Doc.:
+nota fiscal
+Num.:
+788
+Data:
+28/08/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Competitividade Informática LTDA - E.P.P
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+007.011389
+
+
+Unidade:
+7 - Escola de Enfermagem
+
+
+Incorporação:
+25/10/2013 - Processo: 13.1.302.7.9
+
+
+Responsável:
+5216264-1 Clarissa Maria Oliveira Faé 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVCOMPR              - (Serviço de Compras)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+ST 4256
+Tipo:
+COMPATÍVEL COM INTEL CORE i3-3220 3.3Ghz
+
+
+Doc.:
+nota fiscal
+Num.:
+826
+Data:
+08/10/2013
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+SDL ELETRO ELETRONICA LTDA - EPP
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
