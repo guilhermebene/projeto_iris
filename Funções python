@@ -1,0 +1,48 @@
+nUsando o método split podemos quebrar cada linha em uma lista contendo todos os campos de interesse sobre o quarterback. Podemos pegar os valores correspondente ao *first name, last name e examinar as avaliações para contruir uma sentença simples como mostrada em Listing 1.
+
+ref_arquivo = open("qbdata.txt","r")
+
+for linha in ref_arquivo:
+    valores = linha.split()
+    print('QB ', valores[0], valores[1], 'obteve a avaliacao ', valores[10] )
+
+ref_arquivo.close
+QB  Colt McCoy obteve a avaliacao  74.5
+---------------------------------------------------------------------------------
+open
+Devemos abrir (open) um arquivo antes de ler o seu conteúdo: ref_arquivo = open(nome_arquivo,"r"). Devemos também abrir um arquivo antes de escrever nele: ref_arquivo =open(nome_arquivo,"w").
+close
+devemos fechar (close) um aqruivo depois que acabamos de manipulá-lo: ref_arquivo.close().
+read
+Método que lê e retorna o conteúdo inteiro de um arquivo em um string. É frequentemented usado em um comando de atribuição de tal forma que a variável seja uma referência para um string com o conteúdo do arquivo: string_arquivo =ref_arquivo.read()
+readline
+Método que lê e retorna o conteúdo da linha corrente de um arquivo como string: linha_str = ref_arquivo.readline(). O caractere de nova linha e incluído no final do string.
+readlines
+Método que lê e retorna o conteúdo de um arquivo como uma lista de strings. Cada linha do arquivo é representado por um string da lista: lista_de_linhas = ref_arquivo.readlines().
+---------------------------------------------------------------------------------
+
+O código que segue é o de busca, como ele funciona há um áudio mandado no grupo sistema iris, 11:50 do dia 17 de setembro de 2017
+
+
+
+
+
+
+
+import os
+from difflib import SequenceMatcher
+
+def similar(a, b):
+ return SequenceMatcher(None, a, b).ratio()
+files = [f for f in os.listdir("DadosMedRib")]
+for filename in files:
+ Dados = open("DadosMedRib\\" + filename, "r", encoding="utf8")
+ Dados.readline()
+ for i in range(13):
+  x = Dados.readline()
+ Y = similar(x,"MICROSCOPIO CONFOCAL")
+ if(Y > 0.8):
+     print(x)
+     print(filename)
+ Dados.close()
+
