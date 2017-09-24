@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.019499
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+14/12/2015 - Processo: 15.1.764.14.7
+
+
+Responsável:
+6638854-1 Roger Martins de Lima 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4867327
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+FAPESP Nº 14/13426-9 DOAÇÃO Nº 05974/15
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+AIR-CAP16021-T-K9
+Tipo:
+AP CISCO 1602 802.11a/g/n Ctrl based AP
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.538
+Data:
+27/01/2015
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+TSP1851ABHO
+
+
+Assinatura Digital:
+
+

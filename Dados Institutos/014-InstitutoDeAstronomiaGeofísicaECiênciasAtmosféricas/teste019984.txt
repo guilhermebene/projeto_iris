@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.019984
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+11/11/2015 - Processo: 15.1.573.14.7
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+AIRCAP 17021-ZK9BR
+Tipo:
+AP CISCO 1602 802.11a/g/n Ctrl based AP
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.605
+Data:
+25/09/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+TSP1932ABSD
+
+
+Assinatura Digital:
+
+

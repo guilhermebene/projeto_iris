@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.019860
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+21/09/2015 - Processo: 15.1.573.14.7
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+355127 - CONTROLADOR WLAN                                                                                    
+
+
+Bem:
+7858850
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+Cisco 5508 wireless
+Tipo:
+Controller For UP TO 12 APS c/ 02 módul
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.600
+Data:
+17/09/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série SFCW1919B1DU
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+39192
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FUSP       - Fundação de Apoio à Universidade de São Paulo
+

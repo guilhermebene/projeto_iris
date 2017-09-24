@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.019921
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+28/09/2015 - Processo: 15.1.293.14.4
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+FAPESP Nº 08/58101-9 Doação nº 00030/15
+
+
+ 
+ 
+
+
+Marca:
+EXCEL
+Modelo:
+DBS2400SC2
+Tipo:
+Xeon E5 2420 1.9GHz 15MB mem 8GB DDR3/13
+
+
+Doc.:
+nota fiscal
+Num.:
+000001686
+Data:
+12/12/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

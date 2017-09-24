@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.019310
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+18/11/2014 - Processo: 13.1.358.14.7
+
+
+Responsável:
+93572-1 Humberto Ribeiro da Rocha 
+
+
+Material:
+215740 - EQUIPAMENTOS PARA PESQUISA                                                                          
+
+
+Bem:
+6670016
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Vaisala
+Modelo:
+CS106
+Tipo:
+Sensor de pressão barometrica
+
+
+Doc.:
+declaração de importação
+Num.:
+141818270-4
+Data:
+22/09/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

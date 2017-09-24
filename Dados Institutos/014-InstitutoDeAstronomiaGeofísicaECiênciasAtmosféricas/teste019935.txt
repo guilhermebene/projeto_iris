@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.019935
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+01/10/2015 - Processo: 15.1.573.14.7
+
+
+Responsável:
+54219-1 Roberto Dell'Aglio Dias da Costa 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DEPTO - AGA          - (DEPARTAMENTO - AGA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+PowerEdge R430  Server
+Tipo:
+Intel Xeon E5-2650 mem 16GB 25M cache
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.604
+Data:
+25/09/2015
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BO8HC72
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+39192
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FUSP       - Fundação de Apoio à Universidade de São Paulo
+

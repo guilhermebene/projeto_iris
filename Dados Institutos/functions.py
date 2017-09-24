@@ -13,9 +13,13 @@ def procurarNoArquivo(arquivo, texto):
         if texto in linha:
             i = linhas.index(linha)
             linhaSeguinte = linhas[i+1].rstrip()
+            achou = True
             break
+    if achou:
+        return linhaSeguinte
+    else:
+        return "Erro"
 
-    return linhaSeguinte
 
 def procurarResponsavel(arquivo):
     linhaResponsavel = procurarNoArquivo(arquivo, 'Responsável')

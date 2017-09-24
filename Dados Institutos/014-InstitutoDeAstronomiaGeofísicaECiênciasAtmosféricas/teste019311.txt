@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.019311
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+18/11/2014 - Processo: 14.1.471.14.9
+
+
+Responsável:
+86581-1 Amauri Pereira de Oliveira 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EXCEL
+Modelo:
+INTEL XEON E 5645
+Tipo:
+SERVIDOR INTEL 2.40GHZ 8GB
+
+
+Doc.:
+nota fiscal
+Num.:
+000318893
+Data:
+19/09/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

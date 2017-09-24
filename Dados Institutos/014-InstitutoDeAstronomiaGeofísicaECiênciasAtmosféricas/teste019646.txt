@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.019646
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+16/09/2015 - Processo: 15.1.583.14.2
+
+
+Responsável:
+1253683-1 Paula Rodrigues Teixeira Coelho 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+C2112-GP2
+Tipo:
+Servidor 2 proces Xeon de 8 cores
+
+
+Doc.:
+nota fiscal
+Num.:
+15/0300157-3
+Data:
+18/02/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Doação              
+
+
+Código:
+30696
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

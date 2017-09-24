@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.019839
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+11/09/2015 - Processo: 14.1.617.14.3
+
+
+Responsável:
+95487-1 Jacyra Ramos Soares 
+
+
+Material:
+483060 - SENSOR DE RADIAÇÃO SOLAR INFRAVERMELHO                                                              
+
+
+Bem:
+7991258
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Apogee Instruments
+Modelo:
+SI-111
+Tipo:
+Radiação solar infravermelho cabo 16mts
+
+
+Doc.:
+nota fiscal
+Num.:
+Invoice 17911/14
+Data:
+13/10/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+36582
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+CNPq       - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+
