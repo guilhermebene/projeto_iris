@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018946
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+26/05/2014 - Processo: 13.1.358.14.7
+
+
+Responsável:
+93572-1 Humberto Ribeiro da Rocha 
+
+
+Material:
+219428 - SONDA DE UMIDADE E TEMPERATURA                                                                      
+
+
+Bem:
+5603340
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VAISALA
+Modelo:
+HPMP 60
+Tipo:
+Aplicação de volume, integração em equip
+
+
+Doc.:
+declaração de importação
+Num.:
+14/0596086-0
+Data:
+27/03/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.009189
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+07/08/2006 - Processo: 06.1.498.14.6
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4095456
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+3C17304A
+Tipo:
+24 autosensing 10/100 base Tx+2autosensi
+
+
+Doc.:
+nota fiscal
+Num.:
+003475
+Data:
+25/07/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

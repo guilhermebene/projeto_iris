@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.015066
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+16/08/2010 - Processo: 10.1.533.14.0
+
+
+Responsável:
+52965-1 Elisabete Maria de Gouveia Dal Pino 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+DL 380 G6 Proliant
+Tipo:
+02 proc. intel XEON E5530 2.5 GHz   16GB
+
+
+Doc.:
+nota fiscal
+Num.:
+001966
+Data:
+20/07/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

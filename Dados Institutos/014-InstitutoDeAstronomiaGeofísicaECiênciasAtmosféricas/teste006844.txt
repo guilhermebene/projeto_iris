@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.006844
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/05/2004 - Processo: 04.1.426.14.3
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3009505
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Encore
+Modelo:
+ENH908P
+Tipo:
+C/08 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+003319
+Data:
+30/04/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+W. Jet Comercial Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

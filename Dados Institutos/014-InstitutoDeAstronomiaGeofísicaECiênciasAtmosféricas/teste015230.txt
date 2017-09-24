@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.015230
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+20/10/2010 - Processo: 10.1.880.14.2
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+147842 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+4758188
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVAPOIO              - (SERVIÇO DE APOIO OPERACIONAL)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NEXCODE
+Modelo:
+IPLOCK P300
+Tipo:
+TCP/IP com display de cristal liquido
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.192
+Data:
+18/10/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Proffit Br Comércio de Equipamentos de Segurança e Serviços Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

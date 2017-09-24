@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.011320
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+24/10/2007 - Processo: 07.1.72.14.0
+
+
+Responsável:
+71383-1 Enos Picazzio 
+
+
+Material:
+163813 - CÂMARA PARA LABORATÓRIO                                                                             
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Santa Barbara Instrument Group
+Modelo:
+ST-8E realcada
+Tipo:
+CCD
+
+
+Doc.:
+declaração de importação
+Num.:
+00/0937444-7
+Data:
+02/10/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série 810008838E
+
+
+Assinatura Digital:
+
+

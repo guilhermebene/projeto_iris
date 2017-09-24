@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018834
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+11/04/2014 - Processo: 14.1.278.14.4
+
+
+Responsável:
+86855-1 Silvia Cristina Fernandes Rossi 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+FAPESP Nº 12/14449-7 Doação nº 03838/13
+
+
+ 
+ 
+
+
+Marca:
+SILICON
+Modelo:
+SGI UV 100
+Tipo:
+04 PROC. OCTO CORE XEON 256GB Mem.
+
+
+Doc.:
+nota fiscal
+Num.:
+DI 12/2038528-1
+Data:
+31/10/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.007284
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+25/10/2004 - Processo: 04.1.165.14.5
+
+
+Responsável:
+44097-1 Marcelo Sousa de Assumpcao 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+Localizado no laboratório de Sismologia e Processamentos de Dados / B-202
+
+
+ 
+ 
+
+
+Marca:
+APC
+Modelo:
+Smart-UPS 1500
+Tipo:
+1500
+
+
+Doc.:
+nota fiscal
+Num.:
+003342
+Data:
+11/05/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série: KS0406110227
+
+
+Assinatura Digital:
+
+

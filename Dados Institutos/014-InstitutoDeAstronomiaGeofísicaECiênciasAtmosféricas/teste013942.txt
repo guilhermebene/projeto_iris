@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.013942
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+24/06/2009 - Processo: 09.1.547.14.0
+
+
+Responsável:
+1264261-1 Mauricio de Souza Bologna 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+1180193
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+Precision T74
+Tipo:
+Core Xeon 20
+
+
+Doc.:
+nota fiscal
+Num.:
+024266
+Data:
+11/05/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série CD4Z811
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+19749
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+CNPq       - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018386
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+28/11/2013 - Processo: 13.1.581.14.8
+
+
+Responsável:
+1264261-1 Mauricio de Souza Bologna 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5464870
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DATEN
+Modelo:
+DC1B-T
+Tipo:
+Intel Core I5 3470 mem 8GB HD 1TB
+
+
+Doc.:
+nota fiscal
+Num.:
+000022275
+Data:
+22/10/2013
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Daten Informática Ltda
+
+
+Identif:
+01008583010005
+
+
+Assinatura Digital:
+
+

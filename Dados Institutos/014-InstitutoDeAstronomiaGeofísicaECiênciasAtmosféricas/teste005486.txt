@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005486
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+09/01/2003 - Processo: 02.1.917.14.5
+
+
+Responsável:
+57803-1 Leila Maria Vespoli de Carvalho 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2063417
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Encore
+Modelo:
+ENH908-NWY
+Tipo:
+c/08 portas 10/100
+
+
+Doc.:
+nota fiscal
+Num.:
+002501
+Data:
+20/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+W.Jet Comercial Ltda.
+
+
+Identif:
+série 5408E1102907683
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.017633
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+29/10/2013 - Processo: 13.1.811.14.3
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+210102 - ROTEADOR DE SINAIS DE ÁUDIO E VÍDEO                                                                 
+
+
+Bem:
+5355281
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+FAPESP 11/51944-3 Doação nº  02203/2013
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+AIR-CAP16021-T-K9
+Tipo:
+AP CISCO 1602 802.11a/g/n Ctrl based AP
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.262
+Data:
+29/05/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FGL1727X5CG
+
+
+Assinatura Digital:
+
+

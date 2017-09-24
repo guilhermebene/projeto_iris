@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018105
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+02/10/2013 - Processo: 13.1.720.14.8
+
+
+Responsável:
+174061-1 Carlos Augusto Morales Rodriguez 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+5480388
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EXCEL
+Modelo:
+XEON E5-2620
+Tipo:
+servidor XEON  2.0GHz 15MB 16GB DDR3/133
+
+
+Doc.:
+nota fiscal
+Num.:
+000001558
+Data:
+30/09/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Excelbyt Comércio e Serviços de Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

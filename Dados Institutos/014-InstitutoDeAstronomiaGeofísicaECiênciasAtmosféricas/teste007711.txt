@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.007711
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+11/05/2005 - Processo: 00.1.419.14.3
+
+
+Responsável:
+44097-1 Marcelo Sousa de Assumpcao 
+
+
+Material:
+25666 - MONITOR DE VÍDEO DE ALTA RESOLUÇÃO                                                                  
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+Localizado na sala de Informática P.P. - 109
+
+
+ 
+ 
+
+
+Marca:
+Sun
+Modelo:
+Microsystems
+Tipo:
+17"
+
+
+Doc.:
+declaração de importação
+Num.:
+00/1213106-1
+Data:
+14/12/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série: 0070579-9837KC1044
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.012619
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+29/08/2008 - Processo: 08.5.527.84.6
+
+
+Responsável:
+6575591-1 Vinicius Siquinelli Vianna 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4272323
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+OBAM-14              - (DIRETORIA DO OBSERVATÓRIO ABRAHÃO DE MORAES)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO SYSTEMS
+Modelo:
+AP1242G
+Tipo:
+PREGÃO CTI 011/2007
+
+
+Doc.:
+nota fiscal
+Num.:
+30657
+Data:
+07/07/2008
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FTX12177045
+
+
+Assinatura Digital:
+
+

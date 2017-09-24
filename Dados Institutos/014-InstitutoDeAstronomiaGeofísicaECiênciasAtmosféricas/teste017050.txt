@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.017050
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+22/11/2012 - Processo: 10.1.1052.14.6
+
+
+Responsável:
+2087957-1 Fernando Brenha Ribeiro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Excel
+Modelo:
+Corei5
+Tipo:
+Core i5 760-2GHz 2GB DDR3 1333
+
+
+Doc.:
+nota fiscal
+Num.:
+000000196
+Data:
+31/03/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+24147
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+CNPq       - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+

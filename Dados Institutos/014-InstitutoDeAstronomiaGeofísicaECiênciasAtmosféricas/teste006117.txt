@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.006117
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+25/07/2003 - Processo: 03.1.535.14.6
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+92835 - CÂMERA PARA SISTEMA DE SEGURANÇA                                                                    
+
+
+Bem:
+2504448
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCVGER-14            - SECAO DE SERVICOS GERAIS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Extreme
+Modelo:
+CCD 420 linha colorida
+Tipo:
+Foco Motorizado
+
+
+Doc.:
+nota fiscal
+Num.:
+000020
+Data:
+21/07/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Extreme Segurança Eletrônica Ltda-Me.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

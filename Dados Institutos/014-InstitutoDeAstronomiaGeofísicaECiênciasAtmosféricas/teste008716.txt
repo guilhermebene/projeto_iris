@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.008716
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+10/04/2006 - Processo: 06.1.272.70.9
+
+
+Responsável:
+2917416-1 Joao Evangelista Steiner 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+eleronD LGA7
+Tipo:
+Celeron D P4
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+661/2006
+Data:
+27/03/2006
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série 48771
+
+
+Assinatura Digital:
+
+

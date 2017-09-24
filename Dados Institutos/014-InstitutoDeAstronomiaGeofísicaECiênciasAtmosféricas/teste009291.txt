@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.009291
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+20/10/2006 - Processo: 06.1.805.14.6
+
+
+Responsável:
+56009-1 Eder Cassola Molina 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4215079
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Masterdata
+Modelo:
+Celeron D351
+Tipo:
+Intel celeron D351 3.20 GHz PIII
+
+
+Doc.:
+nota fiscal
+Num.:
+003524
+Data:
+18/10/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Masterdata Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.015579
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+09/05/2011 - Processo: 11.1.431.14.4
+
+
+Responsável:
+447670-1 Augusto Jose Pereira Filho 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI INTERNATIONAL, INC.
+Modelo:
+SGI XE 340
+Tipo:
+Servidor c/ 04 processadores 2.66GHz 48G
+
+
+Doc.:
+declaração de importação
+Num.:
+11/0039883-1
+Data:
+07/01/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+JSA225DKKDI54L210
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+25678
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.004937
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+17/10/2002 - Processo: 02.1.753.14.2
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1896407
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+IAG-DIR              - DIRETORIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RC
+Modelo:
+
+Tipo:
+Athlon 1.6 Ghz
+
+
+Doc.:
+nota fiscal
+Num.:
+4928
+Data:
+14/10/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Microcenter Rc Comercial Ltda
+
+
+Identif:
+sére  KC2002043462
+
+
+Assinatura Digital:
+
+

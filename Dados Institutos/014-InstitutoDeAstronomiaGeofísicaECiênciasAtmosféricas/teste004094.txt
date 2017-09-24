@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.004094
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+11/10/2001 - Processo: 01.1.380.14.0
+
+
+Responsável:
+5084296-1 Eduardo Rodrigues Lopes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCVGER-14            - SECAO DE SERVICOS GERAIS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+AT&T;  (NCR)
+Modelo:
+Pentium 166
+Tipo:
+Pentium 166 MHz
+
+
+Doc.:
+nota fiscal
+Num.:
+39057
+Data:
+06/06/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

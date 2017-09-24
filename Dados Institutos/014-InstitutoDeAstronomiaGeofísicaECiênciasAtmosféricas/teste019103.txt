@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.019103
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+06/08/2014 - Processo: 14.1.84.14.5
+
+
+Responsável:
+5622584-1 Marcelo Cesar Stangari 
+
+
+Material:
+204730 - RESISTIVÍMETRO                                                                                      
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+FINEP/PADCT 65.95.0693.00 Prof. Jesus Berrocal
+
+
+ 
+ 
+
+
+Marca:
+IRIS Instruments
+Modelo:
+SYSCAL R2
+Tipo:
+Sistema p/ aquisição de dados eletroresi
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+DI 507426
+Data:
+05/07/1996
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+IRIS INSTRUMENTS.
+
+
+Identif:
+Série 252
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018949
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+27/05/2014 - Processo: 14.1.355.14.9
+
+
+Responsável:
+76221-1 Ramachrisna Teixeira 
+
+
+Material:
+196967 - SISTEMA DE ARMAZENAMENTO DE DADOS                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+OBAM-14              - (DIRETORIA DO OBSERVATÓRIO ABRAHÃO DE MORAES)
+
+
+Complemento:
+Projeto FAPESP nº 11/12113-9 Doação nº 00184/14
+
+
+ 
+ 
+
+
+Marca:
+DROBO FS
+Modelo:
+DRDS2A21
+Tipo:
+Storage com 3HB 3TB
+
+
+Doc.:
+nota fiscal
+Num.:
+000000685
+Data:
+05/11/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série TDD120570251
+
+
+Assinatura Digital:
+
+

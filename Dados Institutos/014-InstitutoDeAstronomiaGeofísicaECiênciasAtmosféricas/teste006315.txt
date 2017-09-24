@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.006315
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/12/2003 - Processo: 03.1.666.14.3
+
+
+Responsável:
+1429302-1 Maria Cristina Cintra Leoni 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2736578
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVBIBL               - (SERVIÇO DE BIBLIOTECA E DOCUMENTAÇÃO)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Fulltech
+Modelo:
+F01
+Tipo:
+Pentium IV 2.4GHz
+
+
+Doc.:
+nota fiscal
+Num.:
+3561
+Data:
+24/11/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Fulltech Informática Ltda.
+
+
+Identif:
+série:  1028343
+
+
+Assinatura Digital:
+
+

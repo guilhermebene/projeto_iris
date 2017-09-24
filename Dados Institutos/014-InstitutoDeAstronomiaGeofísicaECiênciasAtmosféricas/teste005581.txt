@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005581
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+17/01/2003 - Processo: 03.1.24.14.1
+
+
+Responsável:
+2087957-1 Fernando Brenha Ribeiro 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2111608
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3 COM
+Modelo:
+Baseline 10/100 (3C16471)
+Tipo:
+c/24 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+002494
+Data:
+15/01/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda.
+
+
+Identif:
+série 0101/7V5F1K0013101
+
+
+Assinatura Digital:
+
+

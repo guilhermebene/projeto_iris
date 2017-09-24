@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005402
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/12/2002 - Processo: 02.1.899.14.7
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+117803 - SISTEMA DE MONITORAMENTO DE IMAGEM                                                                  
+
+
+Bem:
+2028638
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVGER-14             - SERVICOS GERAIS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Mythos
+Modelo:
+MVA - 96N
+Tipo:
+TVL 04 cabeças
+
+
+Doc.:
+nota fiscal
+Num.:
+000004
+Data:
+04/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Extreme Segurança Eletrônica Ltda - ME
+
+
+Identif:
+série  GV26G60774
+
+
+Assinatura Digital:
+
+

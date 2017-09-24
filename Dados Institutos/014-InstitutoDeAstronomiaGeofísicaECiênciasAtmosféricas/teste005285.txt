@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005285
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+19/11/2002 - Processo: 02.1.843.14.1
+
+
+Responsável:
+3391607-1 Renato Pucci 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1985043
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micromax
+Modelo:
+Platinum 7117
+Tipo:
+AMD Athlon XP 1700
+
+
+Doc.:
+nota fiscal
+Num.:
+003265
+Data:
+18/11/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Com. e Serviços em Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

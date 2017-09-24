@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.012622
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/09/2008 - Processo: 08.1.231.14.1
+
+
+Responsável:
+2598999-1 Amaury Augusto de Almeida 
+
+
+Material:
+125822 - CONTROLADOR DE FLUXO                                                                                
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+Esta no INPE
+
+
+ 
+ 
+
+
+Marca:
+Photon
+Modelo:
+EC000146
+Tipo:
+EMCCD
+
+
+Doc.:
+declaração de importação
+Num.:
+08/1322404-1
+Data:
+26/08/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+16103
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

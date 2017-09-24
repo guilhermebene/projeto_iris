@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.006849
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+06/05/2004 - Processo: 04.1.425.14.7
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+92835 - CÂMERA PARA SISTEMA DE SEGURANÇA                                                                    
+
+
+Bem:
+3010570
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCVGER-14            - SECAO DE SERVICOS GERAIS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Mintron
+Modelo:
+CCD 1/4 c/ lente 8mm.
+Tipo:
+colorida
+
+
+Doc.:
+nota fiscal
+Num.:
+002967
+Data:
+03/05/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sistel Telesegurança Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

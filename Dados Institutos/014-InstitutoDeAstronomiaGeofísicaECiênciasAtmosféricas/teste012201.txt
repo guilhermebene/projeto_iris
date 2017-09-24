@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.012201
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+30/05/2008 - Processo: 08.1.524.14.9
+
+
+Responsável:
+3647741-1 Sheila Rosa Oliveira 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+FAPESP 05/60136-7 DOAÇÃO 389/08
+
+
+ 
+ 
+
+
+Marca:
+Foundry
+Modelo:
+FIP-100
+Tipo:
+Wireless  with 802.11a/b/g iron power100
+
+
+Doc.:
+nota fiscal
+Num.:
+3752
+Data:
+08/02/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+PN: FIP-100 PN: I0200-XX
+
+
+Assinatura Digital:
+
+

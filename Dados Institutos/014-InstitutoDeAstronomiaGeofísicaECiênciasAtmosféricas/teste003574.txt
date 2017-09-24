@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.003574
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/12/2000 - Processo: 
+
+
+Responsável:
+2446488-1 Iran Bento de Godoi 
+
+
+Material:
+7420 - FURADEIRAS                                                                                          
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCELETR-14           - SECAO DE ELETRONICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SIEMENS-SCHUKERT
+Modelo:
+AUO/25/300
+Tipo:
+coluna
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SOCIED.BRAS.DE MAQ.E MOTORES L
+
+
+Identif:
+4734578, 1700 RPM
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.017522
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+07/05/2013 - Processo: 13.1.371.14.3
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5233240
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+NAPMC - TÉRCIO       - NÚCLEO DE APOIO Á PESQUISA EM MUDANÇAS CLIMÁTICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+XPS 85002/i5 33500
+Tipo:
+Intel Core i5 2320 3.0GHz 8GBM/2TBHD
+
+
+Doc.:
+nota fiscal
+Num.:
+000001344
+Data:
+03/05/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Excelbyt Comércio e Serviços de Informática Ltda
+
+
+Identif:
+SN 6XVV6W1
+
+
+Assinatura Digital:
+
+

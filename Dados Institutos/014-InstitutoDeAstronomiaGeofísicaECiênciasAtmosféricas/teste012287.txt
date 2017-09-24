@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.012287
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+10/09/2009 - Processo: 09.1.862.14.2
+
+
+Responsável:
+93572-1 Humberto Ribeiro da Rocha 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+FAPESP 02/09289-9 DOAÇÃO 0114/09
+
+
+ 
+ 
+
+
+Marca:
+Wjet
+Modelo:
+Intel Xeon Quad-Core 5405
+Tipo:
+Servidor
+
+
+Doc.:
+nota fiscal
+Num.:
+6469
+Data:
+23/06/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

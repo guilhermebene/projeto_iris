@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.015661
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+28/06/2011 - Processo: 11.1.513.14.0
+
+
+Responsável:
+174061-1 Carlos Augusto Morales Rodriguez 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PROLIANT
+Modelo:
+ML 150 G6
+Tipo:
+Servidor quad-core xeon E5504 2.0GHz 4ML
+
+
+Doc.:
+nota fiscal
+Num.:
+009972
+Data:
+17/11/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.017079
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+30/10/2013 - Processo: 13.1.811.14.3
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+196967 - SISTEMA DE ARMAZENAMENTO DE DADOS                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+FAPESP Nº 11/51944-3 DOAÇÃO Nº 02203/2013
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+Power Vault Tl2000
+Tipo:
+Sist. de armazenamento 2U 1xDrive LTO 5f
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.209
+Data:
+08/10/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série 78X6887
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Doação              
+
+
+Código:
+28490
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

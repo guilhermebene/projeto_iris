@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.011946
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/09/2008 - Processo: 08.1.816.14.0
+
+
+Responsável:
+447670-1 Augusto Jose Pereira Filho 
+
+
+Material:
+179396 - SENSOR DE POTÊNCIA                                                                                  
+
+
+Bem:
+4619056
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+Fapesp 01/13952-2  Doação 01257/08
+
+
+ 
+ 
+
+
+Marca:
+Agilent Technologies
+Modelo:
+E9300A
+Tipo:
+potência média 9KHZ  a 18GHZ tipo N com
+
+
+Doc.:
+nota fiscal
+Num.:
+014916
+Data:
+30/10/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+c/ sensor e cabo 11730A
+
+
+Assinatura Digital:
+
+

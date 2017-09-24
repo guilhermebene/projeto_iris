@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.006155
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+15/08/2003 - Processo: 03.1.552.14.8
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+2541564
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+OBAM-14              - (DIRETORIA DO OBSERVATÓRIO ABRAHÃO DE MORAES)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+D' Link
+Modelo:
+DES-1016D    Não Gerenciável
+Tipo:
+c/ 16 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+002788
+Data:
+11/08/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda.
+
+
+Identif:
+série  B21U235000464.
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.017200
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+29/01/2013 - Processo: 12.1.24.14.0
+
+
+Responsável:
+1000180-1 Gastao Cesar Bierrenbach Lima Neto 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Iomega
+Modelo:
+Storn Center ix2-200D
+Tipo:
+Ix2-200D 4 TB
+
+
+Doc.:
+nota fiscal
+Num.:
+000.001.101
+Data:
+14/11/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NS NSLTA23100CF
+
+
+Assinatura Digital:
+
+

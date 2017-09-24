@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018134
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+26/06/2014 - Processo: 09.1.1014.14.5
+
+
+Responsável:
+93572-1 Humberto Ribeiro da Rocha 
+
+
+Material:
+216895 - SENSOR DE TEMPO MULTI-PARÂMETRO                                                                     
+
+
+Bem:
+5516943
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+Processo FAPESP 08/58120-5 Doação nº 00758/14
+
+
+ 
+ 
+
+
+Marca:
+VAISALA OYJ
+Modelo:
+WXT520 ABCOBA01BO
+Tipo:
+Sensor multiparamétrico  AR, umidade
+
+
+Doc.:
+nota fiscal
+Num.:
+13/1894909-4
+Data:
+25/09/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série NR J3420019
+
+
+Assinatura Digital:
+
+

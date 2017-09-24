@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.019045
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+20/08/2015 - Processo: 15.1.518.14.6
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+SYS-NB rack com 396 cores e 1120GB Ram
+Tipo:
+4 servidores SGI 2112 e 1 servidor 2108
+
+
+Doc.:
+nota fiscal
+Num.:
+14/1251015-7
+Data:
+03/07/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+com 02 switchs 24 e 36 portas Série A00A648B
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Doação              
+
+
+Código:
+35170
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

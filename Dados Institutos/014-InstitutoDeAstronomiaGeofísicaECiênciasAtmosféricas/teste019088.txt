@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.019088
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+17/07/2014 - Processo: 13.1.417.14.3
+
+
+Responsável:
+44097-1 Marcelo Sousa de Assumpcao 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+Projeto nº 2061 PETROBRÀS/IAG Doação nº 1392/2012
+
+
+ 
+ 
+
+
+Marca:
+POWEREDGE
+Modelo:
+R610 chassi c/ até 6 HD 2.5"
+Tipo:
+Servidor processamento intel 56XX
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.262
+Data:
+10/10/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

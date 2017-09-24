@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.017554
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+22/05/2013 - Processo: 13.1.470.14.1
+
+
+Responsável:
+95487-1 Jacyra Ramos Soares 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EXCEL
+Modelo:
+Core I7 377D
+Tipo:
+Intel Core I7 3.40GHz HD 2.0TB
+
+
+Doc.:
+nota fiscal
+Num.:
+00001336
+Data:
+29/04/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SN RC335UKKN1AD112510021B
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+32317
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+CNPq       - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+

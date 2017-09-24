@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.019032
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+03/07/2014 - Processo: 14.1.420.14.5
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5412986
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+NAPMC - TÉRCIO       - NÚCLEO DE APOIO Á PESQUISA EM MUDANÇAS CLIMÁTICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+XPS 8700
+Tipo:
+Intel Core I7 4770 3.4GHz mem.16GB
+
+
+Doc.:
+nota fiscal
+Num.:
+000001952
+Data:
+27/06/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Excelbyt Comércio e Serviços de Informática Ltda
+
+
+Identif:
+Série 1M21NZ1
+
+
+Assinatura Digital:
+
+

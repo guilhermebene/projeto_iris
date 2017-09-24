@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005397
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/12/2002 - Processo: 02.1.899.14.7
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+92835 - CÂMERA PARA SISTEMA DE SEGURANÇA                                                                    
+
+
+Bem:
+2028590
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVGER-14             - SERVICOS GERAIS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Mythos
+Modelo:
+MCC 1150
+Tipo:
+CCD 1/3 com lente de 3,6 mm P&B;
+
+
+Doc.:
+nota fiscal
+Num.:
+000004
+Data:
+04/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Extreme Segurança Eletrônica Ltda - ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

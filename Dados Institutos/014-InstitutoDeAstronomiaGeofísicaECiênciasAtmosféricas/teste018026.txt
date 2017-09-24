@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018026
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+11/09/2013 - Processo: 13.1.12.14.3
+
+
+Responsável:
+55912-1 Yara Regina Marangoni 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+5019656
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+processo 13.1.721.14.4 compra sispa
+
+
+ 
+ 
+
+
+Marca:
+GARMIM
+Modelo:
+GPS MAP 62S
+Tipo:
+INSTRUMENTO DE MEDIÇÃO E PRECISÃO
+
+
+Doc.:
+nota fiscal
+Num.:
+000001529
+Data:
+10/09/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+EXCELBYT COMERCIO E SERVIÇOS DE INFORMATICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

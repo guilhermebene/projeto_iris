@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018163
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+31/10/2013 - Processo: 11.1.887.14.8
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+4747798
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+NAPMC - TÉRCIO       - NÚCLEO DE APOIO Á PESQUISA EM MUDANÇAS CLIMÁTICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+LCQ-Q-System
+Tipo:
+01 nó de serviço para SGI Altix ICE
+
+
+Doc.:
+nota fiscal
+Num.:
+12/0662534-3
+Data:
+11/04/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SGI International, Inc.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

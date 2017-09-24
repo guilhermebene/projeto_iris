@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.016385
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/04/2012 - Processo: 12.1.88.14.9
+
+
+Responsável:
+66286-1 Jorge Ernesto Horvath 
+
+
+Material:
+148571 - ROBÔ MÓVEL                                                                                          
+
+
+Bem:
+4744349
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+NAP/ASTRÓBIO-JORGE   - NÚCLEO DE PESQUISA EM ASTROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+XBOT
+Modelo:
+Robodeck
+Tipo:
+Movel microcontrolador ARM9
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.173
+Data:
+30/03/2012
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+C. Associados Equipamentos Eletronicos Ltda ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

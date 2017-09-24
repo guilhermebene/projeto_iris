@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.006294
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+24/11/2003 - Processo: 03.1.722.14.0
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+2684985
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+Blade 100
+Tipo:
+Estação de Trabalho
+
+
+Doc.:
+nota fiscal
+Num.:
+000170
+Data:
+05/11/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sunsent Informática Ltda.
+
+
+Identif:
+série  FT20220010
+
+
+Assinatura Digital:
+
+

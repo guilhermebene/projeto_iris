@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.001404
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+26/10/1999 - Processo: 
+
+
+Responsável:
+95000-1 Claudia Lucia Mendes de Oliveira 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+ULTRASPARC - 01 PROCESSADOR
+Tipo:
+Ultra 1
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SUN MICROSYSTEMS OF CALIFORNIA, INC
+
+
+Identif:
+série 625F1022
+
+
+Assinatura Digital:
+
+

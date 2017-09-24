@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.004027
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+19/06/2001 - Processo: 01.1.348.14.0
+
+
+Responsável:
+2486671-1 Marcia Pina Albe 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1007025
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+IAG-DIR              - DIRETORIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ECS
+Modelo:
+PGBAP-I
+Tipo:
+Pentium III 700 Mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+0028012
+Data:
+11/06/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Switch Eletro Eletronica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

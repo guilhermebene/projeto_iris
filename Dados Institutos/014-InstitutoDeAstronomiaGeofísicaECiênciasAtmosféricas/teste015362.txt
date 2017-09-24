@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.015362
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+23/05/2012 - Processo: 12.1.20.14.5
+
+
+Responsável:
+52965-1 Elisabete Maria de Gouveia Dal Pino 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+Proc. FAPESP nº 09/54006-4 Doação 02255/11
+
+
+ 
+ 
+
+
+Marca:
+Strong
+Modelo:
+SERVER XESIL V B X3400
+Tipo:
+xeon quad core 2 40 ghz 8m cache
+
+
+Doc.:
+nota fiscal
+Num.:
+000217
+Data:
+09/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série C82500037KD0457
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Doação              
+
+
+Código:
+24678
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

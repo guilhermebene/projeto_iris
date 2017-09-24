@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.011274
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+15/10/2007 - Processo: 05.1.839.14.7
+
+
+Responsável:
+47486-1 Pedro Leite da Silva Dias 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+FAPESP 95/05691-1 DOAÇÃO 00978/2005
+
+
+ 
+ 
+
+
+Marca:
+IBM
+Modelo:
+RISC/6000 9076 308
+Tipo:
+COM 14 NOS DE PROC. THIN
+
+
+Doc.:
+nota fiscal
+Num.:
+97/0617717-5
+Data:
+29/07/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

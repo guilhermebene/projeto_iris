@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005946
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+28/03/2003 - Processo: 03.1.213.14.9
+
+
+Responsável:
+2450952-1 Elisabete das Flores Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2203731
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micromax
+Modelo:
+Motherboard ASUS A7S333
+Tipo:
+AMD Athlon XP 1700
+
+
+Doc.:
+nota fiscal
+Num.:
+003463
+Data:
+27/03/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+s/série
+
+
+Assinatura Digital:
+
+

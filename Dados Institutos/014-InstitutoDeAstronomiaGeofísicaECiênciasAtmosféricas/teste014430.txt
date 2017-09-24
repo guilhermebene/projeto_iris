@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.014430
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+27/11/2009 - Processo: 09.1.1137.14.0
+
+
+Responsável:
+2522333-1 Rita Yuri Ynoue 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+4733126
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Excell
+Modelo:
+Excel XEON 2.66 GHz 1333 MHz
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+010006
+Data:
+27/11/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Excelbyt Comércio e Serviços de Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

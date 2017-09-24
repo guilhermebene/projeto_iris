@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.016094
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+30/01/2012 - Processo: 11.1.994.14.9
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+5107881
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Cisco
+Modelo:
+WRVS4400N
+Tipo:
+1 porta WAN 10/100 4portas LAN 10/100
+
+
+Doc.:
+nota fiscal
+Num.:
+000000296
+Data:
+20/01/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Queller  Informática & Comércio Ltda - ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

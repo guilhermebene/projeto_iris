@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.014690
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/05/2010 - Processo: 09.1.1031.14.7
+
+
+Responsável:
+2605888-1 Ronaldo Eustaquio de Souza 
+
+
+Material:
+154431 - FOTODETETOR DE LUZ                                                                                  
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Rockwell Scientific
+Modelo:
+Scientific 2048x2948
+Tipo:
+CCD infravermelho
+
+
+Doc.:
+nota fiscal
+Num.:
+Invoice n] 0530002-03/053002-0
+Data:
+15/07/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Bem em uso no Telescopio SOAR - CHILE
+
+
+Assinatura Digital:
+
+

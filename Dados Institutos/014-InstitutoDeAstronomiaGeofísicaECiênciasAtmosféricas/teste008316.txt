@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.008316
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+17/10/2005 - Processo: 05.1.530.14.6
+
+
+Responsável:
+1000180-1 Gastao Cesar Bierrenbach Lima Neto 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Digital
+Modelo:
+Alphaserver DS20
+Tipo:
+Processador Alpha 21264 500 MHz
+
+
+Doc.:
+declaração de importação
+Num.:
+99/0696552-5
+Data:
+19/08/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série NI92708866
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005374
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+29/11/2002 - Processo: 02.1.897.14.4
+
+
+Responsável:
+93572-1 Humberto Ribeiro da Rocha 
+
+
+Material:
+137049 - CONTROLADOR DE CARGA ELÉTRICA                                                                       
+
+
+Bem:
+2019671
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Siemens
+Modelo:
+SR90
+Tipo:
+Módulo Solar
+
+
+Doc.:
+nota fiscal
+Num.:
+001081
+Data:
+27/11/2002
+
+
+Garantia:
+25 ano(s)
+
+
+Fornecedor:
+Energia Pura Empreendimentos Ltda.
+
+
+Identif:
+série  020166K14701 05092
+
+
+Assinatura Digital:
+
+

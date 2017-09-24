@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.014620
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+26/03/2010 - Processo: 10.1.222.14.5
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+4644387
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LIKSYS
+Modelo:
+WRT-150N
+Tipo:
+108 mbps
+
+
+Doc.:
+nota fiscal
+Num.:
+7543
+Data:
+18/03/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+W Jet Comercial Ltda - EPP
+
+
+Identif:
+SÉRIE CQ601HGA12362
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.011533
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+11/02/2008 - Processo: 07.1.678.14.5
+
+
+Responsável:
+69810-1 Augusto Damineli Neto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DIgital
+Modelo:
+DS-Server 452E
+Tipo:
+Proc. XEON 3.0 800 2MB 1 GB Mem DDR2 400
+
+
+Doc.:
+nota fiscal
+Num.:
+000246
+Data:
+07/03/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

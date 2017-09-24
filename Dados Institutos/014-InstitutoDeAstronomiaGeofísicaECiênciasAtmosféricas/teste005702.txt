@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005702
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+22/05/2007 - Processo: 01.1.380.14.0
+
+
+Responsável:
+89802-1 Vera Jatenco Silva Pereira 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Digital
+Modelo:
+Alphastation
+Tipo:
+500/400 UNIX
+
+
+Doc.:
+nota fiscal
+Num.:
+001444
+Data:
+16/04/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série NI7040390J
+
+
+Assinatura Digital:
+
+

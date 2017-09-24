@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.017515
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+22/04/2013 - Processo: 13.1.100.14.0
+
+
+Responsável:
+66286-1 Jorge Ernesto Horvath 
+
+
+Material:
+77976 - DETECTOR                                                                                            
+
+
+Bem:
+4331346
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+NAP/ASTRÓBIO-JORGE   - NÚCLEO DE PESQUISA EM ASTROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Honeywell
+Modelo:
+GasAlertExtreme
+Tipo:
+Detector de gas oxigênio com bateria
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.441
+Data:
+08/04/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TEC Science Com. de Mats. E Equip. de Lab. e Inf. Ltda - EPP
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.007286
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+25/10/2004 - Processo: 04.1.444.14.1
+
+
+Responsável:
+575990-1 Ailton Marcos Bassini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3176975
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Digital
+Modelo:
+DST4-32T
+Tipo:
+Pentium IV 3.2GHz
+
+
+Doc.:
+nota fiscal
+Num.:
+004463
+Data:
+13/10/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+L.P.Ziglio Comércio e Serviços Ltda.
+
+
+Identif:
+nº 0854613100421001
+
+
+Assinatura Digital:
+
+

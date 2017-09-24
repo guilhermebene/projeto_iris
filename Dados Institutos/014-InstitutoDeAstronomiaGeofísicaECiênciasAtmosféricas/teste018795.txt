@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018795
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+28/03/2014 - Processo: 13.1.581.14.8
+
+
+Responsável:
+76221-1 Ramachrisna Teixeira 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4843932
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+OBAM-14              - (DIRETORIA DO OBSERVATÓRIO ABRAHÃO DE MORAES)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+Proliant DL38
+Tipo:
+G8 E5-2660
+
+
+Doc.:
+nota fiscal
+Num.:
+1146
+Data:
+27/02/2014
+
+
+Garantia:
+60 mes(es)
+
+
+Fornecedor:
+MIcromax Comércio e Seviços em Informática Ltda
+
+
+Identif:
+BRC319395B
+
+
+Assinatura Digital:
+
+

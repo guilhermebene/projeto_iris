@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.014000
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+04/08/2009 - Processo: 09.1.652.14.8
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+2361850
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVAPOIO              - (SERVIÇO DE APOIO OPERACIONAL)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INTEL
+Modelo:
+SS42000-E
+Tipo:
+SERIE  unidade de armazenamento SHH18782
+
+
+Doc.:
+nota fiscal
+Num.:
+001160
+Data:
+27/07/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Prisma Comércio de Eletro Eletrônicos Ltda EPP
+
+
+Identif:
+SÉRIE SHHI8121782
+
+
+Assinatura Digital:
+
+

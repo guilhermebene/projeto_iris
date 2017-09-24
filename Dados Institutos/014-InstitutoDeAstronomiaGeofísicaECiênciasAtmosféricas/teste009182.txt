@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.009182
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+04/08/2006 - Processo: 06.1.634.14.7
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+15458 - CENTRAL DE ALARME                                                                                   
+
+
+Bem:
+3548112
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVAPOIO              - (SERVIÇO DE APOIO OPERACIONAL)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Alard
+Modelo:
+Max 1
+Tipo:
+Sensor magnético de abertura de portão
+
+
+Doc.:
+nota fiscal
+Num.:
+5143
+Data:
+02/08/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sistel Telesegurança Ltda - Epp
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

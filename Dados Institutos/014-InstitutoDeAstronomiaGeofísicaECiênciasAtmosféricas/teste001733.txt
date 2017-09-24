@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.001733
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+14/02/2000 - Processo: 97.1.505.14.3
+
+
+Responsável:
+45212-1 Mario Festa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+367109
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCSVMET-14           - SEÇÃO DE SERVIÇOS METEOROLÓGICOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NET
+Modelo:
+PCAT MMX 200
+Tipo:
+Pentium 200
+
+
+Doc.:
+nota fiscal
+Num.:
+001787
+Data:
+04/12/1997
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informatica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

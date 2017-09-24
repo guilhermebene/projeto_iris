@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.004043
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+07/07/2001 - Processo: 01.1.579.14.1
+
+
+Responsável:
+2516684-1 Paulo Giovanni Saramelli 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+1039946
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCCONFI-14           - SECAO DE CONTABILIDADE E FINANCAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+TP4COMBO
+Tipo:
+4 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+001119
+Data:
+27/06/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda
+
+
+Identif:
+Série 3892B843
+
+
+Assinatura Digital:
+
+

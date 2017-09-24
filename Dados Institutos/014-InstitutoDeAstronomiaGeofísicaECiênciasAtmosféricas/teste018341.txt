@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.018341
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+22/11/2013 - Processo: 13.1.887.14.0
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+4901843
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Lacerda
+Modelo:
+JP 2000 + SNMP
+Tipo:
+2.0 KVa
+
+
+Doc.:
+nota fiscal
+Num.:
+000.051.818
+Data:
+19/11/2013
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Lacerda Sistemas de Energia Ltda
+
+
+Identif:
+83211308100535
+
+
+Assinatura Digital:
+
+

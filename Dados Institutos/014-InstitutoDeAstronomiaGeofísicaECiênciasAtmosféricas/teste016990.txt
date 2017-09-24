@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.016990
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+12/11/2012 - Processo: 12.1.682.14.8
+
+
+Responsável:
+2439740-1 Sandra Aparecida Marques dos Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVBIBL               - (SERVIÇO DE BIBLIOTECA E DOCUMENTAÇÃO)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+ST 4255
+Tipo:
+Intel Core i3-2100  8GB DDR3 de 1333 Mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+000189433
+Data:
+08/11/2012
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+Itautec S/A
+
+
+Identif:
+4006308500077
+
+
+Assinatura Digital:
+
+

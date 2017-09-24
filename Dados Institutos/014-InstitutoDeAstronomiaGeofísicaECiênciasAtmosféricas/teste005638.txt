@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.005638
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+10/02/2003 - Processo: 03.1.79.14.0
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+101923 - MULTIPLEXADOR DIGITAL                                                                               
+
+
+Bem:
+2144336
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVGER-14             - SERVICOS GERAIS
+
+
+Complemento:
+Para uso no sistema de segurança
+
+
+ 
+ 
+
+
+Marca:
+Extreme
+Modelo:
+Duplex
+Tipo:
+Digital
+
+
+Doc.:
+nota fiscal
+Num.:
+000008
+Data:
+07/02/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Extreme Segurança Eletronica Ltda
+
+
+Identif:
+série  A001517
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.012594
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+29/08/2008 - Processo: 08.5.527.84.6
+
+
+Responsável:
+6638854-1 Roger Martins de Lima 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4272323
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO SYSTEMS
+Modelo:
+AP1242G
+Tipo:
+PREGÃO CTI 011/2007
+
+
+Doc.:
+nota fiscal
+Num.:
+30657
+Data:
+07/07/2008
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FTX12177003
+
+
+Assinatura Digital:
+
+

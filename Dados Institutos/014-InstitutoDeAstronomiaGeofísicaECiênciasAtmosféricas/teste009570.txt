@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.009570
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+22/02/2007 - Processo: 05.5.423.70.3
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+141089 - WIRELESS LAN ACCESS POINT                                                                           
+
+
+Bem:
+3308740
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Foundry Network
+Modelo:
+Iron Point
+Tipo:
+Wireless Lan Access Point
+
+
+Doc.:
+nota fiscal
+Num.:
+2420
+Data:
+01/03/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ANO4350011
+
+
+Assinatura Digital:
+
+

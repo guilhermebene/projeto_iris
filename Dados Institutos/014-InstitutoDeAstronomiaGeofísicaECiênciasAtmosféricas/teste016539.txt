@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.016539
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+24/05/2012 - Processo: 12.1.20.14.5
+
+
+Responsável:
+52965-1 Elisabete Maria de Gouveia Dal Pino 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+PROCESSO 09/54006-4 Doação nº 02255/11
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+SGI ALTIX UV 100
+Tipo:
+4X SIX-CORE 2.66ghZ 18mb Xeon processors
+
+
+Doc.:
+nota fiscal
+Num.:
+11/0938.269.5
+Data:
+24/05/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

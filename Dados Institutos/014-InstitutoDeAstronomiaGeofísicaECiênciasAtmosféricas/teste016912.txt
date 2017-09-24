@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.016912
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+06/08/2015 - Processo: 13.1.697.14.6
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+Processo FAPESP Nº 08/58101-9 Doação nº 01261/2013
+
+
+ 
+ 
+
+
+Marca:
+Silicon Graphics
+Modelo:
+SGI ISS3500
+Tipo:
+Servidor 2.66 GHz intel Xeopn 5650 96 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+BRAG 738550
+Data:
+25/07/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Doação              
+
+
+Código:
+27835
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

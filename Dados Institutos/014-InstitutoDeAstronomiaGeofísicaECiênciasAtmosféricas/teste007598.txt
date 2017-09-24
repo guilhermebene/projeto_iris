@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.007598
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+01/04/2005 - Processo: 05.1.240.14.8
+
+
+Responsável:
+2514431-1 Lazaro da Silva Valerio 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+3462404
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVAPOIO              - (SERVIÇO DE APOIO OPERACIONAL)
+
+
+Complemento:
+Localizado na sala de monitoramento.
+
+
+ 
+ 
+
+
+Marca:
+SMS
+Modelo:
+Manager III
+Tipo:
+1,3 KVa
+
+
+Doc.:
+nota fiscal
+Num.:
+001535
+Data:
+29/03/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Masterdata Informática Ltda.-Me
+
+
+Identif:
+série: 013118-B
+
+
+Assinatura Digital:
+
+

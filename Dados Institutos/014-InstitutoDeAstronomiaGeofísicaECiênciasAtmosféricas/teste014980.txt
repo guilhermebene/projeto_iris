@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.014980
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+19/07/2010 - Processo: 10.1.561.14.4
+
+
+Responsável:
+45974-1 Wladimir Shukowsky 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4996801
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EXCELBYT
+Modelo:
+INTEL DH55HC/PJ
+Tipo:
+PROC. 17860 - QUADCORE
+
+
+Doc.:
+nota fiscal
+Num.:
+010325
+Data:
+15/07/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Excelbyt Comércio e Serviços de Informática Ltda.
+
+
+Identif:
+SÉRIE. C51006F00514D10074A12
+
+
+Assinatura Digital:
+
+
