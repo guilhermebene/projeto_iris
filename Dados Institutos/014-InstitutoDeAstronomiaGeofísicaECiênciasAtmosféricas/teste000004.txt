@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.000004
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+07/07/1998 - Processo: 98.1.340.14.5
+
+
+Responsável:
+45974-1 Wladimir Shukowsky 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+17230
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM  BR
+Modelo:
+3C16700
+Tipo:
+RJ 45 par trançado 10 baset
+
+
+Doc.:
+nota fiscal
+Num.:
+000687
+Data:
+02/07/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comercio e Servicos em Informatica Ltda
+
+
+Identif:
+Led's de Diagnostico e Led's de Alarme
+
+
+Assinatura Digital:
+
+

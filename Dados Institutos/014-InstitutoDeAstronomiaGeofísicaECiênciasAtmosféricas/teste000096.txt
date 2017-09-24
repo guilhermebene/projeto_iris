@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.000096
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+10/05/1999 - Processo: 99.1.148.14.8
+
+
+Responsável:
+47465-1 Maria Assuncao Faus da Silva Dias 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+U10/300
+Tipo:
+PGX 256/4GB
+
+
+Doc.:
+instrumento de convênio
+Num.:
+99/0056191-0-8
+Data:
+20/01/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+A22VEA1Z9J-A256CG
+
+
+Assinatura Digital:
+
+

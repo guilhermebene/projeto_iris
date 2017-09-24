@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.000386
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+22/09/1999 - Processo: 
+
+
+Responsável:
+69810-1 Augusto Damineli Neto 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+SAPARCTATION 10
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SUN MICROSYSTEMS OF CALIFORNIA INC.
+
+
+Identif:
+série  402F1225
+
+
+Assinatura Digital:
+
+

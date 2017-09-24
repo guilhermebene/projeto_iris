@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.000946
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+08/10/1999 - Processo: 
+
+
+Responsável:
+44097-1 Marcelo Sousa de Assumpcao 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+Sparcxterminal1  - 1 Processador
+Tipo:
+20"
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SUN MICROSYSTEMS, INC.
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+
