@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.006830
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/01/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+59103-1 Marco Antonio Saidel 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+1237659
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+KDS
+Modelo:
+VALIANT 6370IPT
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+032045
+Data:
+20/12/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA.
+
+
+Identif:
+T0207F200100
+
+
+Assinatura Digital:
+
+

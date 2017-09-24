@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000897
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/02/1999 - Processo: 88.1.30140.1.2
+
+
+Responsável:
+2494339-1 Edivaldo Trautvein 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SID
+Modelo:
+PC501
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+FINANCIAMENTO PRO-INFO/BADESP
+
+
+Identif:
+5460
+
+
+Assinatura Digital:
+
+

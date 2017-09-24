@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022442
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/01/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+6987788-1 Roberto de Jesus Suasquita Porcel 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+FMRP
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+ZAFIRA
+Tipo:
+Nº MOTOR U80005132
+
+
+Doc.:
+nota fiscal
+Num.:
+417283
+Data:
+17/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL
+
+
+Identif:
+Nº CHASSI 9BGTS75C0BC181805
+
+
+Assinatura Digital:
+
+

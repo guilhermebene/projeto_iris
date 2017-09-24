@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018840
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/12/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+3332830-1 Fabio Carneiro de Castro 
+
+
+Material:
+94102 - TESTADOR DE REDE                                                                                    
+
+
+Bem:
+2237954
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MICROSCANNER2- FLUKE NETWORKS
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+0094450
+Data:
+11/12/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ANIXTER DO BRASIL LTDA.
+
+
+Identif:
+9532123
+
+
+Assinatura Digital:
+
+

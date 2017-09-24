@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019025
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/04/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+141631 - RACK PARA EQUIPAMENTOS DE REDE                                                                      
+
+
+Bem:
+4152433
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+WOMER
+Modelo:
+W28
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1732
+Data:
+01/04/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+WORK PLACE TECNOLOGIA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

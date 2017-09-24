@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.034177
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/10/2015 - Processo: 15.1.967.6.4
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+3760 - MICRO-ÔNIBUS                                                                                        
+
+
+Bem:
+2761432
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+81200 OD
+Tipo:
+PLACA CMW 5658
+
+
+Doc.:
+nota fiscal
+Num.:
+176952
+Data:
+23/01/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CHASSI 9BWPC52R54R407124
+
+
+Assinatura Digital:
+
+

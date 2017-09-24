@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020162
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/12/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+148296 - RACK PARA MONTAGEM DE SERVIDORES                                                                    
+
+
+Bem:
+4398718
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN MICROSYSTEMS
+Modelo:
+SUN RACK 1000-42
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+558
+Data:
+24/11/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SUNSET INFORMÁTICA LTDA.
+
+
+Identif:
+0226LHF- 0839FF0064
+
+
+Assinatura Digital:
+
+

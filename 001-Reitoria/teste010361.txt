@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.010361
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/09/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2367572
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+SANTANA 2.0
+Tipo:
+PLACA CMW-1387
+
+
+Doc.:
+nota fiscal
+Num.:
+449916
+Data:
+14/06/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWAE03X83P019007
+
+
+Assinatura Digital:
+
+

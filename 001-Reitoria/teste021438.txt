@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021438
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+26/03/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2434724-1 Agnaldo Veneroso 
+
+
+Material:
+6181 - CAMIONETA                                                                                           
+
+
+Bem:
+4886330
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FORD
+Modelo:
+COURIER 1.6  -
+Tipo:
+Nº MOTOR QFKBA895655 - PLACA EGI-8747
+
+
+Doc.:
+nota fiscal
+Num.:
+30.853
+Data:
+24/02/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FORD MOTOR COMPANY BRASIL LTDA
+
+
+Identif:
+Nº CHASSI 9BFZC52P4AB895655
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.026584
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/09/2013 - Processo: 13.5.88.84.8
+
+
+Responsável:
+3332830-1 Fabio Carneiro de Castro 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+5015499
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+JC103A-HP 5800-24G-SFP SWITCH
+Tipo:
+REG./PREÇOS 12/2012-STI-DC 394869/2012
+
+
+Doc.:
+nota fiscal
+Num.:
+1048
+Data:
+10/04/2013
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN2BBFR047
+
+
+Assinatura Digital:
+
+

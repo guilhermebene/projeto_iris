@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018864
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/01/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+4563603
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Renaut
+Modelo:
+Master Minibus
+Tipo:
+nºmotor: G9UA724C036474
+
+
+Doc.:
+nota fiscal
+Num.:
+135393
+Data:
+04/01/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Renaut do Brasil S.a.
+
+
+Identif:
+chassi: 93YCDDUH58J937894
+
+
+Assinatura Digital:
+
+

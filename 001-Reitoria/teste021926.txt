@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021926
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/08/2010 - Processo: 10.5.318.70.0
+
+
+Responsável:
+2166531-1 Susie Aparecida Minati 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4936744
+Origem:
+Fabricação Própria  
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PROCESSADOR INTEL CORE 2 DUO
+Tipo:
+MEM. DDR2 4 GB - HDD 320 GB SERIAL ATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2166/2010
+Data:
+05/07/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+107131
+
+
+Assinatura Digital:
+
+

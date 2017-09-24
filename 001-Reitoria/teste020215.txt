@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020215
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/12/2008 - Processo: 07.5.784.70.8
+
+
+Responsável:
+4793611-1 Cyrano da Silva Rizzo 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+1230026
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+IDC do CCE - SunFire 6800
+
+
+ 
+ 
+
+
+Marca:
+SuperStack III
+Modelo:
+3300 24 portas 3C 16980
+Tipo:
+Switch
+
+
+Doc.:
+nota fiscal
+Num.:
+Enternet Informática Ltda
+Data:
+22/11/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0100/KMMS4F48758
+
+
+Assinatura Digital:
+
+

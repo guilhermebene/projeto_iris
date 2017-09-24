@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009748
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/03/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+1990055
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CHEVROLET
+Modelo:
+CORSA SEDAN CLASSIC
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+929445
+Data:
+12/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA
+
+
+Identif:
+9BGSB19Z03B120568
+
+
+Assinatura Digital:
+
+

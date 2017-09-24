@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003373
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/10/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+603830
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ARNO
+Modelo:
+MESA
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000558
+Data:
+21/07/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+COMERCIAL ADRIMAVI LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020551
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/04/2009 - Processo: 08.1.30.73.1
+
+
+Responsável:
+2460943-1 Suely Eloisa Jacomini Brandao 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4798155
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+UBAS-SC              - Unidade Básica de Atenção à Saúde de São Carlos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+PROC CORE 2 DUO 3.0GHZ E8400 BOX.
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+10/2009
+Data:
+31/03/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GABINETE ATX  RJAS 258D PRETO
+
+
+Assinatura Digital:
+
+

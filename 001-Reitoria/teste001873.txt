@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001873
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/09/1999 - Processo: 97.1.4176.1.2
+
+
+Responsável:
+2482920-1 Maria das Gracas Santos Vitorio de Miranda 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1002899
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACP-01             - SC DE PORTARIA E VIGILÂNCIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+amd 450 mhz, 64 mb de mem. ram
+Tipo:
+DI-512.458
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45180M
+
+
+Assinatura Digital:
+
+

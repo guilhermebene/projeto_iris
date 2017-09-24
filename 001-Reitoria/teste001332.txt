@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001332
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/06/1999 - Processo: 99.1.15433.1.3
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643742
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+pentium II, 233 mhz, 128 ram, hd 6,0 GB,
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001160
+Data:
+08/07/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+sem número de série
+
+
+Assinatura Digital:
+
+

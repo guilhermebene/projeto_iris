@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020423
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/02/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2812034-1 Demostenes Jose de Melo 
+
+
+Material:
+94 - CAMINHÕES                                                                                           
+
+
+Bem:
+3422780
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Ford
+Modelo:
+F350
+Tipo:
+NºMotor: 36094358
+
+
+Doc.:
+nota fiscal
+Num.:
+000445
+Data:
+26/11/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Ford Motor Company Brasil Ltda
+
+
+Identif:
+NºChassi: 9BFJF37949B061903
+
+
+Assinatura Digital:
+
+

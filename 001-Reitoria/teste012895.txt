@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012895
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/01/2005 - Processo: 05.1.33.70.3
+
+
+Responsável:
+1213969-1 Marga Wunderlich 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FP
+Modelo:
+XP2400
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+0006
+Data:
+13/07/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.010824
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/11/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2449071-1 Clélia Affonso Monteiro Xavier 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2628724
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPUADD
+Modelo:
+CPD533
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001064
+Data:
+14/11/2003
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+COMERCIAL E TÉCNICA COMPUADD DO BRASIL LTDA.
+
+
+Identif:
+220298
+
+
+Assinatura Digital:
+
+

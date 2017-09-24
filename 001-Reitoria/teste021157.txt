@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021157
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/10/2009 - Processo: 08.1.70.77.6
+
+
+Responsável:
+1345921-1 Marcia Rodrigues Fernandez 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+UBAS-RP              - Unidade Básica de Atenção à Saúde Ribeirão Preto
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INTEL
+Modelo:
+CORE2DUO E6550
+Tipo:
+MEMÓRIA DDR2 1GB, HD 80GB SATA, DVD-RW
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+0003/2008-SCMANUT-CIRP
+Data:
+30/06/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

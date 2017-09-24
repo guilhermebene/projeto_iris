@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021652
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/06/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2708462-1 Rosangela Pires 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+4887433
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PG                   - Procuradoria Geral
+
+
+Complemento:
+ASTRA - PLACA DJL 0057
+
+
+ 
+ 
+
+
+Marca:
+VIZEON
+Modelo:
+VZN-430
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+11247
+Data:
+20/05/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MICROSTART COM. DE SUPRIMENTOS P/INFORMÁTICA LTDA
+
+
+Identif:
+BN-BR943Q09122215
+
+
+Assinatura Digital:
+
+

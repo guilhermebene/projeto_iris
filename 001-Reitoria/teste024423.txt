@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.024423
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/05/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+4793611-1 Cyrano da Silva Rizzo 
+
+
+Material:
+161454 - TERMINAL THIN CLIENT                                                                                
+
+
+Bem:
+5167558
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+WYSE
+Modelo:
+C10LE
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2362
+Data:
+23/03/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+Solve System Comércio em Tecnologia da Informação Ltda.
+
+
+Identif:
+2EQDL201056
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013675
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/07/2005 - Processo: 05.5.639.70.6
+
+
+Responsável:
+2447896-1 Paulo Antonio da Silva Brito 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ATX
+Modelo:
+Athlon XP2600+
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+003Dvemi/CCE
+Data:
+06/01/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE  32333 (020708461)
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002537
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/09/1999 - Processo: 96.1.7504.1.0
+
+
+Responsável:
+1962148-1 Silvio Fernandes de Paula 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCSL-01              - SC SISTEMAS LOCAIS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RITRON
+Modelo:
+PENTIUM 200 MHZ
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+1903456
+
+
+Assinatura Digital:
+
+

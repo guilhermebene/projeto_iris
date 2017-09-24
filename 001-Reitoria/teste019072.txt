@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019072
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/04/2008 - Processo: 08.5.201.70.3
+
+
+Responsável:
+2429885-1 Suely Andrade de Barros 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4604407
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCAUH-01             - Seçã Téc. de Auditoria Hospitalar e Contas Médicas
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PROCESSADOR PENTIUM 4 D2
+Tipo:
+MEM. DDR2 1 GB - HD 80 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1338/2008
+Data:
+17/03/2008
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+58633
+
+
+Assinatura Digital:
+
+

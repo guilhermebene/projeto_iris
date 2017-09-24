@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.035872
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/02/2017 - Processo: 17.1.21.4.9
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878280
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Volkswagen
+Modelo:
+Parati 1.6
+Tipo:
+NºMotor: BWX 177408
+
+
+Doc.:
+nota fiscal
+Num.:
+434627
+Data:
+25/11/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NºChassi: 9BWGB05W6AP071787
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001876
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/09/1999 - Processo: 96.1.15409.1.2
+
+
+Responsável:
+2498073-1 Angelo Eduardo Ferreira Batista 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1002546
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAIMP-01             - SV DE IMPORTAÇÃO E EXPORTAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RITRON
+Modelo:
+AMD K6
+Tipo:
+500 MHZ, COM 64 MB DE MEM. RAM
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+1903431
+
+
+Assinatura Digital:
+
+

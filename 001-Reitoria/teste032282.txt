@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.032282
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/02/2014 - Processo: 14.1.682.1.8
+
+
+Responsável:
+2491444-1 Ederaldo de Oliveira 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4410939
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAAC-01              - SV ATIVIDADES COMPLEMENTARES
+
+
+Complemento:
+Aparelho se encontra no forro da ala norte no 6º andar.
+
+
+ 
+ 
+
+
+Marca:
+11NWITH 802.3AF POE
+Modelo:
+DAP-2360/Z
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+422
+Data:
+03/02/2014
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+QUINTA ONDA SERVIÇOS EM TECNOLOGIA DA INFORMAÇÃO LTDA.
+
+
+Identif:
+PVOZ1C7000426
+
+
+Assinatura Digital:
+
+

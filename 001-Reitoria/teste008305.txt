@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.008305
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+10/07/2002 - Processo: 02.1.1306.3.4
+
+
+Responsável:
+2489927-1 Paschoal Jose Dorsa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+159174
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CJ                   - Consultoria Jurídica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ACER
+Modelo:
+ACER POWER 4100
+Tipo:
+MICROCOMPUTADOR PENTIUM II 300 MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+41888
+Data:
+06/08/1999
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+B3M9073580
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018100
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/06/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+3786 - ÔNIBUS                                                                                              
+
+
+Bem:
+2718243
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN DO BRASIL
+Modelo:
+07/07
+Tipo:
+RODOVIARIO
+
+
+Doc.:
+nota fiscal
+Num.:
+360149
+Data:
+01/06/2007
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DIBRACAM-CAMINHOES E ONIBUS
+
+
+Identif:
+9BWHJ82Z77R717954
+
+
+Assinatura Digital:
+
+

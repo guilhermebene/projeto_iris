@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021335
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/02/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+77862-1 Eduardo Morgado Belo 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878906
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GM
+Modelo:
+ASTRA SEDAN ADVANTAGE
+Tipo:
+NºMOTOR U70047260
+
+
+Doc.:
+nota fiscal
+Num.:
+218505
+Data:
+15/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA
+
+
+Identif:
+NºCHASSI 9BGTR69C0AB12242
+
+
+Assinatura Digital:
+
+

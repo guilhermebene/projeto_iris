@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003012
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/03/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+111161-1 Enaege Dalan Sant Ana 
+
+
+Material:
+25666 - MONITOR DE VÍDEO DE ALTA RESOLUÇÃO                                                                  
+
+
+Bem:
+243426
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SANSUNG
+Modelo:
+550S
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001026
+Data:
+12/11/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INFOBRAS INFORMATICA DO BRASIL LTDA.
+
+
+Identif:
+Nº DE SÉRIE HXAK900178.
+
+
+Assinatura Digital:
+
+

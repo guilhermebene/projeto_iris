@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001843
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+31/08/1999 - Processo: 97.1.19080.1.6
+
+
+Responsável:
+2411030-1 Carlos Ronaldo Ferreira da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DACAA-01             - SV DE ARQUIVO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM 200 MHZ
+Tipo:
+DI-513.525
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P46202M
+
+
+Assinatura Digital:
+
+

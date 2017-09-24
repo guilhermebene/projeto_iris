@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018921
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/03/2008 - Processo: 08.5.101.70.9
+
+
+Responsável:
+2491444-1 Ederaldo de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4604407
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAAC-01              - SV ATIVIDADES COMPLEMENTARES
+
+
+Complemento:
+.
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PENTIUM IV D2
+Tipo:
+MEMÓRIA DDR2 1GB - HD 80 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1299/2008
+Data:
+28/01/2008
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+58602
+
+
+Assinatura Digital:
+
+

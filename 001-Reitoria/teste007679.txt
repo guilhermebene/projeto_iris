@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007679
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/05/2002 - Processo: 02.1.200.51.8
+
+
+Responsável:
+2470235-1 Dilson Inacio de Sousa 
+
+
+Material:
+15458 - CENTRAL DE ALARME                                                                                   
+
+
+Bem:
+1365231
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACP-01             - SC DE PORTARIA E VIGILÂNCIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ADEMCO
+Modelo:
+XL2T
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000266
+Data:
+13/03/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+XL.4600SMPT - D256
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003351
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/09/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+1469457-1 Olga Maria Zulzke de Miranda 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+565571
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GVR                  -  Vice Reitoria
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001156
+Data:
+04/07/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRÁS Informática do Brasil Ltda
+
+
+Identif:
+0600.205.600-9
+
+
+Assinatura Digital:
+
+

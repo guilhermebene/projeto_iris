@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022449
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+31/01/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+2498218-1 Celso Ranzoni 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878272
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+P/ CCPS
+
+
+ 
+ 
+
+
+Marca:
+FORD
+Modelo:
+FIESTA HATCH 1.6L
+Tipo:
+Nº MOTOR QF9AB8134342
+
+
+Doc.:
+nota fiscal
+Num.:
+113344
+Data:
+21/12/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FORD MOTOR COMPANY BRASIL LTDA.
+
+
+Identif:
+CHASSI 9BFZF55P1B8134342
+
+
+Assinatura Digital:
+
+

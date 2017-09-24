@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009429
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/12/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2487884-1 Leonardo Brian Favato 
+
+
+Material:
+94072 - CONVERSOR DE REDE                                                                                   
+
+
+Bem:
+1932047
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PUREUSP              - Programa de Economia de Energia da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+LANTRONIX
+Modelo:
+UDS 10 IAP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001678
+Data:
+10/12/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+TEIX COMERCIAL LTDA.
+
+
+Identif:
+6802341
+
+
+Assinatura Digital:
+
+

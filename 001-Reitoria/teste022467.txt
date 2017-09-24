@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022467
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/02/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+3568621-1 Antonio Paulo Soares 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+4887433
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+TOM TOM
+Modelo:
+XL 330
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+111
+Data:
+16/02/2011
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MICROSTART COMÉRCIO DE SUPRIMENTOS PARA INFORMÁTICA LTDA. EPP
+
+
+Identif:
+RQ1369B00677
+
+
+Assinatura Digital:
+
+

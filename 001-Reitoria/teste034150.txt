@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.034150
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+31/08/2015 - Processo: 15.1.205.1.6
+
+
+Responsável:
+2423746-2 Antonio Carlos de Souza 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4741048
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO PRÓPRIA CCE
+Modelo:
+INTEL CORE 2 DUO
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2315/2010
+Data:
+09/12/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+108695
+
+
+Assinatura Digital:
+
+

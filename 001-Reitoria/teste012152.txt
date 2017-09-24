@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012152
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/08/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+2502960-1 Marcelo de Toledo 
+
+
+Material:
+94455 - PROCESSADOR DE SINAL                                                                                
+
+
+Bem:
+2667061
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SG                   - Secretaria Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Lexicon
+Modelo:
+Processador de Sinal
+Tipo:
+MPX 1
+
+
+Doc.:
+nota fiscal
+Num.:
+211
+Data:
+11/08/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+A. V. Solutions Comercial Ltda
+
+
+Identif:
+740-11482
+
+
+Assinatura Digital:
+
+

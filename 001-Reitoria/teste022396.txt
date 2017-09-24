@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022396
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/12/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+3576395-1 Marcos Roberto Ferreira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878280
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+P/ IME
+
+
+ 
+ 
+
+
+Marca:
+Volkswagen
+Modelo:
+Parati 1.6
+Tipo:
+Nº motor: BWX 184018
+
+
+Doc.:
+nota fiscal
+Num.:
+517766
+Data:
+24/11/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Volkswagen do Brasil Indústria de Veículos Automotores Ltda.
+
+
+Identif:
+Chassi: 9BWGB05W6BP056109
+
+
+Assinatura Digital:
+
+

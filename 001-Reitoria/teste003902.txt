@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003902
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/04/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2451863-1 Iara de Fatima Rodrigues 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+866229
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GM
+Modelo:
+BLAZER 116AX1
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+214.067
+Data:
+13/03/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+9BG116AX01C412346
+
+
+Assinatura Digital:
+
+

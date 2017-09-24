@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017259
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/12/2006 - Processo: 06.1.13497.1.1
+
+
+Responsável:
+2463564-1 Naomi Kajioka 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+963844
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCAPOSU-01           - SC APOIO AO SISTEMA E USUÁRIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ACER
+Modelo:
+POWER SE
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+081001
+Data:
+30/04/2001
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+APXS17IPY0911716891AB
+
+
+Assinatura Digital:
+
+

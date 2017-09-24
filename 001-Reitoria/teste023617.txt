@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023617
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/03/2012 - Processo: 12.5.114.70.8
+
+
+Responsável:
+7841901-1 Valdir de Araujo Vieira Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225493
+Origem:
+Fabricação Própria  
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AG                   - Arquivo Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+PROCESSADOR INTEL I5 2400
+Tipo:
+MEMÓRIA DDR3 4GB HD 500 GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2817
+Data:
+10/02/2012
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+114586
+
+
+Assinatura Digital:
+
+

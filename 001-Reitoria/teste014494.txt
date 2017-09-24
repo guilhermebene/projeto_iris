@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014494
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/12/2005 - Processo: 05.5.639.70.6
+
+
+Responsável:
+2444997-1 Maria Cristina de Oliveira Costa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3334651
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+USPOFICINA-DRH       - Usp Oficina - DRH
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+POS_AT SERIES F (CELERON R)
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota fiscal
+Num.:
+1511/12/13/14
+Data:
+15/01/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+297803
+
+
+Assinatura Digital:
+
+

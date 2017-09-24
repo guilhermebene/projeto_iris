@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000934
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/02/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+2803490-1 Irineu Ambrozano Filho 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+49654
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CODAGE               - Coordenadoria de Administração Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+DESKPRO EN 6400
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000901
+Data:
+12/11/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MICROMAX COMÉRCIO E SERVIÇOS EM INFORMÁTICA LTDA
+
+
+Identif:
+F844BW321430
+
+
+Assinatura Digital:
+
+

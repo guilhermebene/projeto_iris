@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014104
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/09/2005 - Processo: 04.1.7856.1.1
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+25666 - MONITOR DE VÍDEO DE ALTA RESOLUÇÃO                                                                  
+
+
+Bem:
+3729907
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+04/1094774-6
+Data:
+28/10/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+SUNSET INFO CORP
+
+
+Identif:
+série 0000431-0415MR0576
+
+
+Assinatura Digital:
+
+

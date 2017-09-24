@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014917
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/03/2006 - Processo: 06.1.158.1.9
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+3951111
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FIAT
+Modelo:
+SIENA HLX 1.8 FLEX 4P
+Tipo:
+PLACA: DJP 3210
+
+
+Doc.:
+nota fiscal
+Num.:
+42152
+Data:
+03/03/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+FIAT AUTOMÓVEIS S/A
+
+
+Identif:
+9BD17241C63218634
+
+
+Assinatura Digital:
+
+

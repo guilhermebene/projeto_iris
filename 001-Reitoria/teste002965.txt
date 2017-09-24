@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002965
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/02/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2333822-1 Luis Gomes da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+209970
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Metron
+Modelo:
+PENTIUM III
+Tipo:
+ 
+
+
+Doc.:
+nota fiscal
+Num.:
+001073
+Data:
+01/02/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRAS INFORMATICA DO BRASIL LTDA.
+
+
+Identif:
+03020080797
+
+
+Assinatura Digital:
+
+

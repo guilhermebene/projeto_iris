@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013550
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/06/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2509971-1 Lilian Alvarenga 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2367572
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEM
+Modelo:
+SANTANA
+Tipo:
+CMW 9630
+
+
+Doc.:
+nota fiscal
+Num.:
+165221
+Data:
+23/02/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEM DO BRASIL LTDA.
+
+
+Identif:
+9BWAEO3X95P003238
+
+
+Assinatura Digital:
+
+

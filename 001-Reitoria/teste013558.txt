@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013558
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/06/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2367572
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+PRPG
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+SANTANA
+Tipo:
+CMW 9719
+
+
+Doc.:
+nota fiscal
+Num.:
+172491
+Data:
+17/03/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWAE03X25P003758
+
+
+Assinatura Digital:
+
+

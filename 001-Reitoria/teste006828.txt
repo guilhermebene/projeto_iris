@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.006828
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/01/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2440972-1 Claudia Rodrigues Alvim D'Arco 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+1237624
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+ARMADA 110
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+032045
+Data:
+20/12/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA.
+
+
+Identif:
+6D17JMVZH12G
+
+
+Assinatura Digital:
+
+

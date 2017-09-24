@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000133
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/10/1998 - Processo: 98.1.11336.1.2
+
+
+Responsável:
+2494339-1 Edivaldo Trautvein 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PDD
+Modelo:
+202
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICROPERIFERICOS IND.E COM.LTDA
+
+
+Identif:
+300119
+
+
+Assinatura Digital:
+
+

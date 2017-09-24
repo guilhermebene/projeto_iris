@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002580
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+30/09/1999 - Processo: 97.1.19080.1.6
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM II 400 MHZ
+Tipo:
+DI-513.525
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45940M
+
+
+Assinatura Digital:
+
+

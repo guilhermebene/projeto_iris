@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022360
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/12/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878280
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI 1.6
+Tipo:
+Nº MOTOR BWX 184060
+
+
+Doc.:
+nota fiscal
+Num.:
+517764
+Data:
+24/11/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+CHASSI 9BWGB05W3BP055127
+
+
+Assinatura Digital:
+
+

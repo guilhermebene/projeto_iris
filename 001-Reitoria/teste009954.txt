@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009954
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/05/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+2172313
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI - 5X52F4
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+424782
+Data:
+17/03/2003
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEM DO BRASIL LTDA.
+
+
+Identif:
+Chassis - 9BWDC05XX3T099191
+
+
+Assinatura Digital:
+
+

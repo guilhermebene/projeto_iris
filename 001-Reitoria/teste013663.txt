@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013663
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/06/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+9580 - SCANNER DE MESA                                                                                     
+
+
+Bem:
+3039072
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+SCANJET 3770
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+005203
+Data:
+17/05/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TEND INFORMÁTICA E SERVIÇOS LTDA.
+
+
+Identif:
+SÉRIE CN4AEAS70Q
+
+
+Assinatura Digital:
+
+

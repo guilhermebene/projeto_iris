@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018893
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/02/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Chevrolet
+Modelo:
+Zafira
+Tipo:
+Nº motor: R30025912
+
+
+Doc.:
+nota fiscal
+Num.:
+407617
+Data:
+31/01/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+General Motors do Brasil Ltda
+
+
+Identif:
+Chassis: 9BGTS75W08C162033
+
+
+Assinatura Digital:
+
+

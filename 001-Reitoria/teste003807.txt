@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003807
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/03/2001 - Processo: 01.1.140.51.4
+
+
+Responsável:
+2495984-1 Daniel Machado de Sousa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+864811
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVCOAUD-01           - SV CONTRATOS AUTARQ E DOCENTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DAEWOO
+Modelo:
+PENTIUM III
+Tipo:
+700 MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+2697
+Data:
+21/02/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SÉRIE AO110258403
+
+
+Assinatura Digital:
+
+

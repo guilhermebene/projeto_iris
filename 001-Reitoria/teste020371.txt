@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020371
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/01/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+3054830-1 Sergio Ricardo dos Santos 
+
+
+Material:
+94 - CAMINHÕES                                                                                           
+
+
+Bem:
+4657616
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FORD
+Modelo:
+F4000
+Tipo:
+Nº MOTOR: 36096419
+
+
+Doc.:
+nota fiscal
+Num.:
+447
+Data:
+26/11/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FORD MOTOR COMPANY BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI: 9BFLF47919B062523
+
+
+Assinatura Digital:
+
+

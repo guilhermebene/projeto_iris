@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013560
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/06/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2761408
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN.
+Modelo:
+PARATI 1.8
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+126705
+Data:
+29/10/2004
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWDCC05X75T053952
+
+
+Assinatura Digital:
+
+

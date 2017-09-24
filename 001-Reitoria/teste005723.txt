@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.005723
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/08/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2464544-1 Mario Carlos Palloti 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+996920
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+QUANTUM 1.8
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+189029
+Data:
+20/07/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA
+
+
+Identif:
+CHASSI  9BWBCO3X41P025233
+
+
+Assinatura Digital:
+
+

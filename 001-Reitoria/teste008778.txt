@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.008778
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/10/2002 - Processo: 02.1.11141.1.1
+
+
+Responsável:
+2449690-1 Sandra Cristina Campos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+Post-ATSERIESJ
+Tipo:
+ATHLON-AMD 1,333GHZ HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88814
+Data:
+03/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+Positivo Informática LTDA
+
+
+Identif:
+131397
+
+
+Assinatura Digital:
+
+

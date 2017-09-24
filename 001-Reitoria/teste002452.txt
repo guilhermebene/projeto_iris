@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002452
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/09/1999 - Processo: 97.1.19080.1.6
+
+
+Responsável:
+1946293-1 Walter Michishita 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DVPROD-01            - DV DE PRODUÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM 233 MHZ
+Tipo:
+DI-513.525 - MEM. RAM 64 MB, HD 3.2 GB
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45486M
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.034152
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+31/08/2015 - Processo: 15.1.205.1.6
+
+
+Responsável:
+2333919-1 Valter Aparecido Moreira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5055024
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MONTAGEM CCE
+Modelo:
+INTEL  i5 - 650
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2458/2011
+Data:
+22/06/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+111336
+
+
+Assinatura Digital:
+
+

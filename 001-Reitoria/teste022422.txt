@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022422
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/01/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+O número de empenho correto é 3604720/2010
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+ZAFIRA
+Tipo:
+Nº MOTOR 101398FU80005179
+
+
+Doc.:
+nota fiscal
+Num.:
+420870
+Data:
+22/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+CHASSI 9BGTS75C0BC185512
+
+
+Assinatura Digital:
+
+

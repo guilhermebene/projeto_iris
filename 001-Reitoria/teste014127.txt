@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014127
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/09/2005 - Processo: 05.5.316.70.2
+
+
+Responsável:
+2807282-1 Jose Camilo Pegoraro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+USP-OFICINA
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS - AT SÉRIES J
+Tipo:
+ATHLON - AMD 1.333 MHZ - HD 40 GB.
+
+
+Doc.:
+nota fiscal
+Num.:
+88858
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+132255
+
+
+Assinatura Digital:
+
+

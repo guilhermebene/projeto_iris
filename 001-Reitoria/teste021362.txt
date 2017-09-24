@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021362
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/02/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2507670-1 Ricardo Vicente Michelotto 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878906
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GM
+Modelo:
+ASTRA SEDAN ADVANTAGE
+Tipo:
+Nº MOTOR U70037507
+
+
+Doc.:
+nota fiscal
+Num.:
+218509
+Data:
+15/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+9BGTR69C0AB212119
+
+
+Assinatura Digital:
+
+

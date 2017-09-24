@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.011977
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/03/2004 - Processo: 
+
+
+Responsável:
+2412452-1 Aparecida Porcini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ 
+Modelo:
+ 
+Tipo:
+IBMPC286-XTC
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+FKS-EMPRESA BRASIL.COMPUTADORES LTDA
+
+
+Identif:
+1402
+
+
+Assinatura Digital:
+
+

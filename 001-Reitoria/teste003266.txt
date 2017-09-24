@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003266
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/09/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+265479-1 Celia Regina Montes 
+
+
+Material:
+19224 - BOMBA À VACUO DE LABORATORIO                                                                        
+
+
+Bem:
+668176
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PRISMATEC
+Modelo:
+131
+Tipo:
+2VC
+
+
+Doc.:
+nota fiscal
+Num.:
+000040
+Data:
+23/08/2000
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+COMTEC COM. E ASSIST.TÉCNICA DE EQUIPS.P/LABS.LTDA.ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

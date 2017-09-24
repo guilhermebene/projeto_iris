@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020897
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/06/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+5839450-1 Roque Marcelino de Amorim 
+
+
+Material:
+3760 - MICRO-ÔNIBUS                                                                                        
+
+
+Bem:
+2761432
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MARCOPOLO
+Modelo:
+VOLARE W8
+Tipo:
+Nº CHASSI 93PB12E3P9C030242
+
+
+Doc.:
+nota fiscal
+Num.:
+7864
+Data:
+03/06/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MARCOPOLO S.A
+
+
+Identif:
+Nº MOTOR: D1A032844
+
+
+Assinatura Digital:
+
+

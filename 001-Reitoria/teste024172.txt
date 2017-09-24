@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.024172
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/05/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+5835779-1 Walney Alexandre Cruz 
+
+
+Material:
+161454 - TERMINAL THIN CLIENT                                                                                
+
+
+Bem:
+5167558
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+WYSE
+Modelo:
+C10LE
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2362
+Data:
+23/03/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+Solve System Comércio em Tecnologia da Informação Ltda.
+
+
+Identif:
+2EQDL200333
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004038
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/05/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+49533-1 Jose Carlos de Freitas 
+
+
+Material:
+6173 - CAMIONETA CABINE DUPLA                                                                              
+
+
+Bem:
+866237
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GM
+Modelo:
+S-10 138AC1
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+234.405
+Data:
+19/04/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA
+
+
+Identif:
+9BG138AC01C417021
+
+
+Assinatura Digital:
+
+

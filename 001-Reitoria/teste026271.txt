@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.026271
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/08/2013 - Processo: 13.1.1071.1.1
+
+
+Responsável:
+3589778-1 Marcio Henrique da Silva 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+5009375
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SSEG                 - Superintendência de Segurança
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+TP LINK
+Modelo:
+TL-MR3220 150 MBS
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.001.146
+Data:
+15/07/2013
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MICROSTART COMÉRCIO DE SUPRIMENTOS PARA INFORMÁTICA LTDA - E.P.P.
+
+
+Identif:
+12679806758
+
+
+Assinatura Digital:
+
+

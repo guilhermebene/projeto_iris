@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025401
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/11/2012 - Processo: 12.1.241.49.4
+
+
+Responsável:
+8143004-1 Jefferson de Almeida 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+996920
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DOV                  - Divisão de Operações e Vigilância
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+QUANTUM 1.8
+Tipo:
+CDV 0958
+
+
+Doc.:
+nota fiscal
+Num.:
+189027
+Data:
+20/07/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ CHASSI  9BWBCO3X21P025134
+
+
+Assinatura Digital:
+
+

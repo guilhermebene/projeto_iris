@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.024913
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/07/2012 - Processo: 12.5.437.70.1
+
+
+Responsável:
+4988966-1 Lenin Oliveira de Araújo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225493
+Origem:
+Fabricação Própria  
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AG                   - Arquivo Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fabr. CCE
+Modelo:
+Intel I5 2400
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2943
+Data:
+22/05/2012
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+114686
+
+
+Assinatura Digital:
+
+

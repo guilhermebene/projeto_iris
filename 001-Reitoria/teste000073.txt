@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000073
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/07/1998 - Processo: 98.1.190.1.1
+
+
+Responsável:
+2500530-1 Luis Carlos Pastor 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+15822
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SG                   - Secretaria Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+000414
+Data:
+04/06/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ACS ABSOLUTE CABLING SYSTEM COMÉRCIO E SERVIÇO LTDA
+
+
+Identif:
+0598084992-0
+
+
+Assinatura Digital:
+
+

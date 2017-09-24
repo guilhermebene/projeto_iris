@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022391
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/12/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+Placas DJL-1858
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+ZAFIRA COMFORT - BRANCO MAHLER ANO 10/11
+Tipo:
+MOTOR U80005029
+
+
+Doc.:
+nota fiscal
+Num.:
+411720
+Data:
+10/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL
+
+
+Identif:
+9BGTS75C0BC177692
+
+
+Assinatura Digital:
+
+

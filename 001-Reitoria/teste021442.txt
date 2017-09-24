@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021442
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/03/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2474069-1 Joacir Luiz de Melo 
+
+
+Material:
+3760 - MICRO-ÔNIBUS                                                                                        
+
+
+Bem:
+4903641
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+VOLKSBUS 9150 EOD
+Tipo:
+Nº MOTOR DIA038395
+
+
+Doc.:
+nota fiscal
+Num.:
+28945
+Data:
+04/03/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DIBRACAM COMERCIAL LTDA.
+
+
+Identif:
+Nº CHASSI 9532252R7AR017091
+
+
+Assinatura Digital:
+
+

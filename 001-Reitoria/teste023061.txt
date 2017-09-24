@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023061
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/08/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+2507670-1 Ricardo Vicente Michelotto 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+4827554
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+KOMBI
+Tipo:
+Nº MOTOR BTJ 770488
+
+
+Doc.:
+nota fiscal
+Num.:
+655952
+Data:
+18/07/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS
+
+
+Identif:
+Nº SERIE 9BWMFC7X5CP006462
+
+
+Assinatura Digital:
+
+

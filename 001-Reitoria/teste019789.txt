@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019789
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/07/2008 - Processo: 08.1.26.27.0
+
+
+Responsável:
+2429885-1 Suely Andrade de Barros 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+864609
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SISUSP               - Sistema Integrado Saúde da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TATUNG
+Modelo:
+TTF 2280 Pentium III 700mhz
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+4285
+Data:
+06/04/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+34120005
+
+
+Assinatura Digital:
+
+

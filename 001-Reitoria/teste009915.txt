@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009915
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/04/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+2172313
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI - 5X52F4
+Tipo:
+PLACA CMW - 0480
+
+
+Doc.:
+nota fiscal
+Num.:
+424784
+Data:
+17/03/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWDC0C05X03T098325
+
+
+Assinatura Digital:
+
+

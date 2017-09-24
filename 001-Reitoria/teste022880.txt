@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022880
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/06/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+4887433
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+PARA UTILIZAÇÃO NOS VEÍCULOS DE Nºs PATRIMONIAIS 001-016229 - PLACAS DJP-4696 E 
+
+
+ 
+001-005719 - PLACAS CDV-0772 
+
+
+Marca:
+TOM TOM
+Modelo:
+XL CLASSIC BRASIL
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+37
+Data:
+03/05/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+NEUZA MARIA IZZO ME
+
+
+Identif:
+RU3160K10425
+
+
+Assinatura Digital:
+
+

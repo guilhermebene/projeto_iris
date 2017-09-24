@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001795
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+30/08/1999 - Processo: 95.1.37794.1.5
+
+
+Responsável:
+2457021-1 Eunice Ribeiro Borges 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1003623
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAUSP                - Sistema de Arquivo da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RITRON
+Modelo:
+486DX2-66MHZ
+Tipo:
+CPU
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+1903312
+
+
+Assinatura Digital:
+
+

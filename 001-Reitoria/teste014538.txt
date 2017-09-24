@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014538
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/01/2006 - Processo: 06.1.158.1.9
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+1323652
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+GOL 1.6
+Tipo:
+DJP-2015
+
+
+Doc.:
+nota fiscal
+Num.:
+257193
+Data:
+22/11/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWCB05W56P014177
+
+
+Assinatura Digital:
+
+

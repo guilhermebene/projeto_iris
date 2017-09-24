@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020179
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/12/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+2935520
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN MICROSYSTEMS
+Modelo:
+SUN FIRE X2100 M2
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+558
+Data:
+24/11/2008
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+SUNSET INFORMÁTICA LTDA.
+
+
+Identif:
+0845QAL0EC
+
+
+Assinatura Digital:
+
+

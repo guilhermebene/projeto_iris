@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002665
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/10/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+1304122-1 Nina Beatriz Stocco Ranieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM 120 MHZ
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+513525
+Data:
+16/12/1996
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P46179M
+
+
+Assinatura Digital:
+
+

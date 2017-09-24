@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022488
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/03/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+6535578-1 Arize Araújo Pinheiro 
+
+
+Material:
+141739 - DATA LOGGER                                                                                         
+
+
+Bem:
+3973816
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AG                   - Arquivo Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+KIMO
+Modelo:
+KH-100-AO
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+375
+Data:
+25/02/2011
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ROMIOTTO INSTRUMENTOS DE MEDIÇÃO LTDA.
+
+
+Identif:
+10108530
+
+
+Assinatura Digital:
+
+

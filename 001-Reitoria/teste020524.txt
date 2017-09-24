@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020524
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/03/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+4772440
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PEUGEOT
+Modelo:
+BOXER VAN 330
+Tipo:
+Nº MOTOR 1022091052716
+
+
+Doc.:
+nota fiscal
+Num.:
+283
+Data:
+12/03/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MANUPA COMÉRCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.
+
+
+Identif:
+Nº CHASSI 936ZBPMMB92038977
+
+
+Assinatura Digital:
+
+

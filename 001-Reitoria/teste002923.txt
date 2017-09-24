@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002923
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/02/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2430911-1 Luiz Carlos Correa Santana 
+
+
+Material:
+25372 - LINHA MÓVEL CELULAR                                                                                 
+
+
+Bem:
+342912
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MOTOROLA
+Modelo:
+STARTAC 7760
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000910
+Data:
+31/01/2000
+
+
+Garantia:
+0 ano(s)
+
+
+Fornecedor:
+TELESP CELULAR S.A
+
+
+Identif:
+Nº DA LINHA 9647.0703
+
+
+Assinatura Digital:
+
+

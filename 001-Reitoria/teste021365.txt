@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021365
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/02/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2507670-1 Ricardo Vicente Michelotto 
+
+
+Material:
+6173 - CAMIONETA CABINE DUPLA                                                                              
+
+
+Bem:
+1520911
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FORD
+Modelo:
+RANGER CD 3.0
+Tipo:
+Nº MOTOR: D56282463
+
+
+Doc.:
+nota fiscal
+Num.:
+53.549
+Data:
+14/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FORD MOTOR COMPANY BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI: 8AFER13P4AJ271285
+
+
+Assinatura Digital:
+
+

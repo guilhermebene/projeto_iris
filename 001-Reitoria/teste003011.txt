@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003011
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/03/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+111161-1 Enaege Dalan Sant Ana 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+243418
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+PENTIUN III 450 MHZ
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001026
+Data:
+12/11/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INFÓBRAS INFORMÁTICA DO BRASIL LTDA.
+
+
+Identif:
+Nº DE SÉRIE 1199.008.633-0
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001748
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/08/1999 - Processo: 95.1.1768.1.4
+
+
+Responsável:
+2470235-1 Dilson Inacio de Sousa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ATEC
+Modelo:
+386-SX 40
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+DATASEG ENG.COM.IMP.E EXPORT.LTDA
+
+
+Identif:
+0541194
+
+
+Assinatura Digital:
+
+

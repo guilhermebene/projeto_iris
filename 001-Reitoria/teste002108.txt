@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002108
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/09/1999 - Processo: 97.1.5910.1.1
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+450 - MONITORES DE VÍDEO                                                                                  
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+CMD-1536
+Tipo:
+DI-513.452
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+G059892
+
+
+Assinatura Digital:
+
+

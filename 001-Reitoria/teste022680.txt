@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022680
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/05/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+3055212-1 Jose Roberto Nicacio 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+4903668
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+P/ MAE
+
+
+ 
+ 
+
+
+Marca:
+PEUGEOT
+Modelo:
+BOXER MINIBUS TDS JTD
+Tipo:
+Nº MOTOR 1022097081878
+
+
+Doc.:
+nota fiscal
+Num.:
+124
+Data:
+22/03/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MANUPA COMÉRCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.
+
+
+Identif:
+CHASSI 935ZCXMNCB2058287
+
+
+Assinatura Digital:
+
+

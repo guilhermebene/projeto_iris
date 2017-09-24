@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013923
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/09/2005 - Processo: 04.1.7856.1.1
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+3057232
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+V880
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+04/1094774-6
+Data:
+28/10/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+SUNSET INFO CORP
+
+
+Identif:
+Série 0420AM0236
+
+
+Assinatura Digital:
+
+

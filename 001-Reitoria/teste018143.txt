@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018143
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/07/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6254 - MOTOCICLETA                                                                                         
+
+
+Bem:
+4288076
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HONDA
+Modelo:
+NXR 150 BROS
+Tipo:
+MOTOR KD03E27018377
+
+
+Doc.:
+nota fiscal
+Num.:
+63060
+Data:
+26/06/2007
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+SÃO PAULO DISTRIBUIDORA DE MOTOS E VEÍCULOS LTDA.
+
+
+Identif:
+CHASSI 9C2KD03207R018377
+
+
+Assinatura Digital:
+
+

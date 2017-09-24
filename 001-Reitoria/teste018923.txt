@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018923
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/03/2008 - Processo: 08.1.30.73.1
+
+
+Responsável:
+976336-1 Fabiana Duarte 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4569989
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+UBAS-SC              - Unidade Básica de Atenção à Saúde de São Carlos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+PROC CORE2 DUO 2.33GHZ
+Tipo:
+MEM. DDR2 1GB/667 - HD 160GB SATA II
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+6/2008
+Data:
+14/12/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+G02156
+
+
+Assinatura Digital:
+
+

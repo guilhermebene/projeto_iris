@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001844
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+31/08/1999 - Processo: 97.1.156.1.7
+
+
+Responsável:
+2457960-1 Maria da Gloria Calasans Rosa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1003720
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM 233MH
+Tipo:
+C/64 MB DE RAM
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+6365P45990M
+
+
+Assinatura Digital:
+
+

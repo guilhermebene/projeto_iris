@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.034186
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/11/2015 - Processo: 15.1.205.1.6
+
+
+Responsável:
+5008140-1 Katia Regina Lopes de Souza 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4741048
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCPGTO-01            - SC PAGAMENTOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE/DVEMIC
+Modelo:
+INTEL I5-650
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2376/2011
+Data:
+02/03/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+109938
+
+
+Assinatura Digital:
+
+

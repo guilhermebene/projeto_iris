@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009959
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/05/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+2172305
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+KOMBI - 7X21A1
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+423657
+Data:
+17/03/2003
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+CHASSIS - 9BWGB07X43P010785
+
+
+Assinatura Digital:
+
+

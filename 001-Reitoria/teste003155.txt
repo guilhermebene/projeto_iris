@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003155
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/07/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+5489294-1 Edilaine Aparecida de Freitas Souza 
+
+
+Material:
+87408 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+582603
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SEAL
+Modelo:
+PDT3500
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+045708
+Data:
+28/06/2000
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+SEAL ELETRÔNICA LTDA
+
+
+Identif:
+K319102
+
+
+Assinatura Digital:
+
+

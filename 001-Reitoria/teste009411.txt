@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009411
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/12/2002 - Processo: 02.1.8064.1.0
+
+
+Responsável:
+2333801-1 Adriana Mello da Silveira Braga Cherobin 
+
+
+Material:
+125784 - SISTEMA DE AUTO RESFRIAMENTO                                                                        
+
+
+Bem:
+1541650
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Shimadzu
+Modelo:
+BLW-50
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+02/0613371-0
+Data:
+05/08/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Shimadzu Corporation
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

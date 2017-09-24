@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018924
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/03/2008 - Processo: 08.1.30.73.1
+
+
+Responsável:
+3646416-1 Geraldo Ferigato Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4569989
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SAU                  - Superintendência de Saúde
+
+
+Complemento:
+N.º DE SÉRIE DO GABINETE CONSTANTE NA NOTA DE FABRICAÇÃO PRÓPRIA: G02184
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+PROC CORE 2 DUO 2.33GHZ
+Tipo:
+MEM. DDR2 1 GB/667 - HD 160 GB SATA II
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+011/2008
+Data:
+10/01/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+USP 23456 CISC 78910 0305
+
+
+Assinatura Digital:
+
+

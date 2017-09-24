@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.011978
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/03/2004 - Processo: 
+
+
+Responsável:
+2412452-1 Aparecida Porcini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+IBM
+Modelo:
+PC-AT-286
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+PLACTRONIK IND.COM.SERV.ELETRON.LTDA
+
+
+Identif:
+92286004
+
+
+Assinatura Digital:
+
+

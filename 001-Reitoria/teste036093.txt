@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.036093
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/04/2017 - Processo: 17.1.824.1.0
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+1520881
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+KOMBI
+Modelo:
+2008/2009
+Tipo:
+Nº MOTOR BTJ  703604
+
+
+Doc.:
+nota fiscal
+Num.:
+113073
+Data:
+30/09/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Nº CHASSI 9BWMF07XX9P012086
+
+
+Assinatura Digital:
+
+

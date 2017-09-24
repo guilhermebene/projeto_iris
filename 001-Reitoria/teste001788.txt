@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001788
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+30/08/1999 - Processo: 97.1.4176.1.2
+
+
+Responsável:
+2485155-1 Ronaldo Mario dos Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643785
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAAC-01              - SV ATIVIDADES COMPLEMENTARES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM 120 MHZ
+Tipo:
+DI-512.458
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45750M
+
+
+Assinatura Digital:
+
+

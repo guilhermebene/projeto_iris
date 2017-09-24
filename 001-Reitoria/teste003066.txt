@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003066
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/04/2000 - Processo: 91.1.30.1.8
+
+
+Responsável:
+2494339-1 Edivaldo Trautvein 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CERT                 - Comissão Especial de Regime de Trabalho
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ 
+Modelo:
+ 
+Tipo:
+IBMPC286-XTC
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+FKS-EMPRESA BRASIL.COMPUTADORES LTDA
+
+
+Identif:
+1400
+
+
+Assinatura Digital:
+
+

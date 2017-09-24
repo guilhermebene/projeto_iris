@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023389
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/12/2011 - Processo: 11.5.558.70.2
+
+
+Responsável:
+2422338-1 Maria Regina de Faro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225477
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAIMP-01             - SV DE IMPORTAÇÃO E EXPORTAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fabricação CCE
+Modelo:
+Processador INTEL i5 2400
+Tipo:
+Mem. DDR3 4 GB - HD 1 TB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2527/2011
+Data:
+17/10/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+111381
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017172
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/11/2006 - Processo: 06.1.22641.1.4
+
+
+Responsável:
+5488035-1 Cynthia Matuura 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+2362015
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Sun Microsystems
+Modelo:
+Sun Storedge 3510 - USA
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+06/1040926-8
+Data:
+06/09/2006
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Sunset Informática Ltda
+
+
+Identif:
+1094MIL-0546098B2D
+
+
+Assinatura Digital:
+
+

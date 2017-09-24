@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019067
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/04/2008 - Processo: 08.1.3687.1.4
+
+
+Responsável:
+2483685-1 Andre Luis Correa Barbosa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4623037
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+Intel Celeron 2.8Ghz
+Tipo:
+512Mb Ram; HD 80Gb
+
+
+Doc.:
+termo de doação
+Num.:
+755/08
+Data:
+29/01/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+K140607222802911
+
+
+Assinatura Digital:
+
+

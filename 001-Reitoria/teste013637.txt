@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013637
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/06/2005 - Processo: 05.5.639.70.6
+
+
+Responsável:
+2464627-1 Wilson Goncalves de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3334651
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+POS_AT SERIES F (CELERON R)
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota fiscal
+Num.:
+1511/12/13/14
+Data:
+15/01/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+298136
+
+
+Assinatura Digital:
+
+

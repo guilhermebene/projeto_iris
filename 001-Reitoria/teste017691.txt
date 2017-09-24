@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017691
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/03/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ZAFIRA
+Tipo:
+Nº MOTOR J60044199
+
+
+Doc.:
+nota fiscal
+Num.:
+240.900
+Data:
+05/02/2007
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL-LTDA
+
+
+Identif:
+9BGTS75W07C163122
+
+
+Assinatura Digital:
+
+

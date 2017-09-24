@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001636
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/08/1999 - Processo: 99.1.18148.1.8
+
+
+Responsável:
+81036-1 Luiz Natal Rossi 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643769
+Origem:
+Avaliação           
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+PENTIUM MMX 233
+Tipo:
+
+
+
+Doc.:
+termo de avaliação
+Num.:
+S/Nº
+Data:
+19/07/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

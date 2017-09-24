@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.015114
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/05/2006 - Processo: 06.5.166.70.1
+
+
+Responsável:
+2495601-1 Maria Cristina da Silva Oliveira Araujo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3831493
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DACAP-01             - SV DE PROTOCOLO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4341
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+53995
+Data:
+27/02/2006
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+I536601204176
+
+
+Assinatura Digital:
+
+

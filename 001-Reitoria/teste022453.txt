@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022453
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/02/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+2748467-1 Luiz Fernando Ferreira de Lima 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+4827554
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+CCE
+
+
+ 
+ 
+
+
+Marca:
+KOMBI
+Modelo:
+1.4 FURGÃO
+Tipo:
+Nº MOTOR BTJ 755322
+
+
+Doc.:
+nota fiscal
+Num.:
+517772
+Data:
+24/11/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+Nº CHASSI 9BWMF07X1BP015867
+
+
+Assinatura Digital:
+
+

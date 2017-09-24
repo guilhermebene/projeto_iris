@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022431
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/01/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+4793611-1 Cyrano da Silva Rizzo 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+2361850
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DLINK
+Modelo:
+DNS-323
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+32
+Data:
+10/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+EXCELBYT COMÉRCIO E SERVIÇOS DE INFORMÁTICA LTDA.
+
+
+Identif:
+PVBU1A7000013
+
+
+Assinatura Digital:
+
+

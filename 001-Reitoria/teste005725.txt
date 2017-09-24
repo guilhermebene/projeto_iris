@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.005725
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/08/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+5489294-1 Edilaine Aparecida de Freitas Souza 
+
+
+Material:
+87408 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+992313
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SEAL/SYMBOL
+Modelo:
+SPT-1700-PRG80200
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+060451
+Data:
+14/08/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SEAL ELETRÔNICA LTDA.
+
+
+Identif:
+Z1807220
+
+
+Assinatura Digital:
+
+

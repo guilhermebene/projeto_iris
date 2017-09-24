@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022427
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/01/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+2611012-1 Waldemir Aparecido Olivieri 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+P/ FM
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+ZAFIRA
+Tipo:
+Nº MOTOR U80005209
+
+
+Doc.:
+nota fiscal
+Num.:
+420868
+Data:
+22/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 9BGTS75C0BC185553
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020249
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/12/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+VEÍCULO DE USO DA ESTAÇÃO CIÊNCIA - PLACAS DJP-5234
+
+
+ 
+ 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ZAFIRA
+Tipo:
+Nº MOTOR R30058542
+
+
+Doc.:
+nota fiscal
+Num.:
+556.903
+Data:
+19/11/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+9BGTS75W09C152840
+
+
+Assinatura Digital:
+
+

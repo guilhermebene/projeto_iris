@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023388
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/12/2011 - Processo: 11.5.558.70.2
+
+
+Responsável:
+7116353-1 Elisa Sartori Marques 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225477
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMCF                - Serviço de Cadastro de Fornecedores
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fabricação CCE
+Modelo:
+Processador INTEL i5 2400
+Tipo:
+Mem. DDR3 4 GB - HD 1 TB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2526/2011
+Data:
+17/10/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+111383
+
+
+Assinatura Digital:
+
+

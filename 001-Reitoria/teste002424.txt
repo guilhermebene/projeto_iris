@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002424
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/09/1999 - Processo: 96.1.24839.1.6
+
+
+Responsável:
+1919632-1 Ubiratan Rodrigues 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+MEM.RAM 64MB, CD ROM 24X, HD 3.2/1.0 GB
+
+
+ 
+ 
+
+
+Marca:
+ASHFORD
+Modelo:
+PENTIUM 233 MHZ
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+9595364
+
+
+Assinatura Digital:
+
+

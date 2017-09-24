@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009193
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/11/2002 - Processo: 02.1.11141.1.1
+
+
+Responsável:
+3576040-1 Evandro Lopes da Rocha 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3915760
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DRH                  - Departamento de Recursos Humanos
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+POSITIVO
+Modelo:
+
+Tipo:
+ATHLON XP 2400+(2.01GHZ) 2 UNID.HD 40 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88855
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+POSITIVO INFORMÁTICA LTDA.
+
+
+Identif:
+130972
+
+
+Assinatura Digital:
+
+

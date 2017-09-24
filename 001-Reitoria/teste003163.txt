@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003163
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/07/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2480171-1 Silvio Luis Crispim 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+393908
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VW
+Modelo:
+QUANTUM 2.0
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+020976
+Data:
+10/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA
+
+
+Identif:
+9BWBE13X9YP021883
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020453
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/03/2009 - Processo: 09.1.2201.1.1
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+161594 - CONDICIONADOR DE AR                                                                                 
+
+
+Bem:
+
+Origem:
+Avaliação           
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+TRANE
+Modelo:
+MCW512K10RAB
+Tipo:
+SPLIT, 12.000 BTU/h
+
+
+Doc.:
+termo de avaliação
+Num.:
+01/2009
+Data:
+06/03/2009
+
+
+Garantia:
+0 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+3514940000085 (EVAP)
+
+
+Assinatura Digital:
+
+

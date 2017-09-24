@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009225
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/11/2002 - Processo: 02.1.11141.1.1
+
+
+Responsável:
+1744367-1 Sergio Luiz de Brito Orsini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PRG                  - PRG - Almox
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+Post-ATSeriesJ
+Tipo:
+Athon-AMD; 1.333GHZ; HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+088807
+Data:
+03/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+Positivo Informática LTDA
+
+
+Identif:
+131090
+
+
+Assinatura Digital:
+
+

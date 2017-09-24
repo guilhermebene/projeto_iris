@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.024766
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/06/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Itautec
+Modelo:
+Infoway ST 4255
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+163457
+Data:
+24/04/2012
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+Itautec S/A - Grupo Itautec
+
+
+Identif:
+400538600039
+
+
+Assinatura Digital:
+
+

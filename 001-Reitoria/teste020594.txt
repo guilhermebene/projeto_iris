@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020594
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/04/2009 - Processo: 08.1.511.84.5
+
+
+Responsável:
+2444580-1 Fernanda Aparecida Lemos Moreira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4847016
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DACAP-01             - SV DE PROTOCOLO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4160
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+736971
+Data:
+31/10/2008
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+Itautec S/A - Grupo Itautec
+
+
+Identif:
+L613201300474
+
+
+Assinatura Digital:
+dZ6t3GD36Awq4fNabHR5SIUcipaIw0
+

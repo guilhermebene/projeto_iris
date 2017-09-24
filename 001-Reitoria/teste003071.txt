@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003071
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/05/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+478261
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+3C16980
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.098
+Data:
+24/04/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ENTERNET INFORMÁTICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

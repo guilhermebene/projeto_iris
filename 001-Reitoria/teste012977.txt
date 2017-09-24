@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012977
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/02/2005 - Processo: 05.1.2200.1.1
+
+
+Responsável:
+4793570-1 Fernando Kengy Taba 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3217159
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+COMPUADD
+Modelo:
+CPD 600
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1719
+Data:
+10/12/2004
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+221604
+
+
+Assinatura Digital:
+
+

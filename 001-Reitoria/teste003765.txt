@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003765
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/03/2001 - Processo: 94.5.1211.1.6
+
+
+Responsável:
+2449602-1 Rosangela Fejes Luccas 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DVPCT-01             - DIVISÃO DE PGTO E CONTAGEM DE TEMPO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DFI
+Modelo:
+486-DX2
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+NOVADATA SIST.E COMPUTADORES S.A.
+
+
+Identif:
+13168
+
+
+Assinatura Digital:
+
+

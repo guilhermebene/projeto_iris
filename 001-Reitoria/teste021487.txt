@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021487
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/05/2010 - Processo: 10.5.171.70.0
+
+
+Responsável:
+2806430-1 Paulo Edson Machado 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4677242
+Origem:
+Fabricação Própria  
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fabricação CCE
+Modelo:
+Intel Core 2 Duo
+Tipo:
+2Gb Ram; 160Gb HD
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2068/2010
+Data:
+07/04/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+105001
+
+
+Assinatura Digital:
+
+

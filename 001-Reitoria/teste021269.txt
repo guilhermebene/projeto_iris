@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021269
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+4827554
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+KOMBI 1.4
+Tipo:
+Nº MOTOR BTJ 727936
+
+
+Doc.:
+nota fiscal
+Num.:
+434632
+Data:
+25/11/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+Nº CHASSI 9BWMF07X4AP015537
+
+
+Assinatura Digital:
+
+

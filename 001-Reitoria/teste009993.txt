@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009993
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/05/2003 - Processo: 02.1.10852.1.1
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+893978
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+EXPANSÕES ADICIONADAS (PROC. 09.1.5260.1.9): CONJUNTO DE FONTE DE ENERGIA ELÉTRI
+
+
+ 
+CA - CONJUNTO DE BASTIDOR FIREPLANE -2 PLACAS LÓGICAS COM 4 PROCESSADORES DE 1.8 
+
+
+Marca:
+SUN MICROSYSTEMS
+Modelo:
+SUN FIRE 6800
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+02/1056264-6
+Data:
+27/11/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DEDALUS COMERCIO E SISTEMA LTDA.
+
+
+Identif:
+série 234427F6
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.027094
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/09/2013 - Processo: 13.1.1071.1.1
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+5307546
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+NEXUS 7009
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2906
+Data:
+05/09/2013
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+SOLVE SYSTEM COMÉRCIO EM TECNOLOGIA DA INFORMAÇÃO LTDA
+
+
+Identif:
+JAF1721AFED
+
+
+Assinatura Digital:
+
+

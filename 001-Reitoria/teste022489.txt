@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022489
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/03/2011 - Processo: 11.5.4.73.1
+
+
+Responsável:
+3577034-1 Denyze Periotto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5036062
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+UBAS-SC              - Unidade Básica de Atenção à Saúde de São Carlos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+Proc Core I5-650 3.2GHZ
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+03/2011
+Data:
+07/02/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Gabinete ATXWSK-16 Preto
+
+
+Assinatura Digital:
+
+

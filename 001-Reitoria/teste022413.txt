@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022413
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/01/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+3390680-1 Washington Luiz Ferreira do Espírito Santo 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+4877667
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+KOMBI FURGÃO 1.4
+Tipo:
+Nº MOTOR BTJ 753022
+
+
+Doc.:
+nota fiscal
+Num.:
+517776
+Data:
+24/11/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+CHASSI 9BWNF07X2BP013727
+
+
+Assinatura Digital:
+
+

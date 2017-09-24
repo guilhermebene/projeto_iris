@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000409
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/01/1999 - Processo: 95.1.1768.1.4
+
+
+Responsável:
+2494339-1 Edivaldo Trautvein 
+
+
+Material:
+20974 - TERMINAL COM MONITOR                                                                                
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BURROUGHS
+Modelo:
+6830
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+UNISYS ELETRONICA LTDA.
+
+
+Identif:
+31584186-6
+
+
+Assinatura Digital:
+
+

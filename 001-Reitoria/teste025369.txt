@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025369
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/11/2012 - Processo: 12.5.393.84.4
+
+
+Responsável:
+2806430-1 Paulo Edson Machado 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST 4255
+Tipo:
+PREGÃO STI 019/2011
+
+
+Doc.:
+nota fiscal
+Num.:
+180426
+Data:
+03/09/2012
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+4006214100361
+
+
+Assinatura Digital:
+
+

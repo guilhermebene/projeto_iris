@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021138
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/09/2009 - Processo: 09.5.363.70.4
+
+
+Responsável:
+2806684-1 Patricia Ruiz Calancha Ribeiro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4633318
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+
+Tipo:
+CORE 2 DUO, 1 GB DE MEM.RAM, HD 160 GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1870/2009
+Data:
+31/08/2009
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+101934
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003339
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/09/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+3053905-1 Renata Prates Markert 
+
+
+Material:
+25666 - MONITOR DE VÍDEO DE ALTA RESOLUÇÃO                                                                  
+
+
+Bem:
+565555
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TCE
+Modelo:
+DX749D
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001156
+Data:
+04/07/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRÁS Informática do Brasil Ltda.
+
+
+Identif:
+0241P73A0622
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023602
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/03/2012 - Processo: 12.5.52.84.2
+
+
+Responsável:
+1852013-2 Ronny Shimazaki 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4851560
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVADM-01             - SV ADMINISTRATIVOS DA PG
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO INFORMATICA
+Modelo:
+POS AT SERIES F (CAD)
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+170351
+Data:
+26/06/2010
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+1A139MML5D
+
+
+Assinatura Digital:
+
+

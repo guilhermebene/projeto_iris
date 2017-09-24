@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.016224
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/09/2006 - Processo: 06.1.22641.1.4
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2761416
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Volkswagen
+Modelo:
+Santana 1.8
+Tipo:
+Branca; quatro portas - Placa DJP4709
+
+
+Doc.:
+nota fiscal
+Num.:
+353814
+Data:
+16/08/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Volkswagen do Brasil Ltda - Indústria de Veículos Automotores
+
+
+Identif:
+9BWAC03X86P002234
+
+
+Assinatura Digital:
+
+

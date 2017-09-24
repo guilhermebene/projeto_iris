@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001346
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/07/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+916982-1 Leila Lage Humes 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+91243
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+EQUIPAMENTO NO (CCE) NO SETOR CPD,
+
+
+ 
+ 
+
+
+Marca:
+SUN MICROSYSTEMS, INC. (ADM4 USP)
+Modelo:
+ULTRAENTERPRISE 3000
+Tipo:
+C/ MONITOR 17'' Nº (3651338-02),
+
+
+Doc.:
+declaração de importação
+Num.:
+98/1025089-4
+Data:
+27/10/1998
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+DEDALUS COMÉRCIO E SISTEMAS LTDA.
+
+
+Identif:
+SERVIDOR TIPO B Nº 806FC1D9
+
+
+Assinatura Digital:
+
+

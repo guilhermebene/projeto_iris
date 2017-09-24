@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025417
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/11/2012 - Processo: 12.1.241.49.4
+
+
+Responsável:
+6738380-1 Leandro Sebastião da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+1520920
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SSEG                 - Superintendência de Segurança
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FIAT
+Modelo:
+PALIO ELX 4P FLEX 06/07 BRANCO
+Tipo:
+DJP 0099
+
+
+Doc.:
+nota fiscal
+Num.:
+95223
+Data:
+18/09/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+9BD17140G72822957
+
+
+Assinatura Digital:
+
+

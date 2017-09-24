@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.006813
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/01/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2333801-1 Adriana Mello da Silveira Braga Cherobin 
+
+
+Material:
+120154 - WEB-SWITCH                                                                                          
+
+
+Bem:
+1241508
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Alteon Systems
+Modelo:
+Acedirector 3
+Tipo:
+Web-Switch
+
+
+Doc.:
+nota fiscal
+Num.:
+1384
+Data:
+06/12/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Enternet Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

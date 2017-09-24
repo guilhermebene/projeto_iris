@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009511
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/02/2003 - Processo: 03.1.1306.1.9
+
+
+Responsável:
+2333986-1 Marcos Roberto Santiago 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643785
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CREATIVE
+Modelo:
+PENTIUM II - 233
+Tipo:
+64 MB DE MEM.RAM E ACES.
+
+
+Doc.:
+nota fiscal
+Num.:
+1926
+Data:
+14/08/1998
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/N
+
+
+Assinatura Digital:
+
+

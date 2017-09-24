@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020370
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/01/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2469751-1 Juanito Mafinato 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+1520881
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+KOMBI
+Tipo:
+Nº MOTOR: BTJ 066257
+
+
+Doc.:
+nota fiscal
+Num.:
+142442
+Data:
+19/11/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+NºCHASSI: 9BWMF07X69P016197
+
+
+Assinatura Digital:
+
+

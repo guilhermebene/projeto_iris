@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017673
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/02/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2469827-1 Joao Paulo de Aquino 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ZAFIRA
+Tipo:
+Nº DO MOTOR J60044161, PLACA Nº
+
+
+Doc.:
+nota fiscal
+Num.:
+238406
+Data:
+31/01/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+98GTS75W07C162304
+
+
+Assinatura Digital:
+
+

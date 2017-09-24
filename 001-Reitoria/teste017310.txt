@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017310
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/01/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2761408
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Volkswagen
+Modelo:
+KOMBI
+Tipo:
+Placa DJP-1635 Ren. 907417825
+
+
+Doc.:
+nota fiscal
+Num.:
+408323
+Data:
+27/12/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Volkswagen do Brasil Ltda - Indústria de Veículos Automotores
+
+
+Identif:
+CHASSI 9BWGF07X17P007157
+
+
+Assinatura Digital:
+
+

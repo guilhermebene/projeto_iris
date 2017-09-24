@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.010000
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/05/2003 - Processo: 02.1.10852.1.1
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2362198
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+X6746A
+Tipo:
+redundante c/ 8 portas FC  inclui 2 swit
+
+
+Doc.:
+declaração de importação
+Num.:
+02/1056264-6
+Data:
+27/11/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DEDALUS COMÉRCIO E SISTEMA LTDA.
+
+
+Identif:
+PN -30640-01A  e SANO-008-004 P
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009135
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/11/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+1323636
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MERCEDES BENZ
+Modelo:
+MB-312 D SPRINTER
+Tipo:
+MICRO-ONIBUS
+
+
+Doc.:
+nota fiscal
+Num.:
+010580
+Data:
+21/01/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DAIMLERCHRYSLER DO BRASIL LTDA.
+
+
+Identif:
+CHASSIS BAC6903411A555398
+
+
+Assinatura Digital:
+
+

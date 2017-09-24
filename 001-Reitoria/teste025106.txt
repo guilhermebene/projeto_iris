@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025106
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/09/2012 - Processo: 12.5.799.70.0
+
+
+Responsável:
+3589778-1 Marcio Henrique da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5362385
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DOV                  - Divisão de Operações e Vigilância
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+HD 750GB SATA, MEMÓRIA DDR3 8 GB
+Tipo:
+PROCESSADOR INTEL I5 2400
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2996
+Data:
+04/09/2012
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+N/S 122146
+
+
+Assinatura Digital:
+
+

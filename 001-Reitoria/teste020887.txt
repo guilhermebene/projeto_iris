@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020887
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/06/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+5839450-1 Roque Marcelino de Amorim 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Chevrolet
+Modelo:
+Zafira 2.0
+Tipo:
+NºMotor: U80001017
+
+
+Doc.:
+nota fiscal
+Num.:
+74216
+Data:
+18/05/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+General Motors do Brasil Ltda
+
+
+Identif:
+NºChassi: 9BGTS75C0AC101677
+
+
+Assinatura Digital:
+
+

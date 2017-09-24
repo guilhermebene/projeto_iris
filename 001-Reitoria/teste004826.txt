@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004826
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+31/05/2001 - Processo: 01.1.9432.1.1
+
+
+Responsável:
+2457723-1 Jucimara Cardoso Amorim Gutierres 
+
+
+Material:
+450 - MONITORES DE VÍDEO                                                                                  
+
+
+Bem:
+963852
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVASS-CERT           - SV ASSENTAMENTOS DA CERT
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ACER/LG
+Modelo:
+560N
+Tipo:
+COLORIDO DE 15 POLEGADAS
+
+
+Doc.:
+nota fiscal
+Num.:
+082551
+Data:
+29/05/2001
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ACER DO BRASIL LTDA
+
+
+Identif:
+AC56010408457
+
+
+Assinatura Digital:
+
+

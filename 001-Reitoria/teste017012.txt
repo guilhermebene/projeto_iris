@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017012
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/10/2006 - Processo: 06.1.22641.1.4
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+1520920
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FIAT
+Modelo:
+PALIO ELX 4P FLEX 06/07 BRANCO
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+95223
+Data:
+18/09/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FIAT AUTOMÓVEIS S.A.
+
+
+Identif:
+9BD17140G72822957
+
+
+Assinatura Digital:
+
+

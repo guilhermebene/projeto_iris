@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020006
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/10/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2418890-1 Martinho Martinez Junior 
+
+
+Material:
+7420 - FURADEIRAS                                                                                          
+
+
+Bem:
+4650468
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACM-01             - SC MANUTENÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BOSCH
+Modelo:
+GSR-12-2
+Tipo:
+FURADEIRA E PARAFUSADEIRA
+
+
+Doc.:
+nota fiscal
+Num.:
+180
+Data:
+24/09/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+RCM - COMÉRCIO DE EQUIPAMENTOS ELETRO-ELETRÔNICOS LTDA. - EPP
+
+
+Identif:
+886000782
+
+
+Assinatura Digital:
+
+

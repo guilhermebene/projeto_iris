@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.033536
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/03/2015 - Processo: 15.1.2837.1.0
+
+
+Responsável:
+2476096-1 Nelson da Silva Siqueira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4851560
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DACAA-01             - SV DE ARQUIVO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO INFORMATICA
+Modelo:
+POS AT SERIES F (CAD)
+Tipo:
+PREGÃO CTI 007/2009
+
+
+Doc.:
+nota fiscal
+Num.:
+170351
+Data:
+26/06/2010
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+1A139MC7W
+
+
+Assinatura Digital:
+
+

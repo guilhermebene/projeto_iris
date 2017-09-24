@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012987
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/02/2005 - Processo: 05.1.2200.1.1
+
+
+Responsável:
+2753327-1 Vilma da Cunha 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3217159
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DFTP-01              - SV DE PAGAMENTOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPUADD
+Modelo:
+CPD 600
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1719
+Data:
+10/12/2004
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+221607
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002661
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/10/1999 - Processo: 95.5.728.1.6
+
+
+Responsável:
+2469581-1 Edna Maria Brazolim 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642894
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCI                  - Comissão Central de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DFI
+Modelo:
+486 DX2
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+NOVADATA SIST.E COMPUTADORES S.A.
+
+
+Identif:
+11084
+
+
+Assinatura Digital:
+
+

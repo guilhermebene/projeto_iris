@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004771
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+31/05/2001 - Processo: 01.1.9432.1.1
+
+
+Responsável:
+2449690-1 Sandra Cristina Campos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+963844
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ACER
+Modelo:
+POWER SE
+Tipo:
+PENTIUM III 700 MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+082549
+Data:
+29/05/2001
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ACER DO BRASIL LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

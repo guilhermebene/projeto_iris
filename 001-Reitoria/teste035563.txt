@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.035563
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/10/2016 - Processo: 16.1.25365.1.8
+
+
+Responsável:
+3332830-1 Fabio Carneiro de Castro 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095655
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-205-RW
+Tipo:
+RP-ATA 008/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4884
+Data:
+21/09/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CNBPHMJD3K
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020886
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/06/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4563590
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Chevrolet
+Modelo:
+Astra Sedan 2.0
+Tipo:
+NºMotor: U70015138
+
+
+Doc.:
+nota fiscal
+Num.:
+88081
+Data:
+22/05/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+General Motors do Brasil Ltda
+
+
+Identif:
+NºChassi: 9BGTR69C09B283827
+
+
+Assinatura Digital:
+
+

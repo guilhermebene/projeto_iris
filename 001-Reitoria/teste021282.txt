@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021282
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2912644-1 Fabricio Luis de Lima Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878272
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PRCEU                - PRCEU - Almox
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+GOL 1.6
+Tipo:
+Nº MOTOR CCR 813179
+
+
+Doc.:
+nota fiscal
+Num.:
+302502
+Data:
+25/11/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+Nº CHASSI 9BWAB05U8AT154746
+
+
+Assinatura Digital:
+
+

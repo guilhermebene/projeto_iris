@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.036094
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/04/2017 - Processo: 17.1.824.1.0
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+4674014
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CHEVROLET
+Modelo:
+MERIVA
+Tipo:
+Nº MOTOR Y40011826
+
+
+Doc.:
+nota fiscal
+Num.:
+219357
+Data:
+27/01/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Nº CHASSI 9BGXM75N0AC196623
+
+
+Assinatura Digital:
+
+

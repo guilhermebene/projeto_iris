@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020104
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/11/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4563590
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+VEÍCULO DE USO DA CJ - PLACAS DJP 3186
+
+
+ 
+ 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ASTRA SEDAN
+Tipo:
+Nº MOTOR R30048839
+
+
+Doc.:
+nota fiscal
+Num.:
+956397
+Data:
+10/10/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 9BGTR69W09B166022
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022011
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/09/2010 - Processo: 10.5.390.70.3
+
+
+Responsável:
+2142830-1 Tania Cristina Marques 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4936744
+Origem:
+Fabricação Própria  
+Situação:
+Estornado      
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PRG                  - PRG - Almox
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PROCESSADOR INTEL CORE 2 DUO
+Tipo:
+MEM. DDR2 4 GB KINGSTON - HD 320 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2181/2010
+Data:
+12/08/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+107145
+
+
+Assinatura Digital:
+
+

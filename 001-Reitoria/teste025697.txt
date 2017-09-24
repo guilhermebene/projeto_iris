@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025697
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/04/2013 - Processo: 11.1.536.1.9
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4893476
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ENTERASYS
+Modelo:
+2X10GB-LRSFPP,2X10GB-SR-SFPP
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+11/0650969-4
+Data:
+13/04/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TECHDEC INFORMÁTICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

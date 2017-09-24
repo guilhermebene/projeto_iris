@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003386
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/10/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2466376-1 Wilson Roberto dos Santos 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+603830
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ARNO
+Modelo:
+MESA
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000558
+Data:
+21/07/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+COMERCIAL ADRIMAVI LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

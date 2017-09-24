@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018097
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/04/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4206452
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ASTRA SEDAN
+Tipo:
+Nº MOTOR J60048757
+
+
+Doc.:
+nota fiscal
+Num.:
+590.463
+Data:
+20/03/2007
+
+
+Garantia:
+0 ano(s)
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+9BGTR69W07B244643
+
+
+Assinatura Digital:
+
+

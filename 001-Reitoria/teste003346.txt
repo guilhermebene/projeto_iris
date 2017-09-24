@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003346
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/09/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2912449-1 Glaucia Alves dos Santos Toni 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+565547
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CERT                 - Comissão Especial de Regime de Trabalho
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001155
+Data:
+04/07/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRÁS Informática do Brasil Ltda.
+
+
+Identif:
+0600.205589-4
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023688
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/03/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+1801408-2 Sergio Roberto Poltronieri 
+
+
+Material:
+161454 - TERMINAL THIN CLIENT                                                                                
+
+
+Bem:
+5167809
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Wyse
+Modelo:
+Xenith
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2330
+Data:
+16/02/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+Solve System Comércio em Tecnologia da Informação Ltda.
+
+
+Identif:
+2NSDK400611
+
+
+Assinatura Digital:
+
+

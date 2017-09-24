@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023847
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+26/04/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+2457431-1 Cristina Alves Pinheiro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Bem localizado na gabinete do Reitor em Brasília
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST 4255
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+162927
+Data:
+19/04/2012
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+ITAUTEC S.A - GRUPO ITAUTEC
+
+
+Identif:
+4005414300016
+
+
+Assinatura Digital:
+
+

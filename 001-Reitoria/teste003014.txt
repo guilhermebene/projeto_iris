@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003014
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/03/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2766586-1 Jorge Luis Nunes 
+
+
+Material:
+13285 - ZIP DRIVE EXTERNO                                                                                   
+
+
+Bem:
+203238
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CERT                 - Comissão Especial de Regime de Trabalho
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Iomega
+Modelo:
+Externo
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+003415
+Data:
+13/03/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ENTERNET INFORMÁTICA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

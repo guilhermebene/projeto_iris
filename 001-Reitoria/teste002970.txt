@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002970
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/02/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+991174-1 João Maria Caldeira Pacheco 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+209970
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCAPOSU-01           - SC APOIO AO SISTEMA E USUÁRIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+PENTIUM III 450 MHZ - MMP
+Tipo:
+GABINETE ATX, 64 MB DE RAM
+
+
+Doc.:
+nota fiscal
+Num.:
+001073
+Data:
+01/02/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRAS INFORMATICA DO BRASIL LTDA.
+
+
+Identif:
+N/Sº 0100.037.601-0
+
+
+Assinatura Digital:
+
+

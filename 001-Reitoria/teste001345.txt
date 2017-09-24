@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001345
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/07/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+916982-1 Leila Lage Humes 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+91243
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+EQUIPAMENTO NO (CCE) SETOR CPD,
+
+
+ 
+ 
+
+
+Marca:
+SUN MICROSYSTEMS,INC. (ALYA)
+Modelo:
+ULTRAENTERPRISE 3000 C/ 1CPU (833F27A3).
+Tipo:
+C/UNID, DE FITA (Nº/S 806G0058.
+
+
+Doc.:
+declaração de importação
+Num.:
+98/1025089-4
+Data:
+27/10/1998
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+'DEDALUS COMÉRCIO E SISTEMAS LTDA.
+
+
+Identif:
+ ESTAÇÃO Nº 836F2009 C/ MONITOR 17''(9732GN1316)
+
+
+Assinatura Digital:
+
+

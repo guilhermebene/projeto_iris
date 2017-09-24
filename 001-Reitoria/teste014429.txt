@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014429
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/11/2005 - Processo: 05.5.639.70.6
+
+
+Responsável:
+2876064-1 Jose Raimundo Peixoto Pereira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DRH                  - Departamento de Recursos Humanos
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ATX
+Modelo:
+Pentium IV
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+003Dvemic/CCE
+Data:
+06/01/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+32310
+
+
+Assinatura Digital:
+
+

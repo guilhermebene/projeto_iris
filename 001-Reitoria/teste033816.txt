@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.033816
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/05/2015 - Processo: 15.1.1500.1.1
+
+
+Responsável:
+2418890-1 Martinho Martinez Junior 
+
+
+Material:
+77976 - DETECTOR                                                                                            
+
+
+Bem:
+5459273
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAAC-01              - SV ATIVIDADES COMPLEMENTARES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BOSCH
+Modelo:
+D-TECT 150 PROF
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2701
+Data:
+25/02/2015
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DANPLER COMÉRCIO E MANUTENÇÃO DE MÁQUINAS ELÉTRICAS LTDA.
+
+
+Identif:
+3 601 K10 005   304410137  2013
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025735
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+10/05/2013 - Processo: 13.1.1071.1.1
+
+
+Responsável:
+6535578-1 Arize Araújo Pinheiro 
+
+
+Material:
+141739 - DATA LOGGER                                                                                         
+
+
+Bem:
+3973816
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AG                   - Arquivo Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITLOG
+Modelo:
+8835
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+19262
+Data:
+25/04/2013
+
+
+Garantia:
+90 dia(s)
+
+
+Fornecedor:
+Instrutemp Instrumentos de Medição Ltda.
+
+
+Identif:
+1005257
+
+
+Assinatura Digital:
+
+

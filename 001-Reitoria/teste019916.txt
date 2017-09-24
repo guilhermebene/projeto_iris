@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019916
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/08/2008 - Processo: 93.1.32715.1.8
+
+
+Responsável:
+2418890-1 Martinho Martinez Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACM-01             - SC MANUTENÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ 
+Modelo:
+386SX
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CENTRO DE COMPUTACAO ELETRONICA/USP
+
+
+Identif:
+S/N.SERIE
+
+
+Assinatura Digital:
+
+

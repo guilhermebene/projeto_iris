@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.008394
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/08/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+1520881
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Volkswagen
+Modelo:
+Kombi STD
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+312105
+Data:
+21/05/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Volkswagen do Brasil Ltda
+
+
+Identif:
+CMW 0346 - 9BWGB07XX2P011518
+
+
+Assinatura Digital:
+
+

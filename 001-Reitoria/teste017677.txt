@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017677
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/02/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2466702-1 Aderval Junior 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+1323644
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Chevrolet
+Modelo:
+Zafira
+Tipo:
+Motor Nº. 80001151; Placa Nº.
+
+
+Doc.:
+nota fiscal
+Num.:
+241496
+Data:
+06/02/2007
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+General Motors do Brasil Ltda
+
+
+Identif:
+Chassi Nº. 9BG116HU07C417291
+
+
+Assinatura Digital:
+
+

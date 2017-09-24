@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.011078
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+10/12/2003 - Processo: 03.1.33456.1.6
+
+
+Responsável:
+2430911-1 Luiz Carlos Correa Santana 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2564947
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+Pentium IV, 2.4Ghz
+Tipo:
+HD 40Gb, DDR 266MHZ RAM
+
+
+Doc.:
+nota fiscal
+Num.:
+134884
+Data:
+15/11/2003
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Positivo Informática Ltda
+
+
+Identif:
+166926
+
+
+Assinatura Digital:
+
+

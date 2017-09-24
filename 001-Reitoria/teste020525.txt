@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020525
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/03/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2440224-1 Daniel Lopes de Oliveira 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+2761424
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PEUGEOT
+Modelo:
+BOXER VAN 350
+Tipo:
+Nº MOTOR: 1022091049775
+
+
+Doc.:
+nota fiscal
+Num.:
+282
+Data:
+02/03/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MANUPA COMÉRCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.
+
+
+Identif:
+Nº CHASSI: 936ZCPMNC92036909
+
+
+Assinatura Digital:
+
+

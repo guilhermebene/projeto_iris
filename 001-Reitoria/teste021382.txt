@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021382
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/03/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2459065-1 Julio Cesar Lippi 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+4903668
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FORD
+Modelo:
+TRANSIT
+Tipo:
+Nº MOTOR JXFA9TM79750
+
+
+Doc.:
+nota fiscal
+Num.:
+57.739
+Data:
+28/01/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FORD MOTOR COMPANY BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI: WF0DXXT9F9TM79750
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020095
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/11/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+5839450-1 Roque Marcelino de Amorim 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+1520881
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+KOMBI
+Modelo:
+
+Tipo:
+Nº MOTOR BTJ 703580
+
+
+Doc.:
+nota fiscal
+Num.:
+113074
+Data:
+30/09/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+NºCHASSI 9BWMF07X89P012104
+
+
+Assinatura Digital:
+
+

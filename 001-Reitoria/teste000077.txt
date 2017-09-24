@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000077
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/07/1998 - Processo: 98.1.190.1.1
+
+
+Responsável:
+2462862-1 Julio Cesar Alves 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+15830
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCLORIM-01           - SC LOCAÇÃO E REGIST IMOBILIÁRIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+000414
+Data:
+04/06/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ACS ABSOLUTE CABLING SYSTEMS COMÉRCIO E SERVIÇO LTDA
+
+
+Identif:
+0598084990-4
+
+
+Assinatura Digital:
+
+

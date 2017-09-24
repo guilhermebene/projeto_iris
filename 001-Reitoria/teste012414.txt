@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012414
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/11/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+3576158-1 Roberto Luiz Menezes Macias 
+
+
+Material:
+94102 - TESTADOR DE REDE                                                                                    
+
+
+Bem:
+2237954
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FLUKE
+Modelo:
+620LAN DSP-620
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+976
+Data:
+25/10/2004
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+VINCET DO BRASIL ELETROELETRÔNICA LTDA. E.P.P.
+
+
+Identif:
+8066003
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.032100
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/12/2013 - Processo: 13.1.1071.1.1
+
+
+Responsável:
+5488035-1 Cynthia Matuura 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+5307546
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NETAPP
+Modelo:
+CLMGMTSWITCH-R5
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2978
+Data:
+13/11/2013
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Solve System Comércio em Tecnologia da Informação Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

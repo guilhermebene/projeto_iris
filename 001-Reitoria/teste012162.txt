@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012162
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/08/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+2493713
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Tshara
+Modelo:
+UPS 1300 VA
+Tipo:
+1,3 Kva
+
+
+Doc.:
+nota fiscal
+Num.:
+054
+Data:
+12/08/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Voip Telecomunicações Ltda - Me
+
+
+Identif:
+40801088
+
+
+Assinatura Digital:
+
+

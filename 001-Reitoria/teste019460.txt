@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019460
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/05/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+4055829
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+APC SMART
+Modelo:
+UPS - SUA 3000
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+10296
+Data:
+16/05/2008
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+MICROSTART COMÉRCIO DE SUPRIMENTOS PARA INFORMÁTICA LTDA. E.P.P.
+
+
+Identif:
+BS0734005854
+
+
+Assinatura Digital:
+
+

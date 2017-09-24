@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025070
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/09/2012 - Processo: 12.1.21744.1.0
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+148296 - RACK PARA MONTAGEM DE SERVIDORES                                                                    
+
+
+Bem:
+5307589
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EMERSON/KNURR
+Modelo:
+42U P/SERVIDOR "
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.002.549
+Data:
+28/08/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+SOLVE SYSTEM COMÉRCIO EM TECNOLOGIA DA INFORMAÇÃO LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

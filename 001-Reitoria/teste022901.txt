@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022901
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/06/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+4793611-1 Cyrano da Silva Rizzo 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4410939
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D'LINK
+Modelo:
+DWL-3200AP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+291
+Data:
+20/05/2011
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda.
+
+
+Identif:
+PVA51A3001285
+
+
+Assinatura Digital:
+
+

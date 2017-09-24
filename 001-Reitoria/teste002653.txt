@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002653
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/10/1999 - Processo: 96.1.24839.1.6
+
+
+Responsável:
+26983-1 Imre Simon 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642894
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CCI                  - Comissão Central de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ASHFORD
+Modelo:
+486-DX4
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+9595292
+
+
+Assinatura Digital:
+
+

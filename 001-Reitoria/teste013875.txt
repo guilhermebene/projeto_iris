@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013875
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+26/08/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+61140 - APONTADOR ELÉTRICO                                                                                  
+
+
+Bem:
+2367955
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CIS
+Modelo:
+AP-EL
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+005902
+Data:
+26/07/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Kopell Informática e Papelaria Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

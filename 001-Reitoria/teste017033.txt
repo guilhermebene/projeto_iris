@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017033
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+26/10/2006 - Processo: 06.1.2719.18.2
+
+
+Responsável:
+2437370-1 Cristina Aparecida Nunes Trofino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1549030
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SISUSP               - Sistema Integrado Saúde da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RT INTEGRALIZADO
+Modelo:
+RT-866
+Tipo:
+PENTIUM III
+
+
+Doc.:
+nota fiscal
+Num.:
+5366
+Data:
+28/05/2002
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GARANTIA ON SITE
+
+
+Assinatura Digital:
+
+

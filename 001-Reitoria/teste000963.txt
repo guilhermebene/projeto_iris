@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000963
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/02/1999 - Processo: 93.1.8238.1.9
+
+
+Responsável:
+2494339-1 Edivaldo Trautvein 
+
+
+Material:
+450 - MONITORES DE VÍDEO                                                                                  
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado reincor
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Travessa 16  S/N     (Clemente Portes)
+
+
+ 
+Bloco: DAACV  Andar:   - sala                           de trabalho          DAACV-DAACM-DACAA   
+
+
+Marca:
+IBM
+Modelo:
+8513
+Tipo:
+FFLCH
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+070851
+
+
+Assinatura Digital:
+
+

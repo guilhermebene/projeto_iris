@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003895
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/04/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2398422-1 Edgard Pereira de Brito 
+
+
+Material:
+14990 - APARELHO DE FAX                                                                                     
+
+
+Bem:
+956317
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIREX-CERT           - DIRETORIA EXECUTIVA DA CERT
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+XEROX
+Modelo:
+FC 155S
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000742
+Data:
+17/04/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+IORPE SUPRIMENTOS E EQUIPAMENTOS LTDA.
+
+
+Identif:
+VD7-010406
+
+
+Assinatura Digital:
+
+

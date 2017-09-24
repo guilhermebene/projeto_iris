@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002173
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/09/1999 - Processo: 94.5.1773.1.4
+
+
+Responsável:
+2759719-1 Roseli Imenez Ricciardi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642894
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DRH                  - Departamento de Recursos Humanos
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DFI
+Modelo:
+486-DX2
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+NOVADATA SIST.E COMPUTADORES S.A.
+
+
+Identif:
+SE13171
+
+
+Assinatura Digital:
+
+

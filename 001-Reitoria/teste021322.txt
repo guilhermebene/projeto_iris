@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021322
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/02/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+70826-1 Artur de Jesus Motheo 
+
+
+Material:
+6173 - CAMIONETA CABINE DUPLA                                                                              
+
+
+Bem:
+1520911
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FORD
+Modelo:
+RANGER ELECTRON IC 3.0L
+Tipo:
+Nº MOTOR: D56283717
+
+
+Doc.:
+nota fiscal
+Num.:
+54650
+Data:
+18/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FORD MOTOR COMPANY BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 8AFER13P9AJ276000
+
+
+Assinatura Digital:
+
+

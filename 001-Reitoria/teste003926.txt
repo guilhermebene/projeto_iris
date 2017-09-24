@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003926
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/04/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2441462-1 Silvio Serrão do Nascimento 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+866253
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VW
+Modelo:
+QUANTUM 1.8
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+130995
+Data:
+24/03/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWBC03X91P016995
+
+
+Assinatura Digital:
+
+

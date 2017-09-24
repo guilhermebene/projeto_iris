@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.034198
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+30/11/2015 - Processo: 15.1.667.52.4
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+3786 - ÔNIBUS                                                                                              
+
+
+Bem:
+4903579
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+VOLKSBUS 18-320 EOT
+Tipo:
+Nº MOTOR 36130504
+
+
+Doc.:
+nota fiscal
+Num.:
+37185
+Data:
+05/05/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CHASSI 9BWHJ82Z99R945327
+
+
+Assinatura Digital:
+
+

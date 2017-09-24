@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021354
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/02/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+3054830-1 Sergio Ricardo dos Santos 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+4674014
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CHEVROLET
+Modelo:
+MERIVA
+Tipo:
+Nº MOTOR Y40011826
+
+
+Doc.:
+nota fiscal
+Num.:
+219357
+Data:
+27/01/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 9BGXM75N0AC196623
+
+
+Assinatura Digital:
+
+

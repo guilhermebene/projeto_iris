@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021077
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/09/2009 - Processo: 09.5.6.84.7
+
+
+Responsável:
+4793611-1 Cyrano da Silva Rizzo 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4510461
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EDGE-CORE
+Modelo:
+ES3526XA
+Tipo:
+PREGÃO CTI 04/2008
+
+
+Doc.:
+nota fiscal
+Num.:
+075221
+Data:
+10/03/2009
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+726000402
+
+
+Assinatura Digital:
+
+

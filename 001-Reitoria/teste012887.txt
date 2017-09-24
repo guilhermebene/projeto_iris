@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012887
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/01/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2999919
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Syntax
+Modelo:
+W2PRO
+Tipo:
+AMD Athon XP 2200+, 256MB RAM
+
+
+Doc.:
+nota fiscal
+Num.:
+342
+Data:
+16/12/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Anésio Queiroz Junior Guarulhos M.E. "Pontal"
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

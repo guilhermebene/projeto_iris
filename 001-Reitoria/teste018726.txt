@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018726
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/10/2007 - Processo: 93.1.8208.1.2
+
+
+Responsável:
+21442-1 Hans Viertler 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PRP                  - PRP - Almox
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASA COMPUTER
+Modelo:
+386 SX-25MHZ
+Tipo:
+IQ
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+4114824
+
+
+Assinatura Digital:
+
+

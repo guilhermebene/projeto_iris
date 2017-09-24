@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021315
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2459065-1 Julio Cesar Lippi 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ZAFIRA 2.0
+Tipo:
+NºMOTOR U80002389
+
+
+Doc.:
+nota fiscal
+Num.:
+202252
+Data:
+29/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 9BGTS75C0AC189822
+
+
+Assinatura Digital:
+
+

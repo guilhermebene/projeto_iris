@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.006682
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/12/2001 - Processo: 01.1.1081.51.1
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1173693
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+METRON
+Modelo:
+Pentium III - 800
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2654
+Data:
+09/11/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+serie 1001102357-0
+
+
+Assinatura Digital:
+
+

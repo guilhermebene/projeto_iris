@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.034081
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/05/2015 - Processo: 15.1.247.62.2
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+VAN ZAFIRA 2.0 AUTOMÓVEL 5 PORTAS
+Tipo:
+PLACA DJL-1724
+
+
+Doc.:
+nota fiscal
+Num.:
+411712
+Data:
+10/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+HU 35197 CHASSI 9BGTS75C0BC177548
+
+
+Assinatura Digital:
+
+

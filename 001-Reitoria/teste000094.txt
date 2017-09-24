@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000094
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/10/1998 - Processo: 98.1.11336.1.2
+
+
+Responsável:
+2755271-1 Silvio Moraes Manzoni 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DRH                  - Departamento de Recursos Humanos
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENT.120 MHZ
+Tipo:
+DI-512.458
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45201M
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013676
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/07/2005 - Processo: 05.5.639.70.6
+
+
+Responsável:
+991174-1 João Maria Caldeira Pacheco 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DRH                  - Departamento de Recursos Humanos
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ATX
+Modelo:
+Athlon XP2600+
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+003Dvemi/CCE
+Data:
+06/01/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE 32407 (020708487)
+
+
+Assinatura Digital:
+
+

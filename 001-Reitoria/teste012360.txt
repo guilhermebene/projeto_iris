@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012360
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/10/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+2804999
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+APC
+Modelo:
+SUA3000RM2U
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+8023
+Data:
+14/10/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VICTOR DO BRASIL ELETRÔNICA LTDA.
+
+
+Identif:
+JS0423018826
+
+
+Assinatura Digital:
+
+

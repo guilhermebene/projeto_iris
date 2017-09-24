@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007079
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/04/2002 - Processo: 02.1.6344.1.5
+
+
+Responsável:
+2333822-1 Luis Gomes da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1339168
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMCM                - Serviço de Cadastro de Materiais
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+CORPORATE 3200
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+002.820
+Data:
+06/03/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0302.008.079-7
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019901
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/08/2008 - Processo: 08.5.523.84.0
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4404203
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+LX201 - TIPO 01
+Tipo:
+PREGÃO CTI 010/2007
+
+
+Doc.:
+nota fiscal
+Num.:
+927
+Data:
+31/05/2008
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+K841601200015
+
+
+Assinatura Digital:
+
+

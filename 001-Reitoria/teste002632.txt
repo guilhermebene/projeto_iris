@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002632
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/10/1999 - Processo: 97.1.5910.1.1
+
+
+Responsável:
+2440756-1 Reinaldo Fonseca Pentagna 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SG                   - Secretaria Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM 120 MHZ
+Tipo:
+DI-513.452
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P46398M
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007947
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/06/2002 - Processo: 02.1.11141.1.1
+
+
+Responsável:
+991174-1 João Maria Caldeira Pacheco 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4278992
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DRH                  - Departamento de Recursos Humanos
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS - AT SÉRIES J
+Tipo:
+ATHLON - AMD 1.333 MHZ - HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88857
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+POSITIVO INFORMÁTICA LTDA.
+
+
+Identif:
+131596
+
+
+Assinatura Digital:
+
+

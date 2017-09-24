@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018166
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/07/2007 - Processo: 07.5.83.84.0
+
+
+Responsável:
+2469956-1 Jose Tadeu Garcia Coelho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4384725
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DACAA-01             - SV DE ARQUIVO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST 4250
+Tipo:
+PREGÃO CTI 001/2006
+
+
+Doc.:
+nota fiscal
+Num.:
+596222
+Data:
+31/01/2007
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+C26X601600704
+
+
+Assinatura Digital:
+
+

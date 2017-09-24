@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019490
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+30/05/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+100978 - ETIQUETADORA                                                                                        
+
+
+Bem:
+2589320
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BRADY
+Modelo:
+IDXPERT
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+140535
+Data:
+20/05/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+PARIS CABOS COMERCIAL LTDA.
+
+
+Identif:
+ACN000788447
+
+
+Assinatura Digital:
+
+

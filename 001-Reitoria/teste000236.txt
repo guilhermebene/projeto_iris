@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000236
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/01/1999 - Processo: 98.1.190.1.1
+
+
+Responsável:
+2474135-1 Wagner Roberto Freitas da Rocha 
+
+
+Material:
+3760 - MICRO-ÔNIBUS                                                                                        
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MAXIBUS
+Modelo:
+URBANO
+Tipo:
+PCASC
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+METALBUS INDUSTRIA METALURGICA LTDA
+
+
+Identif:
+DFMA3WBAW1910031
+
+
+Assinatura Digital:
+
+

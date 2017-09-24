@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023411
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/12/2011 - Processo: 11.5.78.84.0
+
+
+Responsável:
+3405150-1 Thiago Martins Ribeiro 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4821661
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+4210 PWR - TIPO II
+Tipo:
+PREGÃO CTI 011/2009 - 3ª. COMPRA
+
+
+Doc.:
+nota fiscal
+Num.:
+1011
+Data:
+15/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN00BXR17K
+
+
+Assinatura Digital:
+
+

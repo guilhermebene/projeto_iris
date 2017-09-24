@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023648
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/03/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+2446637-1 Antonio Ferreira da Silva 
+
+
+Material:
+161454 - TERMINAL THIN CLIENT                                                                                
+
+
+Bem:
+5167809
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GESCONT              - (Gestão de Contratos)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Wyse
+Modelo:
+Xenith
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2330
+Data:
+16/02/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+Solve System Comércio em Tecnologia da Informação Ltda.
+
+
+Identif:
+2NSDK400339
+
+
+Assinatura Digital:
+
+

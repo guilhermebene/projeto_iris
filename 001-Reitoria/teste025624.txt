@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025624
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/03/2013 - Processo: 13.1.1071.1.1
+
+
+Responsável:
+2476610-1 Cezar Augusto de Siqueira 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+5345243
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVEXP-CERT           - SV EXPEDIENTE DA CERT
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Aquarius Discovery
+Modelo:
+MTC 2132
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1015
+Data:
+05/03/2013
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Microstart Comércio de Suprimentos Para Informática Ltda. - EPP
+
+
+Identif:
+MTC2132L04/004716
+
+
+Assinatura Digital:
+
+

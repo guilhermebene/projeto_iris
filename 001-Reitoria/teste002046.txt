@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002046
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/09/1999 - Processo: 94.1.7626.1.6
+
+
+Responsável:
+2430682-1 Roseli Rocha 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642959
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DFTP-01              - SV DE PAGAMENTOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+US COMPUTER
+Modelo:
+386-SX
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+EUROLINK INTERN.TRADERS IMP.EXP.LTDA
+
+
+Identif:
+A3935
+
+
+Assinatura Digital:
+
+

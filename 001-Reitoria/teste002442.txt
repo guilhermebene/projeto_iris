@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002442
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/09/1999 - Processo: 96.1.24839.1.6
+
+
+Responsável:
+1962979-1 Tania Almeida Ferreira de Sousa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+MEM.RAM 64 MB, CD ROM 32X, HD 3.2 GB/1.2 GB
+
+
+ 
+ 
+
+
+Marca:
+ASHFORD
+Modelo:
+PENTIUM MMX 200 MHZ
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+9505309
+
+
+Assinatura Digital:
+
+

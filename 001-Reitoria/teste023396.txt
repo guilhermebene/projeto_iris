@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023396
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/12/2011 - Processo: 11.5.548.84.7
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4824423
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+4210 - TIPO I
+Tipo:
+PREGÃO CTI 011/2009 - 3ª. COMPRA
+
+
+Doc.:
+nota fiscal
+Num.:
+10015
+Data:
+15/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN0BD365B6
+
+
+Assinatura Digital:
+
+

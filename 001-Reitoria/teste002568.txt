@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002568
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/09/1999 - Processo: 94.5.1178.1.9
+
+
+Responsável:
+2447426-1 David Olimpio de Lima Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642894
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DFI
+Modelo:
+PENTIUM 486 DX2, 150 MHZ
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+NOVADATA SIST.E COMPUTADORES S.A.
+
+
+Identif:
+13173
+
+
+Assinatura Digital:
+
+

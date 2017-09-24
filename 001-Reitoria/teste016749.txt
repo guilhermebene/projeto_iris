@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.016749
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/10/2006 - Processo: 06.1.2544.18.8
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+3696839
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP COMPAQ
+Modelo:
+PRESSARIO V 4000
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+9563
+Data:
+03/11/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+2CCM525OK2G
+
+
+Assinatura Digital:
+
+

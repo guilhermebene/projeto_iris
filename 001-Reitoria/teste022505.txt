@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022505
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/03/2011 - Processo: 05.1.293.69.1
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+4995210
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Oracle
+Modelo:
+Sun Spark
+Tipo:
+M5000
+
+
+Doc.:
+nota fiscal
+Num.:
+013/014/015
+Data:
+21/12/2010
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+BDF1046698
+
+
+Assinatura Digital:
+
+

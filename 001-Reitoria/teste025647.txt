@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025647
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/04/2013 - Processo: 11.1.536.1.9
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4893441
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ENTERASYS
+Modelo:
+A2H124-24
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+11//0650969-4
+Data:
+13/04/2011
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+TECHDEC INFORMÁTICA LTDA
+
+
+Identif:
+104210844225P
+
+
+Assinatura Digital:
+
+

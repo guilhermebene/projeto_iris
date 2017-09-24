@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014543
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/01/2006 - Processo: 06.1.158.1.9
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+3760 - MICRO-ÔNIBUS                                                                                        
+
+
+Bem:
+2761432
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+
+Tipo:
+VW 8150 EOD
+
+
+Doc.:
+nota fiscal
+Num.:
+271058
+Data:
+30/11/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+DIBRACAM COMERCIAL LTDA.
+
+
+Identif:
+9BWFA52R85R528796
+
+
+Assinatura Digital:
+
+

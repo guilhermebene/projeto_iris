@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017798
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+26/03/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2450160-1 Joaquim Dionisio Filho 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+2761424
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RENAULT
+Modelo:
+MASTER 2.5 16V MINIBUS
+Tipo:
+Nº DO MOTOR G9UA724C032060
+
+
+Doc.:
+nota fiscal
+Num.:
+109273
+Data:
+27/02/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+RENAULT DO BRASIL S.A.
+
+
+Identif:
+93YCDDUH57J828940
+
+
+Assinatura Digital:
+
+

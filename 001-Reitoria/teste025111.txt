@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025111
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/10/2012 - Processo: 12.1.21744.1.0
+
+
+Responsável:
+2459659-1 Edna Farina Braggio 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5184975
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DVSO-01              - (Divisão de Saúde Ocupacional)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AVITECH
+Modelo:
+CIARA DX SERIES
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.050
+Data:
+24/08/2012
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+OPEN COMPUTER INFORMÁTICA LTDA.
+
+
+Identif:
+N/S 12020
+
+
+Assinatura Digital:
+
+

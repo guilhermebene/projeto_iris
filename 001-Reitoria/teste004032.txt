@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004032
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/05/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+866253
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PG                   - Procuradoria Geral
+
+
+Complemento:
+RUSP
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+QUANTUM 1.8
+Tipo:
+PLACA CDV 6564
+
+
+Doc.:
+nota fiscal
+Num.:
+138884
+Data:
+06/04/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWBC03X11P017848
+
+
+Assinatura Digital:
+
+

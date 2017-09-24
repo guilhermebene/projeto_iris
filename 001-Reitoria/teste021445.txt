@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021445
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/04/2010 - Processo: 10.5.92.70.2
+
+
+Responsável:
+2459659-1 Edna Farina Braggio 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4677242
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO PRÓPRIA CCE
+Modelo:
+MICRCOPROCESSADOR INTEL CORE 2 DUO
+Tipo:
+MEM. DDR2 2 GB - HD 160 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1989/2010
+Data:
+08/02/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+105023
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012922
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/01/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4518470
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Syntax
+Modelo:
+W2PRO
+Tipo:
+Celeron 2.2Ghz 256Mb
+
+
+Doc.:
+nota fiscal
+Num.:
+9442
+Data:
+20/12/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Ibracomp - Indústria e Comércio Ltda.
+
+
+Identif:
+038750
+
+
+Assinatura Digital:
+
+

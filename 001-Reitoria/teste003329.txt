@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003329
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/09/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+557721-1 Eunice da Conceicao Nascimento Onoe 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+752118
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001156
+Data:
+04/07/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRÁS Informática do Brasil Ltda.
+
+
+Identif:
+0600.205.599-1
+
+
+Assinatura Digital:
+
+

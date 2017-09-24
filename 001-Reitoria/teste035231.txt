@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.035231
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/04/2016 - Processo: 16.1.5224.1.0
+
+
+Responsável:
+7072608-1 Luciana Bueno Alves Martins 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4677242
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DVSO-01              - (Divisão de Saúde Ocupacional)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MONTAGEM CCE
+Modelo:
+CORE 2 DUO
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1432/2008
+Data:
+23/04/2008
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+60051
+
+
+Assinatura Digital:
+
+

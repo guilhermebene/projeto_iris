@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025437
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/11/2012 - Processo: 12.1.241.49.4
+
+
+Responsável:
+6738380-1 Leandro Sebastião da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878272
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SSEG                 - Superintendência de Segurança
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Ford
+Modelo:
+Fiesta Hatch 1.6L
+Tipo:
+NºMotor: QF9AA8028388 CHAPA: EEF 8077
+
+
+Doc.:
+nota fiscal
+Num.:
+057884
+Data:
+29/01/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NºChassi: 9BFZF55P1A8028388
+
+
+Assinatura Digital:
+
+

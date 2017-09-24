@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020424
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/02/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2447704-1 Fernando Ferro Perencin 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4563581
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Volkswagen
+Modelo:
+Parati
+Tipo:
+NºMotor: BNY 025252
+
+
+Doc.:
+nota fiscal
+Num.:
+000154226
+Data:
+09/12/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Volkswagen do Brasil Indústria de Veículos Automotores Ltda.
+
+
+Identif:
+NºChassi: 9BWGC05W69P101427
+
+
+Assinatura Digital:
+
+

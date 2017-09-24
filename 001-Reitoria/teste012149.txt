@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012149
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/08/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2761408
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSVAGEN
+Modelo:
+KOMBI 1.6
+Tipo:
+PLACA CMW-3349
+
+
+Doc.:
+nota fiscal
+Num.:
+093956
+Data:
+30/07/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWGB07X64P009428
+
+
+Assinatura Digital:
+
+

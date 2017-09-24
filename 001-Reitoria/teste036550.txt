@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.036550
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/08/2017 - Processo: 17.1.824.1.0
+
+
+Responsável:
+5897466-1 Claudemir Mariano de Andrade 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4741048
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4160
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+736971
+Data:
+31/10/2008
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+L613201301001
+
+
+Assinatura Digital:
+
+

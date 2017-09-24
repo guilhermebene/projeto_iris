@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.035354
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/07/2016 - Processo: 16.1.1296.1.6
+
+
+Responsável:
+3055783-1 Jose Ricardo Barbosa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5253020
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MONTAGEM DVMIC/CCE
+Modelo:
+INTEL I5 2400
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+3028
+Data:
+27/09/2012
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+122162
+
+
+Assinatura Digital:
+
+

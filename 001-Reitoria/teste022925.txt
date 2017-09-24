@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022925
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/07/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ZAFIRA
+Tipo:
+Nº DO MOTOR NAJ016911
+
+
+Doc.:
+nota fiscal
+Num.:
+521308
+Data:
+15/06/2011
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA
+
+
+Identif:
+Nº DO CHASSI: 9BGTS75J0CC118995
+
+
+Assinatura Digital:
+
+

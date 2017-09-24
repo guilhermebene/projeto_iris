@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023375
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/12/2011 - Processo: 11.5.4.37.5
+
+
+Responsável:
+2768891-1 Alice Perran Taborga da Costa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3589331
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Vincent
+Modelo:
+VCT-SMP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+002583
+Data:
+28/07/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FE - 20.706 e série: F050581020000350
+
+
+Assinatura Digital:
+
+

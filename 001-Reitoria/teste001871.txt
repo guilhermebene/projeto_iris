@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001871
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/09/1999 - Processo: 94.5.1213.1.9
+
+
+Responsável:
+2461051-1 Valdir Ancheschi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642894
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAIMP-01             - SV DE IMPORTAÇÃO E EXPORTAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DFI
+Modelo:
+486-DX2
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+NOVADATA SIST.E COMPUTADORES S.A.
+
+
+Identif:
+SE13186
+
+
+Assinatura Digital:
+
+

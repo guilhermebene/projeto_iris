@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020359
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/12/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+4800142-1 Angelo Gabriel de Oliveira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4563581
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI
+Tipo:
+Nº MOTOR BNY 024968
+
+
+Doc.:
+nota fiscal
+Num.:
+139237
+Data:
+12/11/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+Nº CHASSI 9BWGC05W79P096965
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002747
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/10/1999 - Processo: 95.1.1768.1.4
+
+
+Responsável:
+2482281-1 Vilma Sayuri Abe 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643785
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CJ                   - Consultoria Jurídica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+AMD K-6-2 ,350 MHZ
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+INFOBRAS INFORMATICA DO BRASIL LTDA
+
+
+Identif:
+11218
+
+
+Assinatura Digital:
+
+

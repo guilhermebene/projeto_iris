@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019528
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/06/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2731462-1 Regina Aparecida da Silva Marcelino 
+
+
+Material:
+30333 - FOGÃO ELÉTRICO                                                                                      
+
+
+Bem:
+4467507
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CERT                 - Comissão Especial de Regime de Trabalho
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Bosch
+Modelo:
+PKC-345-EBR
+Tipo:
+2 bocas; 220volts
+
+
+Doc.:
+nota fiscal
+Num.:
+000130
+Data:
+11/06/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Rcm - Comércio de Equipamentos Eletro-eletrônicos Ltda.-epp
+
+
+Identif:
+PKC345EBR
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021400
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/03/2010 - Processo: 10.5.352.1.1
+
+
+Responsável:
+5488035-1 Cynthia Matuura 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+4945263
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+CONTÉM: CONJUNTO DE TRILHOS DE MONTAGEM EM RACK - 12 CABOS ÓTICOS DE 15M LC PARA
+
+
+ 
+ FC - 7 CABOS DE ENERGIA - 6 PLACAS LÓGICAS PCI-X DE 4GB FC 
+
+
+Marca:
+SUN MICROSYSTEMS
+Modelo:
+SUN STORAGE TEK 6140
+Tipo:
+UNIDADE DE ARMAZENAMENTO DE 4800 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+REF. DECL. IMPORT.09/0716656-8
+Data:
+10/06/2009
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0842DHG00C
+
+
+Assinatura Digital:
+
+

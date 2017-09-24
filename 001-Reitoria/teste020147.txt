@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020147
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+26/11/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2400685-1 Paulo Roberto Romano 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4563581
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI
+Tipo:
+CHASSI: 9BWGC05W99P090651
+
+
+Doc.:
+nota fiscal
+Num.:
+127063
+Data:
+24/10/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+Nº MOTOR: BNY 024952
+
+
+Assinatura Digital:
+
+

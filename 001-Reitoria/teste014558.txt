@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014558
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/01/2006 - Processo: 06.1.158.1.9
+
+
+Responsável:
+2509971-1 Lilian Alvarenga 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2367572
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Volksvagen
+Modelo:
+Santana 2.0
+Tipo:
+DJP-0028
+
+
+Doc.:
+nota fiscal
+Num.:
+261607
+Data:
+30/11/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Volkswagen do Brasil Ltda - Industria de Veículos Automotores
+
+
+Identif:
+chassi 9BWAE03X46P000992
+
+
+Assinatura Digital:
+
+

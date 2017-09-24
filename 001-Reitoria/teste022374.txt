@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022374
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/12/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2409739-1 Gilmar de Godoi Ferreira 
+
+
+Material:
+7420 - FURADEIRAS                                                                                          
+
+
+Bem:
+5059429
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAACME               - Sc. Manutenção Elétrica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DWT
+Modelo:
+BM 400VS
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1065
+Data:
+03/12/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GÁS NORTE  SOLDAS E EQUIPAMENTOS LTDA
+
+
+Identif:
+07110001205044
+
+
+Assinatura Digital:
+
+

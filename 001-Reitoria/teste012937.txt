@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012937
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/01/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+4793611-1 Cyrano da Silva Rizzo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4518470
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Syntax
+Modelo:
+W2PRO
+Tipo:
+Celeron XP 2200+
+
+
+Doc.:
+nota fiscal
+Num.:
+9442
+Data:
+20/12/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Ibracomp - Indústria e Comércio Ltda.
+
+
+Identif:
+038732
+
+
+Assinatura Digital:
+
+

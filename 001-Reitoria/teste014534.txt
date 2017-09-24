@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014534
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/12/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+991174-1 João Maria Caldeira Pacheco 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+3910326
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AT-PROJETOS          - Assistência Técnica Gerenciamento de Projetos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Toshiba
+Modelo:
+Satellite M35X
+Tipo:
+Pentium IV, 512Mb Ram, 40Gb.
+
+
+Doc.:
+nota fiscal
+Num.:
+005.136
+Data:
+15/12/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

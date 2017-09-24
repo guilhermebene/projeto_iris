@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021286
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2450160-1 Joaquim Dionisio Filho 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GENERAL MOTORS
+Modelo:
+ZAFIRA CONFORT
+Tipo:
+Nº MOTOR U80002295
+
+
+Doc.:
+nota fiscal
+Num.:
+194310
+Data:
+15/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 9BGTS75C0AC180785
+
+
+Assinatura Digital:
+
+

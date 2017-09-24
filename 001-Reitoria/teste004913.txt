@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004913
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/06/2001 - Processo: 01.1.9432.1.1
+
+
+Responsável:
+2444382-1 Marilucia Alves de Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1025511
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCTED-01             - SC TREINAMENTO DESENVOLVIMENTO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ACER
+Modelo:
+POWER SE (PENTIUM III 750 MHZ)
+Tipo:
+64 MB
+
+
+Doc.:
+nota fiscal
+Num.:
+083075
+Data:
+06/06/2001
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ACER DO BRASIL LTDA.
+
+
+Identif:
+APSX17IPY01-121.191-38-AB
+
+
+Assinatura Digital:
+
+

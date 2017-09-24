@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009747
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/03/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+866300
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+KOMBI STD
+Tipo:
+PLACA CMW-0362
+
+
+Doc.:
+nota fiscal
+Num.:
+399789
+Data:
+27/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA
+
+
+Identif:
+9BWGB07X43P009913
+
+
+Assinatura Digital:
+
+

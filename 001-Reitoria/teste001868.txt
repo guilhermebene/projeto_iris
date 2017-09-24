@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001868
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/09/1999 - Processo: 96.1.24839.1.6
+
+
+Responsável:
+2422338-1 Maria Regina de Faro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAIMP-01             - SV DE IMPORTAÇÃO E EXPORTAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASHFORD
+Modelo:
+PENTIUM 133 mhz, 48 mb de mem. ram
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+1913350
+
+
+Assinatura Digital:
+
+

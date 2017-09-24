@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.015241
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/05/2006 - Processo: 06.5.166.70.1
+
+
+Responsável:
+3576252-1 Evandro Meira Baradel 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3831493
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4341
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+54098
+Data:
+03/03/2006
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+I536601202842
+
+
+Assinatura Digital:
+
+

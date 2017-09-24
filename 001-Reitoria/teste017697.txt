@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017697
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/03/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2435489-1 Douglas de Toledo 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ZAFIRA
+Tipo:
+MOTOR Nº J60044175, PLACA
+
+
+Doc.:
+nota fiscal
+Num.:
+242.248
+Data:
+08/02/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+9BGTS75W07C163159
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.005833
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/09/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2418890-1 Martinho Martinez Junior 
+
+
+Material:
+7420 - FURADEIRAS                                                                                          
+
+
+Bem:
+1089200
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACM-01             - SC MANUTENÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BOSH
+Modelo:
+PBM 400
+Tipo:
+VERDE
+
+
+Doc.:
+nota fiscal
+Num.:
+030.503
+Data:
+08/08/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ALMEIDA LAND MÁQUINAS E FERRAMENTAS LTDA
+
+
+Identif:
+86500123
+
+
+Assinatura Digital:
+
+

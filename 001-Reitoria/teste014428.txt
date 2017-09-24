@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014428
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/11/2005 - Processo: 05.5.1055.70.8
+
+
+Responsável:
+3502631-1 Linda Kubota 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3758036
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCAPOSU-01           - SC APOIO AO SISTEMA E USUÁRIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+memória DDR 256 MB
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+256/2005
+Data:
+15/08/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série 44119
+
+
+Assinatura Digital:
+
+

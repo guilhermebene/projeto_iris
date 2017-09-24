@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003347
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/09/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2731462-1 Regina Aparecida da Silva Marcelino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+565547
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GVR                  -  Vice Reitoria
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001155
+Data:
+04/07/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRÁS Informática do Brasil Ltda.
+
+
+Identif:
+0600.205.595-9
+
+
+Assinatura Digital:
+
+

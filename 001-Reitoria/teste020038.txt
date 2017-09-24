@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020038
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/10/2008 - Processo: 08.1.745.49.8
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2367572
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+Em uso pela SG
+
+
+ 
+ 
+
+
+Marca:
+Volksvagen
+Modelo:
+Santana 2.0
+Tipo:
+DJP 0032
+
+
+Doc.:
+nota fiscal
+Num.:
+261605
+Data:
+30/11/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Chassi 9BWAE03XX6P000852
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001793
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+30/08/1999 - Processo: 97.1.19080.1.6
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2484439
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+UP GRADE
+
+
+ 
+ 
+
+
+Marca:
+ASHFORD
+Modelo:
+PENTIUM III
+Tipo:
+DI-513.525
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+9595219
+
+
+Assinatura Digital:
+
+

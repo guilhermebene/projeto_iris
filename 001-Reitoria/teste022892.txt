@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022892
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/06/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+5014662
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISTRIX NETSCALLER
+Modelo:
+MPX 10500 PLATINUM
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.001.964
+Data:
+02/05/2011
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+SOLVE SYSTEM COMÉRCIO EM TECNOLOGIA DA INFORMAÇÃO LTDA
+
+
+Identif:
+FT9MR20CN8
+
+
+Assinatura Digital:
+
+

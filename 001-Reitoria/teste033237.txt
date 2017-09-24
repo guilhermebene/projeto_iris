@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.033237
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/09/2014 - Processo: 14.1.682.1.8
+
+
+Responsável:
+2413481-1 Rosiney Brenha Moraes 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4410939
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D-LINK
+Modelo:
+DAP-2360
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001.065
+Data:
+11/08/2014
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+M.M.SÁ COMÉRCIO E REPRESENTAÇÕES LTDA.ME
+
+
+Identif:
+PVOZ2E5000391
+
+
+Assinatura Digital:
+
+

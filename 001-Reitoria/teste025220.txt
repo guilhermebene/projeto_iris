@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025220
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/10/2012 - Processo: 12.1.21744.1.0
+
+
+Responsável:
+7777820-1 Michele Cristina Fernandes Alves 
+
+
+Material:
+3786 - ÔNIBUS                                                                                              
+
+
+Bem:
+5136016
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+IGC
+
+
+ 
+ 
+
+
+Marca:
+MARCOPOLO
+Modelo:
+VIAGGIO 1050
+Tipo:
+MOTOR: D11252341C1L
+
+
+Doc.:
+nota fiscal
+Num.:
+000.078.847
+Data:
+10/07/2012
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MARCOPOLO S.A
+
+
+Identif:
+CHASSI NRO; 9BVT2S822CE382218
+
+
+Assinatura Digital:
+
+

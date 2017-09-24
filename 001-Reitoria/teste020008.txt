@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020008
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/10/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2409739-1 Gilmar de Godoi Ferreira 
+
+
+Material:
+7420 - FURADEIRAS                                                                                          
+
+
+Bem:
+4650468
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACME               - Sc. Manutenção Elétrica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BOSCH
+Modelo:
+GSR 12-2
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+180
+Data:
+24/09/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+RCM - COMÉRCIO  DE EQUIPAMENTOS ELETRO-ELETRÔNICOS LTDA. - EPP
+
+
+Identif:
+886000754
+
+
+Assinatura Digital:
+
+

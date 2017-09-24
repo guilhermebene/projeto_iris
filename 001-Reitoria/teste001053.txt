@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001053
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/04/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+2734253-1 Heloiza Helena Matos e Nobre 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+37435
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+AMD.K6 266 MMX
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000784
+Data:
+23/09/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DO BRASIL LTDA
+
+
+Identif:
+0998.093.872-2
+
+
+Assinatura Digital:
+
+

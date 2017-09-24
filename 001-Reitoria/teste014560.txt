@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014560
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/01/2006 - Processo: 06.1.158.1.9
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2367572
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Volkswagen
+Modelo:
+Santana 2.0
+Tipo:
+DJP-0022
+
+
+Doc.:
+nota fiscal
+Num.:
+262042
+Data:
+30/11/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Volkswagen do Brasil Ltda - Industria de veículos Automotores
+
+
+Identif:
+chassi 9BWAE03X86P001014
+
+
+Assinatura Digital:
+
+

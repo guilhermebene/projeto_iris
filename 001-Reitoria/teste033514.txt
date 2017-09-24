@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.033514
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/01/2015 - Processo: 14.5.2095.1.0
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+4563220
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CHEVROLET
+Modelo:
+MONTANA COMBO 1.4 VHC ECONOFLEX
+Tipo:
+N.º DO MOTOR: P40042358
+
+
+Doc.:
+nota fiscal
+Num.:
+793804
+Data:
+11/03/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+N.º DO CHASSI: 9BGXL80808B245374
+
+
+Assinatura Digital:
+
+

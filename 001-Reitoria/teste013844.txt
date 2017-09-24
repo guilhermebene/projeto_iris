@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013844
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/08/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2333801-1 Adriana Mello da Silveira Braga Cherobin 
+
+
+Material:
+48151 - IMPRESSORA ETIQUETAS DE CÓDIGO DE BARRAS                                                            
+
+
+Bem:
+121835
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ZEBRA
+Modelo:
+S-600
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+004043
+Data:
+24/05/2005
+
+
+Garantia:
+0 dia(s)
+
+
+Fornecedor:
+QUEBECK AUTOMAÇÃO E COMÉRCIO LTDA.
+
+
+Identif:
+5347935
+
+
+Assinatura Digital:
+
+

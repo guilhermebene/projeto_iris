@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009685
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/02/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2200275-1 Denise de Almeida Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2168278
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SAUSP                - Sistema de Arquivo da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Soft
+Modelo:
+PIV
+Tipo:
+Pentium IV 1.5Ghz, 256MB RAM, 10.2 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+1530
+Data:
+20/02/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+M. M. Sá Comércio e Representações Ltda
+
+
+Identif:
+022803260
+
+
+Assinatura Digital:
+
+

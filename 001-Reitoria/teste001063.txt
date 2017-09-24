@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001063
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/04/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+37443
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+AMD K6 266 MMX
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000785
+Data:
+23/09/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DO BRASIL LTDA
+
+
+Identif:
+0998.093879-0
+
+
+Assinatura Digital:
+
+

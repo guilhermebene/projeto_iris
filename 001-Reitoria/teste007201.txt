@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007201
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/04/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2430911-1 Luiz Carlos Correa Santana 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1339168
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Metron
+Modelo:
+Corporate 3200 PIII IGHz
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+002847
+Data:
+19/02/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICROMAX COM. E SERVIÇOS EM INFORMÁTICA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

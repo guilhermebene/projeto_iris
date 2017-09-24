@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019223
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/04/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4410939
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D-LINK
+Modelo:
+DWL-3200AP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+18918
+Data:
+02/04/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+BRASILINK LTDA.
+
+
+Identif:
+P14W179000372
+
+
+Assinatura Digital:
+
+

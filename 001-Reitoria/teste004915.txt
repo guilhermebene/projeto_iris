@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004915
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/06/2001 - Processo: 01.1.9432.1.1
+
+
+Responsável:
+2400406-1 Renata de Goes Cordeiro Pinho Teixeira dos Reis 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1025511
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SG                   - Secretaria Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ACER
+Modelo:
+POWER SE (PENTIUM III 750 MHZ)
+Tipo:
+64 MB
+
+
+Doc.:
+nota fiscal
+Num.:
+083075
+Data:
+06/06/2001
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ACER DO BRASIL LTDA.
+
+
+Identif:
+APSX17IPY01-121.191-20-AB
+
+
+Assinatura Digital:
+
+

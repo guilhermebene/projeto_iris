@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.028215
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/10/2013 - Processo: 13.1.1071.1.1
+
+
+Responsável:
+2491444-1 Ederaldo de Oliveira 
+
+
+Material:
+30333 - FOGÃO ELÉTRICO                                                                                      
+
+
+Bem:
+5150205
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAAC-01              - SV ATIVIDADES COMPLEMENTARES
+
+
+Complemento:
+O bem encontra-se no bloco E
+
+
+ 
+ 
+
+
+Marca:
+LAYR
+Modelo:
+INOX TOPAZIO 40 2 BOCAS
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.001.235
+Data:
+17/10/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROSTART COMÉRCIO DE SUPRIMENTOS PARA INFORMÁTICA LTDA - E.P.P.
+
+
+Identif:
+07008
+
+
+Assinatura Digital:
+
+

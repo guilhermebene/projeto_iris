@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025181
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/10/2012 - Processo: 12.1.21744.1.0
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+194204 - CHASSI PARA SERVIDORES                                                                              
+
+
+Bem:
+5307562
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+UCS 6508 8X B230
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2546
+Data:
+27/08/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+Solve System Comércio em Tecnologia da Informação Ltda.
+
+
+Identif:
+FOX1621H2VG
+
+
+Assinatura Digital:
+
+

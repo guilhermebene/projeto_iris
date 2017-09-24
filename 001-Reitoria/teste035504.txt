@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.035504
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/09/2016 - Processo: 16.5.58.84.4
+
+
+Responsável:
+5270683-1 Helen Cristina Pedrino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+UBAS-SC              - Unidade Básica de Atenção à Saúde de São Carlos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ C& A
+Modelo:
+P IV 2.8 - 512M RAM
+Tipo:
+Microcomputador - HD 120 SATA 7200RPM
+
+
+Doc.:
+nota fiscal
+Num.:
+ 2209
+Data:
+07/04/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GABINETE ATX UPSON E-128 COM DUTO AR PRETO
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023309
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/11/2011 - Processo: 11.5.570.70.2
+
+
+Responsável:
+2449644-1 Maria Cleni Braga 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225477
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Enviado pelo Srº Marcos Santiago a DI, em 08/12/2011 p/ instalação de software.
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+PROCESSADOR INTEL I5 2400
+Tipo:
+HD 1TB SATA, MEMÓRIADDR3 2GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2521/2011
+Data:
+17/10/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+111384
+
+
+Assinatura Digital:
+
+

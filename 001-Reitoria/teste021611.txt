@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021611
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/05/2010 - Processo: 10.5.6.73.3
+
+
+Responsável:
+7744851-1 Cicera Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4798155
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+STSAOC-SC            - Seção de Saúde Ocupacional de São Carlos
+
+
+Complemento:
+BEM LOCALIZADO NO SESMT DE SÃO CARLOS
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+Proc Core 2 DUO Q8400 BOX
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+01/2010
+Data:
+22/04/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Gabinete ATX WSK-16Preto
+
+
+Assinatura Digital:
+
+

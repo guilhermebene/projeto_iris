@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002588
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+30/09/1999 - Processo: 97.1.5910.1.1
+
+
+Responsável:
+2483372-1 Denise Polli 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643807
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SG                   - Secretaria Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+AMD-K-6-3
+Tipo:
+DI-513.452
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P46463M
+
+
+Assinatura Digital:
+
+

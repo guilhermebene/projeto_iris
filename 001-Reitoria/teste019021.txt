@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019021
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/04/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+3760 - MICRO-ÔNIBUS                                                                                        
+
+
+Bem:
+996912
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+950EOD-FOX2400
+Tipo:
+N.º MOTOR: D1A0118553
+
+
+Doc.:
+nota fiscal
+Num.:
+159155
+Data:
+27/03/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INDUSCAR INDÚSTRIA E COMÉRCIO DE CARROCERIAS LTDA.
+
+
+Identif:
+N.º CHASSI: 9BWD252R18R821710
+
+
+Assinatura Digital:
+
+

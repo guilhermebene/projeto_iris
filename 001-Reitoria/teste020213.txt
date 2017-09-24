@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020213
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/12/2008 - Processo: 07.5.784.70.8
+
+
+Responsável:
+4793611-1 Cyrano da Silva Rizzo 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+1301594
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3com
+Modelo:
+3c16980/16965/16970
+Tipo:
+Switch Stack III
+
+
+Doc.:
+nota fiscal
+Num.:
+31947
+Data:
+19/12/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SÉRIE  7MMV58DDD18
+
+
+Assinatura Digital:
+
+

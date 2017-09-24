@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009865
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/04/2003 - Processo: 02.1.11141.1.1
+
+
+Responsável:
+2333801-1 Adriana Mello da Silveira Braga Cherobin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMP-01              - SV DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+POSITIVO
+Modelo:
+POST-AT SERIES J
+Tipo:
+ATHLON-AMD 1.33 MHZ - HD 40 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88807
+Data:
+03/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+POSITIVO INFORMÁTICA LTDA.
+
+
+Identif:
+Série 131059
+
+
+Assinatura Digital:
+
+

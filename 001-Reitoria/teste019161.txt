@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019161
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/04/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2489570-1 Durval Jose de Oliveira 
+
+
+Material:
+3760 - MICRO-ÔNIBUS                                                                                        
+
+
+Bem:
+996912
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN 9150 EOD
+Modelo:
+FOZ 2400
+Tipo:
+Nº CHASSI: 9BWD25R08R825022
+
+
+Doc.:
+nota fiscal
+Num.:
+159164
+Data:
+27/03/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INDUSCAR INDÚSTRIA E COMÉRCIO DE CARROCERIAS LTDA.
+
+
+Identif:
+Nº CARROCERIA  BUSMCFBHN8A029516CAIO
+
+
+Assinatura Digital:
+
+

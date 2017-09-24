@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.001064
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/04/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+2097934-1 Augusto Francisco Paulo 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+37443
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SG                   - Secretaria Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+AMD K6 266 MMX
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000785
+Data:
+23/09/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DO BRASIL LTDA
+
+
+Identif:
+0998.093876-5
+
+
+Assinatura Digital:
+
+

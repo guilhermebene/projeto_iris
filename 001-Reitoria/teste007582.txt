@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007582
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/05/2002 - Processo: 02.1.10466.1.4
+
+
+Responsável:
+3022431-1 Wildner Vilaca Antonio 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1197851
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GR                   - Gabinete do Reitor
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+INTEL
+Modelo:
+CELERON 333 MHZ,32 MB, HD 4.3 GB
+Tipo:
+C/WINDOWS 98 CD 40X, CAIXA DE SOM
+
+
+Doc.:
+termo de doação
+Num.:
+041
+Data:
+03/08/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NÚMERO DE SÉRIE NÃO TEM (IN LOCO).
+
+
+Assinatura Digital:
+
+

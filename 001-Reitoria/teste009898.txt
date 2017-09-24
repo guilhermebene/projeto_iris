@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009898
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/04/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+2172305
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+este veículo encontra-se no parque da ciência
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+KOMBI - 7X21A1
+Tipo:
+PLACA CMW - 1035
+
+
+Doc.:
+nota fiscal
+Num.:
+423660
+Data:
+17/03/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWGB07X53P010780
+
+
+Assinatura Digital:
+
+

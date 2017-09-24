@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018649
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/10/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4496280
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+BEM EQUIPADO COM RÁDIO - Nº PATRIMÔNIO 001-018878
+
+
+ 
+ 
+
+
+Marca:
+Volkswagen
+Modelo:
+Polo Sedan 2.0
+Tipo:
+NºMotor: BBX021644
+
+
+Doc.:
+nota fiscal
+Num.:
+553090
+Data:
+05/10/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Volkswagen do Brasil Indústria de Veículos Automotores Ltda.
+
+
+Identif:
+NºChassi: 9BWJE09N68P022923
+
+
+Assinatura Digital:
+
+

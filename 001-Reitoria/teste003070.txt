@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003070
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/04/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2396906-1 Nivaldo Jose da Silva 
+
+
+Material:
+6173 - CAMIONETA CABINE DUPLA                                                                              
+
+
+Bem:
+393894
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GM
+Modelo:
+S-10 CABINE DUPLA
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+016.626
+Data:
+24/03/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA
+
+
+Identif:
+9BG138AC0YC416677
+
+
+Assinatura Digital:
+
+

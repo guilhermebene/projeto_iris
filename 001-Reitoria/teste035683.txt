@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.035683
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+10/10/2016 - Processo: 16.1.440.4.0
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+94 - CAMINHÕES                                                                                           
+
+
+Bem:
+729736
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+6-90  DIESEL
+Tipo:
+GY-5726  (PLACA  ATUAL BVZ 2889)
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CV 3000   {CASSI V014339}
+
+
+Assinatura Digital:
+
+

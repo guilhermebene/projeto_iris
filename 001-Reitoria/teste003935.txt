@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003935
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/04/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+866253
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+QUANTUM
+Tipo:
+CDV 6506
+
+
+Doc.:
+nota fiscal
+Num.:
+126572
+Data:
+19/03/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWBCO3X41P015821
+
+
+Assinatura Digital:
+
+

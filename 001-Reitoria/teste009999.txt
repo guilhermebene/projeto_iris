@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009999
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/05/2003 - Processo: 02.1.10852.1.1
+
+
+Responsável:
+5488035-1 Cynthia Matuura 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+2362015
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+EXPANSÕES ADICIONADAS (PROC. 09.1.5260.1.9): 4 UNIDADES AVULSAS DE HD 148 GB - V
+
+
+ 
+ALOR TOTAL: R$ 19.073,47 
+
+
+Marca:
+SunMicrosystem
+Modelo:
+SE3510 - 140Gbytes
+Tipo:
+12 discos FiberChannel, Veloc. 10000RPM
+
+
+Doc.:
+declaração de importação
+Num.:
+02/1056264-6
+Data:
+27/11/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DEDALUS COMÉRCIO E SISTEMA LTDA.
+
+
+Identif:
+Série - 0000451-0324002 EBD
+
+
+Assinatura Digital:
+
+

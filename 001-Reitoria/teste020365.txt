@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020365
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/01/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2466702-1 Aderval Junior 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4657527
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Volkswagen
+Modelo:
+Gol
+Tipo:
+NºMOTOR: CCP103622
+
+
+Doc.:
+nota fiscal
+Num.:
+122486
+Data:
+17/10/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Volkswagen do Brasil Indústria de Veículos Automotores Ltda.
+
+
+Identif:
+NºCHASSI: 9BWAA05W49P088544
+
+
+Assinatura Digital:
+
+

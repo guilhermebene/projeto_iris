@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.033818
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/05/2015 - Processo: 15.1.1479.8.0
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+3786 - ÔNIBUS                                                                                              
+
+
+Bem:
+2718235
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Mercedes Benz
+Modelo:
+O 400 RSE
+Tipo:
+Placa: CMW-2964
+
+
+Doc.:
+nota fiscal
+Num.:
+000023
+Data:
+19/02/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Chassi: 9BM6642313B357026
+
+
+Assinatura Digital:
+
+

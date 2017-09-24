@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007627
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/05/2002 - Processo: 02.1.11141.1.1
+
+
+Responsável:
+2444997-1 Maria Cristina de Oliveira Costa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DRH                  - Departamento de Recursos Humanos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVA
+Modelo:
+POST-AT SÉRIES J
+Tipo:
+ATHLON - AMD 1.333 MHZ - HD 40 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88860
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+POSITIVO INFORMÁTICA LTDA
+
+
+Identif:
+131255
+
+
+Assinatura Digital:
+
+

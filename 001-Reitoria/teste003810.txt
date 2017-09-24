@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003810
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/03/2001 - Processo: 01.1.140.51.4
+
+
+Responsável:
+2407953-1 Elisabeth Alves Barasal Cruka 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+864811
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVPUBL-01            - SV DE PUBLICAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DAEWOO
+Modelo:
+PENTIUM III
+Tipo:
+700 MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+2697
+Data:
+21/02/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE AO110258413
+
+
+Assinatura Digital:
+
+

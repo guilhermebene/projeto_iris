@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020600
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/04/2009 - Processo: 08.1.511.84.5
+
+
+Responsável:
+2446860-1 Jose Rubens de Oliveira Val 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4847016
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DACA-01              - DV COMUNICAÇÕES ADMINISTRATIVA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4160
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+736971
+Data:
+31/10/2008
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+Itautec S/A - Grupo Itautec
+
+
+Identif:
+L613201301019
+
+
+Assinatura Digital:
+dLDlMx7f86yJEvVe3Ta4Lw0OwkEJQB
+

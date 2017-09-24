@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014159
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/09/2005 - Processo: 04.1.7856.1.1
+
+
+Responsável:
+5488035-1 Cynthia Matuura 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+2362015
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+EXPANSÕES ADICIONADAS (PROC. 09.1.5260.1.9): 9 UNIDADES AVULSAS DE HD 148 GB - V
+
+
+ 
+ALOR TOTAL: R$ 42.915,33 
+
+
+Marca:
+SUN
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+04/1094774-6
+Data:
+28/10/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+SUNSET INFO CORP
+
+
+Identif:
+1094MIL-06250A7135
+
+
+Assinatura Digital:
+
+

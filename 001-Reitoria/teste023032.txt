@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023032
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/08/2011 - Processo: 11.5.330.70.1
+
+
+Responsável:
+7095681-1 Wilson de Faria Camilo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5132690
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fabricação CCE
+Modelo:
+Processador INTEL I5-650
+Tipo:
+Mem. DDR3 4 GB - HDD 500GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2480/2011
+Data:
+12/07/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+111359
+
+
+Assinatura Digital:
+
+

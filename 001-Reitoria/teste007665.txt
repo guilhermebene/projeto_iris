@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007665
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/05/2002 - Processo: 02.1.11141.1.1
+
+
+Responsável:
+1876034-1 Sandra Marcia de Castro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Sispa Compra        
+Situação:
+Inservível     
+
+
+Utilização:
+Individual
+
+
+Localização física 
+STSAOC-RP            - Seção de Saúde Ocupacional de Ribeirão Preto
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS-AT SÉRIES J
+Tipo:
+ATHLON - AMD - 1.333 MHZ, HD 40 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88860
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+POSITIVO INFORMÁTICA LTDA
+
+
+Identif:
+132356
+
+
+Assinatura Digital:
+
+

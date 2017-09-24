@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014161
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+09/09/2005 - Processo: 04.1.7856.1.1
+
+
+Responsável:
+5488035-1 Cynthia Matuura 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+2362015
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+04/1094774-6
+Data:
+28/10/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+SUNSET INFO CORP
+
+
+Identif:
+1094MIL-042007FBA6
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009974
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/05/2003 - Processo: 03.1.2214.1.0
+
+
+Responsável:
+2454675-1 Jose Anselmo da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Avaliação           
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAAC-01              - SV ATIVIDADES COMPLEMENTARES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASHFORD
+Modelo:
+Amd K6 II - 500 Mhz
+Tipo:
+64 RAM - HD 03Gb
+
+
+Doc.:
+termo de avaliação
+Num.:
+s/nr
+Data:
+01/01/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

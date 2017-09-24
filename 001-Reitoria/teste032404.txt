@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.032404
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+10/04/2014 - Processo: 14.1.118.48.1
+
+
+Responsável:
+3681778-1 Bruno Lazzarini Teodoro 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4301781
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AG                   - Arquivo Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+3CRS48G-24S-91
+Tipo:
+Switch
+
+
+Doc.:
+nota fiscal
+Num.:
+2656
+Data:
+23/03/2009
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ Série: 9T3FA8MFB4180   -   FE 22418
+
+
+Assinatura Digital:
+
+

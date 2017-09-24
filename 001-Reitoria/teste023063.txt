@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023063
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/08/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+2507670-1 Ricardo Vicente Michelotto 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878280
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VW
+Modelo:
+PARATI 1.6
+Tipo:
+Nº MOTOR BWX 186408
+
+
+Doc.:
+nota fiscal
+Num.:
+656483
+Data:
+19/07/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+Nº CHASSI 9BWGB05W4CP002325
+
+
+Assinatura Digital:
+
+

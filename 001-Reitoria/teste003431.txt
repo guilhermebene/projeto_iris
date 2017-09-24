@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003431
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/11/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2516339-1 Rogerio de Toledo 
+
+
+Material:
+94048 - HUBS PARA REDE                                                                                      
+
+
+Bem:
+768294
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAM-01               - DIVISÃO DE MATERIAL
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+3C16611
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.599
+Data:
+06/11/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ENTERNET INFORMÁTICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

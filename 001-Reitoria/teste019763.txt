@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019763
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/07/2008 - Processo: 08.5.456.70.1
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4677226
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fabricação DvEMIC/CCE
+Modelo:
+Intel Core 2 Duo
+Tipo:
+HDD 320Gb; Memória Ram 2Gb
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1517/2008
+Data:
+26/06/2008
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+63810
+
+
+Assinatura Digital:
+
+

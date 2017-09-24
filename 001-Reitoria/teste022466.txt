@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022466
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/02/2011 - Processo: 11.5.40.70.3
+
+
+Responsável:
+1852013-1 Ronny Shimazaki 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5092779
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PG                   - Procuradoria Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABR.CCE
+Modelo:
+
+Tipo:
+PROC. i5-650, MEM. 4 GB, HD 500 GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2331/2011
+Data:
+26/01/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+108714
+
+
+Assinatura Digital:
+
+

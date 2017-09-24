@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021430
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/03/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878272
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Ford
+Modelo:
+Fiesta Hatch 1.6L
+Tipo:
+NºMotor: QF9AA8028388
+
+
+Doc.:
+nota fiscal
+Num.:
+057884
+Data:
+29/01/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Ford Motor Company Brasil Ltda
+
+
+Identif:
+NºChassi: 9BFZF55P1A8028388
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022385
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/12/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+3616990-1 Antonio Claudio Venerando 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878280
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI 1.6
+Tipo:
+Nº MOTOR BWX 184047
+
+
+Doc.:
+nota fiscal
+Num.:
+517767
+Data:
+24/11/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL IND.DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+9BWGB05W7BP055325
+
+
+Assinatura Digital:
+
+

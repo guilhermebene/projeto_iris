@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007221
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/05/2002 - Processo: 02.1.8454.1.2
+
+
+Responsável:
+2774780-1 Sandra Silva de Fausto Martins 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1339168
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMCF                - Serviço de Cadastro de Fornecedores
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+CORPORATE 3200
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+002847
+Data:
+21/03/2002
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ série 0302.077.162-5
+
+
+Assinatura Digital:
+
+

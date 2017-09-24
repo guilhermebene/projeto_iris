@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.027098
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/09/2013 - Processo: 13.1.1071.1.1
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+194204 - CHASSI PARA SERVIDORES                                                                              
+
+
+Bem:
+5307562
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+UCS NEXUS 2000 - UCS C240 M3
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2904
+Data:
+12/07/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+SOLVE SYSTEM COMÉRCIO EM TECNOLOGIA DA INFORMAÇÃO LTDA
+
+
+Identif:
+SSI1719OC1W
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012431
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/11/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+2466702-1 Aderval Junior 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2761408
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI 1.8
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+126706
+Data:
+29/10/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWDC05X85T056598
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022929
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/07/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+188026 - SISTEMA BLADE                                                                                       
+
+
+Bem:
+4846460
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+5108/B200
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+75
+Data:
+23/05/2011
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+INTERQUATTRI INFORMÁTICA E TELECOMUNICAÇÕES LTDA.
+
+
+Identif:
+FOX1504GR9V
+
+
+Assinatura Digital:
+
+

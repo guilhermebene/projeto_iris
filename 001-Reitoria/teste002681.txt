@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002681
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/10/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+2115482-1 Ines Aparecida Vicente de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+176087
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVAUXAD-CJ           - SV AUX DA ADMINISTRAÇÃO DA CJ
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+AMD K6II, 500 MHZ, 64MB MEMORIA  RAM
+Tipo:
+HD 4.2GB
+
+
+Doc.:
+nota fiscal
+Num.:
+001361
+Data:
+15/09/1999
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+MICRO MAX INFORMÁTICA
+
+
+Identif:
+F932CMB21594
+
+
+Assinatura Digital:
+
+

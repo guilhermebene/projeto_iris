@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025264
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/10/2012 - Processo: 12.1.21744.1.0
+
+
+Responsável:
+5488035-1 Cynthia Matuura 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+5307597
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NETAPP
+Modelo:
+FAS6240A
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.002.570
+Data:
+11/09/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+Solve System Comércio em Tecnologia da Informação Ltda.
+
+
+Identif:
+700001170963 e 700001206906
+
+
+Assinatura Digital:
+
+

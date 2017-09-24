@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.008395
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/08/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+1520822
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Volkswagen
+Modelo:
+Parati
+Tipo:
+1.8 TOUR
+
+
+Doc.:
+nota fiscal
+Num.:
+294169
+Data:
+07/05/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Volkswagen do Brasil Ltda
+
+
+Identif:
+CMW 0174 - 9BWDC05X12T154822
+
+
+Assinatura Digital:
+
+

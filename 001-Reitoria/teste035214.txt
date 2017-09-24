@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.035214
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/03/2016 - Processo: 16.1.1427.1.3
+
+
+Responsável:
+618920-1 Allan Rodrigo de Lima da Silva 
+
+
+Material:
+187992 - SWITCH FIBRE CHANNEL                                                                                
+
+
+Bem:
+4846206
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Pertence ao SIBI - Instalado no  IDC
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+UCS-6140XP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+127
+Data:
+05/09/2011
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+INTERQUATTRI INFORMÁTICA E TELECOMUNICAÇÕES LTDA.
+
+
+Identif:
+SSI151615BK
+
+
+Assinatura Digital:
+
+

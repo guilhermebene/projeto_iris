@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.008288
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/07/2002 - Processo: 02.1.16874.1.7
+
+
+Responsável:
+1112532-1 Joao Donizete Metidieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PUREUSP              - Programa de Economia de Energia da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+PENTIUM MMX 233 MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+1667
+Data:
+03/03/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ACS - AUTOMAÇÃO CONTROLES E SISTEMAS INDUSTRIAIS LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

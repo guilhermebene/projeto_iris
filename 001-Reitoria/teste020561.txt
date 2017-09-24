@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020561
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/04/2009 - Processo: 08.1.511.84.5
+
+
+Responsável:
+3576544-1 Gianne Cerqueira Leite Rodrigues Morais 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4741048
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+UBAS-BA              - Unidade Básica de Atenção à Saúde de Bauru
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4160
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+736971
+Data:
+31/10/2008
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+Itautec S/A - Grupo Itautec
+
+
+Identif:
+L613201301041
+
+
+Assinatura Digital:
+5CmHvfFcC3AkonQI3/sDClrDpdUqc3
+

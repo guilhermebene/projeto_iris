@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002215
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/09/1999 - Processo: 96.1.24839.1.6
+
+
+Responsável:
+2445059-1 Paulo Roberto da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642959
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DVPCT-01             - DIVISÃO DE PGTO E CONTAGEM DE TEMPO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ASA COMPUTER
+Modelo:
+386 SX25MHZ
+Tipo:
+IF
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+4114592
+
+
+Assinatura Digital:
+
+

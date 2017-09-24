@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018838
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/12/2007 - Processo: 07.5.83.84.0
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4135962
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+MX201 - C2X7T010
+Tipo:
+PREGÃO CTI 001/2006
+
+
+Doc.:
+nota fiscal
+Num.:
+619729
+Data:
+11/06/2007
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+J582301300059
+
+
+Assinatura Digital:
+
+

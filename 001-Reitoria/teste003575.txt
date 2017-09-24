@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003575
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/01/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2333728-1 Mirian Lobato de Oliveira Carvalho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+821241
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMA-01              - SV DE ALMOXARIFADO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP-II
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+002.145
+Data:
+13/12/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROMAX COMÉRCIO E SERVIÇOS EM INFORMÁTICA LTDA.
+
+
+Identif:
+Nº DE SÉRIE 1200.025.802-6
+
+
+Assinatura Digital:
+
+

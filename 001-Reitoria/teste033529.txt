@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.033529
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/03/2015 - Processo: 15.1.2837.1.0
+
+
+Responsável:
+2476096-1 Nelson da Silva Siqueira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4741048
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DACAA-01             - SV DE ARQUIVO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4160
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+758205
+Data:
+31/01/2009
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+L613201300051
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020680
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/04/2009 - Processo: 08.1.511.84.5
+
+
+Responsável:
+2427434-1 Roseli Emilia Jose 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4741048
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GRS-MARTE            - Grupo Responsável pelo Sistema Marte
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4160
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+736971
+Data:
+31/10/2008
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+Itautec S/A - Grupo Itautec
+
+
+Identif:
+L613201301461
+
+
+Assinatura Digital:
+Vp4IXlS3c1rOW/XzFRjAH6tQASSqQE
+

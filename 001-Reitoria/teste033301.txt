@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.033301
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/10/2014 - Processo: 14.5.609.1.6
+
+
+Responsável:
+2509971-1 Lilian Alvarenga 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4741048
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAAT                 - Serviço de Administração de Transportes
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MONTAGEM CCE
+Modelo:
+INTEL CORE 2 DUO
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1691/2008
+Data:
+17/11/2008
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+65651
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012088
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/05/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+2748467-1 Luiz Fernando Ferreira de Lima 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+2761424
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FIAT
+Modelo:
+DUCATO
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+989323
+Data:
+31/12/2003
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FIAT AUTOMÓVEIS S/A
+
+
+Identif:
+93W231H2131012321
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020934
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/08/2009 - Processo: 09.1.27426.1.7
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4821572
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D-LINK
+Modelo:
+DGS-3100-24 BR
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+9806
+Data:
+28/07/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+EXCELBYT COMÉRCIO E SERVIÇOS DE INFORMÁTICA LTDA.
+
+
+Identif:
+F3DP186000414
+
+
+Assinatura Digital:
+
+

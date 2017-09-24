@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022483
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/03/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+2408099-1 Mauricio Lobo 
+
+
+Material:
+6173 - CAMIONETA CABINE DUPLA                                                                              
+
+
+Bem:
+5061717
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FORD
+Modelo:
+RANGER XLT 13P
+Tipo:
+CHASSI 8AFER13P7BJ388702
+
+
+Doc.:
+nota fiscal
+Num.:
+480
+Data:
+12/01/2011
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+UBERMAC CONSTRUTORA E COM. DE EQUIP. LTDA -ME
+
+
+Identif:
+Nº MOTOR L1A005734
+
+
+Assinatura Digital:
+
+

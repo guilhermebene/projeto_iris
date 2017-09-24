@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025416
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/11/2012 - Processo: 12.1.241.49.4
+
+
+Responsável:
+8143004-1 Jefferson de Almeida 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+3951111
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DOV                  - Divisão de Operações e Vigilância
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FIAT
+Modelo:
+SIENA HLX 1.8 FLEX 4P
+Tipo:
+PLACA: DJP 3210
+
+
+Doc.:
+nota fiscal
+Num.:
+42152
+Data:
+03/03/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+9BD17241C63218634
+
+
+Assinatura Digital:
+
+

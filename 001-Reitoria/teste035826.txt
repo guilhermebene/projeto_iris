@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.035826
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/11/2016 - Processo: 16.5.3.91.8
+
+
+Responsável:
+5872170-1 Danielli Guirado Pereira 
+
+
+Material:
+216836 - APARELHO DE TELEFONE MULTIFUNCIONAL                                                                 
+
+
+Bem:
+5516277
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SPOC-01              - SV PESSOAL DOS ÓRGÃOS CENTRAIS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SIEMENS
+Modelo:
+VVX1500
+Tipo:
+RP 013/2012 DC Nº. 82869/2013
+
+
+Doc.:
+nota fiscal
+Num.:
+1019
+Data:
+29/03/2013
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0004F24A4E5F
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021917
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/07/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+4793611-1 Cyrano da Silva Rizzo 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4893450
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+4210-52X
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1772
+Data:
+22/07/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SOLVE SYSTEM COMÉRCIO EM TECNOLOGIA DA INFORMAÇÃO LTDA.
+
+
+Identif:
+9J9FCCR583766
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004033
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/05/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2400685-1 Paulo Roberto Romano 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+866261
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+QUANTUM 2.0
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+130291
+Data:
+23/03/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9WBBEC3X81P016500
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000984
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/03/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+2470173-1 Jurema Lucia dos Santos 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+15857
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SG                   - Secretaria Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM 120
+Tipo:
+MI-TORRE
+
+
+Doc.:
+declaração de importação
+Num.:
+513525
+Data:
+16/12/1996
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45459M
+
+
+Assinatura Digital:
+
+

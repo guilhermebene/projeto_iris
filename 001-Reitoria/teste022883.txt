@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022883
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/06/2011 - Processo: 11.5.226.70.0
+
+
+Responsável:
+4807063-1 Maria de Jesus Borges 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5132690
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PROCESSADOR INTEL I5-650
+Tipo:
+MEM. DDR3 4 GB - HDD 500 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2417/2011
+Data:
+17/05/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+111293
+
+
+Assinatura Digital:
+
+

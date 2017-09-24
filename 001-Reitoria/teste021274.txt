@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021274
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2808939-1 Joao Jose Garcia Filho 
+
+
+Material:
+60020 - CENTRAL TELEFÔNICA                                                                                  
+
+
+Bem:
+4459512
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCCLODON-01          - Seção de Clínica Odontológica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Intelbras
+Modelo:
+Corp 6000
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+002741
+Data:
+17/11/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Proffit Br Comércio de Equipamentos de Segurança e Serviços Ltda. - Epp
+
+
+Identif:
+CE0908100129
+
+
+Assinatura Digital:
+
+

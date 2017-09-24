@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003251
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/08/2000 - Processo: 98.1.11336.1.2
+
+
+Responsável:
+2496133-1 Yuri Spadini Vendramelli 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642894
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DFTA-01              - SV ADIANTAMENTOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASHFORD
+Modelo:
+486-DX4
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+1913460 QC CERTIFICE 134464
+
+
+Assinatura Digital:
+
+

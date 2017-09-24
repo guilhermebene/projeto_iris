@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022099
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/11/2010 - Processo: 10.1.223.84.2
+
+
+Responsável:
+2445059-1 Paulo Roberto da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4851560
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DVPCT-01             - DIVISÃO DE PGTO E CONTAGEM DE TEMPO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POSITIVO
+Modelo:
+POS AT SERIES F (CAD)
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+232622
+Data:
+21/10/2010
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+Positivo Informática S/A
+
+
+Identif:
+1A1922R4X
+
+
+Assinatura Digital:
+
+

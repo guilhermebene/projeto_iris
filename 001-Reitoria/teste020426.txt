@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020426
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/02/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+3786 - ÔNIBUS                                                                                              
+
+
+Bem:
+2718243
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+17.260 EOT
+Tipo:
+Nº MOTOR FIA031382
+
+
+Doc.:
+nota fiscal
+Num.:
+455100
+Data:
+29/01/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DIBRACAM COMERCIAL LTDA.
+
+
+Identif:
+Nº CHASSI 9BWHB82Z99R922515
+
+
+Assinatura Digital:
+
+

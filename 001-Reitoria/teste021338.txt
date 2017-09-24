@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021338
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+10/02/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2740761-1 Odair Raymundo 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GM
+Modelo:
+Astra Sedan Advantage
+Tipo:
+NºMotor: U70046772
+
+
+Doc.:
+nota fiscal
+Num.:
+000218503
+Data:
+15/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+General Motors do Brasil Ltda
+
+
+Identif:
+NºChassi: 9BGTR69C0AB212406
+
+
+Assinatura Digital:
+
+

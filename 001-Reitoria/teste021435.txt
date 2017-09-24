@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021435
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/03/2010 - Processo: 10.5.92.70.2
+
+
+Responsável:
+2489927-1 Paschoal Jose Dorsa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4677242
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CPP-01               - COMISSÃO PROCESSANTE PERMANENTE DA PG
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO PRÓPRIA CCE
+Modelo:
+MICROPROCESSADOR INTEL CORE 2 DUO
+Tipo:
+MEM. DDR2 2 GB - HD 160 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2023/2010
+Data:
+08/02/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+105597
+
+
+Assinatura Digital:
+
+

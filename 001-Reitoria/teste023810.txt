@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023810
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+29/03/2012 - Processo: 12.5.201.70.8
+
+
+Responsável:
+3681778-1 Bruno Lazzarini Teodoro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225493
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AG                   - Arquivo Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CCE
+Modelo:
+INTEL I5 2400
+Tipo:
+MEMÓRIA DDR3 4GB HD 500 GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2877
+Data:
+23/02/2012
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+114611
+
+
+Assinatura Digital:
+
+

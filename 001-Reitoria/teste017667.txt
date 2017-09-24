@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017667
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/02/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2462604-1 Claudio Jose da Silva 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4206452
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACV-01             - Seção de Veículos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CHEVROLET
+Modelo:
+ASTRA SEDAN ADVANT. FLEXPOWER-BRANC/2007
+Tipo:
+NºMOTOR J60043539 PLACA DJP-0189
+
+
+Doc.:
+nota fiscal
+Num.:
+565226
+Data:
+30/01/2007
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+GENERAL MOTORS
+
+
+Identif:
+9BGTR69W07B219354
+
+
+Assinatura Digital:
+
+

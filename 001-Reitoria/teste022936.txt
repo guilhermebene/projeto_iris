@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022936
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/07/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4893484
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+NEXUX 7010
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+77
+Data:
+23/05/2011
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+INTERQUATTRI INFORMÁTICA E TELECOMUNICAÇÕES LTDA.
+
+
+Identif:
+JAF1442ENMN
+
+
+Assinatura Digital:
+
+

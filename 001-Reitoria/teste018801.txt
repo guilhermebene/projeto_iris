@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018801
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/11/2007 - Processo: 07.5.753.70.5
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4534352
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+BEM LOCALIZADO NO IDC
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+PENTIUM 4, 1 GB DE MEM, HD 80 GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1164/2007
+Data:
+06/09/2007
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+55133
+
+
+Assinatura Digital:
+
+

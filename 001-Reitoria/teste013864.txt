@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013864
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/08/2005 - Processo: 05.5.727.70.2
+
+
+Responsável:
+3656755-1 Elcio Ricardo da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3715647
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVCONTP-01           - SV CONTAGEM DE TEMPO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+Sempron 2200+
+Tipo:
+Memória DDR 256 MB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+99/2005
+Data:
+14/04/2005
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série 43175
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020117
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/11/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+5839450-1 Roque Marcelino de Amorim 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+4674014
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CHEVROLET
+Modelo:
+MERIVA
+Tipo:
+Nº MOTOR N20056778
+
+
+Doc.:
+nota fiscal
+Num.:
+541566
+Data:
+10/10/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 9BGXL75G08C189090
+
+
+Assinatura Digital:
+
+

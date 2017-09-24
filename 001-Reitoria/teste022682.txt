@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022682
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/05/2011 - Processo: 11.5.98.70.1
+
+
+Responsável:
+7095632-1 Carlos Roberto de Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5132703
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PROCESSADOR INTEL CORE 2 DUO
+Tipo:
+HD 500GB SATA - MEM. DDR2 4GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2390/2011
+Data:
+30/03/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+109929
+
+
+Assinatura Digital:
+
+

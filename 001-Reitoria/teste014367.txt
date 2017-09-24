@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014367
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/10/2005 - Processo: 05.5.639.70.6
+
+
+Responsável:
+2333986-1 Marcos Roberto Santiago 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3334651
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+POS_AT SERIES F (CELERON R)
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota fiscal
+Num.:
+1511/12/13/14
+Data:
+15/01/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+297948
+
+
+Assinatura Digital:
+
+

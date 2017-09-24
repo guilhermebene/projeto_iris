@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025400
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/11/2012 - Processo: 12.1.241.49.4
+
+
+Responsável:
+6738380-1 Leandro Sebastião da Silva 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+866229
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SSEG                 - Superintendência de Segurança
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+BLAZER 116AX1
+Tipo:
+CDV 6191
+
+
+Doc.:
+nota fiscal
+Num.:
+214.074
+Data:
+13/03/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+9BG116AX01C413091
+
+
+Assinatura Digital:
+
+

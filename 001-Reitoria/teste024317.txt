@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.024317
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/05/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+2819111-1 Nivaldete Aparecida Facco Magordo 
+
+
+Material:
+161454 - TERMINAL THIN CLIENT                                                                                
+
+
+Bem:
+5167558
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AT-CARREIRA          - Assistência Técnica Carreira Servs. Téc. e Adm
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+WYSE
+Modelo:
+C10LE
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2362
+Data:
+23/03/2012
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+Solve System Comércio em Tecnologia da Informação Ltda.
+
+
+Identif:
+2EQDL200997
+
+
+Assinatura Digital:
+
+

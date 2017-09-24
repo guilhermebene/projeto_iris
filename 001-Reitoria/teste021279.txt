@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021279
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+94 - CAMINHÕES                                                                                           
+
+
+Bem:
+4903609
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+IVECO
+Modelo:
+DAILY 55C16
+Tipo:
+Nº MOTOR 7069179
+
+
+Doc.:
+nota fiscal
+Num.:
+10559
+Data:
+21/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+COFIPE VEÍCULOS LTDA.
+
+
+Identif:
+Nº CHASSI 93ZC53B01A8413690
+
+
+Assinatura Digital:
+
+

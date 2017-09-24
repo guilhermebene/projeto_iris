@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.005408
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/08/2001 - Processo: 89.1.194.1.8
+
+
+Responsável:
+2766586-1 Jorge Luis Nunes 
+
+
+Material:
+11088 - MESA PARA INFORMÁTICA                                                                               
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CERT                 - Comissão Especial de Regime de Trabalho
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CICOPAL
+Modelo:
+373
+Tipo:
+p/micro
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MAVENI-MAQ.E MOVEIS P/ESCRITORIOS
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

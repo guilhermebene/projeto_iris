@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023094
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/09/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+2408078-2 Antonio Carlos da Silva 
+
+
+Material:
+14877 - RÁDIO TRANSCEPTOR PORTÁTIL                                                                          
+
+
+Bem:
+4798937
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAACME               - Sc. Manutenção Elétrica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MOTOROLLA
+Modelo:
+EP-450
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+4471
+Data:
+15/08/2011
+
+
+Garantia:
+24 mes(es)
+
+
+Fornecedor:
+RICALLRÁDIO TELECOMUNICAÇÕES LTDA
+
+
+Identif:
+018NMR43FK
+
+
+Assinatura Digital:
+
+

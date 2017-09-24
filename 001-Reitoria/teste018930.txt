@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018930
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/03/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2428592-1 Rubens Borges Pinto 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4563581
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI
+Tipo:
+CHASSI 9BWDC05W88T203093
+
+
+Doc.:
+nota fiscal
+Num.:
+638174
+Data:
+04/03/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+WOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+Nº MOTOR BNY 021929
+
+
+Assinatura Digital:
+
+

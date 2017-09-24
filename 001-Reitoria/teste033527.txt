@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.033527
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/03/2015 - Processo: 15.1.205.1.6
+
+
+Responsável:
+7763108-1 Bruno Oliveira da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5228697
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAML-01              - SC DE LICITAÇÃO E CONTRATOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MONTAGEM CCE
+Modelo:
+INTEL CORE 2 DUO
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+3080
+Data:
+21/01/2013
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+109899
+
+
+Assinatura Digital:
+
+

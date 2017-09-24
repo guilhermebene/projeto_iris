@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020099
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/11/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2492424-1 Emanuel Licio Ferraz de Oliveira Ruiz 
+
+
+Material:
+6254 - MOTOCICLETA                                                                                         
+
+
+Bem:
+4288076
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Honda
+Modelo:
+NXR 150 BROS KS
+Tipo:
+N. Motor: KD03E28032871
+
+
+Doc.:
+nota fiscal
+Num.:
+072915
+Data:
+10/10/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+São Paulo Distribuidora de Motos e Veículos Ltda
+
+
+Identif:
+N. Chassi: 9C2KD03208R032871
+
+
+Assinatura Digital:
+
+

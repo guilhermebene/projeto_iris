@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020158
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/12/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2441462-1 Silvio Serrão do Nascimento 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4563581
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Volkswagen
+Modelo:
+Parati
+Tipo:
+NºMotor: BNY025026
+
+
+Doc.:
+nota fiscal
+Num.:
+000706095
+Data:
+20/10/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Volkswagen do Brasil Indústria de Veículos Automotores Ltda.
+
+
+Identif:
+NºChassi: 9BWGC05W79P088246
+
+
+Assinatura Digital:
+
+

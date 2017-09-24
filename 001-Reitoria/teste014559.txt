@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014559
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/01/2006 - Processo: 06.1.158.1.9
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+1323652
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEM
+Modelo:
+GOL 1.6 POWER
+Tipo:
+COR-BRANCO GLACIAL- AR, TRAVA, VID. ELET
+
+
+Doc.:
+nota fiscal
+Num.:
+264771
+Data:
+31/10/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+VOLKSWAGEM DO BRASIL-IND.VEÍCULOS AUTOMOTORES LTDA
+
+
+Identif:
+9BWCBO5W96T021205
+
+
+Assinatura Digital:
+
+

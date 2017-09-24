@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014944
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/04/2006 - Processo: 06.1.158.1.9
+
+
+Responsável:
+2457699-1 Sergio Antonio Alves 
+
+
+Material:
+78140 - TRATOR                                                                                              
+
+
+Bem:
+3627950
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CASE
+Modelo:
+580 L S3
+Tipo:
+Nº MOTOR 30209794
+
+
+Doc.:
+nota fiscal
+Num.:
+136519
+Data:
+21/11/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+BRASIF S/A EXPORTAÇÃO IMPORTAÇÃO
+
+
+Identif:
+CHASSIS N5AH02327
+
+
+Assinatura Digital:
+
+

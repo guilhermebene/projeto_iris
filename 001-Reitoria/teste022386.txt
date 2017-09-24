@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022386
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/12/2010 - Processo: 10.5.546.70.3
+
+
+Responsável:
+7367854-1 Antonio Carlos de Almeida 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5083010
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+
+Tipo:
+CORE 2 DUO, 04 GB MEM., 320 GB HD
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2254/2010
+Data:
+07/12/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+108638
+
+
+Assinatura Digital:
+
+

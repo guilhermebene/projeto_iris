@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003592
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+01/02/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2491444-1 Ederaldo de Oliveira 
+
+
+Material:
+30333 - FOGÃO ELÉTRICO                                                                                      
+
+
+Bem:
+829978
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAAC-01              - SV ATIVIDADES COMPLEMENTARES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LAYR
+Modelo:
+
+Tipo:
+EM AÇO INOXIDÁVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+000329
+Data:
+18/12/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SUPRINIL COMERCIAL LTDA
+
+
+Identif:
+4968
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.010416
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/10/2003 - Processo: 03.1.3235.62.3
+
+
+Responsável:
+2449690-1 Sandra Cristina Campos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2600994
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Compuadd
+Modelo:
+CPD533
+Tipo:
+Athlon AMD XP 2200 1,81 GHz 256MB 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+972
+Data:
+25/08/2003
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+220010 - Patrimonio HU 26041
+
+
+Assinatura Digital:
+
+

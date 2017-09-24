@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022941
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/07/2011 - Processo: 11.1.10868.1.4
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+4966872
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUPERMICRO
+Modelo:
+INF 1366
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1683
+Data:
+17/06/2011
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+IARA CRISTINA DA SILVA MEIRELLES ARARAQUARA - E.P.P
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

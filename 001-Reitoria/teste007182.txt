@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007182
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/04/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+1111868-1 Humberto Oyamada Tamaki 
+
+
+Material:
+63347 - INTERFACE PARA AQUISIÇÃO DE DADOS                                                                   
+
+
+Bem:
+1112600
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PURAUSP              - Programa de Economia de Água da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HYDROMETER
+Modelo:
+Hidrocenter 250
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+23119
+Data:
+21/09/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ABB MEDIÇÃO DE ÁGUA S/A
+
+
+Identif:
+série 10000306
+
+
+Assinatura Digital:
+
+

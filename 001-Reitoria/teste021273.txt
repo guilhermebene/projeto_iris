@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021273
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6181 - CAMIONETA                                                                                           
+
+
+Bem:
+4886550
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MAHINDRA
+Modelo:
+TURBO DIESEL 2.6
+Tipo:
+Nº MOTOR BJ84H17448
+
+
+Doc.:
+nota fiscal
+Num.:
+3
+Data:
+04/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+SILBARRA VEÍCULOS LTDA. - ME
+
+
+Identif:
+Nº CHASSI 94RBMSCD191M00557
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003068
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/04/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2466702-1 Aderval Junior 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+393878
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GM
+Modelo:
+BLAZER
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+016.624
+Data:
+24/03/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA
+
+
+Identif:
+9BG116ASOYC420043
+
+
+Assinatura Digital:
+
+

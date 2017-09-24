@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021281
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2406886-1 Guilherme Malagutti 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+4878906
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+Astra Sedan Advantage
+Tipo:
+NºMotor: U70047456 Placa: DJL-0091
+
+
+Doc.:
+nota fiscal
+Num.:
+000218502
+Data:
+15/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+General Motors do Brasil Ltda.
+
+
+Identif:
+NºChassi: 9BGTR69C0AB212339
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021402
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+12/03/2010 - Processo: 10.1.4485.1.9
+
+
+Responsável:
+2414026-1 Emilio de Francesco 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+4903650
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MERCEDES-BENZ
+Modelo:
+FURGÃO SPRINTER 313CDI
+Tipo:
+Nº MOTOR 61198170103234
+
+
+Doc.:
+nota fiscal
+Num.:
+5401
+Data:
+22/01/2010
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+DE NIGRIS DISTRIBUIDORA DE VEÍCULOS LTDA.
+
+
+Identif:
+Nº CHASSI 8AC903662AE026117
+
+
+Assinatura Digital:
+
+

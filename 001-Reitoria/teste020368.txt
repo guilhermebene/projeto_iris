@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020368
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/01/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+3405470-1 Manoel Pinto Neto 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+4563220
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Chevrolet
+Modelo:
+Montana
+Tipo:
+NºMOTOR: P40089165
+
+
+Doc.:
+nota fiscal
+Num.:
+552582
+Data:
+11/11/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+General Motors do Brasil Ltda
+
+
+Identif:
+NºCHASSI: 9BGXL80809C141938
+
+
+Assinatura Digital:
+
+

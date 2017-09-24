@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023409
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/12/2011 - Processo: 11.5.641.70.7
+
+
+Responsável:
+2059799-1 Ying Hsiao Fen 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225493
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fabricação CCE
+Modelo:
+Processador INTE i5 2400
+Tipo:
+Memória DDR3 4 GB - HDD 500 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2626/2011
+Data:
+25/11/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+113205
+
+
+Assinatura Digital:
+
+

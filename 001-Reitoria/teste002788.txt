@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002788
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/10/1999 - Processo: 95.1.9791.1.5
+
+
+Responsável:
+2333728-1 Mirian Lobato de Oliveira Carvalho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMA-01              - SV DE ALMOXARIFADO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HYUNDAI
+Modelo:
+PENTIUM
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+SV11020000421
+
+
+Assinatura Digital:
+
+

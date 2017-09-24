@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012345
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/09/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+19032-1 Adolpho Jose Melfi 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+3200213
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+GVR                  -  Vice Reitoria
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP COMPAQ
+Modelo:
+NX9010
+Tipo:
+P4 - 256MB RAM - HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+755
+Data:
+08/09/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vicent do Brasil Eletroeletrônica Ltda. E. P. P.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

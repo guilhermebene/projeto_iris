@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021070
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/09/2009 - Processo: 09.5.6.84.7
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4510461
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCDBA-01             - SC ADMINIST DE BANCO DE DADOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EDGE-CORE
+Modelo:
+ES3526XA
+Tipo:
+PREGÃO CTI 04/2008
+
+
+Doc.:
+nota fiscal
+Num.:
+075221
+Data:
+10/03/2009
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+726000266
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022428
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/01/2011 - Processo: 11.1.483.1.2
+
+
+Responsável:
+3589462-1 Paulo Horacio Leme 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+ifsc
+
+
+ 
+ 
+
+
+Marca:
+ZAFIRA
+Modelo:
+
+Tipo:
+Nº MOTOR U80005112
+
+
+Doc.:
+nota fiscal
+Num.:
+417277
+Data:
+17/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 9BGTS75C0BC181715
+
+
+Assinatura Digital:
+
+

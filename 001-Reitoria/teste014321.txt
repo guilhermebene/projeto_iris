@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014321
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/10/2005 - Processo: 05.5.1003.70.8
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3758036
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+Proc.Celeron D 2,4 GHZ IN-A-BOX
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+462/2005
+Data:
+27/07/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série CCE 43984
+
+
+Assinatura Digital:
+
+

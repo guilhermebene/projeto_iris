@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023620
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/03/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+2477361-1 Maria do Socorro Carneiro de Lucena 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+4887433
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVADM-01             - SV ADMINISTRATIVOS DA PG
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GARMIN
+Modelo:
+NUVI-1300
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+354
+Data:
+26/01/2012
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+RADIUS LINE TELECOMUNICAÇÕES LTDA ME
+
+
+Identif:
+29R167806
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012065
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/05/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+2487884-1 Leonardo Brian Favato 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+2988887
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PUREUSP              - Programa de Economia de Energia da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+IBM
+Modelo:
+8480 - 42X
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001350
+Data:
+26/04/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+COMERCIAL E TÉCNICA COMPUADD DO BRASIL LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

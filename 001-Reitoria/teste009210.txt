@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009210
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/11/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+1801408-1 Sergio Roberto Poltronieri 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+1961110
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN Microsystems
+Modelo:
+Blade 100
+Tipo:
+HD 20GB, 256MB, WS SB 100 PGX64
+
+
+Doc.:
+nota fiscal
+Num.:
+0038
+Data:
+08/11/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Afrânio Silva Gomide - Me.
+
+
+Identif:
+FT 22610416
+
+
+Assinatura Digital:
+
+

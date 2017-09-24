@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.019068
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/04/2008 - Processo: 08.5.201.70.3
+
+
+Responsável:
+2459659-1 Edna Farina Braggio 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4598318
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PROCESSADOR PENTIUM  DUAL CORE
+Tipo:
+MEM. DDR2 1 GB - HD 160 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1325/2008
+Data:
+17/03/2008
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+59972
+
+
+Assinatura Digital:
+
+

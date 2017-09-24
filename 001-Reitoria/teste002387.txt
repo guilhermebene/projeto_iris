@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002387
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/09/1999 - Processo: 96.1.24839.1.6
+
+
+Responsável:
+2491909-1 Osvaldo Loula Teixeira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+643793
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAAC-01              - SV ATIVIDADES COMPLEMENTARES
+
+
+Complemento:
+MEM.RAM 64MB, CD ROM 32X,HD 3.2 GB,
+
+
+ 
+ 
+
+
+Marca:
+ASHFORD
+Modelo:
+PENTIUM MMX 200 MHZ
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+9595234
+
+
+Assinatura Digital:
+
+

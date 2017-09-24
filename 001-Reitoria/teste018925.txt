@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018925
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/03/2008 - Processo: 08.1.30.73.1
+
+
+Responsável:
+5469090-1 Jose Carlos Mantovani 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4569989
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+UBAS-PS              - Unidade Básica de Atenção à Saúde de Pirassununga
+
+
+Complemento:
+N.º DE SÉRIE DO GABINETE CONSTANTE NA NOTA DE FABRICAÇÃO PRÓPRIA: G02185
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+PROC CORE 2 DUO 2.33GHZ
+Tipo:
+MEM. DDR2 1 GB/667 - HD 160GB SATA II
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+012/2008
+Data:
+10/01/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+USP 23456 CISC 78910 0300
+
+
+Assinatura Digital:
+
+

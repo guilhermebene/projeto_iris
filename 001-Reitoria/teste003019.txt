@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003019
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/03/2000 - Processo: 94.1.1420.1.7
+
+
+Responsável:
+2494339-1 Edivaldo Trautvein 
+
+
+Material:
+35084 - CONVERSOR DE REDE                                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TELEVOLT
+Modelo:
+EVPC-1000
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+TELEVOLT S/A IND. ELET.
+
+
+Identif:
+0193120038
+
+
+Assinatura Digital:
+
+

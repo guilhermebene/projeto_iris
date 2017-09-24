@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000874
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/02/1999 - Processo: 99.1.710.1.6
+
+
+Responsável:
+1999514-1 Zenon Seckler Ewald 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+37451
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CODAGE               - Coordenadoria de Administração Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HITACHI
+Modelo:
+PENTIUM MMX
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.864
+Data:
+16/10/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MICROMAX COMÉRCIO E SERVIÇOS EM INFORMÁTICA LTDA
+
+
+Identif:
+CT10138800236
+
+
+Assinatura Digital:
+
+

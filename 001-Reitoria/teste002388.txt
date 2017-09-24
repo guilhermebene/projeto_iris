@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.002388
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+24/09/1999 - Processo: 96.1.24839.1.6
+
+
+Responsável:
+2454042-1 Maria de Fatima da Silva Freitas 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1019287
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAML-01              - SC DE LICITAÇÃO E CONTRATOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASHFORD
+Modelo:
+PENTIUM MMX 233 MHZ
+Tipo:
+64 MB, 60 MB DE RAM
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ASHFORD INT.INC.
+
+
+Identif:
+9595299
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003462
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/12/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2912449-1 Glaucia Alves dos Santos Toni 
+
+
+Material:
+9482 - IMPRESSORA JATO DE TINTA                                                                            
+
+
+Bem:
+802263
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CERT                 - Comissão Especial de Regime de Trabalho
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+LEXMARK
+Modelo:
+Z31
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001268
+Data:
+04/12/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+INFOBRÁS INFORMÁTICA DO BRASIL LTDA.
+
+
+Identif:
+MM18133065
+
+
+Assinatura Digital:
+
+

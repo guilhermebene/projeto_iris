@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012083
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/05/2004 - Processo: 04.1.1339.1.5
+
+
+Responsável:
+2457699-1 Sergio Antonio Alves 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2761416
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI 1.8
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+6459
+Data:
+30/11/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWAC03X94P000344
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.010341
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+21/08/2003 - Processo: 03.1.8642.1.4
+
+
+Responsável:
+2471448-1 Antonio Carlos de Martin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2581310
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVPUBL-01            - SV DE PUBLICAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micromax
+Modelo:
+Pentium IV
+Tipo:
+256MB Ram, HD 40 GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+02/DI
+Data:
+11/08/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.010860
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+20/11/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+5775605-1 Geraldo Donizetti Janez 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2628724
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCSACPS-01           - Seção de Saúde do Campus de Pirassununga
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPUADD
+Modelo:
+CPD533
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001063
+Data:
+14/11/2003
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+COMERCIAL E TÉCNICA COMPUADD DO BRASIL LTDA.
+
+
+Identif:
+220314
+
+
+Assinatura Digital:
+
+

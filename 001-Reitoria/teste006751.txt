@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.006751
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/01/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+3576158-1 Roberto Luiz Menezes Macias 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+1237624
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Compaq
+Modelo:
+Armada 110
+Tipo:
+6D16JMVZV094
+
+
+Doc.:
+nota fiscal
+Num.:
+32046
+Data:
+20/12/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Micro Switch Eletro Eletrônica Ltda.
+
+
+Identif:
+002C066-F362-0010-A03A-0A0BBE1EC929
+
+
+Assinatura Digital:
+
+

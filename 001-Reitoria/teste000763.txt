@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000763
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/01/1999 - Processo: 90.1.734.1.4
+
+
+Responsável:
+2494339-1 Edivaldo Trautvein 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MICROCONTROL
+Modelo:
+X TEC 704
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+FKS-EMPRESA BRASIL.COMPUTADORES LTDA
+
+
+Identif:
+1039
+
+
+Assinatura Digital:
+
+

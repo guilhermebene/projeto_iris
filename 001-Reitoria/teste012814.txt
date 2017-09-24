@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012814
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+06/12/2004 - Processo: 04.1.437.70.6
+
+
+Responsável:
+1421989-1 Maria Aparecida Sanchez Perlino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2987813
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DVPCT-01             - DIVISÃO DE PGTO E CONTAGEM DE TEMPO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Itautec
+Modelo:
+Infoway Business P800-M DDR-2
+Tipo:
+Microcomputador PC.
+
+
+Doc.:
+nota fiscal
+Num.:
+430723
+Data:
+23/06/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SÉRIE  G841901500165
+
+
+Assinatura Digital:
+
+

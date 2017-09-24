@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025700
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+15/04/2013 - Processo: 11.1.536.1.9
+
+
+Responsável:
+3036065-1 Dagoberto Carvalio Junior 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4893484
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ENTERASYS
+Modelo:
+4X10GB-LR-SFPP,4X10GB-SR-SFPP
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+11/0650969-4
+Data:
+13/04/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TECHDEC INFORMÁTICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

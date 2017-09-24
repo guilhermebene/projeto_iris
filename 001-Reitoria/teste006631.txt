@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.006631
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/11/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2450010-1 Esmeralda Dias da Silva 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+1173057
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVRATOS-01           - SV REGISTROS DE ATOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VENTISILVA
+Modelo:
+VCL
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001045
+Data:
+25/10/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VENTO TEC VENTILADORES LTDA. - ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

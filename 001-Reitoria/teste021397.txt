@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021397
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/03/2010 - Processo: 09.1.5260.1.9
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4753267
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN MYCROSYSTEMS
+Modelo:
+BROCADE SW5000
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+09/0716656-8
+Data:
+10/06/2009
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+SMB-SUNSET INTEGRADORA DE SISTEMAS LTDA.
+
+
+Identif:
+AGFO650D07X
+
+
+Assinatura Digital:
+
+

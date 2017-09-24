@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020932
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+03/08/2009 - Processo: 09.1.27426.1.7
+
+
+Responsável:
+5779248-1 Fernando Fugita 
+
+
+Material:
+15300 - PARAFUSADEIRA                                                                                       
+
+
+Bem:
+4604865
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BLACK & DECKER
+Modelo:
+9078-BR
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+20902
+Data:
+24/07/2009
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+CICONCORT FERRAMENTAS LTDA.
+
+
+Identif:
+90511669
+
+
+Assinatura Digital:
+
+

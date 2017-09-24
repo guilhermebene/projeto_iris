@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020367
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/01/2009 - Processo: 09.1.286.1.0
+
+
+Responsável:
+2507670-1 Ricardo Vicente Michelotto 
+
+
+Material:
+6173 - CAMIONETA CABINE DUPLA                                                                              
+
+
+Bem:
+1520911
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FORD
+Modelo:
+COURIER
+Tipo:
+NºMOTOR: QFKB9881721
+
+
+Doc.:
+nota fiscal
+Num.:
+53969
+Data:
+13/11/2008
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FORD MOTOR COMPANY BRASIL LTDA.
+
+
+Identif:
+NºCHASSI: 9BFZC52P49B881721
+
+
+Assinatura Digital:
+
+

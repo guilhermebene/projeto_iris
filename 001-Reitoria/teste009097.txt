@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.009097
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+31/10/2002 - Processo: 02.1.16874.1.7
+
+
+Responsável:
+2487884-1 Leonardo Brian Favato 
+
+
+Material:
+136298 - CONTROLADOR DE DEMANDA                                                                              
+
+
+Bem:
+1962841
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PUREUSP              - Programa de Economia de Energia da USP
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1886
+Data:
+06/04/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ACS - AUTOMAÇÃO CONTROLES E SISTEMAS INDUSTRIAIS LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

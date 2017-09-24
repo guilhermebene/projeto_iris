@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.036552
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/08/2017 - Processo: 17.1.793.53.0
+
+
+Responsável:
+5897466-1 Claudemir Mariano de Andrade 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+2761424
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POOL-C               - (Sistema de Empréstimo de Veículos da Capital)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+RENAULT
+Modelo:
+MASTER 2.5 16V MINIBUS
+Tipo:
+PLACA:DBS-8402
+
+
+Doc.:
+nota fiscal
+Num.:
+109275
+Data:
+27/02/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+93YCDDUH57J825958   (MOTOR G9UA724C031956)
+
+
+Assinatura Digital:
+
+

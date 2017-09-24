@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025513
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+18/12/2012 - Processo: 12.1.21744.1.0
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+129755 - MÁQUINA FRAGMENTADORA                                                                               
+
+
+Bem:
+5296552
+Origem:
+Sispa Compra        
+Situação:
+Inservível     
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SECRETA
+Modelo:
+AT201 XCD 110V
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.925
+Data:
+21/11/2012
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+MICROSTART COMÉRCIO DE SUPRIMENTOS PARA INFORMÁTICA LTDA - E.P.P.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

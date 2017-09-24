@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.000846
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/01/1999 - Processo: 
+
+
+Responsável:
+2494339-1 Edivaldo Trautvein 
+
+
+Material:
+11541 - MAQUINAS DE CALCULAR                                                                                
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado reincor
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Travessa 16  S/N     (Clemente Portes)
+
+
+ 
+Bloco: DAACV  Andar:   - sala                           de trabalho          DAACV-DAACM-DACAA   
+
+
+Marca:
+ 
+Modelo:
+CS-4164
+Tipo:
+ELETRONICA
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SHARP S.A EQUIP.ELETRONICOS
+
+
+Identif:
+85005245
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.008518
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/08/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2474135-1 Wagner Roberto Freitas da Rocha 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+1520890
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2944181
+Data:
+07/05/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+chassi 9BWDC05X82T155580
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.024845
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+19/06/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+6738380-1 Leandro Sebastião da Silva 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+996920
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SSEG                 - Superintendência de Segurança
+
+
+Complemento:
+Placas CDV-0691 - (EMPENHO CORRETO PARA ESSA INCORPORAÇÃO É 1655183 DE 25.06.200
+
+
+ 
+1) 
+
+
+Marca:
+Volkswagen
+Modelo:
+Quantum 1.8
+Tipo:
+nº motor UDJ035508  / placa CDV-0691
+
+
+Doc.:
+nota fiscal
+Num.:
+192624
+Data:
+30/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Volkswagen do Brasil Ltda.
+
+
+Identif:
+9BWBCO3X41P025314
+
+
+Assinatura Digital:
+
+

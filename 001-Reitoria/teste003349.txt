@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003349
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/09/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2912449-1 Glaucia Alves dos Santos Toni 
+
+
+Material:
+25666 - MONITOR DE VÍDEO DE ALTA RESOLUÇÃO                                                                  
+
+
+Bem:
+565580
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CERT                 - Comissão Especial de Regime de Trabalho
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PHILIPS
+Modelo:
+105B
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001155
+Data:
+04/07/2000
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+INFOBRÁS Informática do Brasil Ltda.
+
+
+Identif:
+HC0000.18076162
+
+
+Assinatura Digital:
+
+

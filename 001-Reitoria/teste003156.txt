@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003156
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/07/2000 - Processo: 00.1.154.1.8
+
+
+Responsável:
+2747445-1 Luiz Antonio Teixeira 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+600946
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DF                   - Departamento de Finanças
+
+
+Complemento:
+Encontra-se no armario da Candida Luiza
+
+
+ 
+ 
+
+
+Marca:
+COMPAQ
+Modelo:
+PRESARIO 1200 - M4800BR
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+001150
+Data:
+11/07/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SINESIS SOLUÇÕES INTEGRADAS EM SISTEMAS LTDA
+
+
+Identif:
+F019DCHH1318
+
+
+Assinatura Digital:
+
+

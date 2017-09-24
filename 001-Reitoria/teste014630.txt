@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014630
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/02/2006 - Processo: 06.1.103.70.2
+
+
+Responsável:
+107072-1 Douglas Alexandre de Andrade Garcia 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3942880
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DSO-SESMT            - Departamento de Saúde Ocupacional- Sesmt
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+Celeron D. 2.4Ghz IN-A-BOX
+Tipo:
+DDR 256MB; HDD 80GB IDE 7200RPM
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+549 / 2005
+Data:
+20/12/2005
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+46689
+
+
+Assinatura Digital:
+
+

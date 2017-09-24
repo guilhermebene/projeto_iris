@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.025257
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/10/2012 - Processo: 12.5.346.84.6
+
+
+Responsável:
+3382020-1 Jose Augusto Tonha da Costa 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4824423
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DOV                  - Divisão de Operações e Vigilância
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+SWITCH 4210 26 - PORT
+Tipo:
+PREGÃO CTI 011/2009 - ADIT. 3ª. COMPRA
+
+
+Doc.:
+nota fiscal
+Num.:
+10607
+Data:
+28/07/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN00D361G9
+
+
+Assinatura Digital:
+
+

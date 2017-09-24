@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012938
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/01/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4518470
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Syntax
+Modelo:
+W2PRO
+Tipo:
+Celeron XP 2200+
+
+
+Doc.:
+nota fiscal
+Num.:
+9442
+Data:
+20/12/2004
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Ibracomp - Indústria e Comércio Ltda.
+
+
+Identif:
+038748
+
+
+Assinatura Digital:
+
+

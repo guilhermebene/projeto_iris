@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022675
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/04/2011 - Processo: 11.1.7811.1.5
+
+
+Responsável:
+2755271-1 Silvio Moraes Manzoni 
+
+
+Material:
+161594 - CONDICIONADOR DE AR                                                                                 
+
+
+Bem:
+
+Origem:
+Avaliação           
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVPUBL-01            - SV DE PUBLICAÇÃO
+
+
+Complemento:
+Modelo da condensadora: TTD536A100BG - Série da 2ª evaporadora: C101126045097281
+
+
+ 
+30007 
+
+
+Marca:
+TRANE
+Modelo:
+Evaps.: 2MCW0518E1000BA -2WMM0518E1000BA
+Tipo:
+BI-SPLIT- 36.000 BTUs
+
+
+Doc.:
+termo de avaliação
+Num.:
+05/2011
+Data:
+06/04/2011
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Evap.: 1052112141403120002-Cond.:3T0510-609646
+
+
+Assinatura Digital:
+
+

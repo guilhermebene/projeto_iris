@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022231
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+30/11/2010 - Processo: 10.5.501.70.0
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4936744
+Origem:
+Fabricação Própria  
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PROCESSADOR INTEL CORE 2 DUO
+Tipo:
+MEM. DDR 2 4 GB - HD 320 GB SERIAL ATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2241/2010
+Data:
+05/11/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

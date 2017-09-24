@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.008545
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+22/08/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2478550-1 Carlos Eduardo Virardi 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+1520822
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+PARATI 1.8 TOUR
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+312378
+Data:
+25/06/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWDC05X32T82654
+
+
+Assinatura Digital:
+
+

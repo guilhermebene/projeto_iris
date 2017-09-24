@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014319
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+04/10/2005 - Processo: 05.5.1003.70.8
+
+
+Responsável:
+2509028-1 Maria de Fatima Carvalho Rodrigues Ramos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3772764
+Origem:
+Fabricação Própria  
+Situação:
+Estornado      
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+Processador P4, 2,8-HT, 4 64 MB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+152/2005
+Data:
+06/04/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série CCE - 30017
+
+
+Assinatura Digital:
+
+

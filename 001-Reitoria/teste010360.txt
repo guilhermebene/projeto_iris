@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.010360
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/09/2003 - Processo: 03.1.231.1.5
+
+
+Responsável:
+2509971-1 Lilian Alvarenga 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+2367572
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAAT                 - Serviço de Administração de Transportes
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+SANTANA 2.0
+Tipo:
+PLACA CMW-1389
+
+
+Doc.:
+nota fiscal
+Num.:
+449915
+Data:
+14/06/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA.
+
+
+Identif:
+9BWAE03X43P018856
+
+
+Assinatura Digital:
+
+

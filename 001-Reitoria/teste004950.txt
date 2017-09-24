@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004950
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/06/2001 - Processo: 01.1.9432.1.1
+
+
+Responsável:
+1627011-1 Marcos Borba Leandro Ferreira Jardim 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1025511
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCAD-01              - SC DE SISTEMAS ADMINISTRATIVOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ACER
+Modelo:
+POWER SE
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+083075
+Data:
+06/06/2001
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ACER DO BRASIL LTDA.
+
+
+Identif:
+APSX17IPY01-121.191-76-AB
+
+
+Assinatura Digital:
+
+

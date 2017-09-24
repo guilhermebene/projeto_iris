@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003823
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+28/03/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+1494400-1 Peter Greiner Junior 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+892033
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DF                   - Departamento de Finanças
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SWITCH 3COM
+Modelo:
+3C16465B
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+002215
+Data:
+21/02/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROMAX  COMÉRCIO E SERVIÇOS EM INFORMÁTICA LTDA.
+
+
+Identif:
+0300/7MFF000616
+
+
+Assinatura Digital:
+
+

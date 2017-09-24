@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.003957
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/04/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2451863-1 Iara de Fatima Rodrigues 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+866300
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAMC-01              - SC DE COMPRAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEM
+Modelo:
+KOMBI STANDARD
+Tipo:
+AUTOMOVEL PERUA
+
+
+Doc.:
+nota fiscal
+Num.:
+123108
+Data:
+13/03/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

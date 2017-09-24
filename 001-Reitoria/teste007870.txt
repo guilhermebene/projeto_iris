@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.007870
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+17/06/2002 - Processo: 02.1.473.1.8
+
+
+Responsável:
+2491281-1 Maria Aparecida de Araujo 
+
+
+Material:
+25666 - MONITOR DE VÍDEO DE ALTA RESOLUÇÃO                                                                  
+
+
+Bem:
+1568566
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCPGTO-01            - SC PAGAMENTOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+PX572N
+Tipo:
+15"  .28
+
+
+Doc.:
+nota fiscal
+Num.:
+90508
+Data:
+04/06/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Positivo Informática Ltda.
+
+
+Identif:
+25009911
+
+
+Assinatura Digital:
+
+

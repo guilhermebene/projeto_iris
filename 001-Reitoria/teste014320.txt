@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.014320
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+05/10/2005 - Processo: 05.5.1003.70.8
+
+
+Responsável:
+2467933-1 Carlos Roberto Santyago 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3717828
+Origem:
+Fabricação Própria  
+Situação:
+Estornado      
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVCONTP-01           - SV CONTAGEM DE TEMPO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+Proc.Sempron 2200
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+3382005
+Data:
+02/06/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Série CCE 43175
+
+
+Assinatura Digital:
+
+

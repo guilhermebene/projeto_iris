@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.012885
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+14/01/2005 - Processo: 05.1.674.1.6
+
+
+Responsável:
+2142295-1 Luis Carlos Moreira Gomes 
+
+
+Material:
+148300 - RACK PARA EQUIPAMENTOS DE REDE                                                                      
+
+
+Bem:
+3163300
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CARTHOMS
+Modelo:
+Torre 40U
+Tipo:
+C/PAS.CAB.LAT+CALHA 4 TOM
+
+
+Doc.:
+nota fiscal
+Num.:
+130074
+Data:
+23/12/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Carmehil Comercial Elétrica Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

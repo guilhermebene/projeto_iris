@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021361
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+23/02/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+5017474-1 Luciana Rossetti Faccioli Calandreli 
+
+
+Material:
+6173 - CAMIONETA CABINE DUPLA                                                                              
+
+
+Bem:
+1520911
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+FORD
+Modelo:
+RANGER CD 3.0
+Tipo:
+Nº MOTOR D56282214
+
+
+Doc.:
+nota fiscal
+Num.:
+53555
+Data:
+14/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+FORD MOTOR COMPANY BRASIL LTDA.
+
+
+Identif:
+Nº CHASSI 8AFER13P8AJ271256
+
+
+Assinatura Digital:
+
+

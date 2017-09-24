@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.020160
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+02/12/2008 - Processo: 08.1.145.1.6
+
+
+Responsável:
+2611012-1 Waldemir Aparecido Olivieri 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+3951111
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEN
+Modelo:
+GOL
+Tipo:
+Nº MOTOR CCR 072532
+
+
+Doc.:
+nota fiscal
+Num.:
+66020
+Data:
+31/10/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL INDÚSTRIA DE VEÍCULOS AUTOMOTORES LTDA.
+
+
+Identif:
+Nº CHASSI 9BWAB05U19T152087
+
+
+Assinatura Digital:
+
+

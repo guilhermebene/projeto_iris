@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.022009
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+08/09/2010 - Processo: 10.5.390.70.3
+
+
+Responsável:
+2414801-1 Walter Jose Fernandes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4677226
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DPAS                 - Departamento de Assistência  à Saúde
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FABRICAÇÃO CCE
+Modelo:
+PROCESSADOR INTEL CORE 2 DUO
+Tipo:
+MEM. DDR2 2 GB KINGSTON - HD 320 GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2178/2010
+Data:
+12/08/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+107157
+
+
+Assinatura Digital:
+
+

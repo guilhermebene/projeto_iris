@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.010202
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/08/2003 - Processo: 03.1.8642.1.4
+
+
+Responsável:
+2409739-1 Gilmar de Godoi Ferreira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2562790
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DAACME               - Sc. Manutenção Elétrica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+PENTIUM 4
+Tipo:
+1.8 Ghs, 256 Mb
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+01/DI
+Data:
+05/08/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+030444098
+
+
+Assinatura Digital:
+
+

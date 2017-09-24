@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.017312
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/01/2007 - Processo: 07.1.517.1.0
+
+
+Responsável:
+2452648-1 Bento Ferreira Siqueira 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+1520881
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CODAGE               - Coordenadoria de Administração Geral
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Volkswagen
+Modelo:
+KOMBI
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+408325
+Data:
+27/12/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Volkswagen do Brasil Ltda - Indústria de Veículos Automotores
+
+
+Identif:
+Chassi 9BWGF07X47P007251
+
+
+Assinatura Digital:
+
+

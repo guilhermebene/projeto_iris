@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.034174
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+13/10/2015 - Processo: 15.1.1500.1.1
+
+
+Responsável:
+5097807-1 Alberto Teixeira Protti 
+
+
+Material:
+354341 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+7972784
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CODAGE               - Coordenadoria de Administração Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LENOVO
+Modelo:
+E32
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+5573
+Data:
+30/09/2015
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+COMPACTA COMÉRCIO E SERVIÇOS LTDA.
+
+
+Identif:
+PE017LPS
+
+
+Assinatura Digital:
+
+

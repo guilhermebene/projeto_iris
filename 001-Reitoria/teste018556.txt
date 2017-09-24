@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.018556
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+25/09/2007 - Processo: 07.5.629.70.2
+
+
+Responsável:
+2444997-1 Maria Cristina de Oliveira Costa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4276388
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+USPOFICINA-DRH       - Usp Oficina - DRH
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Fabricação CCE
+Modelo:
+
+Tipo:
+P4; 512Mb Ram; HD 80Gb SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1127/2007
+Data:
+06/08/2007
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+55206
+
+
+Assinatura Digital:
+
+

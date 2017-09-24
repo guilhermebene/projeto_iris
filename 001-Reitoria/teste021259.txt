@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021259
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/01/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+2466720-1 Wilson Pereira da Costa 
+
+
+Material:
+3786 - ÔNIBUS                                                                                              
+
+
+Bem:
+2718243
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Volkswagen
+Modelo:
+Caio Millenium
+Tipo:
+NºMotor: 9.612.11.15.255.9
+
+
+Doc.:
+nota fiscal
+Num.:
+0030211
+Data:
+23/11/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Induscar Indústria e Comércio de Carrocerias Ltda.
+
+
+Identif:
+NºChassi: NR9532B82Z0AR008296
+
+
+Assinatura Digital:
+
+

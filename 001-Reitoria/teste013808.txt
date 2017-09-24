@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.013808
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/07/2005 - Processo: 05.5.847.70.8
+
+
+Responsável:
+991174-1 João Maria Caldeira Pacheco 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3678474
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AT-PROJETOS          - Assistência Técnica Gerenciamento de Projetos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+Processador Pentium 4  2,8 - HT
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1902005
+Data:
+14/06/2005
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+43107
+
+
+Assinatura Digital:
+
+

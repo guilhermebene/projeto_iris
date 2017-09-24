@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.016163
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+07/08/2006 - Processo: 06.5.238.70.2
+
+
+Responsável:
+4798874-1 Bruno de Antonio Pelinzon 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3912540
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SG                   - Secretaria Geral
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST 4341
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+59674
+Data:
+05/05/2006
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+I960401503120
+
+
+Assinatura Digital:
+
+

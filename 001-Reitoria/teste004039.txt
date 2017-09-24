@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.004039
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+11/05/2001 - Processo: 01.1.118.1.2
+
+
+Responsável:
+2459493-1 Vilson Zanella 
+
+
+Material:
+6181 - CAMIONETA                                                                                           
+
+
+Bem:
+866245
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DA                   - Departamento Administrativo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GM
+Modelo:
+S-10 124AX1
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+214.079
+Data:
+13/03/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GENERAL MOTORS DO BRASIL LTDA
+
+
+Identif:
+9BG124AX01C412672
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023623
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+16/03/2012 - Processo: 12.1.606.1.8
+
+
+Responsável:
+2142295-2 Luis Carlos Moreira Gomes 
+
+
+Material:
+130443 - TERMINAL DE VIDEOCONFERÊNCIA                                                                        
+
+
+Bem:
+5162718
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DI                   - Departamento de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+POLYCOM
+Modelo:
+HDX 7000 - 1080
+Tipo:
+ 
+
+
+Doc.:
+nota fiscal
+Num.:
+3358
+Data:
+13/03/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+DIGITALNET BRASIL SISTEMAS DE COLABORAÇÃO LTDA
+
+
+Identif:
+8811451168B7CN
+
+
+Assinatura Digital:
+
+

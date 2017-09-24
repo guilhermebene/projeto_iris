@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.023027
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+27/07/2011 - Processo: 11.5.4.73.1
+
+
+Responsável:
+2461707-1 Luis Carlos da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4961099
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+STSAOC-SC            - Seção de Saúde Ocupacional de São Carlos
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+Proc CoreI5-760 2.8GHZ Box
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+12/2011
+Data:
+18/07/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Gabinete ATX nk770
+
+
+Assinatura Digital:
+
+

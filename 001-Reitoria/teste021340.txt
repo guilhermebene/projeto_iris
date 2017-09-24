@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+001.021340
+
+
+Unidade:
+1 - Reitoria da Universidade de São Paulo
+
+
+Incorporação:
+10/02/2010 - Processo: 10.1.310.1.0
+
+
+Responsável:
+4800142-1 Angelo Gabriel de Oliveira 
+
+
+Material:
+6173 - CAMIONETA CABINE DUPLA                                                                              
+
+
+Bem:
+1520911
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DAACT-01             - SC DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Ford
+Modelo:
+Ranger CD 3.0
+Tipo:
+NºMotor: D56282679
+
+
+Doc.:
+nota fiscal
+Num.:
+000053551
+Data:
+14/12/2009
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Ford Motor Company Brasil Ltda.
+
+
+Identif:
+NºChassi: 8AFER13P0AJ273034
+
+
+Assinatura Digital:
+
+
