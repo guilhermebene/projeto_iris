@@ -5,18 +5,31 @@ numeroInstituto = input("Insira o número do instituto\n")
 pastaInstituto = fc.procurarNomes(int(numeroInstituto))
 
 files = [f for f in os.listdir(pastaInstituto)]
-logResponsaveis = open("logResponsaveis.txt", "a+")
+logResponsaveis = open("logResponsaveis.txt", "a")
+logResponsaveis.close()
+logResponsaveis = open("logResponsaveis.txt", "r")
 
 #Adiciona o nome da pasta do instituto buscado
 if not fc.procurarRepeticao(logResponsaveis, pastaInstituto):
+  logResponsaveis.close()
+  logResponsaveis = open("logResponsaveis.txt", "a")
   logResponsaveis.write(pastaInstituto + "\n")
+
+logResponsaveis.close()
+logResponsaveis = open("logResponsaveis.txt", "r")
 
 for filename in files:
  name = pastaInstituto + "/" + filename
- dados = open(name, "r", encoding = "utf8")
+ dados = open(name, "r")
  responsavel = fc.procurarResponsavel(dados)
 
  if not fc.procurarRepeticao(logResponsaveis, responsavel):
-  logResponsaveis.write(responsavel + "\n")
+   logResponsaveis.close()
+   logResponsaveis = open("logResponsaveis.txt", "a")
+   logResponsaveis.write(responsavel + "\n")
+
+ logResponsaveis.close()
+ logResponsaveis = open("logResponsaveis.txt", "r")
+
  dados.close()
 logResponsaveis.close()
