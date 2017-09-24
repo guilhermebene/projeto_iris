@@ -5,6 +5,7 @@ numeroInstituto = input("Insira o número do instituto\n")
 pastaInstituto = fc.procurarNomes(int(numeroInstituto))
 
 files = [f for f in os.listdir(pastaInstituto)]
+files.sort()
 logResponsaveis = open("logResponsaveis.txt", "a")
 logResponsaveis.close()
 logResponsaveis = open("logResponsaveis.txt", "r")
