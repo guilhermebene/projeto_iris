@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.008279
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+31/08/2005 - Processo: 05.1.115.42.4
+
+
+Responsável:
+48730-1 Antonio Carlos Cassola 
+
+
+Material:
+53414 - UNIDADE DE FITA EXTERNA                                                                             
+
+
+Bem:
+3512770
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BMB                  - DEPTO. DE FISIOLOGIA E BIOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Sun Microsystems
+Modelo:
+Sun Storedge L 8
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000257
+Data:
+16/06/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sunset Informática Ltda
+
+
+Identif:
+0516F15532 , 0511F01632
+
+
+Assinatura Digital:
+
+

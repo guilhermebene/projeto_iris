@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000437
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+19/10/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+2677913-1 Gleise Martins Valente Policeno 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643742
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MIP-VIROL            - Laboratório de Virologia L52
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM
+Tipo:
+DI-512458
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45684M
+
+
+Assinatura Digital:
+
+

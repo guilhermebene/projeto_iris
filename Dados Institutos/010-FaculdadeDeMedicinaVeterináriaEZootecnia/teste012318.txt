@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.012318
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+06/03/2006 - Processo: 06.1.258.10.2
+
+
+Responsável:
+2094382-1 Fernando Ferreira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3960218
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+VPS                  - Veterinária Preventiva e Saúde Animal
+
+
+Complemento:
+Processo FAPESP nº 01/12929-7
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+XW6000 c/2 Processadores Xeon 3,06Ghz
+Tipo:
+memo 2Gb, 3 HD's 146Gb 10000RPM SCSI
+
+
+Doc.:
+termo de doação
+Num.:
+02179/2005
+Data:
+30/11/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

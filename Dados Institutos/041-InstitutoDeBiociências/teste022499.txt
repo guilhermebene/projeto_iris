@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022499
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+25/02/2011 - Processo: 03.1.209.69.9
+
+
+Responsável:
+293982-1 Adriana Hypolito Nogueira 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4135962
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIBL                 - Biblioteca
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ IBM
+Modelo:
+x3400pn7976
+Tipo:
+Servidor rede
+
+
+Doc.:
+nota fiscal
+Num.:
+000692
+Data:
+01/02/2008
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+82AB3P3
+
+
+Assinatura Digital:
+
+

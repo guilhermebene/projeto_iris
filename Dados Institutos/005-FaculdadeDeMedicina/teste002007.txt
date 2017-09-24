@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.002007
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+14/09/2001 - Processo: 01.1.811.5.2
+
+
+Responsável:
+89970-1 Vera Anna Hofmeister 
+
+
+Material:
+105309 - SENSOR DE TEMPERATURA                                                                               
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MPT                  - Departamento de Patologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+QUESTTEMP
+Modelo:
+
+Tipo:
+AMBIENTAL
+
+
+Doc.:
+instrumento de convênio
+Num.:
+1410/01
+Data:
+12/07/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+KL4080015
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.005516
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+01/09/2008 - Processo: 08.1.1248.16.1
+
+
+Responsável:
+2812170-1 Eliane Aparecida Pontes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4701135
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LPG                  - LABORATÓRIO DE PROGRAMAÇÃO GRÁFICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PONTO CENTRAL
+Modelo:
+INTEL CORE DUO
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM - PC
+
+
+Doc.:
+nota fiscal
+Num.:
+6339
+Data:
+26/08/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PONTO CENTRAL - INFORMATICA LTDA
+
+
+Identif:
+TORRE PADRÃO ATX - PRETO
+
+
+Assinatura Digital:
+
+

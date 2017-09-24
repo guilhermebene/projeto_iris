@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.002033
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+03/10/2001 - Processo: 01.1.8.5.5
+
+
+Responsável:
+2510340-1 David Benedito do Rosario 
+
+
+Material:
+87408 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+992313
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-ALPATR         - Almoxarifado e Patrimônio
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Seal/Symbol
+Modelo:
+SPT-1700
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+61667
+Data:
+27/09/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Seal Eletronica Ltda
+
+
+Identif:
+z1718150
+
+
+Assinatura Digital:
+
+

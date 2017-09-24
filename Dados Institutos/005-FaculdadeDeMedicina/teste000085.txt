@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000085
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+11/05/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+2463290-1 Alex Hosokawa Griman 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+59897
+Origem:
+Sispa Compra        
+Situação:
+Disponível     
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DTAPEP               - Biotério
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+STAR WINFOR
+Modelo:
+266MHZ
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+681
+Data:
+20/08/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SET STAR INFORMATICA LTDA ME
+
+
+Identif:
+008206266
+
+
+Assinatura Digital:
+
+

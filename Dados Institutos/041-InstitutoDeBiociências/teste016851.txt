@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.016851
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+07/02/2007 - Processo: 07.1.38.41.3
+
+
+Responsável:
+94868-1 Ricardo Pinto da Rocha 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4221982
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Excel
+Modelo:
+Celeron D2.80 HD 80Gb IDE-7200
+Tipo:
+512MB DDR/400 Torre ATX DVD-RW
+
+
+Doc.:
+nota fiscal
+Num.:
+ 8304 Excelbyt
+Data:
+06/02/2007
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Excelbyt Comércio e Serviços de Informática Ltda
+
+
+Identif:
+NF8304 060207 Projeto I Rocha RP
+
+
+Assinatura Digital:
+
+

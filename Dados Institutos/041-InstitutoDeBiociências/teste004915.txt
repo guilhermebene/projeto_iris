@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.004915
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+02/12/2004 - Processo: 04.1.1427.41.0
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+21091 - DISCO RÍGIDO EXTERNO                                                                                
+
+
+Bem:
+3311392
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+ Proc 04.1.4999.1.6 Andrioli LPM
+
+
+ 
+ 
+
+
+Marca:
+ Iomega REV
+Modelo:
+ REV-USB
+Tipo:
+ 35/90 GB Ext 31035400
+
+
+Doc.:
+nota fiscal
+Num.:
+ 919 Bagnara & Lopes
+Data:
+02/12/2004
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Bagnara & Lopes Comércio e Assistência Técnica e Locação Ltda-ME
+
+
+Identif:
+ 3FFE1 5Ø2AL
+
+
+Assinatura Digital:
+
+

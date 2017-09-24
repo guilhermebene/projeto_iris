@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000870
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+03/11/1999 - Processo: 97.1.70.41.4
+
+
+Responsável:
+90993-1 Sergio Russo Matioli 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642932
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   processador - cpu        cafi28.02.03 up grade
+
+
+ 
+ 
+
+
+Marca:
+ Ashford
+Modelo:
+ DTK 486
+Tipo:
+ Pentium DI-506.816
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+ 959 53 02
+
+
+Assinatura Digital:
+
+

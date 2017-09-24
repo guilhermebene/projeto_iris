@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.029141
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/01/2017 - Processo: 17.5.61.1.3
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095655
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-205-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4930
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CM0552422
+
+
+Assinatura Digital:
+
+

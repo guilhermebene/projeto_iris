@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000087
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+11/05/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+21247-1 Vanda Akico Ueda 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+59927
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+IMT                  - Instituto de Medicina Tropical
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+STAR WINFOR
+Modelo:
+233
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+681
+Data:
+20/08/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SET STAR INFORMATICA LTDA ME
+
+
+Identif:
+043105233
+
+
+Assinatura Digital:
+
+

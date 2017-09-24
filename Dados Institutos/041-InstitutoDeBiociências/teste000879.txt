@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000879
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+04/11/1999 - Processo: 96.1.639.41.6
+
+
+Responsável:
+15448-1 Francisco Jeronymo Salles Lara 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ SIIC Computer
+Modelo:
+ Pentium
+Tipo:
+ 100Mhz
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007214
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+04/03/2011 - Processo: 03.1.178.69.6
+
+
+Responsável:
+634946-1 Dina Elisabete Uliana 
+
+
+Material:
+87408 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+4765710
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVBIBL               - (Serviço Técnico de Biblioteca)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CIPHERLAB
+Modelo:
+CPT 8001L
+Tipo:
+COLETOR DE DADOS
+
+
+Doc.:
+nota fiscal
+Num.:
+000.034.993
+Data:
+25/02/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NS: 0000699
+
+
+Assinatura Digital:
+
+

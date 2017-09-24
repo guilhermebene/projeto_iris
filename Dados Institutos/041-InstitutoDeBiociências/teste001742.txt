@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001742
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+03/07/2001 - Processo: 01.1.13364.1.7
+
+
+Responsável:
+2443342-1 Jose Maria da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+963844
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SERV GERAIS          - Seção de Serviços Gerais
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Acer Power SX
+Modelo:
+ SX 000 SMT 7109
+Tipo:
+ Pentium lll 700Mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+   081001
+Data:
+30/04/2001
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 6971 AB
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000084
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+12/04/1999 - Processo: 97.5.121.1.6
+
+
+Responsável:
+2115190-1 Celso Dias Pereira 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+51349
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PÓS-GRADUAÇÃO        - SEÇÃO DE PÓS-GRADUAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Ritron
+Modelo:
+486
+Tipo:
+dx2
+
+
+Doc.:
+declaração de importação
+Num.:
+511944
+Data:
+05/07/1995
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Richland Equipment Company
+
+
+Identif:
+Série 1903378
+
+
+Assinatura Digital:
+
+

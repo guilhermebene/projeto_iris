@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000805
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+19/10/1999 - Processo: 97.1.49.41.5
+
+
+Responsável:
+26318-1 Pedro Henrique Saldanha 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ IBM Aptiva
+Modelo:
+ 486 SX2 330M
+Tipo:
+ 50Mhz
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 82 AM9 NF2 144
+
+
+Assinatura Digital:
+
+

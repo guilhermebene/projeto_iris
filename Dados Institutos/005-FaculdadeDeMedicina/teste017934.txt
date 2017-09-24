@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.017934
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+04/04/2013 - Processo: 13.1.141.5.9
+
+
+Responsável:
+2091285-1 Linamara Rizzo Battistella 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+5364582
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MLS                  - Departamento de Medicina Legal
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+powerEdge R420
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+736
+Data:
+27/03/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Titan Solutions Equipamentos de Informatica Ltda Me
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

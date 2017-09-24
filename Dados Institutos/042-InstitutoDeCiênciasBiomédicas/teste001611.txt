@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001611
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+22/08/2000 - Processo: 99.1.693.42.1
+
+
+Responsável:
+49512-1 Lisete Compagno Michelini 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642835
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMB                  - DEPTO. DE FISIOLOGIA E BIOFÍSICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TRITON II
+Modelo:
+PENTIUM
+Tipo:
+166MHZ - 1.44 MB
+
+
+Doc.:
+termo de doação
+Num.:
+335/99
+Data:
+05/04/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

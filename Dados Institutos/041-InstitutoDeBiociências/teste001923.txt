@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001923
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+23/10/2001 - Processo: 01.1.814.41.8
+
+
+Responsável:
+42755-1 Gilberto Barbante Kerbauy 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3568032
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - Diretoria
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ INUTILIZAR EQUIPTO
+Modelo:
+`A SER BAIXADO
+Tipo:
+AGUARDAR SOLICIT DO RESP
+
+
+Doc.:
+nota fiscal
+Num.:
+AGUARDA SOLICIT BAIXA 16.08.05
+Data:
+19/10/2001
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Valsystem Comercial Informática Ltda
+
+
+Identif:
+EQUIPTO EQUIV NOVO 7996
+
+
+Assinatura Digital:
+
+

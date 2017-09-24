@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.006989
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+10/06/2005 - Processo: 05.1.574.70.4
+
+
+Responsável:
+47893-1 Maria Luiza Faria Salatino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3603954
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+C.DID                - Centro Didático
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ CCE DvEMIC CHT 87366
+Modelo:
+ P4 HD 80Gb 256DDR
+Tipo:
+ Athlon XP3000 Gab ATX
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+ 42/2005 CCE DvEMIC
+Data:
+28/03/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 41025 Sala Multimídia
+
+
+Assinatura Digital:
+
+

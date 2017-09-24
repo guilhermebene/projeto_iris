@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.016485
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+05/07/2012 - Processo: 12.1.153.5.6
+
+
+Responsável:
+185334-1 Chao Lung Wen 
+
+
+Material:
+179132 - WIRELESS PRESENTATION GATEWAY                                                                       
+
+
+Bem:
+5281300
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+TMTS                 - Telemedicina e Telesaúde
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+WGP-200N 802.11N
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2257
+Data:
+25/06/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Adenet Informatica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

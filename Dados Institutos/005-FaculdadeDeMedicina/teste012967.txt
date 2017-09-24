@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.012967
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+01/10/2010 - Processo: 10.5.224.84.6
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4821661
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+4210 PWR 26
+Tipo:
+PREGÃO CTI 011/2009
+
+
+Doc.:
+nota fiscal
+Num.:
+5300
+Data:
+20/07/2010
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

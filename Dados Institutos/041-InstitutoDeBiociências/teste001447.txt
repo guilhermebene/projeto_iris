@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001447
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/11/2000 - Processo: 00.1.648.41.0
+
+
+Responsável:
+2564302-1 Lygia da Veiga Pereira Carramaschi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642932
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Upson
+Modelo:
+ AMD Athlon
+Tipo:
+ 700Mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+ 1233
+Data:
+21/11/2000
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Sinesis Soluções Integradas em Sistemas Ltda
+
+
+Identif:
+ personal K7 64Mb
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001026
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+19/05/2000 - Processo: 00.1.3.5.2
+
+
+Responsável:
+7920110-1 José Jair Spadacini 
+
+
+Material:
+57347 - DISJUNTOR DE ALTA TENSÃO                                                                            
+
+
+Bem:
+506362
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-MAN            - Manutenção
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BEGHIM
+Modelo:
+PALC-15-350
+Tipo:
+15C
+
+
+Doc.:
+nota fiscal
+Num.:
+26378
+Data:
+15/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+BEGHIM INDUSTRIA E COMERCIO S/A
+
+
+Identif:
+6950
+
+
+Assinatura Digital:
+
+

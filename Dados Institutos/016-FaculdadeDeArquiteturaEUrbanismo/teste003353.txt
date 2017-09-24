@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.003353
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+03/10/2005 - Processo: 05.1.482.16.8
+
+
+Responsável:
+279742-1 Domingos Luiz Bargmann Netto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3008924
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+VÍDEO                - LABORATÓRIO DE RECURSOS AUDIO-VISUAIS-VÍDEO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MULTI
+Modelo:
+INTEL PENTIUM IV 3.2GHZ
+Tipo:
+MICROCOMPUTADOR COMPATIVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+466
+Data:
+21/09/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MULTI INFORMATICA COMERCIAL LTDA.
+
+
+Identif:
+ATX
+
+
+Assinatura Digital:
+
+

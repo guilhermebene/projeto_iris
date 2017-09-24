@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.015776
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+11/11/2009 - Processo: 09.1.1109.42.1
+
+
+Responsável:
+2754203-1 Maria Aparecida dos Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4869222
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PESSOAL              - SERVIÇO DE PESSOAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ibm
+Modelo:
+microcomputador
+Tipo:
+e7300
+
+
+Doc.:
+nota fiscal
+Num.:
+6791
+Data:
+28/10/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+maxcon
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

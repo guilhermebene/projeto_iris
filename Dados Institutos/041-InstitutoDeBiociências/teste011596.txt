@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.011596
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+11/04/2006 - Processo: 02.1.1629.41.0
+
+
+Responsável:
+80696-1 Mayana Zatz 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Upson Servidor CP 200-2U
+Modelo:
+Opteron 1240 1.4Ghz AMD NF6707
+Tipo:
+02HDD 1024DDR HD18Gb
+
+
+Doc.:
+termo de doação
+Num.:
+TD 000459/2006 NF 6707
+Data:
+28/03/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+TD00459/2006 Fapesp 98/14254-2
+
+
+Assinatura Digital:
+
+

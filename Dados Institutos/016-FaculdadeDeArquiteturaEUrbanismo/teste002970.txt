@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.002970
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+07/04/2005 - Processo: 05.1.331.16.0
+
+
+Responsável:
+4823990-1 Robson Alves de Amorim 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVPOSGR              - SERVIÇO DE PÓS-GRADUAÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+3C16440
+Tipo:
+HUB SUPER STAC II
+
+
+Doc.:
+termo de doação
+Num.:
+OF.504/04
+Data:
+03/12/2004
+
+
+Garantia:
+0 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIAL 7TSV0CDA39
+
+
+Assinatura Digital:
+
+

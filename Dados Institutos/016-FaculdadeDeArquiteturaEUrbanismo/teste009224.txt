@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.009224
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+01/04/2014 - Processo: 14.1.219.16.4
+
+
+Responsável:
+6327882-1 Angela Maria Diniz Aguiar 
+
+
+Material:
+48151 - IMPRESSORA ETIQUETAS DE CÓDIGO DE BARRAS                                                            
+
+
+Bem:
+5524148
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVMAT                - (Serviço de Material)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ZEBRA
+Modelo:
+ZT230
+Tipo:
+IMPRESSORA ETIQUETAS CODIGO DE BARRAS
+
+
+Doc.:
+nota fiscal
+Num.:
+1625
+Data:
+31/03/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PLENA COMERCIAL DE INFORMATICA LTDA
+
+
+Identif:
+NS:52J124100961
+
+
+Assinatura Digital:
+
+

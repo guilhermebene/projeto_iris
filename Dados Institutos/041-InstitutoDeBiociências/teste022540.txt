@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022540
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/03/2011 - Processo: 11.5.96.70.9
+
+
+Responsável:
+1303816-1 Maria Cristina Arias 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+UP GRAD 41017235
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC/CCE
+Modelo:
+HDD 500GB SATA
+Tipo:
+MEM DDR3 2GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2345/2011
+Data:
+24/02/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+109915
+
+
+Assinatura Digital:
+
+

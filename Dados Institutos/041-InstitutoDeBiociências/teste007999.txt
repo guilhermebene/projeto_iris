@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.007999
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/08/2005 - Processo: 05.5.841.70.0
+
+
+Responsável:
+81996-1 Fabio Lang da Silveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3713512
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ CCE DvEMIC CHT 90132
+Modelo:
+ Sempron 2200+ 256Mb DDR
+Tipo:
+ Gab ATX P4 Fábio Lang Zool
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+ 161/2005 CCE DvEMIC CHT 90132
+Data:
+26/04/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ Ø2Ø723788 CCE 41Ø27
+
+
+Assinatura Digital:
+
+

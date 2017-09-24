@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.016147
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+28/11/2006 - Processo: 06.1.1204.41.3
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4207211
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Cisco Systems
+Modelo:
+WS C2950 24 PR
+Tipo:
+24Portas Fast Ethernet
+
+
+Doc.:
+nota fiscal
+Num.:
+ 212 M4
+Data:
+23/11/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ M4 Sistemas de Computação Ltda EPP
+
+
+Identif:
+FØC1Ø42W14D ( B ) NF 212
+
+
+Assinatura Digital:
+
+

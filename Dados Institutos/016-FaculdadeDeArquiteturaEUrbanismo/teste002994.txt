@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.002994
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+25/04/2005 - Processo: 05.1.319.16.0
+
+
+Responsável:
+2346100-1 Ronaldo Neves Motta 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3008924
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+NAP-PLAC             - (NAP Produção e Linguagem do Ambiente Construído)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ASUS
+Modelo:
+MB PS 800
+Tipo:
+MICROCOMPUTADOR COMPATIVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+001810
+Data:
+12/04/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Vincent do Brasil Eletro Eletronica Ltda
+
+
+Identif:
+P4/256MB/80GB
+
+
+Assinatura Digital:
+
+

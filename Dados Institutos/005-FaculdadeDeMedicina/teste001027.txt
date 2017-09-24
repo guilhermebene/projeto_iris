@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001027
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+19/05/2000 - Processo: 00.1.3.5.2
+
+
+Responsável:
+74319-1 Giovanni Guido Cerri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+482722
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MDR                  - Departamento de Radiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ACER
+Modelo:
+acer altos 1100E
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+55670
+Data:
+17/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+acer do brasil ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

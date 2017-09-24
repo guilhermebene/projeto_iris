@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.020100
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+01/11/2013 - Processo: 13.5.160.84.0
+
+
+Responsável:
+2057178-1 Wu Tu Hsing 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4893441
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+JG299A-HP 3600-24 V2 EI SWITCH
+Tipo:
+RP 012/2012 - DC 00394869/2012
+
+
+Doc.:
+nota fiscal
+Num.:
+1135
+Data:
+14/08/2013
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN2BFG2074
+
+
+Assinatura Digital:
+
+

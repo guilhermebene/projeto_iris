@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001633
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+23/04/2001 - Processo: 99.1.448.41.9
+
+
+Responsável:
+24827-1 Joao Stenghel Morgante 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642916
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIBL                 - Biblioteca
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ NCR
+Modelo:
+ Pentium
+Tipo:
+ Intel Inside
+
+
+Doc.:
+termo de doação
+Num.:
+  TD 1231 / 99
+Data:
+10/08/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 17202
+
+
+Assinatura Digital:
+
+

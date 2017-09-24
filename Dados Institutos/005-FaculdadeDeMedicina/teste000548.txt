@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000548
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+19/11/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+7224399-1 Matheus Aporta de Araujo 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+222267
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAC-SEC            - Secretaria da ATAAc
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+compuadd
+Modelo:
+ADD
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2152
+Data:
+18/11/1999
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+compuadd computadores ltda
+
+
+Identif:
+06080
+
+
+Assinatura Digital:
+
+

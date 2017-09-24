@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.005230
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+21/02/2005 - Processo: 04.1.1486.41.7
+
+
+Responsável:
+2471302-1 Norberto Palacios 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3338428
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Micromax
+Modelo:
+ Pentium IV Intel 2.4Ghz  Gold 7240
+Tipo:
+ 40Gb 256MB RAM DDR Torre ATX
+
+
+Doc.:
+nota fiscal
+Num.:
+ 4610 Micromax
+Data:
+27/01/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+ Norberto 2471302 Secret Botânica
+
+
+Assinatura Digital:
+
+

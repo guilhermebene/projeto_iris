@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.010633
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+22/10/2009 - Processo: 09.1.193.5.4
+
+
+Responsável:
+2274921-1 Edmund Chada Baracat 
+
+
+Material:
+125792 - UNIDADE DE CONTROLE E OPERAÇÃO                                                                      
+
+
+Bem:
+4718488
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAC-LAB.HAB.       - Laboratório de Habilidades
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LaerdalPart.number -21009001
+Modelo:
+Kitde sistema de controlee operação
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+09/1388414-0
+Data:
+09/10/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Laerdal Medical Corporation
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

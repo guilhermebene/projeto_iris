@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001466
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+13/07/2000 - Processo: 98.1.708.42.8
+
+
+Responsável:
+2088812-1 Benedito Correa 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+155330
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AMD K 6
+Modelo:
+Pentium 233mhz
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+000303
+Data:
+17/11/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Net Comp Informática Ltda -Me
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

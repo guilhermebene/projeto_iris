@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.015027
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+27/11/2008 - Processo: 08.1.2260.10.6
+
+
+Responsável:
+2048911-1 Ricardo Augusto Dias 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+VPS                  - Veterinária Preventiva e Saúde Animal
+
+
+Complemento:
+Processo FAPESP nº 06/04250-8
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+Core 2 Duo 2.66Ghz, c/2 mem. 1Gb DDR
+Tipo:
+plc.mãe Intel D975XBX2R, 2 HD 250Gb Sata
+
+
+Doc.:
+termo de doação
+Num.:
+02400/2008
+Data:
+17/09/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+de série: QC9064807518
+
+
+Assinatura Digital:
+
+

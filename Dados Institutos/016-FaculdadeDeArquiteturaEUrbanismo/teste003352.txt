@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.003352
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+03/10/2005 - Processo: 05.1.482.16.8
+
+
+Responsável:
+5160648-1 Leo Chahad André 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3008924
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCESTAG              - (Seção de Estágios)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MULTI
+Modelo:
+INTEL  PENTIUM 3.2 GHZ
+Tipo:
+MICROCOMPUTADOR COMPATIVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+000466
+Data:
+21/09/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MULTI INFORMATICA COMERCIAL LTDA
+
+
+Identif:
+ATX
+
+
+Assinatura Digital:
+
+

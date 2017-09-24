@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.016972
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/03/2007 - Processo: 07.5.142.70.6
+
+
+Responsável:
+3365476-1 Milton Ciriaco Brasileiro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4353633
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+C.DID                - Centro Didático
+
+
+Complemento:
+ REF CHT 15883 gab1334
+
+
+ 
+ 
+
+
+Marca:
+CCE DvEMIC CHT 15883
+Modelo:
+P4 HD 80Gb 256DDR
+Tipo:
+Pentium LGA 775 Gab ATX
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+ NFp 909/2007 CHT 15883
+Data:
+26/02/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+52140 Brasileiro MC
+
+
+Assinatura Digital:
+
+

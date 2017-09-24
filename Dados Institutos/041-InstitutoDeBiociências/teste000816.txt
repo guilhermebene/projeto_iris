@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000816
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+19/10/1999 - Processo: 
+
+
+Responsável:
+2564319-1 Jose Carlos Motta Junior 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+    cpu   cafi
+
+
+ 
+ 
+
+
+Marca:
+NET
+Modelo:
+PENTIUM/PCAT
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+01A07970302263
+
+
+Assinatura Digital:
+
+

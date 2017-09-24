@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.022921
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+17/07/2013 - Processo: 13.1.555.42.2
+
+
+Responsável:
+255360-1 Emer Suavinho Ferro 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4766229
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMC                  - DEPTO. DE BIOLOGIA CELULAR E DESENVOLVIMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM
+Modelo:
+7382 EBU X3300 M4 XEON E5-2420 HC 1.9GHZ
+Tipo:
+C/ WINDOWS SERVER STD 2012 X64
+
+
+Doc.:
+nota fiscal
+Num.:
+199
+Data:
+05/06/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Sil Maq Informática Ltda ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

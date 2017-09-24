@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.002856
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+16/10/2001 - Processo: 01.1.943.42.0
+
+
+Responsável:
+86153-1 Newton Sabino Canteras 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1134132
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMA                  - DEPTO. DE  ANATOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Metron
+Modelo:
+Pentium III  , MMPIII
+Tipo:
+Mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+000751
+Data:
+13/10/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Net Comp Informática Ltda
+
+
+Identif:
+Microcomputador
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.005185
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+19/11/2002 - Processo: 02.1.1205.42.4
+
+
+Responsável:
+2089751-1 Jorge Timenetsky 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1918800
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Micromax
+Modelo:
+AMD ATHLON XP 1600
+Tipo:
+Mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+003.260
+Data:
+18/11/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+072512/482216
+
+
+Assinatura Digital:
+
+

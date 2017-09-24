@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.005513
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+29/08/2008 - Processo: 08.1.1264.16.7
+
+
+Responsável:
+82785-1 Carlos Augusto Mattei Faggin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4701135
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LAB ARQ              - (Laboratório de Informatização de Acervo)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PONTO CENTRAL
+Modelo:
+INTEL CORE 2 QUAD Q6600
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+6338
+Data:
+26/08/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PONTO CENTRAL - INFORMATICA LTDA
+
+
+Identif:
+TORRE ATX - PRETO
+
+
+Assinatura Digital:
+
+

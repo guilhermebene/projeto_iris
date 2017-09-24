@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.018159
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+17/12/2007 - Processo: 07.1.1336.41.8
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+121932 - CHAVE SELETORA DE MONITOR/MOUSE/TECLADO                                                             
+
+
+Bem:
+1593730
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Planet
+Modelo:
+KVM16portas PS/2
+Tipo:
+adaptador de tensão externo AC 12V DC 1A
+
+
+Doc.:
+nota fiscal
+Num.:
+1778
+Data:
+14/12/2007
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+Queller Informática & Comércio Ltda Me
+
+
+Identif:
+VGA HDDB 15 PINOS
+
+
+Assinatura Digital:
+
+

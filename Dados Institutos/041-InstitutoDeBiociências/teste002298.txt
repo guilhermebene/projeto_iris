@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002298
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+08/05/2002 - Processo: 01.1.26.41.0
+
+
+Responsável:
+24765-1 Eurico Cabral de Oliveira Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ M TEK
+Modelo:
+ PII 233Mhz MMX
+Tipo:
+ 120Mb Ram HD 4.0Gb
+
+
+Doc.:
+termo de doação
+Num.:
+ TD 01341/00 Fapesp 97/05085-0
+Data:
+26/07/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ E Cabral OF Fapesp 97/05085-0
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.020471
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+27/11/2013 - Processo: 13.1.141.5.9
+
+
+Responsável:
+2731819-1 Jose Eduardo Krieger 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5483948
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCM-CONFOCAL         - Nucleo de Microscopia Confocal
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Versatus
+Modelo:
+Ars Alio Ws
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+48
+Data:
+26/11/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Versatus - Soluçôes e Suporte em redes e Computação de Alta Performace Ltda Me
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

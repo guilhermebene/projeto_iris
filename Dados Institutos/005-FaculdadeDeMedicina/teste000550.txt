@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000550
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+19/11/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+1608980-1 Marcia Elisa da Silva 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+222267
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAC                - Assistência Técnica Acadêmica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+compuadd
+Modelo:
+ADD
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2152
+Data:
+18/11/1999
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+COMPUADD COMPUTADORES LTDA
+
+
+Identif:
+6082
+
+
+Assinatura Digital:
+
+

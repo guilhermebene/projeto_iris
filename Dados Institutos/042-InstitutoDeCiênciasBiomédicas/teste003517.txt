@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.003517
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+10/05/2002 - Processo: 02.1.121.42.1
+
+
+Responsável:
+2787603-1 Cesar de Paula Souza 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1394223
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SIAD                 - SERVIÇO  DE  INFORMÁTICA E ANÁLISE DE DADOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Sinex
+Modelo:
+Pentium III , S442X
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+001563
+Data:
+11/04/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Sinesis Soluções Integradas em Sistemas Ltda
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

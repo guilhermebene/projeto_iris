@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.023255
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+05/09/2013 - Processo: 13.5.514.70.7
+
+
+Responsável:
+52284-1 Marta Maria Geraldes Teixeira 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMP                  - DEPTO. DE PARASITOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FAB PROPRIA CCE
+Modelo:
+C/ INTEL CORE I5 2400, GRAV. DE DVD SATA
+Tipo:
+C/ MEM RAM 4GB E HD 1TB SATA
+
+
+Doc.:
+nota fiscal
+Num.:
+3171
+Data:
+26/08/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+126.657
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000757
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/10/1999 - Processo: 
+
+
+Responsável:
+90892-1 Marisa Dantas Bitencourt 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+   processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ Pentium
+Modelo:
+ DX4
+Tipo:
+100Mhz
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+14 310 724 466
+
+
+Assinatura Digital:
+
+

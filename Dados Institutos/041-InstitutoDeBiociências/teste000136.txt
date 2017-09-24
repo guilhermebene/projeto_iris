@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000136
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/11/1998 - Processo: 98.1.671.41.9
+
+
+Responsável:
+49561-1 Alberto Augusto Gonçalves de Freitas Castro Ribeiro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642924
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MICROSCOPIA          - microscopia eletronica
+
+
+Complemento:
+    processador - cpu       cafi
+
+
+ 
+ 
+
+
+Marca:
+ Metron
+Modelo:
+ 300 MHz
+Tipo:
+ Intel Pentium ll
+
+
+Doc.:
+nota fiscal
+Num.:
+ 1472
+Data:
+25/11/1998
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ Computrade Informática do Brasil Ltda
+
+
+Identif:
+ 855 505
+
+
+Assinatura Digital:
+
+

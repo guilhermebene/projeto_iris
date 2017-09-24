@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.021294
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+19/05/2010 - Processo: 10.5.246.70.0
+
+
+Responsável:
+92293-1 Astrid de Matos Peixoto Kleinert 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+cht 122976 up grade 108527
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+proc.intel core 2 duo
+Tipo:
+hd 320 gb sata
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2122/2010
+Data:
+11/05/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série 108527
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000736
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+18/10/1999 - Processo: 93.5.1376.1.4
+
+
+Responsável:
+92309-1 Carlos Eduardo Winter 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642789
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMP                  - DEPTO. DE PARASITOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ASA COMPUTER
+Modelo:
+386-SX-25 MHZ
+Tipo:
+Pentium IV
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+CDB COMPUTADORES S/A  TRANSF.DA RUSP     EMP.
+
+
+Identif:
+4102741
+
+
+Assinatura Digital:
+
+

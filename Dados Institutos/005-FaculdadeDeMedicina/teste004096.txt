@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.004096
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+11/11/2003 - Processo: 03.1.40.5.8
+
+
+Responsável:
+77924-1 Eduardo Massad 
+
+
+Material:
+450 - MONITORES DE VÍDEO                                                                                  
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MPT-DIM              - Disciplina de Informática Médica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+IBM
+Modelo:
+8513
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+063663
+
+
+Assinatura Digital:
+
+

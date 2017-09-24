@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.019639
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+21/07/2011 - Processo: 08.1.449.42.2
+
+
+Responsável:
+3576422-1 Edson Goncalves de Araujo 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+3924513
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+sun microsystems
+Modelo:
+sun fire x 2100 m2
+Tipo:
+servidor de rede
+
+
+Doc.:
+nota fiscal
+Num.:
+551
+Data:
+22/09/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+sunset
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

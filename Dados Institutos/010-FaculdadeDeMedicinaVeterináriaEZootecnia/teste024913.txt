@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.024913
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+17/01/2017 - Processo: 17.5.44.1.1
+
+
+Responsável:
+2353151-1 Alexandre Merlos Ruiz 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095701
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFORMATICA        - SEÇÃO DE INFORMATICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-215-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4936
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CNC4HMQ4X4
+
+
+Assinatura Digital:
+
+

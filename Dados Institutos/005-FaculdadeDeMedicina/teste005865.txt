@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.005865
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+31/08/2006 - Processo: 06.5.859.1.4
+
+
+Responsável:
+2436900-1 Roberto Chagas dos Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1126725
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-SEG            - Segurança Patrimonial
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+POS-AT 850J-P
+Tipo:
+CPU
+
+
+Doc.:
+nota fiscal
+Num.:
+81936/37/38/44/50
+Data:
+17/01/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+118534
+
+
+Assinatura Digital:
+
+

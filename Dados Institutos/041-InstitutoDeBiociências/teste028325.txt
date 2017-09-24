@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.028325
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/01/2015 - Processo: 14.1.664.41.9
+
+
+Responsável:
+2783731-1 Miguel Trefaut Urbano Rodrigues 
+
+
+Material:
+160016 - SISTEMA DE AQUISIÇÃO DE DADOS                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+novus
+Modelo:
+logbox-aa ip 65
+Tipo:
+data logger
+
+
+Doc.:
+termo de doação
+Num.:
+td 2098/2014
+Data:
+30/07/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007677
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+07/11/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+2779674-1 Maria Cecilia França Lourenço 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5043530
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+AUH                  - (Dep. de História da Arq. e Estética do Projeto)
+
+
+Complemento:
+SALA=03
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990MT
+Tipo:
+MICRCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+186
+Data:
+30/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL LTDA
+
+
+Identif:
+NS: 19430734573
+
+
+Assinatura Digital:
+
+

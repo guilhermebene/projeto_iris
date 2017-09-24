@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022537
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/03/2011 - Processo: 11.5.96.70.9
+
+
+Responsável:
+514222-1 Eduardo Gorab 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+up grade 41002517
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC/CCE
+Modelo:
+HDD 500GB SATA
+Tipo:
+MEM DDR3 2GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2342
+Data:
+24/02/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+109908
+
+
+Assinatura Digital:
+
+

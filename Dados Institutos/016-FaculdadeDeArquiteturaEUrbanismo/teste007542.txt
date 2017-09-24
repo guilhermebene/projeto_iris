@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007542
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+27/09/2011 - Processo: 11.1.2174.16.5
+
+
+Responsável:
+2424302-1 Edgar Spilla 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5188520
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CESAD                - (Seção Téc. de Geoinf. e Prod. de Bases Digitais)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIFLEX 990MT
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+244
+Data:
+15/09/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL COMERCIO E SERV. DE INFORMATICA
+
+
+Identif:
+NS: 35754909517
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.001597
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+25/10/2002 - Processo: 02.1.1151.16.2
+
+
+Responsável:
+1398156-1 Marcelo Eduardo Giacaglia 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1951300
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LCG                  - LABORATÓRIO E COMPUTAÇÃO GRÁFICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Hewlett Packard
+Modelo:
+Pentium IV 1.8GHz, 128mb, HD 40gb
+Tipo:
+HP Vectra XE320 P7925B torre
+
+
+Doc.:
+nota fiscal
+Num.:
+003453
+Data:
+24/10/2002
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Added Computer&Telephony; Comércio e Serviços Ltda.
+
+
+Identif:
+BR23140101
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002867
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+11/09/2002 - Processo: 02.1.952.41.2
+
+
+Responsável:
+93697-1 Mariana Cabral de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1746219
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+   cpu         cafi
+
+
+ 
+ 
+
+
+Marca:
+ Excel
+Modelo:
+ P IV 2.0Ghz
+Tipo:
+ Processador Pentium Intel Inside
+
+
+Doc.:
+nota fiscal
+Num.:
+  5329
+Data:
+21/08/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ Excelbyt Indústria e Comércio Importação e Exportação Ltda
+
+
+Identif:
+ personalizado E.C.O.F
+
+
+Assinatura Digital:
+
+

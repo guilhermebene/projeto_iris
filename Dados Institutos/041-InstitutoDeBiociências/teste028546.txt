@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.028546
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+05/08/2015 - Processo: 15.1.428.41.4
+
+
+Responsável:
+80696-1 Mayana Zatz 
+
+
+Material:
+482048 - SEQUENCIADOR DE ÁCIDOS NUCLEICOS                                                                    
+
+
+Bem:
+7961383
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+fapesp 14/50148-7
+
+
+ 
+ 
+
+
+Marca:
+illumina
+Modelo:
+hiseq2500
+Tipo:
+ácidos nucleicos
+
+
+Doc.:
+termo de doação
+Num.:
+td 997/2015
+Data:
+11/06/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

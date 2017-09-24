@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.005418
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+15/08/2001 - Processo: 01.1.722.10.6
+
+
+Responsável:
+2412500-1 Jose Antonio Martins 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164163
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAD                 - ASSISTÊNCIA TÉCNICA PARA ASSUNTOS ADMINISTRATIVOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micromax
+Modelo:
+Gold 6933
+Tipo:
+AMD Duron XP 1100Mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+2472
+Data:
+07/08/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

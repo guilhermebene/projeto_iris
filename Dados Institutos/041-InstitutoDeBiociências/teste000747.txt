@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000747
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/10/1999 - Processo: 94.1.412.41.0
+
+
+Responsável:
+49561-1 Alberto Augusto Gonçalves de Freitas Castro Ribeiro 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MICROSCOPIA          - microscopia eletronica
+
+
+Complemento:
+   processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ PTT
+Modelo:
+ 486DX
+Tipo:
+ Metron
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ personalizado
+
+
+Assinatura Digital:
+
+

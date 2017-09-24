@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.003928
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+10/07/2003 - Processo: 03.1.40.5.8
+
+
+Responsável:
+17951-1 Mauricio da Rocha e Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2435233
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCP-DBFIS            - Disciplina de Bases Fisiológicas
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Vectron
+Modelo:
+MVQ3000
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+4670
+Data:
+10/07/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Vectorn Eletronica Industria e Comercio Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

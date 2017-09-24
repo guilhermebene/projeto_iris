@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.009121
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+28/11/2013 - Processo: 13.1.1248.16.7
+
+
+Responsável:
+2518901-1 Harley Macedo 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5135400
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - (Seção Técnica de Informática)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+DGE T420
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+4865
+Data:
+13/11/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PERFIL COMPUTACIONAL LTDA
+
+
+Identif:
+NS: C98G0Y1
+
+
+Assinatura Digital:
+
+

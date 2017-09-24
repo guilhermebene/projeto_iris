@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002366
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+17/05/2002 - Processo: 02.1.470.41.8
+
+
+Responsável:
+64986-1 Sergio Tadeu Meirelles 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1561430
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+  cpu     cafi
+
+
+ 
+ 
+
+
+Marca:
+ ASUS
+Modelo:
+ RRJ  1.5Ghz
+Tipo:
+ AMD K7
+
+
+Doc.:
+nota fiscal
+Num.:
+  631
+Data:
+15/05/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ RRJ Comércio de Equipamentos Ltda - ME
+
+
+Identif:
+ KC 2ØØ2 Ø88 883
+
+
+Assinatura Digital:
+
+

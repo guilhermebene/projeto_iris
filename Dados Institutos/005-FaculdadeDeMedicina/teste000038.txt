@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000038
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+16/04/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+2089855-1 Heitor Franco de Andrade Junior 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+53880
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+IMT                  - Instituto de Medicina Tropical
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BOSS COMPUTER
+Modelo:
+WORKSTATION
+Tipo:
+266MMX
+
+
+Doc.:
+nota fiscal
+Num.:
+3458
+Data:
+16/09/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+YAZFECOM COMERCIAL IMPORTADORA LTDA
+
+
+Identif:
+64053
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.005627
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+18/02/2009 - Processo: 09.1.245.16.0
+
+
+Responsável:
+2471066-1 Jose Fernando Nascimento dos Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LCG                  - LABORATÓRIO E COMPUTAÇÃO GRÁFICA
+
+
+Complemento:
+SERVIDOR NA SALA LCG-FERNANDO
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+POWEREDGE 1900
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+termo de doação
+Num.:
+02874/08
+Data:
+17/10/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIAL: 751NNG
+
+
+Assinatura Digital:
+
+

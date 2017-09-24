@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001000
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+26/04/2000 - Processo: 00.1.3.5.2
+
+
+Responsável:
+74319-1 Giovanni Guido Cerri 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+482706
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MDR                  - Departamento de Radiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1526
+Data:
+25/04/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ALPHACHIP INFORMATICA E SERVIÇO LTDA
+
+
+Identif:
+FAA034HOG9
+
+
+Assinatura Digital:
+
+

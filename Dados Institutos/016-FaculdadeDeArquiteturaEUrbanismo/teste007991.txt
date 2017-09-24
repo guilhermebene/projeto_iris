@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007991
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+18/10/2012 - Processo: 12.1.1130.16.5
+
+
+Responsável:
+2518901-1 Harley Macedo 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5135400
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - (Seção Técnica de Informática)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+POWEREDGE T410
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+397
+Data:
+02/10/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL COM. SERVIÇOS DE INFORMATICA LTDA
+
+
+Identif:
+NS: 14136958333
+
+
+Assinatura Digital:
+
+

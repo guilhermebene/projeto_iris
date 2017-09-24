@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000857
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/10/1999 - Processo: 96.1.48.41.8
+
+
+Responsável:
+90993-1 Sergio Russo Matioli 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642940
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ Apple
+Modelo:
+ PC 6100/66
+Tipo:
+ Power Macintosh
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ XB 504 262 414
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.018387
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/03/2008 - Processo: 07.1.924.41.3
+
+
+Responsável:
+72317-1 Welington Braz Carvalho Delitti 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Estornado      
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CISCO
+Modelo:
+AIR-AP1231G-A-K9
+Tipo:
+ACEES POINT FAM 1200 C/SUPORTE A 802.11G
+
+
+Doc.:
+nota fiscal
+Num.:
+NF 283
+Data:
+29/10/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FAPESP 07/50926-6 DELITTI WBC 1136RO5H
+
+
+Assinatura Digital:
+
+

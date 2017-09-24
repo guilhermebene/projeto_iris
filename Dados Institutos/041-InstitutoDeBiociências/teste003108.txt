@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003108
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+12/12/2002 - Processo: 02.1.1423.41.3
+
+
+Responsável:
+78842-1 Carlos Eduardo Falavigna da Rocha 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+ cpu     Fapesp 96/06868-5  Claudia M Leite Assunção          cafi
+
+
+ 
+ 
+
+
+Marca:
+ Blaster  Pro 300
+Modelo:
+ TR6003 /32 /4Gb /512Kb
+Tipo:
+ PII MMX Dimm32Mb-PC100
+
+
+Doc.:
+nota fiscal
+Num.:
+      96346
+Data:
+27/10/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

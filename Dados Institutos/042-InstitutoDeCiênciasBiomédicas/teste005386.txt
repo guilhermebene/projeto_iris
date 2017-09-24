@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.005386
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+12/02/2003 - Processo: 03.1.147.42.1
+
+
+Responsável:
+3034852-1 Duvaldo Manoel de Jesus 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2125749
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+não consta
+Modelo:
+8 portas 10/100
+Tipo:
+Switch
+
+
+Doc.:
+nota fiscal
+Num.:
+002322 , 002359
+Data:
+07/02/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Paextech Informática e Cmércio Ltda
+
+
+Identif:
+Switch Trellis 08 portas
+
+
+Assinatura Digital:
+
+

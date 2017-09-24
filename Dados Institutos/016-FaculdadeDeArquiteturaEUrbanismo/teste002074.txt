@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.002074
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+13/11/2003 - Processo: 03.1.898.16.8
+
+
+Responsável:
+821013-1 Jose Tadeu de Azevedo Maia 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+2752662
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LPG                  - LABORATÓRIO DE PROGRAMAÇÃO GRÁFICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+4228G 3C17304
+Tipo:
+switch super Stack3 com 24 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+002.952
+Data:
+12/11/2003
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Enternet Informática Ltda.
+
+
+Identif:
+721V2U936FA40
+
+
+Assinatura Digital:
+
+

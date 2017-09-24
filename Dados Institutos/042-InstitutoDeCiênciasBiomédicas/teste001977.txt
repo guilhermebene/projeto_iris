@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001977
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+21/11/2000 - Processo: 98.1.710.42.2
+
+
+Responsável:
+24719-1 Zuleica Bruno Fortes 
+
+
+Material:
+36293 - REGISTRADOR                                                                                         
+
+
+Bem:
+73598
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMF                  - DEPTO. DE FARMACOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MACLAB
+Modelo:
+401
+Tipo:
+NAO CONSTA
+
+
+Doc.:
+declaração de importação
+Num.:
+99/0786041-7
+Data:
+17/09/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MAC LAB ADMSTRUMENTS LIMITED
+
+
+Identif:
+Registrador de  Sinais de Alta Velocidade
+
+
+Assinatura Digital:
+
+

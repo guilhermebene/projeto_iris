@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.018615
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+30/07/2008 - Processo: 08.1.792.41.0
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4668030
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Cisco
+Modelo:
+Catalyst 2960 c/24 portas e mais 2
+Tipo:
+ 
+
+
+Doc.:
+nota fiscal
+Num.:
+356
+Data:
+30/07/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+M4 Sistemas de Computação Ltda. E P P
+
+
+Identif:
+FOC1219Y2WN
+
+
+Assinatura Digital:
+
+

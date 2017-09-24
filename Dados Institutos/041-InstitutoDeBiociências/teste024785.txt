@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.024785
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+28/08/2012 - Processo: 12.5.726.70.3
+
+
+Responsável:
+5670821-1 Gustavo Heidy Yamashita 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+up grade 041018324
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC/CCE
+Modelo:
+proc intel I5 2400
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2990
+Data:
+16/08/2012
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+122168
+
+
+Assinatura Digital:
+
+

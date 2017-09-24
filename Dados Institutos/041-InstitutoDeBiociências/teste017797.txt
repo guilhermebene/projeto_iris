@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.017797
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+24/09/2007 - Processo: 07.5.627.70.0
+
+
+Responsável:
+3795858-1 Luciana Amaral Haddad 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4495357
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+MICROSCOPIA          - microscopia eletronica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE - CHT 30973
+Modelo:
+hdd 80GB Serial ATA
+Tipo:
+Celeron D (LGA 775)
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1088/07
+Data:
+03/08/2007
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+53993  Haddad L.A.
+
+
+Assinatura Digital:
+
+

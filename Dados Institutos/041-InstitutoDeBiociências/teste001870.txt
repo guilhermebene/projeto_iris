@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001870
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/09/2001 - Processo: 01.1.539.41.7
+
+
+Responsável:
+24827-1 Joao Stenghel Morgante 
+
+
+Material:
+27014 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Ethernet
+Modelo:
+ Cisco 2500
+Tipo:
+ Digital Modular 02 interfaces
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 1551 / 2001
+Data:
+23/07/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

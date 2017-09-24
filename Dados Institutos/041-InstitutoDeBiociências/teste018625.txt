@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.018625
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+07/08/2008 - Processo: 08.5.455.70.5
+
+
+Responsável:
+979412-1 Luis Eduardo Soares Netto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+upgrade do equipamento 041007550
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+processador intel core 2 duo
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1496/2008
+Data:
+26/06/2008
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série do gabinete 63762
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.009148
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+15/01/2014 - Processo: 13.1.1248.16.7
+
+
+Responsável:
+466261-1 Alexandre Carlos Penha Delijaicov 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5294894
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LABPROJ1             - (Grupo de Pesquisa Equipamentos Públicos)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 9010
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+4923
+Data:
+25/11/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PERFIL COMPUTACIONAL LTDA
+
+
+Identif:
+SERIE: H45N0Y1
+
+
+Assinatura Digital:
+
+

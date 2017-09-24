@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.003533
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+20/05/2002 - Processo: 02.1.121.42.1
+
+
+Responsável:
+48730-1 Antonio Carlos Cassola 
+
+
+Material:
+36650 - UNIDADE DE FITA DAT EXTERNA                                                                         
+
+
+Bem:
+1393987
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMB                  - DEPTO. DE FISIOLOGIA E BIOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Sun Microsystems
+Modelo:
+Unipack DDS - 4
+Tipo:
+Unidade de fita externa
+
+
+Doc.:
+nota fiscal
+Num.:
+021.447
+Data:
+13/05/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Medidata Informática S/A
+
+
+Identif:
+Unidade de fita externa
+
+
+Assinatura Digital:
+
+

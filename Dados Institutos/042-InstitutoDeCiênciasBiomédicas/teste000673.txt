@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000673
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+13/10/1999 - Processo: 96.1.344.42.4
+
+
+Responsável:
+2449004-1 Jorge Almeida da Costa 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SIAD                 - SERVIÇO  DE  INFORMÁTICA E ANÁLISE DE DADOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BYTE-ON,
+Modelo:
+143767,
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICROMAX COMERCIO E S.EM INFORMATICA LTDA.
+
+
+Identif:
+28353,
+
+
+Assinatura Digital:
+
+

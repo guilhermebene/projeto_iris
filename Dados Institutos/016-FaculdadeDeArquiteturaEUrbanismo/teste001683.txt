@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.001683
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+04/02/2003 - Processo: 02.1.1058.16.2
+
+
+Responsável:
+42136-1 Marcia Peinado Alucci 
+
+
+Material:
+105309 - SENSOR DE TEMPERATURA                                                                               
+
+
+Bem:
+2145952
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AUT                  - (Dep. de Tecnologia da Arquitetura)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Onset
+Modelo:
+HOBO TMC-20HA
+Tipo:
+sensor de temperatura 6,4m
+
+
+Doc.:
+nota fiscal
+Num.:
+001842
+Data:
+01/02/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Tracom Importação, Exportação e Comércio Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

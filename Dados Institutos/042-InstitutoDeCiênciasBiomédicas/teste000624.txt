@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000624
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+22/09/1999 - Processo: 99.1.235.42.3
+
+
+Responsável:
+67203-1 Jose Cipolla Neto 
+
+
+Material:
+61280 - MICRO COMPUTADOR                                                                                    
+
+
+Bem:
+157058
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMB                  - DEPTO. DE FISIOLOGIA E BIOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Net Gate
+Modelo:
+Pentium III
+Tipo:
+Mini Torre
+
+
+Doc.:
+nota fiscal
+Num.:
+000846
+Data:
+21/06/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+NGD.informatica ltda
+
+
+Identif:
+Microcomputador
+
+
+Assinatura Digital:
+
+

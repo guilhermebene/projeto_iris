@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.013151
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+11/12/2008 - Processo: 08.5.556.70.6
+
+
+Responsável:
+2787603-1 Cesar de Paula Souza 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3758095
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+UPGRADE
+Tipo:
+AMD SEMPRON 2300+
+
+
+Doc.:
+nota fiscal
+Num.:
+88807
+Data:
+03/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+131262/43258
+
+
+Assinatura Digital:
+
+

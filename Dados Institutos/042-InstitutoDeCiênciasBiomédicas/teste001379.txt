@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001379
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+19/04/2000 - Processo: 99.1.571.42.3
+
+
+Responsável:
+56649-1 Silvana Cai 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+159360
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM Aptiva
+Modelo:
+Pentium III
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+000421
+Data:
+17/11/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Net Comp Informática Ltda - Me
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001762
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+05/07/2001 - Processo: 01.1.432.41.8
+
+
+Responsável:
+49561-1 Alberto Augusto Gonçalves de Freitas Castro Ribeiro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1037625
+Origem:
+Sispa Compra        
+Situação:
+Sem localização
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+  cpu 866mhz
+
+
+ 
+ 
+
+
+Marca:
+ Compaq
+Modelo:
+ Desk Pro Ex
+Tipo:
+ P3 866Mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+   2549
+Data:
+04/07/2001
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Valsystem Comercial Informática Ltda
+
+
+Identif:
+ F 117 FZ 3465
+
+
+Assinatura Digital:
+
+

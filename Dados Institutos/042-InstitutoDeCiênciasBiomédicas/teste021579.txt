@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.021579
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+10/07/2012 - Processo: 12.1.384.42.2
+
+
+Responsável:
+7355767-1 Renato Augusto Aguiar de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PROTOCOLO            - SERVIÇO DE PROTOCOLO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST 4255
+Tipo:
+CORE i3 C/ WINDOWS 7 PROFESSIONAL X64
+
+
+Doc.:
+nota fiscal
+Num.:
+172599
+Data:
+03/07/2012
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+Itautec S/A - Grupo Itautec
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

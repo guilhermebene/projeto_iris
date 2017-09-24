@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.007025
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/06/2005 - Processo: 05.1.574.70.4
+
+
+Responsável:
+42762-1 Osmar Domaneschi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3605558
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ CCE DvEMIC CHT 89548
+Modelo:
+ P4 HD80GB IDE
+Tipo:
+ Celeron D Gab ATX
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+ 86/2005 CCE DvEMIC
+Data:
+28/03/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ CCE 431Ø4 Domaneschi O
+
+
+Assinatura Digital:
+
+

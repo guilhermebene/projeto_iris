@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.022357
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+02/12/2014 - Processo: 12.1.2175.10.3
+
+
+Responsável:
+2094382-1 Fernando Ferreira 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Bens de Terceiros O 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+VPS                  - Veterinária Preventiva e Saúde Animal
+
+
+Complemento:
+Projeto CAPES Pro EX: 3006/2011
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+PowerEdge R620 Intel Xeon E26XX
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+4172613
+Data:
+25/02/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

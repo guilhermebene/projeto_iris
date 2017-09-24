@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003628
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+02/09/2003 - Processo: 03.1.976.41.0
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2562499
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ Valsystem
+Modelo:
+ Servidor Pentium IV 2.4GHz Intel
+Tipo:
+ Gabinete MidTorre P4 320KL
+
+
+Doc.:
+nota fiscal
+Num.:
+  6131
+Data:
+29/08/2003
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Valsystem Comercial Informática Ltda
+
+
+Identif:
+ Ø3Ø 57Ø 3Ø6 KL 320 W-P4
+
+
+Assinatura Digital:
+
+

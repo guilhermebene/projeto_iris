@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.021917
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/09/2010 - Processo: 10.5.428.70.0
+
+
+Responsável:
+447583-1 Beatriz Pacheco Jordao 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FIS                  - Departamento de Fisiologia
+
+
+Complemento:
+up grade 041.004432
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+proc intel core 2 duo
+Tipo:
+hdd 320 gb serial ata
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2211/2010
+Data:
+14/09/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+107178
+
+
+Assinatura Digital:
+
+

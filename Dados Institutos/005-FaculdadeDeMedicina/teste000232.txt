@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000232
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+05/08/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+1641709-1 Maria Notomi Sato 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+115312
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCM-DALIM            - Disciplina de Alergia e Imunologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+TRONI
+Modelo:
+PENTILII
+Tipo:
+CPU
+
+
+Doc.:
+nota fiscal
+Num.:
+68
+Data:
+20/07/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SET STAR INFORMATICA LTDA ME
+
+
+Identif:
+0105J/DK143535
+
+
+Assinatura Digital:
+
+

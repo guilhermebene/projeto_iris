@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002778
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+26/07/2002 - Processo: 02.1.592.41.6
+
+
+Responsável:
+64882-1 Helenice Mercier 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+   cpu    cafi
+
+
+ 
+ 
+
+
+Marca:
+BYTE ON
+Modelo:
+Intel Inside P1 168320
+Tipo:
+Pentium 166mhz 32mb
+
+
+Doc.:
+termo de doação
+Num.:
+  TD 56/2002
+Data:
+30/01/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ Fapesp 96/09492-6
+
+
+Assinatura Digital:
+
+

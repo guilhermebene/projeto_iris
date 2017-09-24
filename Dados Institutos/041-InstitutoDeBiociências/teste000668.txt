@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000668
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/09/1999 - Processo: 95.1.762.41.1
+
+
+Responsável:
+3056151-1 Nadir Rodrigues Pereira 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+COLEG                - Seção de Apoio aos Colegiados
+
+
+Complemento:
+   processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ pentium
+Modelo:
+ processador intel
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 20854
+
+
+Assinatura Digital:
+
+

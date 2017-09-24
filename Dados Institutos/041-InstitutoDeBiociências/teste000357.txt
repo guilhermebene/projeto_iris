@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000357
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+06/05/1999 - Processo: 99.1.94.41.2
+
+
+Responsável:
+1560755-1 Maria Cecilia Sguerri Farah 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+FIS                  - Departamento de Fisiologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Troni
+Modelo:
+ 233Mhz
+Tipo:
+ Intel Pentium
+
+
+Doc.:
+nota fiscal
+Num.:
+ 137
+Data:
+06/04/1999
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Alpha System Informática Vendas e Serviços Ltda  ME
+
+
+Identif:
+ personal
+
+
+Assinatura Digital:
+
+

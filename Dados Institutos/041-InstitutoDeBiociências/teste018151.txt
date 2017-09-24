@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.018151
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+17/12/2007 - Processo: 07.1.924.41.3
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+C2950-24-PR
+Tipo:
+24 PORTAS 10/100 NF 283 S/FOC1134X3JH
+
+
+Doc.:
+nota fiscal
+Num.:
+NF 283
+Data:
+29/10/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FAPESP 07/50926-6 DELITTI WBC
+
+
+Assinatura Digital:
+
+

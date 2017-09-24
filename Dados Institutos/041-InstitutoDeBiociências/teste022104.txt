@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022104
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+22/11/2010 - Processo: 10.5.499.70.5
+
+
+Responsável:
+3034233-1 Rafael Barros de Oliveira e Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+C.DID                - Centro Didático
+
+
+Complemento:
+up grade 041006996
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+proc intel core 2 duo
+Tipo:
+memória ddr2 2gb
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+nf 2242/2010
+Data:
+05/11/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+108626
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.023563
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+30/09/2011 - Processo: 11.1.1105.41.0
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5054907
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM
+Modelo:
+XLS5MBR
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+3791
+Data:
+20/09/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+POWERCINF LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.016973
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/03/2007 - Processo: 07.5.142.70.6
+
+
+Responsável:
+979412-1 Luis Eduardo Soares Netto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4353269
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+ CHT 24043 gab3180
+
+
+ 
+ 
+
+
+Marca:
+CCE DvEMIC CHT 24043
+Modelo:
+P4 HD DDR 256Mb Gab ATX
+Tipo:
+Celeron D LGA 775
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+ NFp 946/2007 CHT 24043
+Data:
+28/02/2007
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+54150 Alves SV
+
+
+Assinatura Digital:
+
+

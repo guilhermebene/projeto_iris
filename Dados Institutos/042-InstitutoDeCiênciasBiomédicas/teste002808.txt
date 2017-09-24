@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.002808
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+26/09/2001 - Processo: 01.1.943.42.0
+
+
+Responsável:
+2505469-1 Gerardo Nantes Casalderrey 
+
+
+Material:
+13285 - ZIP DRIVE EXTERNO                                                                                   
+
+
+Bem:
+773034
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Iomega 100mb
+Modelo:
+USB
+Tipo:
+externo
+
+
+Doc.:
+nota fiscal
+Num.:
+002561
+Data:
+25/09/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+PSBL38F0W0
+
+
+Assinatura Digital:
+
+

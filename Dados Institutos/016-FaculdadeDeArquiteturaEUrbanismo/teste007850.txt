@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007850
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+31/05/2012 - Processo: 12.1.641.16.6
+
+
+Responsável:
+2471066-1 Jose Fernando Nascimento dos Santos 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+5107881
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LCG                  - LABORATÓRIO E COMPUTAÇÃO GRÁFICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+UBIQUITI
+Modelo:
+AIRMAX 2.4 GHZ
+Tipo:
+ROTEADOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+044
+Data:
+30/05/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SEVEN MULTIMIDIA COM SER ELETRO ELETRONICOS
+
+
+Identif:
+NS: 00272286FDD4
+
+
+Assinatura Digital:
+
+

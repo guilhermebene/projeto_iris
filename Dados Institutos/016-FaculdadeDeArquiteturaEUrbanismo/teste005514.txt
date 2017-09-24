@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.005514
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+01/09/2008 - Processo: 08.1.1248.16.1
+
+
+Responsável:
+5001657-1 Sueli Maria da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4701135
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVAPAC               - (Serviço de Apoio Acadêmico)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PONTO CENTRAL
+Modelo:
+INTEL CORE 2 DUO
+Tipo:
+MICROCOMPUTADOR COMPATIVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+6339
+Data:
+26/08/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PONTO CENTRAL - INFORMATICA LTDA
+
+
+Identif:
+TORRE PADRÃO ATX
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003106
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+11/12/2002 - Processo: 02.1.1598.41.8
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+49107 - TESTADOR DE REDE                                                                                    
+
+
+Bem:
+2059460
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+    testador de rede   valtinho minas-bio
+
+
+ 
+ 
+
+
+Marca:
+ SkyMaster Quality Connections
+Modelo:
+ P RJ45/USB
+Tipo:
+ portátil testador de rede
+
+
+Doc.:
+nota fiscal
+Num.:
+   252
+Data:
+10/12/2002
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ Conexão Distribuidora de Materiais Ltda
+
+
+Identif:
+ T21 236 ØØØ 1Ø5
+
+
+Assinatura Digital:
+
+

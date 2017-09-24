@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000907
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+11/11/1999 - Processo: 97.1.364.41.8
+
+
+Responsável:
+2603416-1 Jose Mariano Amabis 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ ByteOn
+Modelo:
+ 586
+Tipo:
+ pentium
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 028 352
+
+
+Assinatura Digital:
+
+

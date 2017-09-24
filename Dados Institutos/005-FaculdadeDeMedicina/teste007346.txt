@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.007346
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+20/08/2007 - Processo: 07.5.50.84.4
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4135962
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+MX 200
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+605388
+Data:
+28/03/2007
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002203
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+28/03/2002 - Processo: 02.1.287.41.9
+
+
+Responsável:
+72317-1 Welington Braz Carvalho Delitti 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1460102
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+   cpu     cafi
+
+
+ 
+ 
+
+
+Marca:
+ Valsystem
+Modelo:
+ Athlon 1.2Gb     Nov/01
+Tipo:
+ sem logotipo na carcaça
+
+
+Doc.:
+nota fiscal
+Num.:
+   3532
+Data:
+26/03/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Valsystem Comercial Informática Ltda
+
+
+Identif:
+ 2ØØ1 246253
+
+
+Assinatura Digital:
+
+

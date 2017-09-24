@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.002879
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+22/10/2001 - Processo: 01.1.1148.42.0
+
+
+Responsável:
+52284-1 Marta Maria Geraldes Teixeira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1155377
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMP                  - DEPTO. DE PARASITOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ECS
+Modelo:
+Pentium III 933MHZ
+Tipo:
+Mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+030816
+Data:
+17/10/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Switch Eletronica Ltda
+
+
+Identif:
+Microcomputador
+
+
+Assinatura Digital:
+
+

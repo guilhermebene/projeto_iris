@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001545
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+07/08/2000 - Processo: 99.1.670.42.1
+
+
+Responsável:
+2384250-1 Marily Antonelli Graeber 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BMH                  - DEPTO. DE HISTOLOGIA E EMBRIOLOGIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+não consta
+Modelo:
+RJ45
+Tipo:
+Hub
+
+
+Doc.:
+termo de doação
+Num.:
+02210
+Data:
+17/09/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Hub 12 portas
+
+
+Assinatura Digital:
+
+

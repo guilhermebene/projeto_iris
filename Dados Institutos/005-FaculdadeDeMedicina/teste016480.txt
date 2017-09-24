@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.016480
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+04/07/2012 - Processo: 12.5.509.70.2
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+120235 - SERVIDOR DE ACESSO REMOTO                                                                           
+
+
+Bem:
+1135724
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR                  - Diretoria da FMUSP
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AVOCENT CYCLADES ACS 6048MDA
+Modelo:
+PN: ACS6048MDAC-001
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1640
+Data:
+23/04/2012
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0520043276
+
+
+Assinatura Digital:
+
+

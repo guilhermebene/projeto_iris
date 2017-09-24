@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002612
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+12/07/2002 - Processo: 02.1.686.41.0
+
+
+Responsável:
+64986-1 Sergio Tadeu Meirelles 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+1644572
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+   hubs para rede informática
+
+
+ 
+ 
+
+
+Marca:
+ Encore
+Modelo:
+ 10/100MBps
+Tipo:
+ 08 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+    656
+Data:
+08/07/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ RRJ Comércio de Equipamentos ME
+
+
+Identif:
+ Meirelles ST SIAE
+
+
+Assinatura Digital:
+
+

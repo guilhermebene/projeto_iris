@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.018632
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+07/08/2008 - Processo: 08.5.547.70.7
+
+
+Responsável:
+6466561-1 Camila Oliveira Querino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+upgrade patrimonio 041002666 cht 62789
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+processador core duo 2
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1549/2008
+Data:
+24/07/2008
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série do gabinete 63831
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000704
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+29/09/1999 - Processo: 96.1.402.41.6
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642932
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+ cpu
+
+
+ 
+ 
+
+
+Marca:
+MICROSYSTEMS
+Modelo:
+ 
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+546F12A1
+
+
+Assinatura Digital:
+
+

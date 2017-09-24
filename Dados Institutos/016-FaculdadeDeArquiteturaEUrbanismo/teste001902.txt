@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.001902
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+05/05/2003 - Processo: 03.1.338.16.2
+
+
+Responsável:
+2473012-1 Francisco das Chagas Rebelo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2324660
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+STPATR               - (Setor de Patrimônio)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micromax
+Modelo:
+AMD Athlon XP 2000 HD 40GB
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+003.522
+Data:
+30/04/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

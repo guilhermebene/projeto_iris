@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.002677
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+15/05/2002 - Processo: 02.1.116.5.3
+
+
+Responsável:
+69866-1 Marcos Boulos 
+
+
+Material:
+25666 - MONITOR DE VÍDEO DE ALTA RESOLUÇÃO                                                                  
+
+
+Bem:
+1498436
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-MNTINFO          - Manutenção de Equip. de Informática - Chico
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+LG
+Modelo:
+575N
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+34455
+Data:
+14/05/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MicroSwitch Eletrônica Ltda
+
+
+Identif:
+203SP0012
+
+
+Assinatura Digital:
+
+

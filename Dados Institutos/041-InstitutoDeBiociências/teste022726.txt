@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022726
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+04/05/2011 - Processo: 11.5.197.70.0
+
+
+Responsável:
+1393874-1 Marcelo Luiz Martins Pompeo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+UPGRADE 041-016039
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC/CCE
+Modelo:
+HDD 500GB SATA
+Tipo:
+MEM DDR3 2GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2400/2011
+Data:
+27/04/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE 111275
+
+
+Assinatura Digital:
+
+

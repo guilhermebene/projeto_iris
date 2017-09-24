@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.015802
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+29/03/2012 - Processo: 12.1.153.5.6
+
+
+Responsável:
+935010-1 Geraldo Busatto Filho 
+
+
+Material:
+196967 - SISTEMA DE ARMAZENAMENTO DE DADOS                                                                   
+
+
+Bem:
+5052726
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MDR-CMN              - Centro de Medicina Nuclear
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+EQUALLOGIC,FS7500PS4100E,4100XV
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+94715/92441/88652/89844
+Data:
+20/03/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+DELL Computadores do Brasil Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

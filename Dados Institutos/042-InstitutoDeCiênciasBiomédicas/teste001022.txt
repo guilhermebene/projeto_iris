@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001022
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+09/11/1999 - Processo: 
+
+
+Responsável:
+70934-1 Ciro Ferreira da Silva 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMC                  - DEPTO. DE BIOLOGIA CELULAR E DESENVOLVIMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BYTE ON,
+Modelo:
+PENTIUM,
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+A.S.S.P. INFORMATICA LTDA. ME
+
+
+Identif:
+0025292/122156,
+
+
+Assinatura Digital:
+
+

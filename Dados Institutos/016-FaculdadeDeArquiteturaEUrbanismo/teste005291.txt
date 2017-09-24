@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.005291
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+30/01/2008 - Processo: 08.1.34.16.8
+
+
+Responsável:
+82785-1 Carlos Augusto Mattei Faggin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4565967
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LAB ARQ              - (Laboratório de Informatização de Acervo)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HORIZON
+Modelo:
+CORE DUO E6550
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+015067
+Data:
+29/01/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+LPM INFORMATICA COMERCIAL LTDA
+
+
+Identif:
+SERIAL: A998739A
+
+
+Assinatura Digital:
+
+

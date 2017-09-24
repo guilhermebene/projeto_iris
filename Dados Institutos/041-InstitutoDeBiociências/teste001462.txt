@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001462
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+08/12/2000 - Processo: 97.1.310.41.5
+
+
+Responsável:
+2741501-1 Rita de Cassia Santos 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+832111
+Origem:
+Sispa               
+Situação:
+Sem localização
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIBL                 - Biblioteca
+
+
+Complemento:
+Rua do Matão  ,303   (Edifício Paulo Sawaya)
+
+
+ 
+Bloco: Biblioteca  Andar: 3º  - sala                           de biblioteca        SS-01               
+
+
+Marca:
+3COM
+Modelo:
+LINKBUILDER
+Tipo:
+SISPA 1164433
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+3599
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.020548
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+04/12/2013 - Processo: 13.1.141.5.9
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+10111 - REFRIGERADOR                                                                                        
+
+
+Bem:
+5500710
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-MNTINFO          - Manutenção de Equip. de Informática - Chico
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Consul
+Modelo:
+CRC28
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+188
+Data:
+02/12/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SM Máquinas e Comercio Eireli -Epp
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

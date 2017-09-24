@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.021897
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+15/10/2012 - Processo: 12.1.938.42.8
+
+
+Responsável:
+64433-1 Sergio Ferreira de Oliveira 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+5107881
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMC                  - DEPTO. DE BIOLOGIA CELULAR E DESENVOLVIMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+GIGABIT WRVS 4400N
+Tipo:
+WIRELESS
+
+
+Doc.:
+nota fiscal
+Num.:
+1268
+Data:
+17/08/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Masterdata Informática Ltda - Me
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

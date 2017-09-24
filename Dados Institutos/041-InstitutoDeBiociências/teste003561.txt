@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003561
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+24/07/2003 - Processo: 03.1.871.41.3
+
+
+Responsável:
+70207-1 Elizabeth Hofling 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2500043
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ Valsystem
+Modelo:
+ PIV 2.8 Ghz
+Tipo:
+ Intel
+
+
+Doc.:
+nota fiscal
+Num.:
+5919
+Data:
+21/07/2003
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Valsystem Comercial Informática Ltda
+
+
+Identif:
+serial: 030513151
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001873
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+20/09/2001 - Processo: 99.1.384.41.0
+
+
+Responsável:
+24827-1 Joao Stenghel Morgante 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ Cisco Fast Ethernet
+Modelo:
+ C 2924-XL  96/10587-1
+Tipo:
+ 02 portas matrix 3.2GBPS 22P
+
+
+Doc.:
+termo de doação
+Num.:
+ TD 826 / 99
+Data:
+30/06/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ FAAØ234K1EM Morgante JS
+
+
+Assinatura Digital:
+
+

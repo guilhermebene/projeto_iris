@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.005367
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+19/04/2005 - Processo: 
+
+
+Responsável:
+2603416-1 Jose Mariano Amabis 
+
+
+Material:
+150940 - DETECTOR ANALÓGICO DE RAIO X                                                                        
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+PROC INCORP 96.1.247.41.0
+
+
+ 
+ 
+
+
+Marca:
+AMABIS JM
+Modelo:
+DETECTOR
+Tipo:
+ BIO Amabis TD 85/96
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ BIO Amabis
+
+
+Identif:
+FAPESP 88/2527-2
+
+
+Assinatura Digital:
+
+

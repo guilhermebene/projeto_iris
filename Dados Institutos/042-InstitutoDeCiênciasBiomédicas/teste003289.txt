@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.003289
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+15/04/2002 - Processo: 02.1.121.42.1
+
+
+Responsável:
+48730-1 Antonio Carlos Cassola 
+
+
+Material:
+53627 - GABINETE EXTERNO PARA PERIFÉRICOS                                                                   
+
+
+Bem:
+1397826
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMB                  - DEPTO. DE FISIOLOGIA E BIOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Sun Microsystems
+Modelo:
+SG - XDSK020C - 72G
+Tipo:
+Gabinete
+
+
+Doc.:
+nota fiscal
+Num.:
+015563
+Data:
+10/04/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Dedalus Comércio e Sistemas Ltda
+
+
+Identif:
+822G1062
+
+
+Assinatura Digital:
+
+

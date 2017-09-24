@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002882
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/09/2002 - Processo: 02.1.1077.41.8
+
+
+Responsável:
+2783731-1 Miguel Trefaut Urbano Rodrigues 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1798197
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Full Tech
+Modelo:
+ P IV 1.7Ghz
+Tipo:
+ Processador Pentium Intel Inside
+
+
+Doc.:
+nota fiscal
+Num.:
+   1650
+Data:
+11/09/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Full Tech Informática Ltda
+
+
+Identif:
+ Personal M.T.U.R.(selo 56664 garantia)
+
+
+Assinatura Digital:
+
+

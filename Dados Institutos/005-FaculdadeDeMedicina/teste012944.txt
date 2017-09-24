@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.012944
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+01/10/2010 - Processo: 10.5.224.84.6
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4846990
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+4500G 24 PORT
+Tipo:
+PREGÃO CTI 011/2009
+
+
+Doc.:
+nota fiscal
+Num.:
+5298
+Data:
+20/07/2010
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.018609
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+03/07/2013 - Processo: 13.1.141.5.9
+
+
+Responsável:
+2057178-1 Wu Tu Hsing 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4843932
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Supermicro
+Modelo:
+Super serve
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+889
+Data:
+28/06/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Micromax Comercio e Serviço em Informatica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

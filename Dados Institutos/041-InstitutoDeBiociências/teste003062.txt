@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003062
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+11/11/2002 - Processo: 02.1.27368.1.0
+
+
+Responsável:
+2511866-1 Eli Roberto de Faria 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PESSOAL              - Seção de Pessoal
+
+
+Complemento:
+   cpu  positivo             cafi
+
+
+ 
+ 
+
+
+Marca:
+ Positivo
+Modelo:
+ Post-ATSERIESJ
+Tipo:
+ ATHLON-AMD 1,333GHZ HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+ 88808
+Data:
+03/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 132280
+
+
+Assinatura Digital:
+
+

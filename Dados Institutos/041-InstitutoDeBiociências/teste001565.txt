@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001565
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+21/03/2001 - Processo: 01.1.72.41.1
+
+
+Responsável:
+3034233-1 Rafael Barros de Oliveira e Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642932
+Origem:
+Sispa Compra        
+Situação:
+Sem localização
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+C.DID                - Centro Didático
+
+
+Complemento:
+     processador 750mhz (vera imperatriz)
+
+
+ 
+ 
+
+
+Marca:
+ Elpha Troni
+Modelo:
+ 750Mhz   Leitora 56X zip interno
+Tipo:
+ Pentium Intel Inside com zip
+
+
+Doc.:
+nota fiscal
+Num.:
+  18055
+Data:
+20/03/2001
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Interalpha Comércio Internacional Ltda
+
+
+Identif:
+ 2Ø ØØ Ø2 48 97
+
+
+Assinatura Digital:
+
+

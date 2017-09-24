@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001935
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+26/10/2001 - Processo: 01.1.549.41.2
+
+
+Responsável:
+2516534-1 Cristiana Alves da Motta 
+
+
+Material:
+48151 - IMPRESSORA ETIQUETAS DE CÓDIGO DE BARRAS                                                            
+
+
+Bem:
+121835
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PATR                 - Seção de Patrimônio
+
+
+Complemento:
+  impressora zebra
+
+
+ 
+ 
+
+
+Marca:
+ Seal Zebra
+Modelo:
+ S400
+Tipo:
+ código de barrras termo-transferência
+
+
+Doc.:
+nota fiscal
+Num.:
+   61543
+Data:
+25/09/2001
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Seal Eletrônica Ltda
+
+
+Identif:
+ 5 242 368
+
+
+Assinatura Digital:
+
+

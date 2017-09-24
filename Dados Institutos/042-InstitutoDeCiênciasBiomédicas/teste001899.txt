@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001899
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+30/10/2000 - Processo: 99.1.534.42.0
+
+
+Responsável:
+2428049-1 Jose Ivam Moura Nogueira 
+
+
+Material:
+8109 - CADEIRA PARA ESCRITÓRIO                                                                             
+
+
+Bem:
+20702
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+COORD III            - COORDENADORIA DO ED. BIOMÉDICAS III
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Motorola
+Modelo:
+P110
+Tipo:
+Portátil
+
+
+Doc.:
+nota fiscal
+Num.:
+000469
+Data:
+20/10/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Direcional Comercio de Sistemas de Comunicação Ltda
+
+
+Identif:
+Transceptor
+
+
+Assinatura Digital:
+
+

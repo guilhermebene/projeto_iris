@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000845
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+20/10/1999 - Processo: 93.5.1376.1.4
+
+
+Responsável:
+89177-1 Estela Maris Andrade Forell Bevilacqua 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Transferido    
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMH                  - DEPTO. DE HISTOLOGIA E EMBRIOLOGIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+IBM
+Modelo:
+8513
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+CDB COMPUTADORES S/A  TRANSF.DA RUSP     EMP.
+
+
+Identif:
+70204
+
+
+Assinatura Digital:
+
+

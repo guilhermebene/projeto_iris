@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003888
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+02/12/2003 - Processo: 03.1.128.30.3
+
+
+Responsável:
+3395383-1 Márcio Reis Custódio 
+
+
+Material:
+36420 - FILTRO DE LABORATORIO                                                                               
+
+
+Bem:
+1544888
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FIS                  - Departamento de Fisiologia
+
+
+Complemento:
+ 30000600
+
+
+ 
+ 
+
+
+Marca:
+ Filtracom
+Modelo:
+ Miniflow I
+Tipo:
+ Laboratorial
+
+
+Doc.:
+termo de doação
+Num.:
+  00420
+Data:
+18/03/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ Fapesp Custódio MR 3395383
+
+
+Assinatura Digital:
+
+

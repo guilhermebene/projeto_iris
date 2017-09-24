@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007419
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+25/08/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+68552-1 Maria Angela Faggin Pereira Leite 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5043530
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIRETORIA            - (Diretoria)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990 MT
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM
+
+
+Doc.:
+nota fiscal
+Num.:
+188
+Data:
+30/06/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL COM. SERV. INFORMATICA LTDA
+
+
+Identif:
+NS:19491200749
+
+
+Assinatura Digital:
+
+

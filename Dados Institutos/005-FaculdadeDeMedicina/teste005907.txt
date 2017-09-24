@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.005907
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+29/09/2006 - Processo: 06.5.859.1.4
+
+
+Responsável:
+2085083-1 Gerson Chadi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1126725
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MNE-DNRCL            - Disciplina de Neurologia Clínica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+POS-AT 850J-P
+Tipo:
+CPU
+
+
+Doc.:
+nota fiscal
+Num.:
+81936/37/38/44/50
+Data:
+17/01/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+118632
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000103
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+04/11/1998 - Processo: 98.1.479.41.0
+
+
+Responsável:
+2564302-1 Lygia da Veiga Pereira Carramaschi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642940
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Byte On
+Modelo:
+ C300B 32 win 104 S
+Tipo:
+ apple power macintosh 63
+
+
+Doc.:
+nota fiscal
+Num.:
+  892
+Data:
+03/11/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+ VX 000 8177
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.003240
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+26/03/2002 - Processo: 01.1.1467.42.8
+
+
+Responsável:
+18931-1 Antonio Gildo de Bianchi 
+
+
+Material:
+30058 - CONTROLADOR DE TEMPERATURA                                                                          
+
+
+Bem:
+1338820
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BMP                  - DEPTO. DE PARASITOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Eletrolab
+Modelo:
+EL - 512
+Tipo:
+controlador de temperatura
+
+
+Doc.:
+nota fiscal
+Num.:
+1019
+Data:
+28/02/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Eletrolab Industria e Comércio de Equipamrntos para Laboratórios Ltda
+
+
+Identif:
+não consta
+
+
+Assinatura Digital:
+
+

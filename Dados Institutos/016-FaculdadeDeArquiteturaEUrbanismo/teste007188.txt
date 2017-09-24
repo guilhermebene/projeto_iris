@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007188
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+01/03/2011 - Processo: 11.1.947.16.7
+
+
+Responsável:
+82785-1 Carlos Augusto Mattei Faggin 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+4630653
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LAB ARQ              - (Laboratório de Informatização de Acervo)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VENTISILVA
+Modelo:
+VCL
+Tipo:
+VENTILADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+1095
+Data:
+21/02/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+FABIO PEREIRA DA SILVA - VENTILAÇÃO EPP
+
+
+Identif:
+NS: TORRE, GRADE PROTETORA, 3 VELOC.
+
+
+Assinatura Digital:
+
+

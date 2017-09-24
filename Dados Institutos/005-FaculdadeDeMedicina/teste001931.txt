@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001931
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+02/07/2001 - Processo: 01.1.8.5.5
+
+
+Responsável:
+74319-1 Giovanni Guido Cerri 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1031864
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MDR                  - Departamento de Radiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ECS
+Modelo:
+D6VAA
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+28411
+Data:
+29/06/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWICHT ELETRO ELETRONICO LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

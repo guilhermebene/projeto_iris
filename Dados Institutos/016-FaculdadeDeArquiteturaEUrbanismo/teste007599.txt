@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007599
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+20/10/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+3054802-2 Emerson dos Santos Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5043530
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVGRAD               - SERVIÇO DE GRADUAÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990MT
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+186
+Data:
+07/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL LTDA
+
+
+Identif:
+NS: 13489279597
+
+
+Assinatura Digital:
+
+

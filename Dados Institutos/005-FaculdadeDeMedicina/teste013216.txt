@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.013216
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+27/01/2011 - Processo: 11.1.1458.1.1
+
+
+Responsável:
+8822439-1 Willians da Silva 
+
+
+Material:
+67555 - AUTOMÓVEL VAN                                                                                       
+
+
+Bem:
+3422771
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-TPT            - Transporte
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GM
+Modelo:
+ZAFIRA
+Tipo:
+Nº MOTOR U80005209
+
+
+Doc.:
+nota fiscal
+Num.:
+420868
+Data:
+22/12/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Nº CHASSI 9BGTS75C0BC185553/placa-DJL 1769
+
+
+Assinatura Digital:
+
+

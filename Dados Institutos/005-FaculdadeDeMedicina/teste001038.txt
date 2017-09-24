@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001038
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+16/06/2000 - Processo: 00.1.3.5.2
+
+
+Responsável:
+7920110-1 José Jair Spadacini 
+
+
+Material:
+7471 - ESMERILHADEIRA                                                                                      
+
+
+Bem:
+557870
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-MAN            - Manutenção
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BOSCH
+Modelo:
+170,0
+Tipo:
+0601701050
+
+
+Doc.:
+nota fiscal
+Num.:
+1726
+Data:
+15/06/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ANT COMERCIO E EXPORTAÇÃO LTDA
+
+
+Identif:
+D70745
+
+
+Assinatura Digital:
+
+

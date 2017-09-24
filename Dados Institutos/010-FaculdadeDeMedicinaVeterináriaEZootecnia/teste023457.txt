@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.023457
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+12/08/2015 - Processo: 15.1.1107.10.7
+
+
+Responsável:
+2094382-1 Fernando Ferreira 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+
+Origem:
+Bens de Terceiros O 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+VPS                  - Veterinária Preventiva e Saúde Animal
+
+
+Complemento:
+Processo CNPq nº 167501/2013-5
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+R220
+Tipo:
+PowerEdge
+
+
+Doc.:
+nota fiscal
+Num.:
+5376906
+Data:
+29/07/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

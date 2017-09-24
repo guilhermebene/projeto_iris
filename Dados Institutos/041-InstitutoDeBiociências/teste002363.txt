@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002363
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+16/05/2002 - Processo: 99.1.558.41.9
+
+
+Responsável:
+49533-1 Jose Carlos de Freitas 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FIS                  - Departamento de Fisiologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VCOM
+Modelo:
+ 300Mhz  2169
+Tipo:
+ PII + estabiliz / acessórios
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 1431/1999
+Data:
+01/01/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+S/040743455 - Fapesp 97/11-
+
+
+Assinatura Digital:
+
+

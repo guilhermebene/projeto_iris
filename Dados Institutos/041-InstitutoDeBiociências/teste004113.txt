@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.004113
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+04/03/2004 - Processo: 04.1.1380.1.5
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2564947
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+ série 166911 conferido 10.03.2004 (OK) Reconferido em 30.06.2004
+
+
+ 
+ 
+
+
+Marca:
+ Positivo
+Modelo:
+ Pentium IV, 2.4Ghz
+Tipo:
+ HD 40Gb, DDR 266MHZ RAM
+
+
+Doc.:
+nota fiscal
+Num.:
+   134886
+Data:
+15/11/2003
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 166 911
+
+
+Assinatura Digital:
+
+

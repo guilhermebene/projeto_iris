@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.021464
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+21/06/2010 - Processo: 10.5.280.70.3
+
+
+Responsável:
+2449428-1 Carlos Alberto Ramos de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+up grade 41004129
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+PROCESSADOR INTEL CORE 2 DUO
+Tipo:
+HDD 320 GB SERIAL ATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2137/2010
+Data:
+10/06/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE 108541
+
+
+Assinatura Digital:
+
+

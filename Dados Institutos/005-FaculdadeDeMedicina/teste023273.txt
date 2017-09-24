@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.023273
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+22/06/2015 - Processo: 15.1.13.5.2
+
+
+Responsável:
+75140-1 Paulo Hilario Nascimento Saldiva 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4843444
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CI                   - Comissão de Pesquisa da FMUSP
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Brocade
+Modelo:
+ICX 6450-24
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+170
+Data:
+19/06/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Do-Carmo Climatizadores, tecnologia e Soluçôes Ambientais Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

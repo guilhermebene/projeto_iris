@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022978
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+21/07/2011 - Processo: 11.1.425.41.1
+
+
+Responsável:
+96220-1 Diogo Meyer 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+fapesp 09/09127-8
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+C/ 2 PROC.INTEL DUAL XEON 4-CORE E5620
+Tipo:
+SERVIDOR
+
+
+Doc.:
+termo de doação
+Num.:
+TD 00421/2011 NF 1415
+Data:
+23/03/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

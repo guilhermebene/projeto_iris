@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002333
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/05/2002 - Processo: 93.5.1377.1.0
+
+
+Responsável:
+40944-1 Antonio Salatino 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642959
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ ASA
+Modelo:
+ 386 SX 25MHZ
+Tipo:
+ asa
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+ 4102808
+
+
+Assinatura Digital:
+
+

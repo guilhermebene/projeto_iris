@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.014158
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+22/09/2006 - Processo: 06.1.1267.41.5
+
+
+Responsável:
+1079470-1 Gustavo Polillo Correa 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+4173660
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Linksys
+Modelo:
+WRT54G-LA Acess Point
+Tipo:
+Wireless Internet s/fio
+
+
+Doc.:
+nota fiscal
+Num.:
+ 8003 Excelbyt
+Data:
+21/09/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Excelbyt Comércio e Serviços de Informática Ltda
+
+
+Identif:
+CDFB1F8Ø68Ø5
+
+
+Assinatura Digital:
+
+

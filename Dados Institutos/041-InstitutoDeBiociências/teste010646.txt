@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.010646
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+06/02/2006 - Processo: 06.1.121.70.0
+
+
+Responsável:
+1303816-1 Maria Cristina Arias 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3937364
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+NF559/2005 CCE DvEMIC CHT98525 Série 46642 Arias MC SL320
+
+
+ 
+ 
+
+
+Marca:
+CCE DvEMIC CHT 98525
+Modelo:
+P4 HD 80Gb 256DDR
+Tipo:
+Celeron D 2.4Ghz Gab ATX Win Xp
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+NF559/2005 CCE DvEMIC CHT98525
+Data:
+20/12/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+46642 Arias MC SL320
+
+
+Assinatura Digital:
+
+

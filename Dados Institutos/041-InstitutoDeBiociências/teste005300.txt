@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.005300
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+12/04/2005 - Processo: 05.1.405.41.4
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3498778
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ Cisco
+Modelo:
+ Catalyst 2950 10/100 24P
+Tipo:
+ Autosensing Standard Image
+
+
+Doc.:
+nota fiscal
+Num.:
+ 60 M4
+Data:
+12/04/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ M4 Sistemas de Computação Ltda EPP
+
+
+Identif:
+ Correa GP Seção Informática
+
+
+Assinatura Digital:
+
+

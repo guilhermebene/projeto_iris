@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000834
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+21/10/1999 - Processo: 93.5.1377.1.0
+
+
+Responsável:
+2758472-1 Luceleni da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2363089
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ ASA Computer
+Modelo:
+ 386 SX
+Tipo:
+ 25Mhz
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+ 4102 997
+
+
+Assinatura Digital:
+
+

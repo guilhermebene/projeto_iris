@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002813
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+14/08/2002 - Processo: 02.1.913.41.7
+
+
+Responsável:
+2510308-1 Vera Lucia dos Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1727729
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+   cpu     cafi
+
+
+ 
+ 
+
+
+Marca:
+ Valsystem
+Modelo:
+ P.IV 1.6Gb
+Tipo:
+ Intel Inside
+
+
+Doc.:
+nota fiscal
+Num.:
+   4191
+Data:
+09/08/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Valsytem Comercial Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

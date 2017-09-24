@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.002054
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+08/10/2001 - Processo: 01.1.8.5.5
+
+
+Responsável:
+2746698-1 Paulo Benedito Ferreira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1134760
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-COMP           - Compras
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Soyo
+Modelo:
+SY-7VBA133
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2287
+Data:
+05/10/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Solution Express Importação e Comercio Ltda
+
+
+Identif:
+2001100501
+
+
+Assinatura Digital:
+
+

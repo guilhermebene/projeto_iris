@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.000642
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+01/10/1999 - Processo: 99.1.441.16.3
+
+
+Responsável:
+2488523-1 Messias Pereira dos Santos 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642789
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFORMÁTICA          - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DFI
+Modelo:
+486 DX2
+Tipo:
+mini torre
+
+
+Doc.:
+declaração de importação
+Num.:
+302.275
+Data:
+17/02/1993
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Novadata Sist. e Computadores S.A.
+
+
+Identif:
+11969
+
+
+Assinatura Digital:
+
+

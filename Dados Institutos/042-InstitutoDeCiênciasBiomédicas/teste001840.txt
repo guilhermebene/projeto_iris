@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001840
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+02/10/2000 - Processo: 00.1.563.42.2
+
+
+Responsável:
+46082-1 Joaquim Procopio de Araujo Filho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+728110
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMB                  - DEPTO. DE FISIOLOGIA E BIOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Net Comp
+Modelo:
+Pentium III 700mhz
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+000571
+Data:
+29/09/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Net Comp Informática Ltda
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

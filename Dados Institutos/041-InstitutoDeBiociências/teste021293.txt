@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.021293
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+19/05/2010 - Processo: 10.5.246.70.0
+
+
+Responsável:
+2555945-1 Gabriel Henrique Marroig Zambonato 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+cht 121616  up grade patrimonio 041008709
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+proc.intel core 2 duo
+Tipo:
+hd 320 gb sata
+
+
+Doc.:
+nota fiscal
+Num.:
+2110/2010
+Data:
+11/05/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+série 108518
+
+
+Assinatura Digital:
+
+

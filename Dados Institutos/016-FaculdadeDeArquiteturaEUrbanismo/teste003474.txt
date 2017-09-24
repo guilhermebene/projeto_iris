@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.003474
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+19/12/2005 - Processo: 05.1.1330.16.7
+
+
+Responsável:
+2447350-1 Elisabete Aparecida Casemiro 
+
+
+Material:
+157473 - ESTABILIZADOR MICROPROCESSADO MONOFÁSICO                                                            
+
+
+Bem:
+3526291
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SVBIBL               - (Serviço Técnico de Biblioteca)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+TEASE
+Modelo:
+AP10M
+Tipo:
+ESTABILIZADOR MICROPROCESSADO MANOFASICO
+
+
+Doc.:
+nota fiscal
+Num.:
+03664
+Data:
+16/12/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TEASE ELETRONICA LTDA
+
+
+Identif:
+SERIAL 0
+
+
+Assinatura Digital:
+
+

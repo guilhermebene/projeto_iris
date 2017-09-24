@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.009464
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+30/06/2015 - Processo: 15.1.15.16.0
+
+
+Responsável:
+2916162-1 Amarílis Montagnolli Gomes Corrêa 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5066468
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVBIBL               - (Serviço Técnico de Biblioteca)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+T430
+Tipo:
+SERVIDOR
+
+
+Doc.:
+nota fiscal
+Num.:
+88
+Data:
+28/05/2015
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ADVANCED RESELLER COMERCIO E SERVIÇOS DE TECNOLOGIA LTDA EPP
+
+
+Identif:
+NS:6RD7542
+
+
+Assinatura Digital:
+
+

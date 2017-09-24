@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000953
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+27/10/1999 - Processo: 94.1.667.42.6
+
+
+Responsável:
+79798-1 Luiz Roberto Giorgetti de Britto 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMB                  - DEPTO. DE FISIOLOGIA E BIOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+BYTE-ON,
+Modelo:
+PENTIUM,
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ETS COMERCIAL LTDA.
+
+
+Identif:
+8878,
+
+
+Assinatura Digital:
+
+

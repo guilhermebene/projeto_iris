@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001830
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+05/09/2001 - Processo: 97.1.709.41.5
+
+
+Responsável:
+93697-1 Mariana Cabral de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3314430
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+    cpu
+
+
+ 
+ 
+
+
+Marca:
+ VenturisUP GRADE CCE
+Modelo:
+ FX2 5200M
+Tipo:
+ PII MMX
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 7 Y73 4ØØ Ø36 (CCE 26688)
+
+
+Assinatura Digital:
+
+

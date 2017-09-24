@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.019985
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+25/09/2009 - Processo: 09.5.368.70.6
+
+
+Responsável:
+5759767-2 Amanda Ferreira Macedo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+up grade micro 41003904
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+PROC INTEL CORE 2 DUO
+Tipo:
+HDD 160 GB SERIAL ATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1876/2009  cht 92024
+Data:
+31/08/2009
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SÉRIE 101945
+
+
+Assinatura Digital:
+
+

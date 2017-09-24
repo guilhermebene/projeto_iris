@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001375
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+19/04/2000 - Processo: 00.1.161.42.1
+
+
+Responsável:
+59739-1 Jose Maria Alvarez Mosig 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+420450
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMI                  - DEPTO. DE IMUNOLOGIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Proline
+Modelo:
+Pentium III 550
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+285
+Data:
+23/03/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Proline Equipamentos Para Informática Ltda
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

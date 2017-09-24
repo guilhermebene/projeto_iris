@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000782
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/10/1999 - Processo: 
+
+
+Responsável:
+90482-1 Sergio Rosso 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642940
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+   apple - cpu
+
+
+ 
+ 
+
+
+Marca:
+ Apple Power PC
+Modelo:
+ Macintosh 7600/120
+Tipo:
+ CPD 17SF 2B
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ FC 614 29F 6VK
+
+
+Assinatura Digital:
+
+

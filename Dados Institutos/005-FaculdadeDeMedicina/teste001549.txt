@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001549
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+22/01/2001 - Processo: 01.1.8.5.5
+
+
+Responsável:
+78400-1 Alberto Jose da Silva Duarte 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+849960
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MDT-IMT-L56          - Departamento de Dermatologia - IMT-L56
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EXPRESSION
+Modelo:
+AMD
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1955
+Data:
+28/12/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SOLUTION EXPRESS LTDA
+
+
+Identif:
+2001122101
+
+
+Assinatura Digital:
+
+

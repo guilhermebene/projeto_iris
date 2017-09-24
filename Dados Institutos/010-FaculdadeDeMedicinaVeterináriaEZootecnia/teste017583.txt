@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.017583
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+27/09/2010 - Processo: 10.1.1987.10.2
+
+
+Responsável:
+5543190-1 Adonis Accardi 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4843932
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATPS                 - Assistência Técnica Pirassununga
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Intel Core prop T10.07.356
+Modelo:
+Power Edge R310
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+45
+Data:
+22/09/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Transaction Line Brasil Comércio e Serviços de Informática Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

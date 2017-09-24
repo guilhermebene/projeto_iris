@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.008191
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+07/03/2013 - Processo: 12.1.1780.16.0
+
+
+Responsável:
+5723339-1 Emilio Leocadio Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187338
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LAME                 - LABORATÓRIO DE MODELOS E ENSAIOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 9010
+Tipo:
+MICROCOMPUTADOR COMPATIVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+473
+Data:
+07/02/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL LTDA
+
+
+Identif:
+NS:3720544993
+
+
+Assinatura Digital:
+
+

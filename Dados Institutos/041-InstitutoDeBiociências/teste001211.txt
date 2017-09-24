@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001211
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/06/2000 - Processo: 99.1.655.41.4
+
+
+Responsável:
+26301-1 Celia Priszkulnik Koiffmann 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642932
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+    processador cpu célia koifman doação cnpq   cafi
+
+
+ 
+ 
+
+
+Marca:
+LS
+Modelo:
+ Pentium 166mhz
+Tipo:
+ Low Radiation
+
+
+Doc.:
+nota fiscal
+Num.:
+ 826
+Data:
+14/08/1997
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ personalizido NF 826
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007414
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+22/08/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+5001657-1 Sueli Maria da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5043530
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAC                - (Assistência Técnica p/ Assuntos Acadêmicos)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990 MT
+Tipo:
+MICROCOMPUTADOR COMPATIVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+188
+Data:
+30/06/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL SERV. INFORMATICA LTDA
+
+
+Identif:
+NS: 30104467453
+
+
+Assinatura Digital:
+
+

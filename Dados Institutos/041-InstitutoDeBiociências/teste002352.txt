@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002352
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+14/05/2002 - Processo: 99.1.590.41.0
+
+
+Responsável:
+94110-1 Vania Regina Pivello 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164180
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+ fapesp 95/00350-1   cpu       cafi
+
+
+ 
+ 
+
+
+Marca:
+ AMI
+Modelo:
+ 486 DX4
+Tipo:
+micro
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 1953/1999
+Data:
+01/01/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 100Mhz
+
+
+Assinatura Digital:
+
+

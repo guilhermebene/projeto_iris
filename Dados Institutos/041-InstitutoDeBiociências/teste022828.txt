@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022828
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/06/2011 - Processo: 10.1.1011.41.5
+
+
+Responsável:
+47893-1 Maria Luiza Faria Salatino 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+fapesp 08/53063-1
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+755 STD-RAID1
+Tipo:
+SERVIDOR
+
+
+Doc.:
+termo de doação
+Num.:
+TD 652/2011  DI 09/1687474-0
+Data:
+06/04/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE 3TJN1J1
+
+
+Assinatura Digital:
+
+

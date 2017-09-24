@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.024448
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+16/11/2016 - Processo: 16.1.10.5.4
+
+
+Responsável:
+77924-1 Eduardo Massad 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+7945892
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PRINTMAQ
+Modelo:
+MAX - 690R
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1644
+Data:
+03/11/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+PRINTMAQ INFORMATICA Ltda - Epp
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

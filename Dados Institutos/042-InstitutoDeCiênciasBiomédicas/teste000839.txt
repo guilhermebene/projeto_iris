@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000839
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+20/10/1999 - Processo: 96.1.89.42.4
+
+
+Responsável:
+73371-1 Carlos Alberto Moreira Filho 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMI                  - DEPTO. DE IMUNOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CIBRAMAC,
+Modelo:
+PENTIUM,
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+A.S.S.P.  INFORMATICA LTDA. ME
+
+
+Identif:
+BM-786101112,
+
+
+Assinatura Digital:
+
+

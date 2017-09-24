@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001976
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+21/11/2000 - Processo: 98.1.710.42.2
+
+
+Responsável:
+24719-1 Zuleica Bruno Fortes 
+
+
+Material:
+33413 - AMPLIFICADOR DE SINAL                                                                               
+
+
+Bem:
+65005
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMF                  - DEPTO. DE FARMACOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MACLAB
+Modelo:
+ML401
+Tipo:
+NAO CONSTA
+
+
+Doc.:
+declaração de importação
+Num.:
+99/0786041-7
+Data:
+17/09/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MAC LAB ADMSTRUMENTS LIMITED
+
+
+Identif:
+AMPLIFICADOR
+
+
+Assinatura Digital:
+
+

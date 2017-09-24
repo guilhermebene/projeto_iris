@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.008063
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+19/08/2005 - Processo: 05.5.841.70.0
+
+
+Responsável:
+73430-1 Gilberto Fernando Xavier 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3937364
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FIS                  - Departamento de Fisiologia
+
+
+Complemento:
+up grade ref cht 89440  OK ajustes
+
+
+ 
+ 
+
+
+Marca:
+ CCE DvEMIC CHT 89440
+Modelo:
+ P4 3.0-HT
+Tipo:
+ Fabric Propria CCE
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+ 158/2005 CCE DvEMIC CHT89440
+Data:
+08/04/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 27650 Gilberto Fernando Xavier
+
+
+Assinatura Digital:
+
+

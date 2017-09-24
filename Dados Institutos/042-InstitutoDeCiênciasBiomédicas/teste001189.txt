@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001189
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+10/02/2000 - Processo: 99.1.549.42.8
+
+
+Responsável:
+1997130-1 Rosalia Regina de Luca 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+159360
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIRETORIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LG
+Modelo:
+Pentium III
+Tipo:
+MIni torre
+
+
+Doc.:
+nota fiscal
+Num.:
+000424
+Data:
+18/11/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Net Comp.Informatica ltda -me
+
+
+Identif:
+Microcomputador
+
+
+Assinatura Digital:
+
+

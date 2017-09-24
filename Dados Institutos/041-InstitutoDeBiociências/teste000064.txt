@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000064
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+07/10/1998 - Processo: 98.1.289.41.7
+
+
+Responsável:
+425049-1 Eduardo Rodrigo Garcia 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ATAD                 - Assistência Administrativa
+
+
+Complemento:
+   cpu    cafi
+
+
+ 
+ 
+
+
+Marca:
+ Five Star
+Modelo:
+ 850 D
+Tipo:
+ MMX Pentium Intel Inside
+
+
+Doc.:
+nota fiscal
+Num.:
+ 99
+Data:
+22/07/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ RRJ Comércio de Equipamentos Ltda - ME
+
+
+Identif:
+ personalizado
+
+
+Assinatura Digital:
+
+

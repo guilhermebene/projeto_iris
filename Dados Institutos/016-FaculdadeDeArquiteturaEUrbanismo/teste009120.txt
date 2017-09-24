@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.009120
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+27/11/2013 - Processo: 13.1.1248.16.7
+
+
+Responsável:
+248726-1 Eunice Barbosa 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5135400
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CESAD                - (Seção Téc. de Geoinf. e Prod. de Bases Digitais)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL  POWERE
+Modelo:
+DGE T240
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+4889
+Data:
+18/11/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PERFIL COMPUTACIONAL LTDA
+
+
+Identif:
+NS:HSB70Y1
+
+
+Assinatura Digital:
+
+

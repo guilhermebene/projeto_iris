@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.015403
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+24/01/2012 - Processo: 12.1.153.5.6
+
+
+Responsável:
+36296-1 Rui Toledo Barros 
+
+
+Material:
+122858 - RECEPTOR TELEMÉTRICO                                                                                
+
+
+Bem:
+5056209
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCM                  - Departamento de Clínica Médica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DSI
+Modelo:
+PHYSIOL TEL RPC-1
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+1201191531
+Data:
+19/01/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+SELEX INCORPIRATION
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

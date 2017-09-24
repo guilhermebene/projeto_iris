@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000090
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+11/05/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+64520-1 Debora Maria Befi Lopes 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+60011
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MFT-FON              - Disciplina de Fonoaudiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+STAR WINFOR
+Modelo:
+233MHZ
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+678
+Data:
+20/08/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+SET STAR INFORMATICA LTDA
+
+
+Identif:
+043005233
+
+
+Assinatura Digital:
+
+

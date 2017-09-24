@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.002076
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+18/11/2003 - Processo: 03.1.1010.16.0
+
+
+Responsável:
+69035-1 Marta Dora Grostein 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4155661
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LUME                 - (Laboratório de Urbanismo da Metrópole)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+Power Edge 2600 2.4Ghz 512K 533
+Tipo:
+servidor de rede
+
+
+Doc.:
+nota fiscal
+Num.:
+158251
+Data:
+07/07/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+7FND231
+
+
+Assinatura Digital:
+
+

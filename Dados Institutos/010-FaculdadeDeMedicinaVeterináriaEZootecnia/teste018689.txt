@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.018689
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+22/11/2011 - Processo: 11.1.2354.10.4
+
+
+Responsável:
+2353151-1 Alexandre Merlos Ruiz 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+5102073
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFORMATICA        - SEÇÃO DE INFORMATICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM
+Modelo:
+|X3250
+Tipo:
+Intel 2,53GHz, 8Gb de memória, 1Tb de hd
+
+
+Doc.:
+nota fiscal
+Num.:
+1063
+Data:
+25/10/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Infobento Computadores Ltda
+
+
+Identif:
+Gravador dvd, gabinete rack
+
+
+Assinatura Digital:
+
+

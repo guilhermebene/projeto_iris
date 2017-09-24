@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000861
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+20/10/1999 - Processo: 95.1.516.42.9
+
+
+Responsável:
+2089473-1 Marilia Cerqueira Leite Seelaender 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642789
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMC                  - DEPTO. DE BIOLOGIA CELULAR E DESENVOLVIMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FOCUS
+Modelo:
+PCI-256KB
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+FOCUS INFORMATICA LTDA.
+
+
+Identif:
+401584
+
+
+Assinatura Digital:
+
+

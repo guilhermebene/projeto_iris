@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.001638
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+11/12/2002 - Processo: 02.1.1301.16.4
+
+
+Responsável:
+2471066-1 Jose Fernando Nascimento dos Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2069202
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LCG                  - LABORATÓRIO E COMPUTAÇÃO GRÁFICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micromax
+Modelo:
+Gold
+Tipo:
+Pentium IV, 1.6GHz, 256MB, HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+003.306
+Data:
+09/12/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

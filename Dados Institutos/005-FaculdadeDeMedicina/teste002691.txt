@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.002691
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+15/05/2002 - Processo: 02.1.116.5.3
+
+
+Responsável:
+81892-1 Gregorio Santiago Montes 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1498371
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MPT                  - Departamento de Patologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MSC
+Modelo:
+PIII 1G
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+34452
+Data:
+13/05/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MicroSwitch Eletrônica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

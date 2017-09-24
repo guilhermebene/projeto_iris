@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.017981
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+16/03/2011 - Processo: 03.1.186.69.9
+
+
+Responsável:
+5095041-1 Hilton Higasi 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4135962
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFORMATICA        - SEÇÃO DE INFORMATICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ IBM
+Modelo:
+x3400pn7976
+Tipo:
+Servidor rede
+
+
+Doc.:
+nota fiscal
+Num.:
+000692
+Data:
+01/02/2008
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+82AB3R9
+
+
+Assinatura Digital:
+
+

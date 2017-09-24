@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002566
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+17/06/2002 - Processo: 02.1.675.41.9
+
+
+Responsável:
+206232-1 Cristina Yumi Miyaki 
+
+
+Material:
+13285 - ZIP DRIVE EXTERNO                                                                                   
+
+
+Bem:
+1615122
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   zip drive       cafi
+
+
+ 
+ 
+
+
+Marca:
+ Iomega
+Modelo:
+ USB 100Mb
+Tipo:
+ paralelo scsi (USB powered) 01.09.02
+
+
+Doc.:
+nota fiscal
+Num.:
+   1430
+Data:
+07/06/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ ASSP Informática Ltda-ME
+
+
+Identif:
+ 2 ACN Ø285 PX
+
+
+Assinatura Digital:
+
+

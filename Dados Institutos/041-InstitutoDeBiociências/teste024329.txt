@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.024329
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+12/03/2012 - Processo: 12.5.204.70.7
+
+
+Responsável:
+3034233-1 Rafael Barros de Oliveira e Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+UP GRADE 041.003596
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC/CCE
+Modelo:
+PROC INTEL I5 2400
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2881
+Data:
+23/02/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SÉRIE 114.640
+
+
+Assinatura Digital:
+
+

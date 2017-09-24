@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000616
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+16/09/1999 - Processo: 99.1.328.42.1
+
+
+Responsável:
+2473217-1 Janicleide de Lira Monteiro 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+152170
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - DIRETORIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Upson
+Modelo:
+Pentium II
+Tipo:
+Mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+001279
+Data:
+05/08/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax .Comercio e Servicos em Informatica ltda
+
+
+Identif:
+Microcomputador
+
+
+Assinatura Digital:
+
+

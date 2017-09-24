@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003222
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/03/2003 - Processo: 03.1.185.41.2
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2194112
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+ EQUIPTO SUBSTITUIDO CNM9AØØCRA  ØØØBBE72ED4Ø ( FHK Ø65Ø W1LW)
+
+
+ 
+ 
+
+
+Marca:
+ Cisco Systems
+Modelo:
+ Catalyst 2950 Series
+Tipo:
+ WS-C2950-24 CNM9AØØCRA  ØØØBBE72ED4Ø
+
+
+Doc.:
+nota fiscal
+Num.:
+   2566
+Data:
+12/03/2003
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Enternet Informática Ltda
+
+
+Identif:
+ FHK Ø65Ø W1MØ( FHK Ø65Ø W1LW)
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003886
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+02/12/2003 - Processo: 03.1.128.30.3
+
+
+Responsável:
+3395383-1 Márcio Reis Custódio 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1515128
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FIS                  - Departamento de Fisiologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ In Formar
+Modelo:
+ AMD K6 500Mhz 3D Processor
+Tipo:
+ TD 420 248Mb RAM (personaliz)
+
+
+Doc.:
+termo de doação
+Num.:
+ 00420
+Data:
+18/03/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ Fapesp CustódioMR 3395383
+
+
+Assinatura Digital:
+
+

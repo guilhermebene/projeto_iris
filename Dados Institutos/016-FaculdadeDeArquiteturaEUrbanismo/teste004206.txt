@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.004206
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+31/07/2006 - Processo: 05.5.406.70.1
+
+
+Responsável:
+2518901-1 Harley Macedo 
+
+
+Material:
+141089 - WIRELESS LAN ACCESS POINT                                                                           
+
+
+Bem:
+3308740
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR              - (Seção Técnica de Informática)
+
+
+Complemento:
+INSTALADO NA COLUNA DO PISO SUPERIOR
+
+
+ 
+ 
+
+
+Marca:
+Foundry Network
+Modelo:
+Iron Point
+Tipo:
+Wireless Lan Access Point
+
+
+Doc.:
+nota fiscal
+Num.:
+2420
+Data:
+01/03/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ANO4290050
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.020811
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+26/03/2010 - Processo: 10.1.268.41.2
+
+
+Responsável:
+4795742-1 Maria Dulcetti Vibranovski 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4942779
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+servidor dhcp do ib
+
+
+ 
+ 
+
+
+Marca:
+Excel
+Modelo:
+i5-650-3.30GHz
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+10173
+Data:
+25/03/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Excelbyt Comércio e Serviços de Informatica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

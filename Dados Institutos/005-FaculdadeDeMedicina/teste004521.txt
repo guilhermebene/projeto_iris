@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.004521
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+13/05/2004 - Processo: 04.1.135.5.0
+
+
+Responsável:
+20802-1 Ricardo Renzo Brentani 
+
+
+Material:
+11266 - VENTILADORES                                                                                        
+
+
+Bem:
+26760
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MDR                  - Departamento de Radiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ventisilva
+Modelo:
+VCL
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2345
+Data:
+12/05/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Vento Tec Ventiladores Ltda-Me
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

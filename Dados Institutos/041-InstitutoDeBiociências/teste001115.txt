@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001115
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+07/04/2000 - Processo: 00.1.103.41.3
+
+
+Responsável:
+2115519-1 Vera Lucia Barboza Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2362767
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+P.GRAD               - Seção de Pós-Graduação
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ IBM Personal Computer 300GL
+Modelo:
+ 43P Intel Inside Pentium III
+Tipo:
+ 6563 82C AO CH
+
+
+Doc.:
+nota fiscal
+Num.:
+ 1700
+Data:
+07/04/2000
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+ 82CA 0CH  selo tras 1S 65 63 43 P8 2C A0 CH
+
+
+Assinatura Digital:
+
+

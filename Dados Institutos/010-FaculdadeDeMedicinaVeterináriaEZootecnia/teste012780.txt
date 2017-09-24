@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.012780
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+16/08/2006 - Processo: 06.5.867.1.7
+
+
+Responsável:
+3647313-1 Luis Eduardo Massunari Lieu 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1126725
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFORMATICA        - SEÇÃO DE INFORMATICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+POS-AT 850J-P
+Tipo:
+CPU
+
+
+Doc.:
+nota fiscal
+Num.:
+81936/37/38/44/50
+Data:
+17/01/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+118391
+
+
+Assinatura Digital:
+
+

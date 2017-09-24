@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.023451
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+16/09/2011 - Processo: 08.1.78.41.6
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+cisco
+Modelo:
+ws-c2960 48 tc-s
+Tipo:
+48 portas
+
+
+Doc.:
+termo de doação
+Num.:
+td 1890/2011
+Data:
+30/08/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

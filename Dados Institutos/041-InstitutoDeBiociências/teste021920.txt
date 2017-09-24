@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.021920
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/09/2010 - Processo: 10.5.428.70.0
+
+
+Responsável:
+207205-1 Denise Selivon Scheepmaker 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+up grade 041.016884
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+proc intel core 2 duo
+Tipo:
+hdd 320 gb serial ata
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2209/2010
+Data:
+14/09/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+107177
+
+
+Assinatura Digital:
+
+

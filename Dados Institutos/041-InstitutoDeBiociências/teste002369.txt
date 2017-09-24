@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002369
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+21/05/2002 - Processo: 01.1.1040.41.6
+
+
+Responsável:
+24942-1 Yatiyo Yassuda 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   cpu   cafi      fapesp 97/05493-0
+
+
+ 
+ 
+
+
+Marca:
+ SIC Computer
+Modelo:
+ 200Mhz PII MMX
+Tipo:
+ 32Mb  HD 2.1Gb
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 1730 / 2000
+Data:
+16/09/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ ØØ612
+
+
+Assinatura Digital:
+
+

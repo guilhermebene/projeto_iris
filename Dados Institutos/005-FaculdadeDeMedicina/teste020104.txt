@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.020104
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+01/11/2013 - Processo: 13.5.160.84.0
+
+
+Responsável:
+2057178-1 Wu Tu Hsing 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+5015510
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+JD238B-HP 7510 SWITCH CHASSIS
+Tipo:
+RP 012/2012 - DC 00394869/2012
+
+
+Doc.:
+nota fiscal
+Num.:
+1135
+Data:
+14/08/2013
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN35D56024
+
+
+Assinatura Digital:
+
+

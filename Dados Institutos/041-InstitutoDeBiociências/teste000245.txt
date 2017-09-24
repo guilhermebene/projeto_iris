@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000245
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+12/02/1999 - Processo: 98.1.601.41.0
+
+
+Responsável:
+64986-1 Sergio Tadeu Meirelles 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+    cpu   cafi
+
+
+ 
+ 
+
+
+Marca:
+ Five Star
+Modelo:
+ 233 Mhz
+Tipo:
+ Intel Pentium
+
+
+Doc.:
+nota fiscal
+Num.:
+ 65
+Data:
+15/04/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ personalizado
+
+
+Assinatura Digital:
+
+

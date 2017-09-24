@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.025419
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+05/11/2015 - Processo: 15.1.591.42.0
+
+
+Responsável:
+3576422-1 Edson Goncalves de Araujo 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+7313721
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+POWER EDGE R630
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+125 e 133
+Data:
+05/10/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ADVANCED RESELLER COMERCIO E SERVICOS DE TECNOLOGIA LTDA EPP
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.023301
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+20/07/2015 - Processo: 15.1.13.5.2
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+354970 - ANTENA WIRELESS                                                                                     
+
+
+Bem:
+7269820
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR                  - Diretoria da FMUSP
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D-link
+Modelo:
+Dap-2360BR
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2873
+Data:
+20/07/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Plena Comercial de Informatica Ltda Me
+
+
+Identif:
+PVOZ2EC00
+
+
+Assinatura Digital:
+
+

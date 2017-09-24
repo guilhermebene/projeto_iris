@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.016839
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+05/02/2007 - Processo: 06.5.1018.70.6
+
+
+Responsável:
+3034233-1 Rafael Barros de Oliveira e Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4310276
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+C.DID                - Centro Didático
+
+
+Complemento:
+CHT 6724 gab 41001336
+
+
+ 
+ 
+
+
+Marca:
+CCE DvEMIC CHT 6724
+Modelo:
+P4 HD DDR 512Mb
+Tipo:
+Celeron D Gab ATX
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+NFp 812/2006 CHT 6724
+Data:
+14/11/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+50320 Brasileiro MC
+
+
+Assinatura Digital:
+
+

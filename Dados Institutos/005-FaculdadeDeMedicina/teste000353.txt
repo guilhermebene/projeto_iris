@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000353
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+04/10/1999 - Processo: 95.1.51666.1.0
+
+
+Responsável:
+45251-1 Sergio Mies 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643742
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCG-DCEX             - Disciplina de Transplante e Cirurgia do Fígado
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+gateway
+Modelo:
+pentium100
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+508166
+Data:
+24/07/1996
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+4799630
+
+
+Assinatura Digital:
+
+

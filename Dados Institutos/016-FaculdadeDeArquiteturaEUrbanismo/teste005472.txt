@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.005472
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+04/08/2008 - Processo: 08.1.668.16.7
+
+
+Responsável:
+5259280-1 Romerito Fonseca Ferraz 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4653262
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CANTEIRO EXPERIMENTA - (Canteiro Experimental)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PONTO CENTRAL
+Modelo:
+INTEL CORE
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+6167
+Data:
+20/06/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PONTO CENTRAL-INFORMATICA LTDA
+
+
+Identif:
+TORRE ATX - PRETA
+
+
+Assinatura Digital:
+
+

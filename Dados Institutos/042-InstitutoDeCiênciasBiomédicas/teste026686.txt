@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.026686
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+10/11/2016 - Processo: 16.1.859.42.4
+
+
+Responsável:
+2505469-1 Gerardo Nantes Casalderrey 
+
+
+Material:
+354031 - MODULO DE EXPANSAO                                                                                  
+
+
+Bem:
+8019037
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+CVR X2 SFP10G X2 TO SFP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1552
+Data:
+19/10/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+DMSTOR INFORMATICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

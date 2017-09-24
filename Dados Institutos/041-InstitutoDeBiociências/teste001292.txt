@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001292
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+19/07/2000 - Processo: 00.1.287.41.7
+
+
+Responsável:
+81759-1 Lurdes Foresti de Almeida Toledo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642932
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Byte On
+Modelo:
+ Convex  500Mhz
+Tipo:
+ Pentium III
+
+
+Doc.:
+nota fiscal
+Num.:
+ 15839
+Data:
+18/07/2000
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Interalpha Comércio Internacional Ltda
+
+
+Identif:
+ personalizado
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000131
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+25/11/1998 - Processo: 98.1.668.41.8
+
+
+Responsável:
+93022-1 Mario Cesar Cardoso de Pinna 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642886
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+    processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ Apple
+Modelo:
+ G3 233
+Tipo:
+ Power Macintosh
+
+
+Doc.:
+nota fiscal
+Num.:
+ 9271
+Data:
+24/11/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Interalpha Comércio Internacional Ltda
+
+
+Identif:
+ XB 8321 V XCY 3
+
+
+Assinatura Digital:
+
+

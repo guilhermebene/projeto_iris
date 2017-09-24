@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.014320
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+23/09/2011 - Processo: 11.1.1406.5.4
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FMUSP
+Modelo:
+i 5
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+02/11
+Data:
+14/08/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

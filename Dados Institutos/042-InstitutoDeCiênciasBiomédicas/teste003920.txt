@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.003920
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+10/06/2002 - Processo: 02.1.797.42.5
+
+
+Responsável:
+2474243-1 Valdeir Florencio de Souza 
+
+
+Material:
+67156 - BOMBA DE ÁGUA                                                                                       
+
+
+Bem:
+1609840
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+COORD                - COORDENADORIAS I
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ABS/ STARMAC
+Modelo:
+Horizontal 25 -125 201
+Tipo:
+Bomba Centrífuga
+
+
+Doc.:
+nota fiscal
+Num.:
+13194
+Data:
+05/06/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+WKL. Comercial de Bombas e Equipamentos Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

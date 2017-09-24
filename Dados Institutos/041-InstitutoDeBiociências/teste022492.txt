@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022492
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+22/02/2011 - Processo: 11.1.64.41.9
+
+
+Responsável:
+5502962-1 Silvio Shigueo Nihei 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4992792
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MASTERDATA
+Modelo:
+CORE I5-760
+Tipo:
+MICRO
+
+
+Doc.:
+nota fiscal
+Num.:
+125
+Data:
+21/02/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MASTERDATA INFORMATICA LTDA - M.E.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

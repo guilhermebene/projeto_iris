@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001874
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+20/09/2001 - Processo: 99.1.384.41.0
+
+
+Responsável:
+24827-1 Joao Stenghel Morgante 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+FAAØ34ØG1FU
+
+
+ 
+ 
+
+
+Marca:
+Cisco
+Modelo:
+Catalyst L1DH XL SERIES
+Tipo:
+C 2924-XL (Fapesp 96/10587-1)
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 826 / 99
+Data:
+30/06/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+FAA 340 L1DH
+
+
+Assinatura Digital:
+
+

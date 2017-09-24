@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001565
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+23/01/2001 - Processo: 01.1.8.5.5
+
+
+Responsável:
+7920110-1 José Jair Spadacini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+849995
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-MAN            - Manutenção
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NETRIX
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+690
+Data:
+20/12/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ETS COMERCIAL LTDA
+
+
+Identif:
+S/N.º
+
+
+Assinatura Digital:
+
+

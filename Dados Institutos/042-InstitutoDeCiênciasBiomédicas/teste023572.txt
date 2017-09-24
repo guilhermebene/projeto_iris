@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.023572
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+16/01/2014 - Processo: 09.1.754.42.0
+
+
+Responsável:
+65903-1 Henrique Krieger 
+
+
+Material:
+124435 - SIST. DE EXTRAÇÃO C/FLUÍDO SUPERCRÍTICO                                                             
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BMP                  - DEPTO. DE PARASITOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+affymetrix
+Modelo:
+genechip fluidics station 450
+Tipo:
+compoem o sist. 1comput., monit. e forno
+
+
+Doc.:
+termo de doação
+Num.:
+cnpq
+Data:
+07/07/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

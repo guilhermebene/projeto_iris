@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.018963
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+17/03/2011 - Processo: 10.5.500.70.3
+
+
+Responsável:
+92907-1 Dania Emi Hamassaki 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3758095
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BMC                  - DEPTO. DE BIOLOGIA CELULAR E DESENVOLVIMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+proc intel core 2 duo
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+2222/2011
+Data:
+05/11/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

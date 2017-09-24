@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.009365
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+17/04/2009 - Processo: 08.1.511.84.5
+
+
+Responsável:
+2448319-1 Geraldo Reis de Godoy 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4741048
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR-CEDEM            - Centro de Desenvolvimento de Educação Médica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST4160
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+736971
+Data:
+31/10/2008
+
+
+Garantia:
+4 ano(s)
+
+
+Fornecedor:
+Itautec S/A - Grupo Itautec
+
+
+Identif:
+L613201301232
+
+
+Assinatura Digital:
+NCMHg3+vzEae12JLlLA4Ln7Ny24pk2
+

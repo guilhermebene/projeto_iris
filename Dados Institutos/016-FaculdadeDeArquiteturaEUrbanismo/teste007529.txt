@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007529
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+19/09/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+2518901-1 Harley Macedo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4969057
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - (Seção Técnica de Informática)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+POWEREDGE T31
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+0181
+Data:
+27/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE DO BRASIL COM. E SERV. INFORMATICA LTDA
+
+
+Identif:
+NS: 63556707701
+
+
+Assinatura Digital:
+
+

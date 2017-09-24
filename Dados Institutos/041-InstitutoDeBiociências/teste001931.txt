@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001931
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+25/10/2001 - Processo: 01.1.26240.1.0
+
+
+Responsável:
+2388302-1 Maria Helena da Silva Leme 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+963844
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PROT                 - Seção de Protocolo
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Acer
+Modelo:
+ SX 000SMT  AI  APSX
+Tipo:
+ PIII 700Mhz Power SE
+
+
+Doc.:
+nota fiscal
+Num.:
+  82549
+Data:
+29/05/2001
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ APS X17 IPY Ø91 171 683 3AB
+
+
+Assinatura Digital:
+
+

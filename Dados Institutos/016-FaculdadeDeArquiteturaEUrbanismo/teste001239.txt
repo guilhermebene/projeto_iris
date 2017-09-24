@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.001239
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+01/06/2001 - Processo: 01.1.222.16.2
+
+
+Responsável:
+2473012-1 Francisco das Chagas Rebelo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+990272
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+STPATR               - (Setor de Patrimônio)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Troni
+Modelo:
+Pentium III 550 Mhz
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+027243
+Data:
+14/05/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Switch Eletro Eletrônica Ltda.
+
+
+Identif:
+200040821
+
+
+Assinatura Digital:
+
+

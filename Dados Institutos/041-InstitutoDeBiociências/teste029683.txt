@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.029683
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+07/09/2017 - Processo: 16.1.35.41.3
+
+
+Responsável:
+2143719-1 Carlos Arturo Navas Iannini 
+
+
+Material:
+160016 - SISTEMA DE AQUISIÇÃO DE DADOS                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Estornado      
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+Rua do Matão  ,101  Travessa 14  (Edifício Ernest Marcus)
+
+
+ 
+Bloco:    Andar:    - sala                           de trabalho          ECOLOGIA GERAL      
+
+
+Marca:
+hobo
+Modelo:
+u12-008
+Tipo:
+data logger
+
+
+Doc.:
+termo de doação
+Num.:
+td 331/2017 fapesp 14/16320-7
+Data:
+29/03/2017
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+10879187
+
+
+Assinatura Digital:
+
+

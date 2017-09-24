@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001436
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+16/11/2000 - Processo: 99.1.751.41.3
+
+
+Responsável:
+2086296-1 Sergio Luiz de Siqueira Bueno 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642924
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+   processador - cpu   cafi
+
+
+ 
+ 
+
+
+Marca:
+ Triton
+Modelo:
+ PII 300Mhz
+Tipo:
+ Intel inside
+
+
+Doc.:
+termo de doação
+Num.:
+  TD 2795 / 99
+Data:
+10/11/1999
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ personalizado
+
+
+Assinatura Digital:
+
+

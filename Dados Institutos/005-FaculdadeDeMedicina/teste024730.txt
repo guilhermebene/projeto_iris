@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.024730
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+05/04/2017 - Processo: 17.5.59.1.9
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095701
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR                  - Diretoria da FMUSP
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-215-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4936
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+cnc1hmq71l
+
+
+Assinatura Digital:
+
+

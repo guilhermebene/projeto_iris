@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.004309
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+01/08/2002 - Processo: 02.1.1109.42.5
+
+
+Responsável:
+60213-1 Glaucia Maria Machado Santelli 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1696556
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMH                  - DEPTO. DE HISTOLOGIA E EMBRIOLOGIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Microtime
+Modelo:
+AMD DUROM 1,0 GHZ
+Tipo:
+Mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+001469
+Data:
+15/07/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+A.s.s.p. Informática Ltda - me
+
+
+Identif:
+Microcomputador
+
+
+Assinatura Digital:
+
+

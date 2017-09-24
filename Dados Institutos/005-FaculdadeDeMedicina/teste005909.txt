@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.005909
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+02/10/2006 - Processo: 06.5.859.1.4
+
+
+Responsável:
+77924-1 Eduardo Massad 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1126725
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MLS                  - Departamento de Medicina Legal
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Positivo
+Modelo:
+POS-AT 850J-P
+Tipo:
+CPU2748
+
+
+Doc.:
+nota fiscal
+Num.:
+81936/37/38/44/50
+Data:
+17/01/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+118454
+
+
+Assinatura Digital:
+
+

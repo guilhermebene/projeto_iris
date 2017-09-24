@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.022352
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+02/12/2014 - Processo: 12.1.2175.10.3
+
+
+Responsável:
+2094382-1 Fernando Ferreira 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+6219675
+Origem:
+Bens de Terceiros O 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+VPS                  - Veterinária Preventiva e Saúde Animal
+
+
+Complemento:
+Projeto CAPES Pro EX: 3006/2011
+
+
+ 
+ 
+
+
+Marca:
+Cisco
+Modelo:
+WS-C2960S-48LPSBR
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1001324
+Data:
+09/10/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+TSP1827AAPN
+
+
+Assinatura Digital:
+
+

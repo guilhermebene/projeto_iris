@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.014072
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+04/08/2011 - Processo: 11.1.50.5.1
+
+
+Responsável:
+2091326-1 Nivaldo Alonso 
+
+
+Material:
+41661 - SONAR DOPPLER                                                                                       
+
+
+Bem:
+3600262
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCG                  - Departamento de Cirurgia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Medmega
+Modelo:
+DV610B
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1729
+Data:
+04/08/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Parâmetro Comercio de Produtos Hospitalares Ltda
+
+
+Identif:
+15015
+
+
+Assinatura Digital:
+
+

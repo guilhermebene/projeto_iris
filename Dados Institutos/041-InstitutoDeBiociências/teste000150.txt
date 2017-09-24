@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000150
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+04/02/1999 - Processo: 98.1.671.41.9
+
+
+Responsável:
+2760808-1 Maurici de Souza 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2291428
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAD                 - Assistência Administrativa
+
+
+Complemento:
+ processador -cpu     cafi  (UP GRADE 08.11.02 anotar CHT55827 25.10.02
+
+
+ 
+ 
+
+
+Marca:
+ Metron
+Modelo:
+ Pentium ll 300
+Tipo:
+ Intel Inside
+
+
+Doc.:
+nota fiscal
+Num.:
+1499
+Data:
+15/12/1998
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ Computrade Informática do Brasil Ltda
+
+
+Identif:
+ 1298 027 153 5
+
+
+Assinatura Digital:
+
+

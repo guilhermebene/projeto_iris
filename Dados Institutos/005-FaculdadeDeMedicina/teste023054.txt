@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.023054
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+02/04/2015 - Processo: 15.1.13.5.2
+
+
+Responsável:
+2057178-1 Wu Tu Hsing 
+
+
+Material:
+130443 - TERMINAL DE VIDEOCONFERÊNCIA                                                                        
+
+
+Bem:
+5162718
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Cisco
+Modelo:
+SX 20
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+23558
+Data:
+31/03/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Tes Tecnologia Sistemas e Comercio Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

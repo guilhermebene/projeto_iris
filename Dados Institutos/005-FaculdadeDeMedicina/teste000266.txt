@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000266
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+10/08/1999 - Processo: 95.1.1768.1.4
+
+
+Responsável:
+2611012-1 Waldemir Aparecido Olivieri 
+
+
+Material:
+27 - AUTOMÓVEIS                                                                                          
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD                - Assistência Técnica Administrativa
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VOLKSWAGEM
+Modelo:
+POINTER CLI
+Tipo:
+BRZ-4502
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+VOLKSWAGEN DO BRASIL LTDA
+
+
+Identif:
+BWZZZ55ZSB748655
+
+
+Assinatura Digital:
+
+

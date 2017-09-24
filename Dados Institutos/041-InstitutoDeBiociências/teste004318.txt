@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.004318
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+18/05/2004 - Processo: 04.1.526.41.5
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3037100
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ Cisco Systems
+Modelo:
+ WS-C2950-24 Catalyst 2950Series
+Tipo:
+ 24P CNM97ØØCRB
+
+
+Doc.:
+nota fiscal
+Num.:
+   5723
+Data:
+17/05/2004
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Fulltech Informática Ltda
+
+
+Identif:
+ F0C0 747Y2LA ØØØE8392Ø18Ø
+
+
+Assinatura Digital:
+
+

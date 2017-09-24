@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.017166
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+10/05/2007 - Processo: 07.5.269.70.6
+
+
+Responsável:
+2806541-1 Helenice Emiko Higa Hirata 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4388577
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+CCE / DvEMIC/CCE CHT 29327
+Modelo:
+CELERON D (LGA 775)
+Tipo:
+Gabinete ATX/P4
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+999/2007  CHT 29327
+Data:
+03/04/2007
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+55230 Hirata EHH Garantia / 07 / 03 / 2008
+
+
+Assinatura Digital:
+
+

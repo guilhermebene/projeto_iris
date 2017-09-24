@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.005992
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+28/07/2003 - Processo: 01.1.1348.42.9
+
+
+Responsável:
+3576422-1 Edson Goncalves de Araujo 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN
+Modelo:
+ ULTRA 10 (CPU TORRE)
+Tipo:
+PR90692325
+
+
+Doc.:
+termo de doação
+Num.:
+02407 - FAPESP 98/08459-0
+Data:
+29/10/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ESTAÇÃO DE TRABALHO
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000749
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+26/01/2000 - Processo: 00.1.3.5.2
+
+
+Responsável:
+1955564-1 Yara Corradini 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643742
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAC-PG             - Pós-Graduação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM
+Tipo:
+DI-512458
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45296M
+
+
+Assinatura Digital:
+
+

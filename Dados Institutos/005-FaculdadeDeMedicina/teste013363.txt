@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.013363
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+17/02/2011 - Processo: 11.1.50.5.1
+
+
+Responsável:
+2378106-1 Merari de Fatima Ramires Ferrari 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+5009375
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MNE-DNREXP           - Disciplina de Neurologia Experimental
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+intelbras
+Modelo:
+802.11B/802.11G 150mbps
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+395
+Data:
+16/02/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Distripel Distribuidora de Mat. Informatica Ltda -Me
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

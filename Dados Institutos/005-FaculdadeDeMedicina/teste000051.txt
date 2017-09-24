@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000051
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+05/05/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+56701-1 Pedro Paulo Chieffi 
+
+
+Material:
+9482 - IMPRESSORA JATO DE TINTA                                                                            
+
+
+Bem:
+16314
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+IMT                  - Instituto de Medicina Tropical
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HP
+Modelo:
+CS870A
+Tipo:
+JATO DE TINTA
+
+
+Doc.:
+nota fiscal
+Num.:
+809
+Data:
+26/11/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ALPHACHIP INFORMATICA E SEV. LTDA
+
+
+Identif:
+US79G1QONZ
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.020079
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+09/10/2009 - Processo: 09.5.325.70.5
+
+
+Responsável:
+2741501-1 Rita de Cassia Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIBL                 - Biblioteca
+
+
+Complemento:
+UP GRAD 041018503
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+proc intel core 2 duo
+Tipo:
+hdd 160 gb serial ata
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1862/2009
+Data:
+04/08/2009
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+101883
+
+
+Assinatura Digital:
+
+

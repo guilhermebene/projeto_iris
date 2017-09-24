@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002715
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+24/07/2002 - Processo: 02.1.843.41.9
+
+
+Responsável:
+49561-1 Alberto Augusto Gonçalves de Freitas Castro Ribeiro 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1687654
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - Diretoria
+
+
+Complemento:
+   cpu     cafi
+
+
+ 
+ 
+
+
+Marca:
+ Alpha System
+Modelo:
+ P IV 1.6Ghz
+Tipo:
+ Gab. ATX 256Mb  leitora CD 60X
+
+
+Doc.:
+nota fiscal
+Num.:
+   355
+Data:
+18/07/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+  Alpha System Informática Vendas e Serviços Ltda ME
+
+
+Identif:
+ Ø21 1ØØ 44Ø
+
+
+Assinatura Digital:
+
+

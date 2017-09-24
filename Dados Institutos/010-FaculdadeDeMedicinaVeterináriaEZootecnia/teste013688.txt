@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.013688
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+28/06/2007 - Processo: 07.1.1110.10.0
+
+
+Responsável:
+2806277-1 Odilon Monteiro da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4396146
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAD                 - ASSISTÊNCIA TÉCNICA PARA ASSUNTOS ADMINISTRATIVOS
+
+
+Complemento:
+Up grade: 014/2010
+
+
+ 
+ 
+
+
+Marca:
+positivo
+Modelo:
+pos at series f, Celeron D 3.2GHz
+Tipo:
+80Gb, 512Mb Ram
+
+
+Doc.:
+nota fiscal
+Num.:
+343955
+Data:
+27/06/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Positivo Informatica S.A.
+
+
+Identif:
+2245741
+
+
+Assinatura Digital:
+
+

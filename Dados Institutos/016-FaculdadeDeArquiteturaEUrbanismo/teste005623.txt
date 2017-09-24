@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.005623
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+17/02/2009 - Processo: 09.1.90.16.6
+
+
+Responsável:
+2511122-1 Francisco Paulo da Silva 
+
+
+Material:
+57100 - MICROCOMPUTADOR COMPATÍVEL COM MACINTOSH                                                            
+
+
+Bem:
+4161700
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LPG                  - LABORATÓRIO DE PROGRAMAÇÃO GRÁFICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+APPLE
+Modelo:
+A1224
+Tipo:
+MACINTOSH
+
+
+Doc.:
+nota fiscal
+Num.:
+939
+Data:
+30/01/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+PRISMA COMERCIO DE ELETRO ELETRONICOS LTDA
+
+
+Identif:
+SERIAL: W88431WZZ2
+
+
+Assinatura Digital:
+
+

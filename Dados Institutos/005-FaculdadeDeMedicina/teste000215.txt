@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000215
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+10/06/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+251925-1 Eduardo Pompeu 
+
+
+Material:
+14869 - CENTRAL TELEFÔNICA PABX                                                                             
+
+
+Bem:
+75230
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DTAPEP               - Biotério
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SIREMENS
+Modelo:
+EUROSET
+Tipo:
+DIGITAL
+
+
+Doc.:
+nota fiscal
+Num.:
+87
+Data:
+02/06/1999
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+AFATEC TELECONICAÇÕES LTDA
+
+
+Identif:
+30817
+
+
+Assinatura Digital:
+
+

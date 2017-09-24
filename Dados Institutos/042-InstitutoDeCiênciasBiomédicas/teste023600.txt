@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.023600
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+21/01/2014 - Processo: 13.1.1605.42.3
+
+
+Responsável:
+1350218-1 Paolo Marinho de Andrade Zanotto 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+APPLE
+Modelo:
+MAC PRO Z0P2 C/ 2 PROC 6 CORE INTEL XEON
+Tipo:
+MEM 12GB 1333 MHZ DDR3 ECC PLCA GRAF HD
+
+
+Doc.:
+termo de doação
+Num.:
+03593/2013, FAPESP: 11/17120-3
+Data:
+13/11/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

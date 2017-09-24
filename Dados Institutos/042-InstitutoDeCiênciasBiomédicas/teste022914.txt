@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.022914
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+17/07/2013 - Processo: 13.1.257.42.1
+
+
+Responsável:
+255360-1 Emer Suavinho Ferro 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+5107881
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMC                  - DEPTO. DE BIOLOGIA CELULAR E DESENVOLVIMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+TPLINK
+Modelo:
+WIRELESS 300 MBPS
+Tipo:
+WIRELESS
+
+
+Doc.:
+nota fiscal
+Num.:
+187
+Data:
+17/04/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Sil-maq Informatica Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

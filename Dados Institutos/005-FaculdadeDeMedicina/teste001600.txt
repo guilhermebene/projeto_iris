@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001600
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+24/01/2001 - Processo: 01.1.8.5.5
+
+
+Responsável:
+69866-1 Marcos Boulos 
+
+
+Material:
+15636 - CADEIRA FIXA PARA ESCRITÓRIO                                                                        
+
+
+Bem:
+819298
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-MNTINFO          - Manutenção de Equip. de Informática - Chico
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MELAMINO
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+6628
+Data:
+15/12/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+OFFCE LINE MÓVEIS PARA ESCRITÓRIO LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000349
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+05/05/1999 - Processo: 97.1.104.41.6
+
+
+Responsável:
+44340-1 Angela Maria Vianna Morgante 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2281686
+Origem:
+Convênio            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   cpu    cafi
+
+
+ 
+ 
+
+
+Marca:
+ Dell Optiplex GS IBM
+Modelo:
+ DCM
+Tipo:
+ Intel Pentium 133Mhz
+
+
+Doc.:
+declaração de importação
+Num.:
+ Prof Invoice 97021701/SZB - A
+Data:
+31/03/1997
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ LNY 8L IKS 3202
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.000675
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+13/10/1999 - Processo: 96.1.618.42.7
+
+
+Responsável:
+2505469-1 Gerardo Nantes Casalderrey 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+RITRON,
+Modelo:
+PENTIUM-PRO,
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RITRON EQUIPAMENTOS LTDA.
+
+
+Identif:
+100B004,
+
+
+Assinatura Digital:
+
+

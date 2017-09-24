@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.024522
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+24/05/2012 - Processo: 12.5.438.70.8
+
+
+Responsável:
+26301-1 Celia Priszkulnik Koiffmann 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+cht 202.478 up grade 041.014807
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC/CCE
+Modelo:
+PROC INTEL I5 2400
+Tipo:
+HDD 500GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2949
+Data:
+22/05/2012
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+114.676
+
+
+Assinatura Digital:
+
+

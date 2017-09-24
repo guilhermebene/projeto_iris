@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.003725
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+10/03/2003 - Processo: 02.1.116.5.3
+
+
+Responsável:
+2451734-1 Lucia Maria Evangelista Ferraz 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAC-GRAD           - Graduação
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM
+Tipo:
+DI-512458
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+6365P45186M
+
+
+Assinatura Digital:
+
+

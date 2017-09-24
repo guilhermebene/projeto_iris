@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.007339
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+20/08/2007 - Processo: 07.5.50.84.4
+
+
+Responsável:
+69866-1 Marcos Boulos 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4384750
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-MNTINFO          - Manutenção de Equip. de Informática - Chico
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+LX 201
+Tipo:
+PREGÃO CTI 001/2006
+
+
+Doc.:
+nota fiscal
+Num.:
+599641
+Data:
+22/02/2007
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

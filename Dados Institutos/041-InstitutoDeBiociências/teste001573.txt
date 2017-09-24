@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001573
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+21/03/2001 - Processo: 01.1.72.41.1
+
+
+Responsável:
+1079470-1 Gustavo Polillo Correa 
+
+
+Material:
+49107 - TESTADOR DE REDE                                                                                    
+
+
+Bem:
+917486
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ AIM
+Modelo:
+ PC
+Tipo:
+ testador de rede computacional
+
+
+Doc.:
+nota fiscal
+Num.:
+   18055
+Data:
+20/03/2001
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Interalpha Comércio Internacional Ltda
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

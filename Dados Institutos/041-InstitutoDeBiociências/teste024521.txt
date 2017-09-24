@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.024521
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+24/05/2012 - Processo: 12.5.438.70.8
+
+
+Responsável:
+4793462-1 Max Ernani Cezario 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+cht 196.953 up grade 041.009404
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC / CCE
+Modelo:
+PROC INTEL I5 2400
+Tipo:
+HDD 500GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2937
+Data:
+22/05/2012
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+114.679
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001028
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+10/02/2000 - Processo: 93.1.11824.1.2
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+   processador - cpu
+
+
+ 
+ 
+
+
+Marca:
+ Asa Computer
+Modelo:
+ 386 SX
+Tipo:
+ 25MHZ
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+ 4 115 156
+
+
+Assinatura Digital:
+
+

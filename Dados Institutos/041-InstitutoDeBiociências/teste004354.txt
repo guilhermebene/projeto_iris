@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.004354
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+09/06/2004 - Processo: 04.1.626.41.0
+
+
+Responsável:
+2143719-1 Carlos Arturo Navas Iannini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3042855
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FIS                  - Departamento de Fisiologia
+
+
+Complemento:
+ Proc.03.1.1553.41.5 História da Genética do Brasil - Morgante JS
+
+
+ 
+ 
+
+
+Marca:
+ Micromax
+Modelo:
+ Platinum 7240HD 40Gb IDE Mem 512Mb DDR
+Tipo:
+ AMD Athlon XP 2400
+
+
+Doc.:
+nota fiscal
+Num.:
+ 4222 (4434)
+Data:
+09/06/2004
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+ Morgante JS  - Proc.03.1.1553.41.5
+
+
+Assinatura Digital:
+
+

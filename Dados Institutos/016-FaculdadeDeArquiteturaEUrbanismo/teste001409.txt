@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.001409
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+19/02/2002 - Processo: 02.1.88.16.5
+
+
+Responsável:
+5010928-1 Samuel Guanabara 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1389599
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LPG                  - LABORATÓRIO DE PROGRAMAÇÃO GRÁFICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micro Max
+Modelo:
+Pentium IV 1.6GHZ, hd 40 GB
+Tipo:
+torre
+
+
+Doc.:
+nota fiscal
+Num.:
+002.792
+Data:
+18/02/2002
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Micro Max Informática Com. e Serv. em Informática Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

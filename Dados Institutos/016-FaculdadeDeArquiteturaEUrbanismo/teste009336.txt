@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.009336
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+19/08/2014 - Processo: 14.1.427.16.6
+
+
+Responsável:
+2518901-1 Harley Macedo 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+4901843
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - (Seção Técnica de Informática)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+USP
+Modelo:
+JP 2000 SNMP
+Tipo:
+NOBREAK
+
+
+Doc.:
+nota fiscal
+Num.:
+57745
+Data:
+22/07/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+LACERDA SISTEMAS DE ENERGIA LTDA
+
+
+Identif:
+NS: 00068532
+
+
+Assinatura Digital:
+
+

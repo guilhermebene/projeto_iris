@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001708
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+22/05/2001 - Processo: 01.1.331.41.7
+
+
+Responsável:
+80866-1 Carlos Ribeiro Vilela 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642932
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   processador - cpu    cafi
+
+
+ 
+ 
+
+
+Marca:
+ Troni
+Modelo:
+ Pentium III
+Tipo:
+ 800mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+   390
+Data:
+21/05/2001
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ RRJ Comércio de Equipamentos Ltda  ME
+
+
+Identif:
+ 
+
+
+Assinatura Digital:
+
+

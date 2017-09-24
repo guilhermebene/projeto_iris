@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.020569
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+05/02/2010 - Processo: 10.5.45.70.4
+
+
+Responsável:
+90892-1 Marisa Dantas Bitencourt 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+up grade 041010652
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+proc intel core 2 duo
+Tipo:
+hdd 160gb sata
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1937/2010
+Data:
+22/01/2010
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

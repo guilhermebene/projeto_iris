@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.014722
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+04/10/2006 - Processo: 06.5.836.1.4
+
+
+Responsável:
+2777967-1 Walter da Silva Cruz 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+864609
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PRÓ ALUNO            - Sala Pró-Aluno
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+METRON
+Modelo:
+MMP-III (942073)
+Tipo:
+PENTIUM III - 700MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+NFFatura:01362
+Data:
+17/04/2001
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0401.064.253-0
+
+
+Assinatura Digital:
+
+

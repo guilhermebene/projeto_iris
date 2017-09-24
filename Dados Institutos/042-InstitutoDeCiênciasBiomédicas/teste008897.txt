@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.008897
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+05/12/2005 - Processo: 05.1.513.70.5
+
+
+Responsável:
+2333836-1 Laura Candida de Avila Beca 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+PATRIMÔNIO           - SEÇÃO DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ATX
+Modelo:
+Athlon XP2600+
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+003Dvemi/CCE
+Data:
+06/01/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE  32387
+
+
+Assinatura Digital:
+
+

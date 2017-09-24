@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007299
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+19/07/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+248726-1 Eunice Barbosa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5149851
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CESAD                - (Seção Téc. de Geoinf. e Prod. de Bases Digitais)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+VOSTRO 3500
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+6
+Data:
+27/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL COM E SERV. INFORMATICA LTDA
+
+
+Identif:
+NS: 24945940333
+
+
+Assinatura Digital:
+
+

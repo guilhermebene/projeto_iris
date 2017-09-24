@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001800
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+31/07/2001 - Processo: 99.1.448.41.9
+
+
+Responsável:
+24827-1 Joao Stenghel Morgante 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Sem localização
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIBL                 - Biblioteca
+
+
+Complemento:
+Rua do Matão  ,303   (Edifício Paulo Sawaya)
+
+
+ 
+Bloco: Biblioteca  Andar: 3º  - sala                           de biblioteca        SS-01               
+
+
+Marca:
+ 3COM
+Modelo:
+ Super Stack II 10/100bps
+Tipo:
+ Dual Speed Stackable Ethernet Hub
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 1231/99
+Data:
+10/08/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 15 168X 96E 2211 ØØ1
+
+
+Assinatura Digital:
+
+

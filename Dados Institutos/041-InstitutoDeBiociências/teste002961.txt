@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002961
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+04/10/2002 - Processo: 02.1.1252.41.4
+
+
+Responsável:
+80696-1 Mayana Zatz 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1867547
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - Diretoria
+
+
+Complemento:
+  cpu      cafi
+
+
+ 
+ 
+
+
+Marca:
+ Excel
+Modelo:
+ Athlon 1.6GHz
+Tipo:
+ Visioner  XP
+
+
+Doc.:
+nota fiscal
+Num.:
+   5439
+Data:
+03/10/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Excelbyt Indústria e Comércio Importação e Exportação Ltda
+
+
+Identif:
+ Ø2 513 136 477
+
+
+Assinatura Digital:
+
+

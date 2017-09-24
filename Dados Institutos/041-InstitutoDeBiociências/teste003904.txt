@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003904
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+11/12/2003 - Processo: 03.1.1564.41.7
+
+
+Responsável:
+2498027-1 Carmen Silvia Freitas 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2800616
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Micromax Platinum
+Modelo:
+ AMD Athlon
+Tipo:
+ Duron 7220 XP2000
+
+
+Doc.:
+nota fiscal
+Num.:
+  3946
+Data:
+09/12/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+ FREITAS CS / FLOH
+
+
+Assinatura Digital:
+
+

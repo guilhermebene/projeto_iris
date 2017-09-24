@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000749
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+14/10/1999 - Processo: 93.5.1377.1.0
+
+
+Responsável:
+49561-1 Alberto Augusto Gonçalves de Freitas Castro Ribeiro 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ ASA Computer
+Modelo:
+ 386 SX
+Tipo:
+ 25Mhz
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+ 4 102 820
+
+
+Assinatura Digital:
+
+

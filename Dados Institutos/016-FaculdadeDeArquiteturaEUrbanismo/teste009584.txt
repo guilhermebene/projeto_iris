@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.009584
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+07/12/2015 - Processo: 15.1.6873.1.0
+
+
+Responsável:
+2518901-1 Harley Macedo 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+2935520
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - (Seção Técnica de Informática)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUN MICROSYSTEMS
+Modelo:
+SUN FIRE X2100 M2
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+558
+Data:
+24/11/2008
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0845QAL0F6
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002617
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/07/2002 - Processo: 02.1.604.41.4
+
+
+Responsável:
+2091006-1 Antonio Carlos Marques 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+  gps sist pos global
+
+
+ 
+ 
+
+
+Marca:
+ Garmin
+Modelo:
+ 12XL
+Tipo:
+ Fapesp 96/10544-0
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 813/2002
+Data:
+22/04/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 35 3Ø3 Ø69
+
+
+Assinatura Digital:
+
+

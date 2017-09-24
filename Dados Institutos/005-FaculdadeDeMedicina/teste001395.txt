@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001395
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+31/10/2000 - Processo: 00.1.3.5.2
+
+
+Responsável:
+1263826-1 Maria de Fátima da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+564478
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCP                  - Departamento de Cárdio-Pneumologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ALCABYT
+Modelo:
+ALC85SIB
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+210
+Data:
+26/10/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SOFTKEY INFORMATICA LTDA
+
+
+Identif:
+00100087
+
+
+Assinatura Digital:
+
+

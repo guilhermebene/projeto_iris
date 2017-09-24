@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.023673
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+30/01/2014 - Processo: 13.5.419.70.4
+
+
+Responsável:
+5580400-1 Vanessa Yamamoto Tambellini 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIOTÉRIO CENTRAL     - (BIOTÉRIO DE MATRIZES - CAMUNDONGOS)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FAB PROPRIA CCE
+Modelo:
+C/ INTEL CORE I5 2400 GRAV DVD SATA
+Tipo:
+C/ MEM RAM 4GB E HD 750GB SATA
+
+
+Doc.:
+nota fiscal
+Num.:
+3161
+Data:
+04/07/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+128469
+
+
+Assinatura Digital:
+
+

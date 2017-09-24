@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.006886
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+16/11/2009 - Processo: 09.1.1607.16.2
+
+
+Responsável:
+248726-1 Eunice Barbosa 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+4644387
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CESAD                - (Seção Téc. de Geoinf. e Prod. de Bases Digitais)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D-LINK
+Modelo:
+DIR-615
+Tipo:
+ROTEADOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+970
+Data:
+11/11/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+VISTA COM. DE ELETRO ELETRONICOS LTDA
+
+
+Identif:
+NS: F3BK493035852
+
+
+Assinatura Digital:
+
+

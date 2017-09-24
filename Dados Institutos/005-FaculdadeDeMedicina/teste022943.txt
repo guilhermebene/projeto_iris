@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.022943
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+18/03/2015 - Processo: 15.1.334.5.3
+
+
+Responsável:
+2057178-1 Wu Tu Hsing 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-MNTINFO          - Manutenção de Equip. de Informática - Chico
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FMUSP
+Modelo:
+I3
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+01/2015
+Data:
+04/03/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

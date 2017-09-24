@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.021285
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+07/11/2013 - Processo: 13.5.28.73.0
+
+
+Responsável:
+5543190-1 Adonis Accardi 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4867327
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATPS                 - Assistência Técnica Pirassununga
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Ubiquiti
+Modelo:
+Nano M5
+Tipo:
+Radio de Dados Nano
+
+
+Doc.:
+nota fiscal
+Num.:
+29147
+Data:
+29/07/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

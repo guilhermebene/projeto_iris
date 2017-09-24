@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.011470
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+10/04/2006 - Processo: 05.1.1734.41.1
+
+
+Responsável:
+2143719-1 Carlos Arturo Navas Iannini 
+
+
+Material:
+157430 - REGISTRADOR DE TEMPERATURA                                                                          
+
+
+Bem:
+
+Origem:
+Bens de Terceiros O 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+FIS                  - Departamento de Fisiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Onset (PPC A0005606)
+Modelo:
+HOBO Temp/Umid H08-003-02
+Tipo:
+TD2006/011837 997066-00
+
+
+Doc.:
+termo de depósito
+Num.:
+TD2006/011837 CNPq474208/2003
+Data:
+07/03/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+783Ø47CNPq 474208/2003-6 Iannini CAN
+
+
+Assinatura Digital:
+
+

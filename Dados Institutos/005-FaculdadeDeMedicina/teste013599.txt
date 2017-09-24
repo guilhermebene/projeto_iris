@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.013599
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+22/03/2011 - Processo: 02.1.359.69.0
+
+
+Responsável:
+2460352-1 Maria Fazanelli Crestana 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4135962
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SBD                  - Serviço de Biblioteca e Documentação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ IBM
+Modelo:
+x3400pn7976
+Tipo:
+Servidor rede
+
+
+Doc.:
+nota fiscal
+Num.:
+000692
+Data:
+01/02/2008
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+82AB3F0
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.002075
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+13/11/2003 - Processo: 03.1.898.16.8
+
+
+Responsável:
+16202-1 Nestor Goulart Reis Filho 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+2752662
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LAP                  - (Lab. de Urbanização, Arquitetura e Preservação)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+3COM
+Modelo:
+4228G 3C17304
+Tipo:
+switch super Stack3 com 24 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+002.952
+Data:
+12/11/2003
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Enternet Informática Ltda.
+
+
+Identif:
+721V2L8E23C00
+
+
+Assinatura Digital:
+
+

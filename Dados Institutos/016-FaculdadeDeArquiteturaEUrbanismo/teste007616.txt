@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007616
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+26/10/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+3187637-1 Rodrigo Cristiano Queiroz 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5043530
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+GDPL                 - GRUPO DE DISCIPLINA DE PLANEJAMENTO URB. REGIONAL
+
+
+Complemento:
+SALA -03
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990MT
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+186
+Data:
+07/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL LTDA
+
+
+Identif:
+NS: 24373191277
+
+
+Assinatura Digital:
+
+

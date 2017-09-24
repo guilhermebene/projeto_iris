@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003801
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+16/10/2003 - Processo: 03.1.1283.41.8
+
+
+Responsável:
+1079470-1 Gustavo Polillo Correa 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+2685558
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Cisco Autosensing Standard Image
+Modelo:
+ Catalyst 2950series 24P 10/100
+Tipo:
+ 000D65787540
+
+
+Doc.:
+nota fiscal
+Num.:
+   172
+Data:
+15/10/2003
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ M4 Sistemas de Computação Ltda
+
+
+Identif:
+ FHK Ø728 Y2ØR CNM9A00CRA
+
+
+Assinatura Digital:
+
+

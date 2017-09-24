@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002703
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+23/07/2002 - Processo: 02.1.809.41.5
+
+
+Responsável:
+64986-1 Sergio Tadeu Meirelles 
+
+
+Material:
+25860 - SISTEMA DE ELETROFORESE                                                                             
+
+
+Bem:
+1680447
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+   sistema de eletroforese
+
+
+ 
+ 
+
+
+Marca:
+ Scie-Plas
+Modelo:
+ Seq-2050
+Tipo:
+ max volts1500V max current 150mA
+
+
+Doc.:
+nota fiscal
+Num.:
+  16968
+Data:
+17/07/2002
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Biosytems Comercial Importadora,Exportadora de Equipamentos para Laboratórios Ltda
+
+
+Identif:
+ 2Ø53 vertical simples
+
+
+Assinatura Digital:
+
+

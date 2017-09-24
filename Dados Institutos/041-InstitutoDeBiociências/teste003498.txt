@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.003498
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+01/07/2003 - Processo: 03.1.756.41.0
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+2432846
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ Cisco Catalyst 2950 Series
+Modelo:
+ WS-C2950-24 10/1000Mbps
+Tipo:
+ 24portas FH KØ7 19X ØFP
+
+
+Doc.:
+nota fiscal
+Num.:
+ 2737
+Data:
+30/06/2003
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Enternet Informática Ltda
+
+
+Identif:
+ ØØØ D28 125 C4Ø
+
+
+Assinatura Digital:
+
+

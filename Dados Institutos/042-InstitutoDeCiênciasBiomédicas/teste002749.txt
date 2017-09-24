@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.002749
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+17/09/2001 - Processo: 01.1.966.42.0
+
+
+Responsável:
+28432-1 Jarbas Arruda Bauer 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMH                  - DEPTO. DE HISTOLOGIA E EMBRIOLOGIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+INTEL
+Modelo:
+PENTIUM II
+Tipo:
+400MHZ
+
+
+Doc.:
+termo de doação
+Num.:
+939
+Data:
+18/05/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MICROCOMPUTADOR
+
+
+Assinatura Digital:
+
+

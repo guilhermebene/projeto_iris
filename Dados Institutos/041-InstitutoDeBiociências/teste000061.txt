@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000061
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+06/10/1998 - Processo: 98.1.272.41.7
+
+
+Responsável:
+206232-1 Cristina Yumi Miyaki 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+DIR                  - Diretoria
+
+
+Complemento:
+   processador - cpu   cafi
+
+
+ 
+ 
+
+
+Marca:
+ Syntax
+Modelo:
+ Y professional
+Tipo:
+ MMX Pentium Intel Inside
+
+
+Doc.:
+nota fiscal
+Num.:
+ 24414
+Data:
+13/08/1998
+
+
+Garantia:
+24 mes(es)
+
+
+Fornecedor:
+ Maxibyte Informática e Eletrônicos Ltda
+
+
+Identif:
+  selo 8112
+
+
+Assinatura Digital:
+
+

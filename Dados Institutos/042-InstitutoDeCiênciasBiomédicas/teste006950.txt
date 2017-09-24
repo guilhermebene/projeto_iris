@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.006950
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+30/06/2004 - Processo: 04.1.708.42.4
+
+
+Responsável:
+7223662-1 Gilmar Rodrigues de Oliveira 
+
+
+Material:
+48151 - IMPRESSORA ETIQUETAS DE CÓDIGO DE BARRAS                                                            
+
+
+Bem:
+3072789
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PATRIMÔNIO           - SEÇÃO DE PATRIMÔNIO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Zebra
+Modelo:
+Zebra Link s-600
+Tipo:
+Etiqueta/Cód de Barra
+
+
+Doc.:
+nota fiscal
+Num.:
+037183
+Data:
+08/06/2004
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Barcode Informatica Ltda
+
+
+Identif:
+Impressora
+
+
+Assinatura Digital:
+
+

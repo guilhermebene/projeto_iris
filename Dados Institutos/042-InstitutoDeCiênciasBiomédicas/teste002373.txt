@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.002373
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+02/08/2001 - Processo: 01.1.516.42.5
+
+
+Responsável:
+66161-1 Jose Roberto Machado Cunha da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1055429
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMH                  - DEPTO. DE HISTOLOGIA E EMBRIOLOGIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ECS
+Modelo:
+P6BAP - AP
+Tipo:
+MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+029002
+Data:
+27/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micro Swuitch Eletro Eletronica Ltda
+
+
+Identif:
+Microcomputador
+
+
+Assinatura Digital:
+
+

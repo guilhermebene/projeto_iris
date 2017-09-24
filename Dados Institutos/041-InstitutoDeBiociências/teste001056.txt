@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001056
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+25/02/2000 - Processo: 93.5.1377.1.0
+
+
+Responsável:
+40944-1 Antonio Salatino 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642789
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Asa Computer
+Modelo:
+ 386 SX
+Tipo:
+ 25MHZ
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+ 4 102 909
+
+
+Assinatura Digital:
+
+

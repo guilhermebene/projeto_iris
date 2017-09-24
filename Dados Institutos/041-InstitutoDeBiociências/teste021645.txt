@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.021645
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+04/08/2010 - Processo: 10.1.1007.41.8
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4992792
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Excelbyt
+Modelo:
+i5-650
+Tipo:
+HD 500 GB SATA-7200 RPM
+
+
+Doc.:
+nota fiscal
+Num.:
+10358
+Data:
+04/08/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Excelbyt Comércio e Serviços de Informática Ltda
+
+
+Identif:
+memoria 4GB-DDR3/1066
+
+
+Assinatura Digital:
+
+

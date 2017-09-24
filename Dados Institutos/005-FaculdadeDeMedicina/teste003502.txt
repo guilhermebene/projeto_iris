@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.003502
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+11/11/2002 - Processo: 02.1.27366.1.8
+
+
+Responsável:
+1955564-1 Yara Corradini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAC-PG             - Pós-Graduação
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+Post-ATSERIESJ
+Tipo:
+ATHLON-AMD 1,333GHZ HD 40GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88813
+Data:
+03/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+132370
+
+
+Assinatura Digital:
+
+

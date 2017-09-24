@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.017828
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+19/03/2013 - Processo: 13.1.141.5.9
+
+
+Responsável:
+185334-1 Chao Lung Wen 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4843932
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+supermicro
+Modelo:
+superserve I
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+823
+Data:
+19/03/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Micromax Comercio me Serviços em informatica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

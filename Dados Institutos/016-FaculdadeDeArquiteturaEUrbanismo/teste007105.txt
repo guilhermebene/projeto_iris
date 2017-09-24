@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007105
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+10/01/2011 - Processo: 10.1.2447.16.0
+
+
+Responsável:
+5599578-1 Marcio Soares Godinho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5043530
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AUDITÓRIO            - AUDITÓRIO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+STUDIO XPS-8100
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota fiscal
+Num.:
+072
+Data:
+19/11/2010
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL COMERCIO E SERV. INFORMATICA LTDA
+
+
+Identif:
+NS: H5DLMN1
+
+
+Assinatura Digital:
+
+

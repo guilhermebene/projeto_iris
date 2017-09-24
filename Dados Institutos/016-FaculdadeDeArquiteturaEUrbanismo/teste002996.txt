@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.002996
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+25/04/2005 - Processo: 04.1.199.16.3
+
+
+Responsável:
+2518901-1 Harley Macedo 
+
+
+Material:
+63061 - ESTABILIZADOR MICROPROCESSADO TRIFÁSICO                                                             
+
+
+Bem:
+2923211
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR              - (Seção Técnica de Informática)
+
+
+Complemento:
+SALA DE AULA 811 PISO SUPERIOR INFORMÁTICA.
+
+
+ 
+ 
+
+
+Marca:
+MEBE
+Modelo:
+
+Tipo:
+ESTABILIZADOR TRIFÁSICO
+
+
+Doc.:
+nota fiscal
+Num.:
+10009
+Data:
+16/03/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ELETRICA COMERCIAL ANDRA LTDA.
+
+
+Identif:
+SERIAL: 116870
+
+
+Assinatura Digital:
+
+

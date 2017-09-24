@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022493
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+22/02/2011 - Processo: 11.1.64.41.9
+
+
+Responsável:
+7340079-1 Diego Demarco 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5076005
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MASTERDATA
+Modelo:
+CORE 2 DUO
+Tipo:
+MICRO
+
+
+Doc.:
+nota fiscal
+Num.:
+125
+Data:
+21/02/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MASTERDATA INFORMATICA LTDA - ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

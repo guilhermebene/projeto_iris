@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.014142
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+08/07/2009 - Processo: 08.1.867.42.9
+
+
+Responsável:
+70934-1 Ciro Ferreira da Silva 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMC                  - DEPTO. DE BIOLOGIA CELULAR E DESENVOLVIMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+PRECISION 690 C/ PROC. INTEL XEON 1.6GHZ
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+termo de doação
+Num.:
+1611 - FAPESP 06/50153-4
+Data:
+04/06/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+COMPUTADOR
+
+
+Assinatura Digital:
+
+

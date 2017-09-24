@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.011465
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+06/04/2006 - Processo: 06.1.394.41.3
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3988554
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Cisco Systems
+Modelo:
+WS-CE500-24LC,48K
+Tipo:
+Express 500c/20portas + inf. proposta.
+
+
+Doc.:
+nota fiscal
+Num.:
+136  - M4
+Data:
+05/04/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+M4 Sistemas de Computação Ltda - E.P.P.
+
+
+Identif:
+FOCO949X35L
+
+
+Assinatura Digital:
+
+

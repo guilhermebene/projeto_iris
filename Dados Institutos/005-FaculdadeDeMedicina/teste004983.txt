@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.004983
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+07/07/2005 - Processo: 05.1.503.70.0
+
+
+Responsável:
+2808449-1 Carlos Eduardo de Lemos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DTAPEP               - Biotério
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ATX
+Modelo:
+Athlon XP2600+
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+003Dvemi/CCE
+Data:
+06/01/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SERIE  29978
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000991
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+13/04/2000 - Processo: 96.1.25231.1.1
+
+
+Responsável:
+66053-1 Milton de Arruda Martins 
+
+
+Material:
+36315 - SISTEMA CENTRAL DE MONITORAGEM                                                                      
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCM                  - Departamento de Clínica Médica
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+bicore-cp
+Modelo:
+cp
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+513560
+Data:
+17/12/1996
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+596302
+
+
+Assinatura Digital:
+
+

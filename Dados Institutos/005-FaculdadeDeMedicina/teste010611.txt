@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.010611
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+19/10/2009 - Processo: 09.5.13.84.3
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4510461
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EDGE-CORE
+Modelo:
+ES3526XA
+Tipo:
+PREGÃO CTI 04/2008
+
+
+Doc.:
+nota fiscal
+Num.:
+075221
+Data:
+10/03/2009
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

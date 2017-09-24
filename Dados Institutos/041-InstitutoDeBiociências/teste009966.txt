@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.009966
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+01/12/2005 - Processo: 05.1.1600.41.5
+
+
+Responsável:
+2492017-1 Reynaldo Cezar Marson 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3847845
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+C.DID                - Centro Didático
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Micromax Platinum 7280 Gab ATX
+Modelo:
+Athlon Duron AMD 64 2800 512Mb DDR 333
+Tipo:
+GØ5Ø 2818 1ØØØ Ø712
+
+
+Doc.:
+nota fiscal
+Num.:
+5112 Micromax
+Data:
+01/12/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+HD 40Gb IDE Combo LG CDR-W/DVD 104tcls
+
+
+Assinatura Digital:
+
+

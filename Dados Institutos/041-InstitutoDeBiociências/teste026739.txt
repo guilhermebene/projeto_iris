@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.026739
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+12/03/2014 - Processo: 14.5.272.1.1
+
+
+Responsável:
+60467-1 Marie Anne van Sluys 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+chamado cht 262.319 data 10/2/2014
+
+
+ 
+ 
+
+
+Marca:
+proc. intel I5 2400
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+nota 3260
+Data:
+10/02/2014
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+126.699
+
+
+Assinatura Digital:
+
+

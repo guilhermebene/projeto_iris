@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.017056
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+20/04/2007 - Processo: 07.1.393.41.8
+
+
+Responsável:
+2801060-1 Marcio Roberto Costa Martins 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4368223
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Cisco
+Modelo:
+WS-C2950-24PR
+Tipo:
+10/100 24pt autosensing
+
+
+Doc.:
+nota fiscal
+Num.:
+231
+Data:
+18/04/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+M4 Sistemas de Computação Ltda.E.P.P.
+
+
+Identif:
+FOC1102W3WQ(A2) Rack B Eco
+
+
+Assinatura Digital:
+
+

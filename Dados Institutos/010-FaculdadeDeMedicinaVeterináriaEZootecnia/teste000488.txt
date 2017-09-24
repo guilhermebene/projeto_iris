@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.000488
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+13/04/1999 - Processo: 98.1.453.10.1
+
+
+Responsável:
+5007890-1 Claudinei Martins Casmal 
+
+
+Material:
+20753 - CENTRAL DE PABX                                                                                     
+
+
+Bem:
+53783
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAD                 - ASSISTÊNCIA TÉCNICA PARA ASSUNTOS ADMINISTRATIVOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Siemens
+Modelo:
+Hicom 300
+Tipo:
+Operadora AC2
+
+
+Doc.:
+nota fiscal
+Num.:
+236225, 236227, 236228, 250032
+Data:
+06/11/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Siemens S.A.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

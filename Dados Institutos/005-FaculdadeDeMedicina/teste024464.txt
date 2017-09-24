@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.024464
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+25/11/2016 - Processo: 16.1.10.5.4
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+7298510
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Dell
+Modelo:
+POWER EDGE R530
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+158
+Data:
+16/11/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Alamo Comércio Serviços. Assessoria e Consultoria Eireli-epp
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

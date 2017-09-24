@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007605
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+21/10/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+2449860-1 Regina Pires Moreira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5043530
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+CGRAD                - (INATIVO)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990MT
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM-PC
+
+
+Doc.:
+nota fiscal
+Num.:
+188
+Data:
+07/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL LTDA
+
+
+Identif:
+NS: 34668210925
+
+
+Assinatura Digital:
+
+

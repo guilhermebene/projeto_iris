@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001461
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+08/12/2000 - Processo: 97.1.310.41.5
+
+
+Responsável:
+293982-1 Adriana Hypolito Nogueira 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+15016
+Origem:
+Sispa               
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIBL                 - Biblioteca
+
+
+Complemento:
+   hub linkbuilder
+
+
+ 
+ 
+
+
+Marca:
+3Com
+Modelo:
+Super Stack II
+Tipo:
+FMS ll Hub10 12portas
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0100 7WRV 028615
+
+
+Assinatura Digital:
+
+

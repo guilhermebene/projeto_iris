@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000640
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+26/11/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+74319-1 Giovanni Guido Cerri 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+235776
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MDR                  - Departamento de Radiologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PLANET
+Modelo:
+DH-2,400
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+3180
+Data:
+23/11/1999
+
+
+Garantia:
+1 permanente
+
+
+Fornecedor:
+ETERNET INFORMATICA LTDA
+
+
+Identif:
+9900350
+
+
+Assinatura Digital:
+
+

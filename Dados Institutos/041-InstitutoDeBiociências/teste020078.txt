@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.020078
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+09/10/2009 - Processo: 09.5.325.70.5
+
+
+Responsável:
+86111-1 Eny Iochevet Segal Floh 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+up grade computador 041014685
+
+
+ 
+ 
+
+
+Marca:
+DvEMIC/CCE
+Modelo:
+proc intel core 2 duo
+Tipo:
+hdd 160 gb serial ata
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+1847/2009
+Data:
+04/08/2009
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+101866
+
+
+Assinatura Digital:
+
+

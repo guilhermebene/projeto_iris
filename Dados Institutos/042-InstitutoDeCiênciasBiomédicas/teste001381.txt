@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001381
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+19/04/2000 - Processo: 99.1.571.42.3
+
+
+Responsável:
+2918098-1 Marcia Pinto Alves Mayer 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+159360
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM Aptiva
+Modelo:
+Pentium III 2172 - 54 P
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+000421
+Data:
+17/11/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Net Comp Informática Ltda - Me
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000285
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+08/03/1999 - Processo: 97.1.728.41.0
+
+
+Responsável:
+412372-1 Eduardo Ascenco Reis 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+44962
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ATAD                 - Assistência Administrativa
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Digital AlphaServer
+Modelo:
+ PB 78B - AC
+Tipo:
+ 1000/A 5/400
+
+
+Doc.:
+declaração de importação
+Num.:
+ 98 / 0640181 - 6
+Data:
+02/07/1998
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Digital Equipment Corporation
+
+
+Identif:
+ NI 8200 9YKO
+
+
+Assinatura Digital:
+
+

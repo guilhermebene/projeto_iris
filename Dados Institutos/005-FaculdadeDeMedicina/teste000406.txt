@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000406
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+15/10/1999 - Processo: 97.1.366.1.1
+
+
+Responsável:
+92230-1 Roberto Zatz 
+
+
+Material:
+12831 - ANALISADOR BIOQUIMICO                                                                               
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCM-DNFL             - Disciplina de Nefrologia - Fisiopatologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MJ RSEARCH
+Modelo:
+PTC-100
+Tipo:
+HBA 1960
+
+
+Doc.:
+declaração de importação
+Num.:
+017042
+Data:
+27/08/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+16125
+
+
+Assinatura Digital:
+
+

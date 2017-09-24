@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001351
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+09/10/2000 - Processo: 00.1.604.41.2
+
+
+Responsável:
+40944-1 Antonio Salatino 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642819
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+    cpu doação antonio salatino    cafi
+
+
+ 
+ 
+
+
+Marca:
+ Troni
+Modelo:
+ 233Mhz
+Tipo:
+ Pentium
+
+
+Doc.:
+termo de doação
+Num.:
+ 
+Data:
+22/09/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ GM Ø5
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.005379
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+06/02/2003 - Processo: 03.1.113.42.0
+
+
+Responsável:
+3576422-1 Edson Goncalves de Araujo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+2123894
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+não consta
+Modelo:
+Pentium IV
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+003.394
+Data:
+05/02/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

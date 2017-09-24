@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.003916
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+02/07/2003 - Processo: 01.1.703.5.5
+
+
+Responsável:
+2088385-1 Francisco Vargas Suso 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MCP                  - Departamento de Cárdio-Pneumologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Compaq Proliant 1600
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+instrumento de convênio
+Num.:
+1376
+Data:
+06/07/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+F932CNJ11228
+
+
+Assinatura Digital:
+
+

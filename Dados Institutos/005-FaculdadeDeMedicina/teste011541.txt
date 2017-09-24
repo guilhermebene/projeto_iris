@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.011541
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+27/01/2010 - Processo: 10.1.87.5.1
+
+
+Responsável:
+89632-1 Jose Otavio Costa Auler Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4849590
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-INFO             - Núcleo de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Accept
+Modelo:
+DT500E
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+675
+Data:
+30/11/2009
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Acc Brasil ind. e Comercio de Computadores Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

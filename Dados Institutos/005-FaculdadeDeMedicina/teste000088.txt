@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000088
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+11/05/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+61621-1 Paulo Cesar Cotrim 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+59897
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+IMT                  - Instituto de Medicina Tropical
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+PHILIPS
+Modelo:
+104S
+Tipo:
+COLORIDO 14"
+
+
+Doc.:
+nota fiscal
+Num.:
+681
+Data:
+20/08/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SET STAR INFORMATICA LTDA ME
+
+
+Identif:
+SQ009830575570
+
+
+Assinatura Digital:
+
+

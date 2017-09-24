@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007728
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+21/11/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+2471066-1 Jose Fernando Nascimento dos Santos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5149851
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LCG                  - LABORATÓRIO E COMPUTAÇÃO GRÁFICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990MT
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+181
+Data:
+26/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSATION LINE BRASIL LTDA
+
+
+Identif:
+NS: 4148888365
+
+
+Assinatura Digital:
+
+

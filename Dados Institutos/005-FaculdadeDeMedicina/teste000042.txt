@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000042
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+20/04/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+83553-1 Amelia Pasqual Marques 
+
+
+Material:
+29068 - APARELHO CLÍNICO FISIOTERÁPICO                                                                      
+
+
+Bem:
+44652
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MFT-DFIS             - Disciplina de Fisioterapia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BIOSET
+Modelo:
+20AG
+Tipo:
+B
+
+
+Doc.:
+nota fiscal
+Num.:
+00304
+Data:
+20/04/1999
+
+
+Garantia:
+18 mes(es)
+
+
+Fornecedor:
+BIOSET IND. DE TECNOLOGIA ELETRONICALTDA ME
+
+
+Identif:
+9904011
+
+
+Assinatura Digital:
+
+

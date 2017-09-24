@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.023073
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+14/04/2015 - Processo: 15.1.334.5.3
+
+
+Responsável:
+2057178-1 Wu Tu Hsing 
+
+
+Material:
+354341 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+DIR-MNTINFO          - Manutenção de Equip. de Informática - Chico
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+FMUSP
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+01/15
+Data:
+04/03/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

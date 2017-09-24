@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007895
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+31/07/2012 - Processo: 12.1.543.16.4
+
+
+Responsável:
+3795114-1 Vancarlos Lima Sanches 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3008924
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+OPER-CUASO           - (Setor Operacional (FAU CUASO))
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ITAUTEC
+Modelo:
+INFOWAY ST 4255
+Tipo:
+MICROCOMPUTADOR COMPATIVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+174885
+Data:
+20/07/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ITAUTEC S.A
+
+
+Identif:
+NS: 4005676800044
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.002102
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+10/12/2003 - Processo: 03.1.1086.16.7
+
+
+Responsável:
+2471066-1 Jose Fernando Nascimento dos Santos 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+2823080
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFORMÁTICA          - SEÇÃO DE INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+TDI
+Modelo:
+Intel Xeon 2.40Ghz, 533Mhz, 512k
+Tipo:
+Super Server 7043P-i/17 torre
+
+
+Doc.:
+nota fiscal
+Num.:
+008249
+Data:
+08/12/2003
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Ivan Import Indústria Comércioe Importação Ltda.
+
+
+Identif:
+96S.1203.920
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007772
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+03/02/2012 - Processo: 11.1.2552.16.0
+
+
+Responsável:
+82785-1 Carlos Augusto Mattei Faggin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5225930
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LAB ARQ              - (Laboratório de Informatização de Acervo)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990 MINI TORRE
+Tipo:
+MICROCOMPUTADOR COMPATIVEL IBM
+
+
+Doc.:
+nota fiscal
+Num.:
+302
+Data:
+09/01/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL COMERCIO E SERV. INFORMATICA
+
+
+Identif:
+NS: 9209579185
+
+
+Assinatura Digital:
+
+

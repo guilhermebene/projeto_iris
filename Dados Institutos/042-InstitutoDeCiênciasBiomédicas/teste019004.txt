@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.019004
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+21/03/2011 - Processo: 10.5.316.70.8
+
+
+Responsável:
+2510851-1 Luciano Maciel 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3761100
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MANUTENÇÃO           - SEÇÃO DE OFICINA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+proc intel core 2 duo
+
+
+Doc.:
+nota fiscal
+Num.:
+2160
+Data:
+05/07/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

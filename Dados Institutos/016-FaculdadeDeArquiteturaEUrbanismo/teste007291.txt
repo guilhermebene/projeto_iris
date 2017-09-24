@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007291
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+12/07/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+132387-1 Artur Simões Rozestraten 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4969057
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LAME                 - LABORATÓRIO DE MODELOS E ENSAIOS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990
+Tipo:
+MICROCOMPUTADOR COMPATIVEL
+
+
+Doc.:
+nota fiscal
+Num.:
+188
+Data:
+30/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL
+
+
+Identif:
+NS: 27927685117
+
+
+Assinatura Digital:
+
+

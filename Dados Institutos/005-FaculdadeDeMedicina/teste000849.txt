@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000849
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+16/03/2000 - Processo: 00.1.10.5.9
+
+
+Responsável:
+79102-1 Dan Linetzky Waitzberg 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643742
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MGT                  - Departamento de Gastroenterologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AMD
+Modelo:
+486DX4
+Tipo:
+
+
+
+Doc.:
+instrumento de convênio
+Num.:
+02285/99
+Data:
+22/09/1999
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+1200
+
+
+Assinatura Digital:
+
+

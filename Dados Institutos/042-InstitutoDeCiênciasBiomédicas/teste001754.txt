@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001754
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+18/09/2000 - Processo: 98.1.402.42.6
+
+
+Responsável:
+49359-1 Luiz Eduardo Ribeiro do Valle 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643769
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BMB                  - DEPTO. DE FISIOLOGIA E BIOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MYTHUS
+Modelo:
+5233
+Tipo:
+BZ8423O047
+
+
+Doc.:
+nota fiscal
+Num.:
+55551
+Data:
+26/10/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROTEC SISTEMAS INDÚSTRIA E COMERCIO S/A
+
+
+Identif:
+CPU
+
+
+Assinatura Digital:
+
+

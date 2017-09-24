@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022806
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+03/06/2011 - Processo: 11.5.221.70.8
+
+
+Responsável:
+1748570-1 Rosario Petti 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BOT                  - Departamento de Botânica
+
+
+Complemento:
+upgrade 041004152
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC/CCE
+Modelo:
+HDD 500GB SATA
+Tipo:
+MEM DDR3 2GB
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2402/2011
+Data:
+16/05/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+111269
+
+
+Assinatura Digital:
+
+

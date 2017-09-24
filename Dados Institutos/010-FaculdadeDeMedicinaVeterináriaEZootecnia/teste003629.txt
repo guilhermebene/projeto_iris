@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.003629
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+12/04/2000 - Processo: 00.1.99.10.6
+
+
+Responsável:
+81547-1 Ricardo de Albuquerque 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642924
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+VNP                  - Veterinária de Nutrição e Produção Animal
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+CELERON 466
+Tipo:
+PENTIUM II
+
+
+Doc.:
+nota fiscal
+Num.:
+954
+Data:
+04/04/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+LPM Informática Comércio e Assistência Técnica Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

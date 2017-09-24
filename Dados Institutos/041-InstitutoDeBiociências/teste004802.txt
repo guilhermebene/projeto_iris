@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.004802
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+09/11/2004 - Processo: 02.1.802.41.0
+
+
+Responsável:
+65667-1 Pedro Gnaspini Netto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ GEO PC  Fapesp 00/04686-4
+Modelo:
+ P IV Intel Pentium 4150Mhz 128Mb Mem
+Tipo:
+ HD37Gb DVD Rom Grafico NVIDIA RIVA TNT2
+
+
+Doc.:
+termo de doação
+Num.:
+ TD 1135/2002 NF 128003/59187
+Data:
+17/05/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ Fapesp 00/04686-4 Gnaspini NP
+
+
+Assinatura Digital:
+
+

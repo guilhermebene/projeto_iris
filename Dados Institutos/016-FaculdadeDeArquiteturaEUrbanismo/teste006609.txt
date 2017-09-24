@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.006609
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+15/05/2009 - Processo: 09.1.367.3.6
+
+
+Responsável:
+2471066-1 Jose Fernando Nascimento dos Santos 
+
+
+Material:
+20729 - ESTAÇÃO DE TRABALHO                                                                                 
+
+
+Bem:
+
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LCG                  - LABORATÓRIO E COMPUTAÇÃO GRÁFICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+SUN
+Modelo:
+WORKSTATION
+Tipo:
+ESTAÇÃO DE TRABALHO
+
+
+Doc.:
+termo de doação
+Num.:
+713/2006
+Data:
+13/11/2006
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+NS: 906F2733
+
+
+Assinatura Digital:
+
+

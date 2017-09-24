@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+010.006974
+
+
+Unidade:
+10 - Faculdade de Medicina Veterinária e Zootecnia
+
+
+Incorporação:
+14/06/2002 - Processo: 02.1.861.10.7
+
+
+Responsável:
+79374-1 Francisco Javier Hernandez Blazquez 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+VCI                  - CIRURGIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Processador Intel Pentium IV
+Modelo:
+com 1.7Ghz
+Tipo:
+HD 40Gb, memória RAM 512Mb
+
+
+Doc.:
+nota fiscal
+Num.:
+964
+Data:
+12/06/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+The Best Informática Ltda.
+
+
+Identif:
+de série: 0836
+
+
+Assinatura Digital:
+
+

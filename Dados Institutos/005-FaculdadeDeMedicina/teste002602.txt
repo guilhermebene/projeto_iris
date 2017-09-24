@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.002602
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+08/04/2002 - Processo: 02.1.116.5.3
+
+
+Responsável:
+2438590-1 Jose Francisco dos Santos 
+
+
+Material:
+117188 - REGISTRADOR DE PULSO                                                                                
+
+
+Bem:
+1480839
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-MAN            - Manutenção
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Analo
+Modelo:
+URAR - 100
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+49
+Data:
+05/04/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Analo Sistemas de Energia Ltda
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.007287
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+06/07/2011 - Processo: 11.1.1064.16.1
+
+
+Responsável:
+5775859-1 Marcos Felipe de Oliveira 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5043530
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ATFIN                - (Assistência Técnica Financeira)
+
+
+Complemento:
+ 
+
+
+ 
+ 
+
+
+Marca:
+DELL
+Modelo:
+OPTIPLEX 990 MT
+Tipo:
+MICROCOMPUTADOR MINI TORRE
+
+
+Doc.:
+nota fiscal
+Num.:
+181
+Data:
+27/06/2011
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+TRANSACTION LINE BRASIL COMERCIO E SERV. INFORMATICA
+
+
+Identif:
+NS: 10400512429
+
+
+Assinatura Digital:
+
+

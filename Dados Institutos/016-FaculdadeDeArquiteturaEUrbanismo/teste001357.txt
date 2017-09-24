@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.001357
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+19/10/2001 - Processo: 01.1.656.16.2
+
+
+Responsável:
+1398156-1 Marcelo Eduardo Giacaglia 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1159607
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+LCG                  - LABORATÓRIO E COMPUTAÇÃO GRÁFICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Future
+Modelo:
+Pentium III 800 Mhz
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+001498
+Data:
+15/10/2001
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Infobrás Informática do Brasil Ltda.
+
+
+Identif:
+030690
+
+
+Assinatura Digital:
+
+

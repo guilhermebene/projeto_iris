@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000469
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+22/06/1999 - Processo: 99.1.268.41.0
+
+
+Responsável:
+64986-1 Sergio Tadeu Meirelles 
+
+
+Material:
+43524 - CONVERSOR ANALÓGICO DIGITAL                                                                         
+
+
+Bem:
+85081
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+ Proap 98
+
+
+ 
+ 
+
+
+Marca:
+ Pico Technology Limited
+Modelo:
+ ADC-22
+Tipo:
+ Analogical Digital Converter
+
+
+Doc.:
+nota fiscal
+Num.:
+  3379
+Data:
+04/05/1999
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 22 Channel DA Logger
+
+
+Assinatura Digital:
+
+

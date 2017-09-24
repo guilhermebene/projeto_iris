@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.024778
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+24/04/2017 - Processo: 17.1.2.69.9
+
+
+Responsável:
+1953645-1 Roger Chammas 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5187257
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+MDR-ONCO             - Disciplina de Oncologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Itautec
+Modelo:
+St4255+Win7
+Tipo:
+Infoway (400)
+
+
+Doc.:
+nota fiscal
+Num.:
+000214384
+Data:
+15/05/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+7191900084
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000024
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+07/04/1999 - Processo: 99.1.190.5.5
+
+
+Responsável:
+2991320-1 Suely Kazue Nagahashi Marie 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+51233
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MNE                  - Departamento de Neurologia
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+portswich
+Modelo:
+3c16406-3com
+Tipo:
+24 porta
+
+
+Doc.:
+nota fiscal
+Num.:
+002640
+Data:
+22/02/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Eternet Informatica Ltda
+
+
+Identif:
+ktss17a3d48
+
+
+Assinatura Digital:
+
+

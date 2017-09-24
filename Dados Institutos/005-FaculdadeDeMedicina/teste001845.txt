@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.001845
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+05/06/2001 - Processo: 01.1.8.5.5
+
+
+Responsável:
+69247-1 Newton Kara Jose 
+
+
+Material:
+45624 - MICROCOMPUTADOR COMPATÍVEL IBM/PC/AT                                                                
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MOF                  - Departº de Oftalmologia e Otorrinolaringologia
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ASA COMPUTER
+Modelo:
+SX-386 25MHZ
+Tipo:
+ 
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+4113750
+
+
+Assinatura Digital:
+
+

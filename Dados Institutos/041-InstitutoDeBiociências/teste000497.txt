@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000497
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+15/07/1999 - Processo: 99.1.251.41.0
+
+
+Responsável:
+2456110-1 Yoco Sakamoto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642924
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+COMP                 - Seção de Compras
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ V T C Computer
+Modelo:
+ Pentium ll 350Mhz
+Tipo:
+ Intel Inside Processor
+
+
+Doc.:
+nota fiscal
+Num.:
+ 60
+Data:
+14/07/1999
+
+
+Garantia:
+24 mes(es)
+
+
+Fornecedor:
+ RRJ Comércio de Equipamentos Ltda - ME
+
+
+Identif:
+ personalizado
+
+
+Assinatura Digital:
+
+

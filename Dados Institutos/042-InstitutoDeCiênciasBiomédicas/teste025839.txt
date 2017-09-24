@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.025839
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+11/04/2016 - Processo: 14.1.674.42.2
+
+
+Responsável:
+55158-1 Carlos Frederico Martins Menck 
+
+
+Material:
+208817 - SISTEMA DE SEQUENCIAMENTO DE ÁCIDOS NUCLÉICOS                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ILLUMINA
+Modelo:
+MISEQ2 C/ COMPUTADOR, MONITOR TOUCH SCRE
+Tipo:
+INTEGRADO AUTOMATIZADO
+
+
+Doc.:
+termo de doação
+Num.:
+01809/2014, FAPESP: 12/25387-2
+Data:
+10/07/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

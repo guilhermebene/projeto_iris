@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.013606
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+22/03/2011 - Processo: 02.1.359.69.0
+
+
+Responsável:
+2460352-1 Maria Fazanelli Crestana 
+
+
+Material:
+87408 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+4765710
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SBD                  - Serviço de Biblioteca e Documentação
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CIPHERLAB
+Modelo:
+CPT 8100L
+Tipo:
+Coletor Dado
+
+
+Doc.:
+nota fiscal
+Num.:
+000.034.993
+Data:
+25/02/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0000677
+
+
+Assinatura Digital:
+
+

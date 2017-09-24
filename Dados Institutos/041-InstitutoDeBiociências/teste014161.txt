@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.014161
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+22/09/2006 - Processo: 06.1.1267.41.5
+
+
+Responsável:
+2154062-1 Ricardo Hideki Nonaka 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+4173660
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+1079470
+
+
+ 
+ 
+
+
+Marca:
+Linksys
+Modelo:
+WRT54G-LA Acess Point
+Tipo:
+Wireless Internet s/fio
+
+
+Doc.:
+nota fiscal
+Num.:
+ 8003 Excelbyt
+Data:
+21/09/2006
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ Excelbyt Comércio e Serviços de Informática Ltda
+
+
+Identif:
+CDFB1F8Ø6817
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.022338
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+31/01/2011 - Processo: 11.5.31.70.4
+
+
+Responsável:
+2086296-1 Sergio Luiz de Siqueira Bueno 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Fabricação Própria  
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ZOO                  - Departamento de Zoologia
+
+
+Complemento:
+up grade 41010953
+
+
+ 
+ 
+
+
+Marca:
+DVEMIC/CCE
+Modelo:
+Proc.intel core 2 Duo
+Tipo:
+HDD 500GB SATA
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+2323/2010
+Data:
+17/01/2011
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+108707
+
+
+Assinatura Digital:
+
+

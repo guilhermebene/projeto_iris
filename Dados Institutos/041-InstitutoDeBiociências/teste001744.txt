@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001744
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+03/07/2001 - Processo: 01.1.13364.1.7
+
+
+Responsável:
+2760808-1 Maurici de Souza 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3766667
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+REPR                 - Seção de Reprografia
+
+
+Complemento:
+   transferido p/reprografia(maurici) a pedido (helder) 18/10/06
+
+
+ 
+ 
+
+
+Marca:
+ Acer Power Sx
+Modelo:
+ SX000SMT
+Tipo:
+ PIII 700Mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+  081001
+Data:
+30/04/2001
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 6778 AB
+
+
+Assinatura Digital:
+
+

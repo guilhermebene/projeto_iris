@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.024329
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+21/10/2014 - Processo: 14.1.374.42.9
+
+
+Responsável:
+1350218-1 Paolo Marinho de Andrade Zanotto 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+IBM
+Modelo:
+X3100 M4 C/ PROC. INTEL XEON E3-1220V2
+Tipo:
+SERVIDOR C/ 4GB MEM E HD DE 500GB
+
+
+Doc.:
+termo de doação
+Num.:
+00800/2014, FAPESP: 10/19341-4
+Data:
+10/04/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

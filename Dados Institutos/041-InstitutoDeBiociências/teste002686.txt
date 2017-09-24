@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002686
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+20/07/2002 - Processo: 02.1.101.41.2
+
+
+Responsável:
+3570875-1 Rui Sergio Sereni Murrieta 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163205
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ MB MRL
+Modelo:
+ P MMX 200Mhz
+Tipo:
+ Pentium Intel Inside
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 881/2001
+Data:
+08/05/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ Fapesp 97/07899-4
+
+
+Assinatura Digital:
+
+

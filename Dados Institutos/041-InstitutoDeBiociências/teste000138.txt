@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000138
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+27/11/1998 - Processo: 98.1.671.41.9
+
+
+Responsável:
+2492017-1 Reynaldo Cezar Marson 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+642924
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ATAD                 - Assistência Administrativa
+
+
+Complemento:
+ processador - cpu    cafi
+
+
+ 
+ 
+
+
+Marca:
+ Byte On
+Modelo:
+ C 300B 32
+Tipo:
+ Convex  Excellence 32
+
+
+Doc.:
+nota fiscal
+Num.:
+ 939
+Data:
+26/11/1998
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ Micromax Comércio e Serviços em Informática Ltda
+
+
+Identif:
+ V X 0013750
+
+
+Assinatura Digital:
+
+

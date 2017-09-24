@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001528
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+03/08/2000 - Processo: 00.1.404.42.1
+
+
+Responsável:
+85260-1 Ii Sei Watanabe 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+632333
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMA                  - DEPTO. DE  ANATOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Net Basic
+Modelo:
+Pentium II 266mhz
+Tipo:
+mini torre
+
+
+Doc.:
+nota fiscal
+Num.:
+000538
+Data:
+26/07/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Net Comp Informática Ltda
+
+
+Identif:
+microcomputador
+
+
+Assinatura Digital:
+
+

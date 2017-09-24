@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.001228
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+21/02/2000 - Processo: 99.1.462.42.0
+
+
+Responsável:
+2088812-1 Benedito Correa 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+26212
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BMM                  - DEPTO. DE MICROBIOLOGIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Acer
+Modelo:
+512dx
+Tipo:
+notebook
+
+
+Doc.:
+nota fiscal
+Num.:
+000405
+Data:
+23/09/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Net Comp.Informatica ltda - me
+
+
+Identif:
+9145C0180492800162K
+
+
+Assinatura Digital:
+
+

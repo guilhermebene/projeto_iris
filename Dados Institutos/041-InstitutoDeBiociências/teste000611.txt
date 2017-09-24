@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.000611
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+31/08/1999 - Processo: 93.5.1377.1.0
+
+
+Responsável:
+54272-1 Lyria Mori 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+642800
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Asa Computer
+Modelo:
+ 386 SX 25MHZ
+Tipo:
+ BID USP
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+ 410 2851
+
+
+Assinatura Digital:
+
+

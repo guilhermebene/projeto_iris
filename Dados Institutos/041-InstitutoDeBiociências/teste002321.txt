@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002321
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+09/05/2002 - Processo: 01.1.690.41.7
+
+
+Responsável:
+2801060-1 Marcio Roberto Costa Martins 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1163183
+Origem:
+Doação              
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ECO                  - Departamento de Ecologia
+
+
+Complemento:
+  cpu
+
+
+ 
+ 
+
+
+Marca:
+ Compaq
+Modelo:
+ Presario 4550
+Tipo:
+ P233Mhz software+acess
+
+
+Doc.:
+termo de doação
+Num.:
+   TD 1125/2001
+Data:
+08/06/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ F 81Ø BSW 6Ø445
+
+
+Assinatura Digital:
+
+

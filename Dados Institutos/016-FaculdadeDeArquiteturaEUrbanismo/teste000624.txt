@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+016.000624
+
+
+Unidade:
+16 - Faculdade de Arquitetura e Urbanismo
+
+
+Incorporação:
+29/09/1999 - Processo: 99.1.441.16.3
+
+
+Responsável:
+2473012-1 Francisco das Chagas Rebelo 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1199137
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+STPATR               - (Setor de Patrimônio)
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DFI
+Modelo:
+Pentium 100 Mhz
+Tipo:
+mini torre
+
+
+Doc.:
+declaração de importação
+Num.:
+302.275
+Data:
+17/02/1993
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Novadata Sist. E Computadores S.A.
+
+
+Identif:
+11524
+
+
+Assinatura Digital:
+
+

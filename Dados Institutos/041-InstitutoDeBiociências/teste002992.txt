@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.002992
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+21/10/2002 - Processo: 93.1.11824.1.2
+
+
+Responsável:
+2777967-1 Walter da Silva Cruz 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+
+Origem:
+Sispa               
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+PRÓ-ALUNO            - Salas Pró-Aluno
+
+
+Complemento:
+    cpu      cafi
+
+
+ 
+ 
+
+
+Marca:
+ ASA COMPUTER
+Modelo:
+ 386-SX
+Tipo:
+ IB
+
+
+Doc.:
+Sem Documento Fiscal
+Num.:
+
+Data:
+
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+CDB COMPUTADORES S.A/ASA COMP.
+
+
+Identif:
+ 4114668
+
+
+Assinatura Digital:
+
+

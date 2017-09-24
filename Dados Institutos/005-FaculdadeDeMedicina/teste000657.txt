@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.000657
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+19/01/2000 - Processo: 99.1.480.5.3
+
+
+Responsável:
+2611012-1 Waldemir Aparecido Olivieri 
+
+
+Material:
+6157 - AUTOMÓVEL PERUA                                                                                     
+
+
+Bem:
+
+Origem:
+Convênio            
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ATAAD-TPT            - Transporte
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+VOLKSWAGEM
+Modelo:
+STANDART
+Tipo:
+MOD97  PLCACHR9316
+
+
+Doc.:
+nota fiscal
+Num.:
+57389
+Data:
+06/03/1997
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+021 2310 STD 024
+
+
+Assinatura Digital:
+
+

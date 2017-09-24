@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.012196
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+29/05/2008 - Processo: 07.1.1278.42.6
+
+
+Responsável:
+3576422-1 Edson Goncalves de Araujo 
+
+
+Material:
+48151 - IMPRESSORA ETIQUETAS DE CÓDIGO DE BARRAS                                                            
+
+
+Bem:
+3072789
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCINFOR              - Seção de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+
+Modelo:
+IMPRESSORA
+Tipo:
+CODIGO DE BARRA
+
+
+Doc.:
+nota fiscal
+Num.:
+33109
+Data:
+06/09/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MAQUIMP
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

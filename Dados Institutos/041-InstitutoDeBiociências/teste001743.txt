@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.001743
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+03/07/2001 - Processo: 01.1.13364.1.7
+
+
+Responsável:
+1079470-1 Gustavo Polillo Correa 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+963844
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+INFOR                - Seção de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ Acer Power Sx
+Modelo:
+ SX000SMT
+Tipo:
+ Plll 700mhz
+
+
+Doc.:
+nota fiscal
+Num.:
+ 081001
+Data:
+30/04/2001
+
+
+Garantia:
+36 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 6759 AB
+
+
+Assinatura Digital:
+
+

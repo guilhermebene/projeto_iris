@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+042.006702
+
+
+Unidade:
+42 - Instituto de Ciências Biomédicas
+
+
+Incorporação:
+13/05/2004 - Processo: 03.1.1705.42.8
+
+
+Responsável:
+357422-1 Ana Maria Azevedo Figueiredo de Souza 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+2763192
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SIAD                 - SERVIÇO  DE  INFORMÁTICA E ANÁLISE DE DADOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+
+Modelo:
+
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+002226
+Data:
+24/11/2003
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+Teix Comercial Ltda.
+
+
+Identif:
+Servidor Supra Server
+
+
+Assinatura Digital:
+
+

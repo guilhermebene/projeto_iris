@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.007018
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+13/06/2005 - Processo: 05.1.574.70.4
+
+
+Responsável:
+80866-1 Carlos Ribeiro Vilela 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3605167
+Origem:
+Fabricação Própria  
+Situação:
+Baixado        
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ CCE DvEMIC CHT 88795
+Modelo:
+ P4 HD 40Gb IDE 256DDR
+Tipo:
+ Sempron 2200+ Gab ATX
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+ 78/2005 CCE DvEMIC
+Data:
+16/03/2005
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ 43117 Seale DMP
+
+
+Assinatura Digital:
+
+

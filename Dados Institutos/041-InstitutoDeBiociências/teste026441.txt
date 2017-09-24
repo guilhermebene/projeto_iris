@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+041.026441
+
+
+Unidade:
+41 - Instituto de Biociências
+
+
+Incorporação:
+28/01/2014 - Processo: 13.1.1537.41.0
+
+
+Responsável:
+2555945-1 Gabriel Henrique Marroig Zambonato 
+
+
+Material:
+108634 - SERVIDOR DE BANCO DE DADOS                                                                          
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+BIO                  - DEPARTAMENTO DE GENÉTICA E BIOLOGIA EVOLUTIVA - BI
+
+
+Complemento:
+fapesp 11/14295-7
+
+
+ 
+ 
+
+
+Marca:
+ibm
+Modelo:
+x3850
+Tipo:
+servidor c/switch mod j22e-24
+
+
+Doc.:
+termo de doação
+Num.:
+td 3384/2013
+Data:
+21/10/2013
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

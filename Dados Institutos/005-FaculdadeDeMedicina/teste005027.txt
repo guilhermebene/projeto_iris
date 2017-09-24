@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+005.005027
+
+
+Unidade:
+5 - Faculdade de Medicina
+
+
+Incorporação:
+02/08/2005 - Processo: 05.1.503.70.0
+
+
+Responsável:
+36233-1 Carlos Eduardo Pereira Corbett 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+MPT-DHMGP            - Disciplina de Hemoglobinopatias
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ATX
+Modelo:
+Athlon 2600+
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+003Dvemic/CCe
+Data:
+06/01/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
