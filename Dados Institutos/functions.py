@@ -5,3 +5,25 @@ def procurarNomes(unidade):
     nomes.close()
 
     return nome
+
+def procurarNoArquivo(arquivo, texto):
+    linhas = arquivo.readlines()
+    achou = False
+    for linha in linhas:
+        if texto in linha:
+            i = linhas.index(linha)
+            linhaSeguinte = linhas[i+1].rstrip()
+            achou = True
+            break
+    if achou:
+        return linhaSeguinte
+    else:
+        return "Erro"
+
+def procurarResponsavel(arquivo):
+    linhaResponsavel = procurarNoArquivo(arquivo, 'Responsável')
+    linhaResponsavel = linhaResponsavel.split()
+    linhaResponsavel.remove(linhaResponsavel[0])
+    linhaResponsavel = " ".join(linhaResponsavel)
+
+    return linhaResponsavel
