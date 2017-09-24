@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.020110
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+27/11/2015 - Processo: 15.1.573.14.7
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+354813 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+
+Tipo:
+HP 5130 48G PoE 4SFP + EI
+
+
+Doc.:
+nota fiscal
+Num.:
+000.001.522
+Data:
+25/09/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN59GQ01T3
+
+
+Assinatura Digital:
+
+

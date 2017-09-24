@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020112
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+27/11/2015 - Processo: 15.1.573.14.7
+
+
+Responsável:
+3055000-1 Cristina Gonsalez Juliani 
+
+
+Material:
+354813 - SWITCH                                                                                              
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HP
+Modelo:
+5120 48G PoE + EI with 2 interface slots
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+000.001.524
+Data:
+28/09/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CN38F5Z0Z6
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+39192
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FUSP       - Fundação de Apoio à Universidade de São Paulo
+

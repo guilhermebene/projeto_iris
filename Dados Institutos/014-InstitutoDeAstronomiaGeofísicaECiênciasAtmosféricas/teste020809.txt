@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020809
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+05/07/2017 - Processo: 17.1.450.14.4
+
+
+Responsável:
+2151041-1 Edmilson Dias de Freitas 
+
+
+Material:
+479969 - SISTEMA INTEGRADO SERVIDOR, STORAGE E REDE                                                          
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+SGI C2112 GP2 xeon 3640v4
+Tipo:
+Servidor intel xeon 64GB DDR4  2400MHZ
+
+
+Doc.:
+declaração de importação
+Num.:
+16/1791349-0
+Data:
+11/11/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+41941
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.020840
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+17/08/2017 - Processo: 17.1.484.14.6
+
+
+Responsável:
+5661762-1 Jean Rafael Romão Peres 
+
+
+Material:
+354406 - MICROPROCESSADOR PARA PC                                                                            
+
+
+Bem:
+8313245
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+INTEL
+Modelo:
+XEON E5 2620
+Tipo:
+MICROPROCESSADOR PARA PC
+
+
+Doc.:
+nota fiscal
+Num.:
+000.119
+Data:
+14/08/2017
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+GTF INFORMATICA COMERCIO E ASSISTENCIA TECNICA - EIRELI ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

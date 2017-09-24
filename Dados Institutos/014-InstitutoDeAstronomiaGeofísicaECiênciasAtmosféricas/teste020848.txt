@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020848
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+28/08/2017 - Processo: 11.1.939.14.8
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+SERVIDOR SGI GP3
+Tipo:
+SERVIDOR
+
+
+Doc.:
+declaração de importação
+Num.:
+17/1421831-9
+Data:
+23/08/2017
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+27835
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

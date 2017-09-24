@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020302
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+10/06/2016 - Processo: 16.1.203.14.6
+
+
+Responsável:
+3358130-1 Danilo Cezar Zanella 
+
+
+Material:
+65005 - FREQUENCÍMETRO                                                                                      
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+RBCI Instrumentos
+Modelo:
+Frequencimetro/Temporizador 53230A
+Tipo:
+Universal de 350 MHZ, 12 dígitos/s, 20PS
+
+
+Doc.:
+nota fiscal
+Num.:
+1464
+Data:
+10/03/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SN: MY50010272
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+40098
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

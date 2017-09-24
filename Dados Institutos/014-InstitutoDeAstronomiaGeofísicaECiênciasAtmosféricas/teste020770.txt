@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020770
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+12/06/2017 - Processo: 15.1.339.14.4
+
+
+Responsável:
+52965-1 Elisabete Maria de Gouveia Dal Pino 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Silicon Graphics
+Modelo:
+SG1-IB
+Tipo:
+Servidor SFI Infiniband Network um plata
+
+
+Doc.:
+declaração de importação
+Num.:
+17/0870.097-0
+Data:
+30/05/2017
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+38443
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

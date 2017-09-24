@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020790
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+28/06/2017 - Processo: 17.1.268.14.1
+
+
+Responsável:
+1670981-1 Rosmeri Porfirio da Rocha 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EXCELL
+Modelo:
+XEON E5-2660V4
+Tipo:
+SUPERMICRO STORAGE
+
+
+Doc.:
+nota fiscal
+Num.:
+000003244
+Data:
+27/06/2017
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+41917
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

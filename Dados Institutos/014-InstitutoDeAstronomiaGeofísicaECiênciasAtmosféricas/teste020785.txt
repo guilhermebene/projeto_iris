@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.020785
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+23/06/2017 - Processo: 13.1.638.14.0
+
+
+Responsável:
+1678777-1 Ricardo Ivan Ferreira da Trindade 
+
+
+Material:
+215694 - MULTI-SENSOR                                                                                        
+
+
+Bem:
+5481210
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+NAPE Geosedex  Prof. Wilson Teixeira do IGc - Instituto de Geociências
+
+
+ 
+ 
+
+
+Marca:
+Geotek
+Modelo:
+MSCL-S
+Tipo:
+Multisensor Core logger e fonte radiotat
+
+
+Doc.:
+declaração de importação
+Num.:
+14/0665934-9 e 16/1645624-0
+Data:
+19/10/2016
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Geotek Ltd
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

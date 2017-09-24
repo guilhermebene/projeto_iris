@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020772
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+12/06/2017 - Processo: 17.1.371.14.7
+
+
+Responsável:
+1670981-1 Rosmeri Porfirio da Rocha 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+XEON
+Modelo:
+E2620V4/MB SPM
+Tipo:
+Intel xeon X10DRI/16GB
+
+
+Doc.:
+nota fiscal
+Num.:
+000.002.744
+Data:
+16/08/2016
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+41850
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+CNPq       - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+

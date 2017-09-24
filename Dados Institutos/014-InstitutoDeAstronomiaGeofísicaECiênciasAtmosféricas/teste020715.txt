@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020715
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+19/04/2017 - Processo: 16.1.203.14.6
+
+
+Responsável:
+86581-1 Amauri Pereira de Oliveira 
+
+
+Material:
+131873 - COLETOR DE DADOS                                                                                    
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Campbell Scientific, Inc.
+Modelo:
+CR 1000-ST-SW-NC
+Tipo:
+Coletor com interface multidrop RS485
+
+
+Doc.:
+declaração de importação
+Num.:
+17/0497414-5
+Data:
+28/03/2017
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+83361
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+40098
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

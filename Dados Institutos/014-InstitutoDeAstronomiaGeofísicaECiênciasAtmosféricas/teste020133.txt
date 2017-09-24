@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020133
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+16/06/2016 - Processo: 11.1.644.14.8
+
+
+Responsável:
+57122-1 Maria de Fatima Andrade 
+
+
+Material:
+141208 - STORAGE ARRAY                                                                                       
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+XEON
+Modelo:
+E52620V3
+Tipo:
+STORAGE XEON E5 2620V3
+
+
+Doc.:
+nota fiscal
+Num.:
+000.002.522
+Data:
+26/11/2015
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Doação              
+
+
+Código:
+26572
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

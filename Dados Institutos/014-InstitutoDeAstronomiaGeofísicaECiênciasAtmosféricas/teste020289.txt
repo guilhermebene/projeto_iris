@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020289
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+01/06/2016 - Processo: 16.1.203.14.6
+
+
+Responsável:
+44097-1 Marcelo Sousa de Assumpcao 
+
+
+Material:
+105279 - MAGNETÔMETRO                                                                                        
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+GLOBAL MAG
+Modelo:
+MEDIDOR DE CAMPO MAGNETICO PULSADO
+Tipo:
+TLMP-FX-CP
+
+
+Doc.:
+nota fiscal
+Num.:
+000964
+Data:
+19/04/2016
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+160407
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+40098
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

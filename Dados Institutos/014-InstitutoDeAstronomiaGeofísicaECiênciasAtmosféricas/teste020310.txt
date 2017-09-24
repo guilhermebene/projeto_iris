@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020310
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+13/06/2016 - Processo: 16.1.203.14.6
+
+
+Responsável:
+1678777-1 Ricardo Ivan Ferreira da Trindade 
+
+
+Material:
+105279 - MAGNETÔMETRO                                                                                        
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Applied Physics Systems
+Modelo:
+Cod 160-1653 520 3-Axis Fluxgate
+Tipo:
+Magnet. s/ sistema vert. sonda cilindric
+
+
+Doc.:
+declaração de importação
+Num.:
+1608174656
+Data:
+31/05/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SN 1149
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+40098
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020766
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+12/06/2017 - Processo: 17.1.371.14.7
+
+
+Responsável:
+1670981-1 Rosmeri Porfirio da Rocha 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ 
+Modelo:
+XEON E5-2683V4
+Tipo:
+Server dual 128GB 8HDXTB supermicro
+
+
+Doc.:
+nota fiscal
+Num.:
+2.858
+Data:
+15/06/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+41850
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+CNPq       - Conselho Nacional de Desenvolvimento Científico e Tecnológico
+

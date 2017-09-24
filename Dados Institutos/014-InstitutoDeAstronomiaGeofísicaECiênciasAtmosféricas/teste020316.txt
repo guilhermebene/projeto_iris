@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020316
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+12/05/2017 - Processo: 17.1.331.14.5
+
+
+Responsável:
+76221-1 Ramachrisna Teixeira 
+
+
+Material:
+183911 - SERVIDOR DE APLICAÇÃO                                                                               
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+UV30 04CPUS INTEL XEON LSV
+Tipo:
+SERVIDOR INTEL XEON 1024 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+16/08558052-2
+Data:
+07/06/2016
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+DISCO RIGIDO A00AB5F7
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Doação              
+
+
+Código:
+38186
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

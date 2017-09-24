@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020860
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+11/09/2017 - Processo: 17.1.268.14.1
+
+
+Responsável:
+2151041-1 Edmilson Dias de Freitas 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+EXCELL
+Modelo:
+XEON E5-2660V4
+Tipo:
+SUPERMICRO
+
+
+Doc.:
+nota fiscal
+Num.:
+000003317
+Data:
+31/08/2017
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+C82500A12L40081
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+41917
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

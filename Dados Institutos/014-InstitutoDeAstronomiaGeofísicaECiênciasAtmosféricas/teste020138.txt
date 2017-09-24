@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.020138
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+10/12/2015 - Processo: 15.1.765.14.3
+
+
+Responsável:
+95000-1 Claudia Lucia Mendes de Oliveira 
+
+
+Material:
+354350 - SERVIDOR                                                                                            
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+FAPESP Nº 14/07684-5 Doação nº 02715/15
+
+
+ 
+ 
+
+
+Marca:
+SUPER MICRO
+Modelo:
+SYS-7046T-NTR+
+Tipo:
+2 Proc intel xeon E5540 quad-core 2x16GB
+
+
+Doc.:
+nota fiscal
+Num.:
+Invoice SQ-133929
+Data:
+11/06/2014
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

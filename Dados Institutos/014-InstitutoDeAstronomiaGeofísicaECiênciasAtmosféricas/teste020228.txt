@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.020228
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+21/03/2016 - Processo: 16.1.202.14.0
+
+
+Responsável:
+44097-1 Marcelo Sousa de Assumpcao 
+
+
+Material:
+196967 - SISTEMA DE ARMAZENAMENTO DE DADOS                                                                   
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Nanometrics
+Modelo:
+
+Tipo:
+3 canais 24-BIT centauro DAS
+
+
+Doc.:
+declaração de importação
+Num.:
+16/0378608-4
+Data:
+11/03/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+1560
+
+
+Assinatura Digital:
+
+

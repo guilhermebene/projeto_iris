@@ -29,7 +29,7 @@ def procurarResponsavel(arquivo):
 
     return linhaResponsavel
 
-def procurarRepeticao(arquivo, texto): #retorna True se texto repete e False se não
+def procurarRepeticao(arquivo, texto): #retorna True se o texto repete e False se não
     linhas = arquivo.readlines()
     achou = False
     for linha in linhas:
@@ -37,6 +37,3 @@ def procurarRepeticao(arquivo, texto): #retorna True se texto repete e False se 
             achou = True
             break
     return achou
-
-teste = open('CebiMar-030/teste000002.txt', 'r')
-print(procurarResponsavel(teste))

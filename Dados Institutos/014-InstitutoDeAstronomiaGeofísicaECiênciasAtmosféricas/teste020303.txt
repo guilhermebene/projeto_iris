@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020303
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+10/06/2016 - Processo: 16.1.203.14.6
+
+
+Responsável:
+3358130-1 Danilo Cezar Zanella 
+
+
+Material:
+328286 - GERADOR                                                                                             
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGA                  - DEPARTAMENTO DE ASTRONOMIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+RCBI Instrumentos
+Modelo:
+N9310A
+Tipo:
+GERADOR DE SINAIS DE RADIOFREQ
+
+
+Doc.:
+nota fiscal
+Num.:
+1464
+Data:
+10/03/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+SN: CN0116B114
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+40098
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+

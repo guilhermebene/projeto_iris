@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.020850
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+30/08/2017 - Processo: 17.1.572.14.2
+
+
+Responsável:
+3076992-1 Jorge Luis Porsani 
+
+
+Material:
+484849 - SISTEMAS DE AQUISIÇÃO DE DADOS GEOFÍSICOS ELETROMAGNÉTICOS - GPR                                    
+
+
+Bem:
+
+Origem:
+Bens de Terceiros O 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+AGG                  - DEPARTAMENTO DE GEOFÍSICA
+
+
+Complemento:
+EQUIPAMENTO ADIQUIRIDO PELA PETROBRAS
+
+
+ 
+ 
+
+
+Marca:
+System Settings
+Modelo:
+DC-3000/1100
+Tipo:
+GPR  3207
+
+
+Doc.:
+nota fiscal
+Num.:
+024784
+Data:
+24/05/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+0445
+
+
+Assinatura Digital:
+
+

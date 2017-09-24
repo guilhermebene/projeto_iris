@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+014.020479
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+10/10/2016 - Processo: 15.1.573.14.7
+
+
+Responsável:
+6638854-1 Roger Martins de Lima 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+SCINFOR-14           - (SEÇÃO TÉCNICA DE INFORMÁTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Cisco
+Modelo:
+Sem fio 802.11ac
+Tipo:
+Ctrlr-based AP 3X3:2SS;Int Ant.
+
+
+Doc.:
+nota fiscal
+Num.:
+000.000.701
+Data:
+26/09/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

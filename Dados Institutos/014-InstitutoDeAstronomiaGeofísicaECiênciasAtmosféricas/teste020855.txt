@@ -1,0 +1,101 @@
+
+
+Patrimônio:
+014.020855
+
+
+Unidade:
+14 - Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+
+
+Incorporação:
+04/09/2017 - Processo: 17.1.268.14.1
+
+
+Responsável:
+57790-1 Tercio Ambrizzi 
+
+
+Material:
+115436 - CLUSTER                                                                                             
+
+
+Bem:
+
+Origem:
+Bens de Terceiros C 
+Situação:
+Ativo          
+
+
+Utilização:
+Individual
+
+
+Localização física 
+ACA                  - DEPARTAMENTO DE CIÊNCIAS ATMOSFÉRICAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SGI
+Modelo:
+INTEL XEON 2630v4
+Tipo:
+cluster
+
+
+Doc.:
+declaração de importação
+Num.:
+17/1170274
+Data:
+17/07/2017
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+
+
+ 
+
+
+Bens de Terceiros C 
+
+
+Código:
+41917
+Número:
+
+Sigla:
+
+
+
+Processo:
+
+Tipo:
+10 - Auxílio Individual
+
+
+Órgão:
+FAPESP     - Fundação de Amparo à Pesquisa do Estado de São Paulo
+
