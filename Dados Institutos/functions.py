@@ -28,3 +28,15 @@ def procurarResponsavel(arquivo):
     linhaResponsavel = " ".join(linhaResponsavel)
 
     return linhaResponsavel
+
+def procurarRepeticao(arquivo, texto): #retorna True se texto repete e False se não
+    linhas = arquivo.readlines()
+    achou = False
+    for linha in linhas:
+        if texto in linha:
+            achou = True
+            break
+    return achou
+
+teste = open('CebiMar-030/teste000002.txt', 'r')
+print(procurarResponsavel(teste))
