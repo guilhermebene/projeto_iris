@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.021646
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+20/09/2002 - Processo: 02.1.15749.1.4
+
+
+Responsável:
+2423221-1 Sergio Carlos Celestini 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1430599
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+Post-ATSeriesJ
+Tipo:
+Athon - AMD 1.333 MHZ- 40 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+88856
+Data:
+06/05/2002
+
+
+Garantia:
+48 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+130924
+
+
+Assinatura Digital:
+
+

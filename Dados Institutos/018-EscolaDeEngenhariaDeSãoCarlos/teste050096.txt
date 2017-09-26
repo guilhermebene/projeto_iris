@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.050096
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+02/12/2010 - Processo: 07.1.1418.55.4
+
+
+Responsável:
+1235136-1 Paulo Celso Greco Junior 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Intel Xeon Quad 2.66 Ghz
+Modelo:
+Super Micro
+Tipo:
+1333 MHZ (E 5430)
+
+
+Doc.:
+termo de doação
+Num.:
+25519
+Data:
+04/08/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Sn. nt * Proc. 2004/16064-9 - Fapesp
+
+
+Assinatura Digital:
+
+

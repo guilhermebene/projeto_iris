@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.019408
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+04/06/2002 - Processo: 02.1.807.18.8
+
+
+Responsável:
+56490-1 Jose Jairo de Sales 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1549030
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ASSESS.ADMINISTR     - ASSESSORIA ADMINISTRATIVA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RT INTEGRALIZADO
+Modelo:
+RT-866
+Tipo:
+PENTIUM III
+
+
+Doc.:
+nota fiscal
+Num.:
+5366
+Data:
+28/05/2002
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+RISC TECH INFORMATICA LTDA
+
+
+Identif:
+GARANTIA ON SITE
+
+
+Assinatura Digital:
+
+

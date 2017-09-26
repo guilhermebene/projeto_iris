@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.050161
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+20/01/2011 - Processo: 10.1.3439.18.8
+
+
+Responsável:
+2437727-1 Jose Eduardo Zanardi 
+
+
+Material:
+57100 - MICROCOMPUTADOR COMPATÍVEL COM MACINTOSH                                                            
+
+
+Bem:
+5022800
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+APPLE IMAC
+Modelo:
+MC511LZA
+Tipo:
+INTEL CORE I5 2,8GHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+92
+Data:
+10/01/2011
+
+
+Garantia:
+24 mes(es)
+
+
+Fornecedor:
+INOVAMAX TELEINFORMÁTICA LTDA.-ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

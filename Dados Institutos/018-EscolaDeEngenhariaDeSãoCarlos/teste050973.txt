@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.050973
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+05/07/2011 - Processo: 08.1.2180.18.8
+
+
+Responsável:
+1575309-1 Masaki Kawabata Neto 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SET                  - DEPARTAMENTO DE ENGENHARIA DE ESTRUTURAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+2 PROC. INTEL XEON X5660
+Modelo:
+2.8GHZ - 12 MEMÓR 4GB - HD 1TB
+Tipo:
+MICROCOMPUTADOR SERVIDOR
+
+
+Doc.:
+termo de doação
+Num.:
+239/2011
+Data:
+28/02/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

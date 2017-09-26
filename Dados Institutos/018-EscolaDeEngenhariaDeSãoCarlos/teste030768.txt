@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.030768
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+17/12/2004 - Processo: 04.1.1769.18.4
+
+
+Responsável:
+2254095-1 Ricardo Lamon Cerra 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+3298965
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CPD                  - CENTRO DE PROCESSAMENTO DE DADOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+HP COMPAQ
+Modelo:
+NX 9010 P4.2, 8GHZ, 512MB, HD 40GB
+Tipo:
+PORTATIL
+
+
+Doc.:
+nota fiscal
+Num.:
+22437
+Data:
+13/12/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+AITEC AUTOMACAO INDUSTRIA E COMERCIO LTDA
+
+
+Identif:
+CNF4380MQM
+
+
+Assinatura Digital:
+
+

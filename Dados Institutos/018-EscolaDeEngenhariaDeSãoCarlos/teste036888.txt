@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.036888
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+15/09/2005 - Processo: 05.1.2338.18.8
+
+
+Responsável:
+764591-1 Herivelto Moreira dos Santos 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3757269
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SGS                  - DEPARTAMENTO DE GEOTECNIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3 COM
+Modelo:
+3C17304
+Tipo:
+24 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+2926
+Data:
+14/09/2005
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+OMICRON SISTEMAS COMERCIO E PRESTACAO DE SERVICOS EM INFORMATICA E TELECOMUNICACAO LTDA
+
+
+Identif:
+LZ1VSDDDA03A0
+
+
+Assinatura Digital:
+
+

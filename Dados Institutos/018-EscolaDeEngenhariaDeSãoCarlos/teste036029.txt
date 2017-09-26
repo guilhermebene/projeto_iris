@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.036029
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+12/04/2005 - Processo: 05.1.771.18.6
+
+
+Responsável:
+2801320-1 Evaldo Luiz Gaeta Espindola 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3478920
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CRHEA                - CENTRO DE RECURSOS HÍDRICOS E ECOLOGIA APLICADA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+planet
+Modelo:
+fnsw-3200
+Tipo:
+32 portas - 10/100Mbps
+
+
+Doc.:
+nota fiscal
+Num.:
+243
+Data:
+08/04/2005
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+LOFTY NETWORK INFORMATICA E COMÉRCIO LTDA - Epp
+
+
+Identif:
+GARANTIA ON-SITE
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.053546
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+05/09/2012 - Processo: 12.1.2276.18.0
+
+
+Responsável:
+2254095-1 Ricardo Lamon Cerra 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4753267
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO
+Modelo:
+SRW2008-K9-NA-SG300-10
+Tipo:
+18 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+1150
+Data:
+31/08/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+KWA TELEINFORMATICA LTDA
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

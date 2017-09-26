@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.015503
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+08/01/2002 - Processo: 01.1.1941.18.9
+
+
+Responsável:
+1575309-1 Masaki Kawabata Neto 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+1308572
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SET                  - DEPARTAMENTO DE ENGENHARIA DE ESTRUTURAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+3C1645B
+Tipo:
+24 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+1429
+Data:
+21/12/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda.
+
+
+Identif:
+0100/7HJF016841
+
+
+Assinatura Digital:
+
+

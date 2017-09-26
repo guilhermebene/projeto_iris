@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.050098
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+02/12/2010 - Processo: 07.1.1418.55.4
+
+
+Responsável:
+1235136-1 Paulo Celso Greco Junior 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAA                  - (DEPARTAMENTO DE ENGENHARIA AERONÁUTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Dell Precision T7400
+Modelo:
+Intel Xeon E5410 (2.33 Ghz, 1333 Mhz)
+Tipo:
+Quad Core
+
+
+Doc.:
+termo de doação
+Num.:
+37579
+Data:
+04/09/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Sn. nt *Proc. 2004/16064-9 - FAPESP
+
+
+Assinatura Digital:
+
+

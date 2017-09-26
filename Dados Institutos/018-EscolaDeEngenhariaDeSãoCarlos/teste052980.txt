@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.052980
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+17/03/2016 - Processo: 12.1.1801.18.3
+
+
+Responsável:
+1575309-1 Masaki Kawabata Neto 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SET                  - DEPARTAMENTO DE ENGENHARIA DE ESTRUTURAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUPERMICRO
+Modelo:
+X8DTN+
+Tipo:
+INTEL XEON, 48 GB RAM, C/ LEITOR DVD
+
+
+Doc.:
+termo de doação
+Num.:
+2012/011430
+Data:
+23/04/2012
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

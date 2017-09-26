@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.005554
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+11/10/2000 - Processo: 00.1.424.18.0
+
+
+Responsável:
+2420913-1 Oswaldo de Andrade 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4468597
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3 COM
+Modelo:
+SS II
+Tipo:
+LINK SWITCH 1000
+
+
+Doc.:
+termo de doação
+Num.:
+311/2000
+Data:
+22/03/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+7ZNV24214F8
+
+
+Assinatura Digital:
+
+

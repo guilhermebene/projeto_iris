@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.000661
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+02/02/1999 - Processo: 98.1.1788.18.2
+
+
+Responsável:
+47378-1 Newton Geraldo Bretas 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+24449
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEL                  - DEPARTAMENTO DE ENGENHARIA ELÉTRICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+
+Tipo:
+8 Portas
+
+
+Doc.:
+nota fiscal
+Num.:
+1011
+Data:
+27/11/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+BB COMP COMÉRCIO DE PRODUTOS PARA INFORMÁTICA LTDA.
+
+
+Identif:
+7TKV0AC70C
+
+
+Assinatura Digital:
+
+

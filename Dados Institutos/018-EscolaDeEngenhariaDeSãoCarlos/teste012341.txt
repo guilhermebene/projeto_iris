@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.012341
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+05/11/2001 - Processo: 01.1.1711.18.3
+
+
+Responsável:
+881268-1 Luiz Vicente Vareda 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+1179071
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SET                  - DEPARTAMENTO DE ENGENHARIA DE ESTRUTURAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Compaq
+Modelo:
+12XL400 - Celeron 700 MHz
+Tipo:
+192 MB RAM - HD 10 GB
+
+
+Doc.:
+nota fiscal
+Num.:
+5861
+Data:
+25/10/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+C&A; Computadores Ltda.
+
+
+Identif:
+R128JC530191
+
+
+Assinatura Digital:
+
+

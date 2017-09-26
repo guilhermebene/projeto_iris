@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.046039
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+06/02/2009 - Processo: 08.1.289.18.2
+
+
+Responsável:
+62970-1 Marcelo Claudio Tramontano 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DEEL
+Modelo:
+POWER EDGE 840 INTEL XEON 3050 - 2.13GHZ
+Tipo:
+SERVIDOR
+
+
+Doc.:
+termo de doação
+Num.:
+98/2008
+Data:
+01/02/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+MEMOR. 2GB DDR - HD 250GB
+
+
+Assinatura Digital:
+
+

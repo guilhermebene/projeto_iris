@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.058684
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+12/08/2014 - Processo: 14.1.1976.18.0
+
+
+Responsável:
+2445452-1 João Batista Dotta 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+3702596
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+UBIQUITI
+Modelo:
+AP UNIFI UAP-PRO MIMO
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+142
+Data:
+30/07/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SECUREWAY TECNOLOGIA DA INFORMAÇÃO LTDA-ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

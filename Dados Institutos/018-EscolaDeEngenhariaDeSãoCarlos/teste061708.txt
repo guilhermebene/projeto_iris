@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.061708
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+03/08/2016 - Processo: 13.1.1735.18.1
+
+
+Responsável:
+1575309-1 Masaki Kawabata Neto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SET                  - DEPARTAMENTO DE ENGENHARIA DE ESTRUTURAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUPERMICRO
+Modelo:
+SSG-6037R-E1R16N- MEM. 16GB-HD 65,480TB
+Tipo:
+SERVIDOR
+
+
+Doc.:
+termo de doação
+Num.:
+586/2016
+Data:
+08/04/2016
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

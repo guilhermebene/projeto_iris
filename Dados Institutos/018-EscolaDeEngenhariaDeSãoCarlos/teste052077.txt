@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.052077
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+02/12/2011 - Processo: 11.1.3482.18.1
+
+
+Responsável:
+2445452-2 João Batista Dotta 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4057678
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D LINK
+Modelo:
+DAP 25990
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1459
+Data:
+24/11/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+OMICRON SISTEMAS DISTRIBUICAO E SERVICOS LTDA
+
+
+Identif:
+PV7K1A4000054
+
+
+Assinatura Digital:
+
+

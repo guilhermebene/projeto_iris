@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.020380
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+31/07/2002 - Processo: 02.1.1355.18.3
+
+
+Responsável:
+4874402-1 Nivaldo Aparecido Correa 
+
+
+Material:
+94048 - HUBS PARA REDE                                                                                      
+
+
+Bem:
+1693417
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CRHEA                - CENTRO DE RECURSOS HÍDRICOS E ECOLOGIA APLICADA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+24 PORTAS UTP
+Tipo:
+LINK BUILD
+
+
+Doc.:
+nota fiscal
+Num.:
+2179
+Data:
+16/07/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ETERNET INFORMATICA LTDA.
+
+
+Identif:
+0301/7GWV257089
+
+
+Assinatura Digital:
+
+

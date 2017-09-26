@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.052908
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+16/05/2012 - Processo: 11.1.3476.18.1
+
+
+Responsável:
+2239390-1 Leopoldo Pisanelli Rodrigues de Oliveira 
+
+
+Material:
+100358 - ACELEROMETRO                                                                                        
+
+
+Bem:
+4070500
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEM                  - DEPARTAMENTO DE ENGENHARIA MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PCB
+Modelo:
+352A24 - FREQUENCIA 1.0 A 800HZ
+Tipo:
+MINIATURA 0,8 GLS SENSIBILIDADE 100MV/g
+
+
+Doc.:
+declaração de importação
+Num.:
+11/2374920-7
+Data:
+15/12/2011
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+PCB PIEZOTRONICS, INC.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

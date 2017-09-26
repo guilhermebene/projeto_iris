@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.009980
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+03/09/2001 - Processo: 01.1.1162.18.0
+
+
+Responsável:
+70976-1 Jose Samuel Giongo 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+1060937
+Origem:
+Sispa Compra        
+Situação:
+Estornado      
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SET                  - DEPARTAMENTO DE ENGENHARIA DE ESTRUTURAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+COMPAQ
+Modelo:
+ARMADA E 500
+Tipo:
+U98004C00
+
+
+Doc.:
+nota fiscal
+Num.:
+027
+Data:
+31/08/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Welcom informatica Ltda
+
+
+Identif:
+PP2060
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.060779
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+03/12/2015 - Processo: 15.1.2929.18.6
+
+
+Responsável:
+545526-1 Adriano Almeida Gonçalves Siqueira 
+
+
+Material:
+196967 - SISTEMA DE ARMAZENAMENTO DE DADOS                                                                   
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEM                  - DEPARTAMENTO DE ENGENHARIA MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+NATIONAL INSTRUMENTS
+Modelo:
+PXI
+Tipo:
+COM CONTROLADORA
+
+
+Doc.:
+termo de doação
+Num.:
+D.I. 15/0213648-3
+Data:
+03/02/2015
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

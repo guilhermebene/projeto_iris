@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.036778
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+22/08/2005 - Processo: 05.1.531.76.2
+
+
+Responsável:
+1228681-1 Maximiliam Luppe 
+
+
+Material:
+33375 - ANALISADOR DE SINAIS                                                                                
+
+
+Bem:
+
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEL                  - DEPARTAMENTO DE ENGENHARIA ELÉTRICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Tektronix
+Modelo:
+2 GHz, 100MHz
+Tipo:
+Analisador Lógico
+
+
+Doc.:
+termo de doação
+Num.:
+3243/04,FAPESP - 99/12765-2
+Data:
+10/12/2002
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+B070313
+
+
+Assinatura Digital:
+
+

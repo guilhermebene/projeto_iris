@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.048772
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+21/06/2010 - Processo: 10.1.2265.18.6
+
+
+Responsável:
+2439347-1 Antonio Carlos Mariano 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4911253
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STT                  - DEPARTAMENTO DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+XEON
+Modelo:
+X3330
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+34751
+Data:
+18/06/2010
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+C & A COMPUTADORES LTDA
+
+
+Identif:
+C813M0828J02162
+
+
+Assinatura Digital:
+
+

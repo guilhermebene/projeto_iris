@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.038702
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+06/07/2006 - Processo: 06.5.845.1.3
+
+
+Responsável:
+2088086-1 Arthur Jose Vieira Porto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1126725
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEM                  - DEPARTAMENTO DE ENGENHARIA MECÂNICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+POS-AT 850J-P
+Tipo:
+CPU
+
+
+Doc.:
+nota fiscal
+Num.:
+81936/44/50/38/37
+Data:
+17/01/2002
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+serie 118494
+
+
+Assinatura Digital:
+
+

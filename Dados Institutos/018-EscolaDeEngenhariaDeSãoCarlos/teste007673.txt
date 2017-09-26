@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.007673
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+24/07/2001 - Processo: 01.1.1162.18.0
+
+
+Responsável:
+88781-1 Renato Luiz Sobral Anelli 
+
+
+Material:
+52744 - MICROCOMPUTADOR PORTÁTIL (PALMTOP)                                                                  
+
+
+Bem:
+1060970
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Palm
+Modelo:
+VX
+Tipo:
+palmtop
+
+
+Doc.:
+nota fiscal
+Num.:
+5276
+Data:
+23/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+C&A; Computadores Ltda.
+
+
+Identif:
+10HB13H16HXM
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.028721
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+13/10/2003 - Processo: 03.1.2280.18.8
+
+
+Responsável:
+3056572-1 Alessandro Rodrigo Locatti 
+
+
+Material:
+12173 - FONTE DE ALIMENTAÇÃO                                                                                
+
+
+Bem:
+2672073
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEL                  - DEPARTAMENTO DE ENGENHARIA ELÉTRICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+MINIPA
+Modelo:
+MPS-303D
+Tipo:
+DIGITAL
+
+
+Doc.:
+nota fiscal
+Num.:
+33907
+Data:
+08/10/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+`MINIPA INDUSTRIA E COMERCIO LTDA
+
+
+Identif:
+MP303D01201
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.047450
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+05/11/2009 - Processo: 09.1.2516.18.7
+
+
+Responsável:
+80334-1 Fernando Martini Catalano 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4843932
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAA                  - (DEPARTAMENTO DE ENGENHARIA AERONÁUTICA)
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUPERMICRO
+Modelo:
+X8STI
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+301
+Data:
+29/10/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+NET A NET SHOP LTDA -ME
+
+
+Identif:
+C813M0934K50765
+
+
+Assinatura Digital:
+
+

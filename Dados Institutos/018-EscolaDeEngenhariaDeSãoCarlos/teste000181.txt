@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.000181
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+06/10/1998 - Processo: 98.1.169.18.7
+
+
+Responsável:
+2112902-1 Luiz Cesar Ribeiro Carpinetti 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+24279
+Origem:
+Convênio            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEP                  - DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+DTK
+Modelo:
+P IV 2.6GHZ
+Tipo:
+512 MBRAM,  2 HDS 160GB, CDROM
+
+
+Doc.:
+declaração de importação
+Num.:
+98/0524194-7
+Data:
+05/06/1998
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ECAO80131748
+
+
+Assinatura Digital:
+
+

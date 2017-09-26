@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.042075
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+05/10/2007 - Processo: 07.1.1693.18.0
+
+
+Responsável:
+2088086-1 Arthur Jose Vieira Porto 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEM                  - DEPARTAMENTO DE ENGENHARIA MECÂNICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3 PROC. XEON 3.0 GHZ
+Modelo:
+PROLIANT SMARTBUY - ML 150
+Tipo:
+SERVIDOR - MEM. 8GB - CDRW
+
+
+Doc.:
+termo de doação
+Num.:
+00715/2007
+Data:
+23/04/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.000328
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+20/10/1998 - Processo: 97.1.738.18.0
+
+
+Responsável:
+2445452-1 João Batista Dotta 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+26948
+Origem:
+Convênio            
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CPD                  - CENTRO DE PROCESSAMENTO DE DADOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+Superstrack II PS 40
+Tipo:
+12 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+1284
+Data:
+25/07/1997
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+7TRV1A895A
+
+
+Assinatura Digital:
+
+

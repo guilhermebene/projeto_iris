@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.041673
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+18/09/2007 - Processo: 07.1.2558.18.0
+
+
+Responsável:
+2420913-1 Oswaldo de Andrade 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4488393
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DELL
+Modelo:
+PowerEdge 2900
+Tipo:
+SERVIDOR
+
+
+Doc.:
+nota fiscal
+Num.:
+6892
+Data:
+17/09/2007
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+C & A COMPUTADORES LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

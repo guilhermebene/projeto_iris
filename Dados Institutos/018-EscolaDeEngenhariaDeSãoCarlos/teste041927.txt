@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.041927
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+01/10/2007 - Processo: 07.1.1974.18.0
+
+
+Responsável:
+66074-1 Manoel Antonio Lopes Rodrigues Alves 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4377346
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+INTEGRALIZADO RISC TECH
+Modelo:
+PENTINUM D 3.0 GHZ
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+19195
+Data:
+21/09/2007
+
+
+Garantia:
+2 ano(s)
+
+
+Fornecedor:
+RISC TECH INFORMATICA LTDA
+
+
+Identif:
+GARANTIA ON SITE
+
+
+Assinatura Digital:
+
+

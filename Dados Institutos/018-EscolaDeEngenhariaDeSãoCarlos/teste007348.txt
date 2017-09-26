@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.007348
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+04/07/2001 - Processo: 01.1.1213.18.3
+
+
+Responsável:
+2474198-1 Maria Suzete Rossigalli Marega 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+1048651
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SMM                  - DEP. DE ENGENHARIA DE MATERIAIS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Planet
+Modelo:
+EH 2400
+Tipo:
+24 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+2054
+Data:
+04/07/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+4Tech Informática Ltda.
+
+
+Identif:
+1200098
+
+
+Assinatura Digital:
+
+

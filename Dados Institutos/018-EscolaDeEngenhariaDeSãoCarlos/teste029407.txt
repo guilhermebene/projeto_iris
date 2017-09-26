@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.029407
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+16/02/2004 - Processo: 03.1.2604.18.8
+
+
+Responsável:
+5069361-1 Maykon Jeferson Zanquim 
+
+
+Material:
+94048 - HUBS PARA REDE                                                                                      
+
+
+Bem:
+2770750
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVBIBL               - SERVIÇO DE BIBLIOTECA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ENCORE
+Modelo:
+10/100 MBBYTES
+Tipo:
+24 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+12028
+Data:
+13/02/2004
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+C & A COMPUTADORES LTDA
+
+
+Identif:
+ENH924 - AUT+
+
+
+Assinatura Digital:
+
+

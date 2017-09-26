@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.040642
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+12/06/2007 - Processo: 07.1.1669.18.2
+
+
+Responsável:
+2439347-1 Antonio Carlos Mariano 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+4369300
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STT                  - DEPARTAMENTO DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+LIKSYS
+Modelo:
+WRT54G-LA
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+7590
+Data:
+23/05/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+OMICRON SISTEMAS COM. E PREST. DE SERV. EM INFORMATICA E TELECOMUNICACOES LTDA
+
+
+Identif:
+CDFD1FBD4981
+
+
+Assinatura Digital:
+
+

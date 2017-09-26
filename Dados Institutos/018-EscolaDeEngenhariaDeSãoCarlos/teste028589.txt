@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.028589
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+03/10/2003 - Processo: 03.1.2281.18.4
+
+
+Responsável:
+2085211-1 Joubert José Lancha 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+2483475
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TOSHIBA
+Modelo:
+A20 - S207
+Tipo:
+NOTEBOOK
+
+
+Doc.:
+nota fiscal
+Num.:
+243
+Data:
+03/10/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+JUSSARA IANUCI SÃO CARLOS - ME
+
+
+Identif:
+83106662P
+
+
+Assinatura Digital:
+
+

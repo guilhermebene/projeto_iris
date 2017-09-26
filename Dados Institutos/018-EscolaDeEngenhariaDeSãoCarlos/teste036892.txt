@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.036892
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+19/09/2005 - Processo: 05.1.2339.18.4
+
+
+Responsável:
+5234038-1 Thales Fernando Braga 
+
+
+Material:
+37567 - MÓDULO SERVIDOR                                                                                     
+
+
+Bem:
+3761991
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+VON EISUS INTEGRADO
+Modelo:
+OPT641
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+701
+Data:
+13/09/2005
+
+
+Garantia:
+18 mes(es)
+
+
+Fornecedor:
+VON EISUS BRASIL COMERCIO E SERVICOS DE INFORMATICA LTDA E.P.P.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

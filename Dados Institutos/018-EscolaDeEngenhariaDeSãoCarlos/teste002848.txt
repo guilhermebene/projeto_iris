@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.002848
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+25/06/1999 - Processo: 99.1.1017.18.7
+
+
+Responsável:
+2420913-1 Oswaldo de Andrade 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+24449
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+hub 8 / TPO
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+286
+Data:
+21/06/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+CLAUDETE ZAGO JAU - ME
+
+
+Identif:
+KTKSO1DF96
+
+
+Assinatura Digital:
+
+

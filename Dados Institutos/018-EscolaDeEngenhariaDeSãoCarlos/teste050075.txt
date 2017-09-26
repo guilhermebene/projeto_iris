@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.050075
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+30/11/2010 - Processo: 10.1.3153.18.7
+
+
+Responsável:
+1575309-1 Masaki Kawabata Neto 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4911253
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SET                  - DEPARTAMENTO DE ENGENHARIA DE ESTRUTURAS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUPERMICRO
+Modelo:
+X8DTN+
+Tipo:
+SERVIDOR DE REDE
+
+
+Doc.:
+nota fiscal
+Num.:
+31
+Data:
+19/11/2010
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+NET A NET SHOP LTDA -ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

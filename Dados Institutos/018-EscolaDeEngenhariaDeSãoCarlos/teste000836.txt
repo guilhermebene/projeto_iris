@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.000836
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+24/02/1999 - Processo: 94.1.35923.1.1
+
+
+Responsável:
+1342289-1 Orivaldo Lopes da Silva 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+643769
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - BIOENGENHARIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+RITRON
+Modelo:
+PENTIUMIII-866 MHZ 256KB
+Tipo:
+ 196RAM, HD4.0GB, CDROM52X
+
+
+Doc.:
+declaração de importação
+Num.:
+511.944
+Data:
+10/10/1995
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RICHLAND EQUIPMENT COMPANY
+
+
+Identif:
+1903423
+
+
+Assinatura Digital:
+
+

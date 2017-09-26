@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.005879
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+08/12/2000 - Processo: 00.1.1650.18.3
+
+
+Responsável:
+2084022-1 Joao Vitor Moccellin 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+813591
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEP                  - DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BBCOMP
+Modelo:
+Intel 500MHZ
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+299
+Data:
+08/12/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+R. O. Comércio de Produtos  Para Informatica Ltda-ME
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

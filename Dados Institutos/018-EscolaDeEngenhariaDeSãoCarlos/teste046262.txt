@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.046262
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+12/03/2009 - Processo: 08.1.85.73.0
+
+
+Responsável:
+2467377-1 Martinho Finardi Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4664868
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CETEPE               - CENTRO DE TECNOLOGIA EDUCACIONAL PARA ENGENHARIA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+PROC CORE 2 DUO 3.0GHZ E8400 BOX
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+05/2009
+Data:
+26/02/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GABINETE ATX RJAS 258D PRETO
+
+
+Assinatura Digital:
+
+

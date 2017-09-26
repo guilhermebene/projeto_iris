@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.052508
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+16/02/2012 - Processo: 12.1.90.93.3
+
+
+Responsável:
+2445452-1 João Batista Dotta 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4843444
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+PLANET
+Modelo:
+SWITCH
+Tipo:
+24Px10/100/1000MBPS
+
+
+Doc.:
+nota fiscal
+Num.:
+3694
+Data:
+13/01/2012
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GSW2401(V4)A500151400001
+
+
+Assinatura Digital:
+
+

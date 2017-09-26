@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.054345
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+07/03/2013 - Processo: 12.1.1038.52.8
+
+
+Responsável:
+1096729-1 Luiz Antonio Daniel 
+
+
+Material:
+23159 - MEDIDOR DE VAZÃO                                                                                    
+
+
+Bem:
+596043
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SHS                  - DEPARTAMENTO DE HIDRÁULICA E SANEAMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Isco
+Modelo:
+684210001
+Tipo:
+Ultrsônico, c/sinal de saída de 4 a 20mA
+
+
+Doc.:
+nota fiscal
+Num.:
+91246
+Data:
+21/08/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+pat_PCASC 6616
+
+
+Assinatura Digital:
+
+

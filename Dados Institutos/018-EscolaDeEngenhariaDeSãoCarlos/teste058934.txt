@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.058934
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+20/10/2014 - Processo: 14.1.2705.18.0
+
+
+Responsável:
+5890010-1 Raphael Montanari 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+5107881
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEL                  - DEPARTAMENTO DE ENGENHARIA ELÉTRICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISCO/LINKSYS
+Modelo:
+E1200
+Tipo:
+1 PORTA WAN 10/100/ 4PORTAS LAN 10/100
+
+
+Doc.:
+nota fiscal
+Num.:
+328
+Data:
+20/10/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Luciana Destro Rigo
+
+
+Identif:
+10820C63262277
+
+
+Assinatura Digital:
+
+

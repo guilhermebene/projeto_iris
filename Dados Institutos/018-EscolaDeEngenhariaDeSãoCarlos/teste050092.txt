@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.050092
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+02/12/2010 - Processo: 07.1.1418.55.4
+
+
+Responsável:
+1235136-1 Paulo Celso Greco Junior 
+
+
+Material:
+57100 - MICROCOMPUTADOR COMPATÍVEL COM MACINTOSH                                                            
+
+
+Bem:
+4343328
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Microcomputador
+Modelo:
+Intel Xeon
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+3195
+Data:
+27/02/2008
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Sn.Nt * Proc.04/16064-9Fapesp
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.003711
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+06/08/1999 - Processo: 99.1.1113.18.6
+
+
+Responsável:
+3054225-1 Janete Ferreira Rodrigues dos Santos 
+
+
+Material:
+20753 - CENTRAL DE PABX                                                                                     
+
+
+Bem:
+113263
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+BIO                  - BIOENGENHARIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+INTELBRAS
+Modelo:
+6020
+Tipo:
+MICRO PABX
+
+
+Doc.:
+nota fiscal
+Num.:
+1082
+Data:
+06/08/1999
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+TELECTRON TELEINFORMÁTICA LTDA
+
+
+Identif:
+515881/99E
+
+
+Assinatura Digital:
+
+

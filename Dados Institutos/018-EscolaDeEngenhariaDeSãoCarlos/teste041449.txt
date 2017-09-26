@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.041449
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+27/08/2007 - Processo: 06.1.2360.18.4
+
+
+Responsável:
+1117972-1 Glauco Augusto de Paula Caurin 
+
+
+Material:
+110507 - ROBÔ MANIPULADOR                                                                                    
+
+
+Bem:
+4196961
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEM                  - DEPARTAMENTO DE ENGENHARIA MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+KUKA
+Modelo:
+KR16
+Tipo:
+P/CARGA DE 16KG COM CONTROLE KRC2
+
+
+Doc.:
+declaração de importação
+Num.:
+07/0020472-0
+Data:
+05/01/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+KUKA ROBOTER GMBH
+
+
+Identif:
+1942
+
+
+Assinatura Digital:
+
+

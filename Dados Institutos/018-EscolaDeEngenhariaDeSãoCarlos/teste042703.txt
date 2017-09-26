@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.042703
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+03/12/2007 - Processo: 07.1.3044.18.0
+
+
+Responsável:
+2420913-1 Oswaldo de Andrade 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4057678
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+D-LINK
+Modelo:
+DWL-3200AP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+8881
+Data:
+27/11/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+OMICRON SISTEMAS COM. E PREST. DE SERV. EM INFORMÁTICA E TELECOMUNICAÇÕES LTDA
+
+
+Identif:
+S/Nº P14W177000442
+
+
+Assinatura Digital:
+
+

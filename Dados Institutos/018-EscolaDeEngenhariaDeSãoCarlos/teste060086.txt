@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.060086
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+31/03/2015 - Processo: 15.1.54.52.2
+
+
+Responsável:
+1197281-1 Marcelo Seido Nagano 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5341949
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEP                  - DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+PROC CORE I5-3.3GHZ BOX
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+33/2012
+Data:
+30/08/2012
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GABINETE ATX
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.036264
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+24/05/2005 - Processo: 05.1.1465.18.6
+
+
+Responsável:
+2420913-1 Oswaldo de Andrade 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3554619
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+4228G
+Tipo:
+24PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+259
+Data:
+23/05/2005
+
+
+Garantia:
+0 permanente
+
+
+Fornecedor:
+LOFTY NETWORK INFORMATICA E COMERCIO LTDA - EPP
+
+
+Identif:
+LZ1V56D5CFE20 (LEFE-TIME)
+
+
+Assinatura Digital:
+
+

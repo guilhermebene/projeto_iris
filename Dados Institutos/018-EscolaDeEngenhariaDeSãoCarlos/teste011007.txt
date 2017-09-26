@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.011007
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+17/09/2001 - Processo: 01.1.1363.18.5
+
+
+Responsável:
+1575309-1 Masaki Kawabata Neto 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+1116401
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SET                  - DEPARTAMENTO DE ENGENHARIA DE ESTRUTURAS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+Line Office Conect
+Tipo:
+16 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+5673
+Data:
+14/09/2001
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+C&A; Computadores Ltda.
+
+
+Identif:
+0100/7RFF079072
+
+
+Assinatura Digital:
+
+

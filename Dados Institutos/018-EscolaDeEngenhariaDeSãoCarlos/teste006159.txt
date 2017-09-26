@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.006159
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+10/04/2001 - Processo: 01.1.636.18.8
+
+
+Responsável:
+2439347-1 Antonio Carlos Mariano 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+953504
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STT                  - DEPARTAMENTO DE TRANSPORTES
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+ENCORE
+Modelo:
+16 portas - 10/100
+Tipo:
+ENH916NWY
+
+
+Doc.:
+nota fiscal
+Num.:
+397
+Data:
+10/04/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+R.O. Comércio de Produtos para Informática Ltda. - Me
+
+
+Identif:
+541601012C00929
+
+
+Assinatura Digital:
+
+

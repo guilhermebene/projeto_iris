@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.015508
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+08/01/2002 - Processo: 01.1.1831.18.9
+
+
+Responsável:
+62970-1 Marcelo Claudio Tramontano 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+1295535
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3 COM (USA)
+Modelo:
+SUPERSTARCK3 3300
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+1424
+Data:
+21/12/2001
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+ETERNET INFORMATICA LTDA.
+
+
+Identif:
+0100/7MMV5243E68
+
+
+Assinatura Digital:
+
+

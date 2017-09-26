@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.000683
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+03/02/1999 - Processo: 97.1.738.18.0
+
+
+Responsável:
+2085743-1 Maria do Carmo Calijuri 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+24449
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SHS                  - DEPARTAMENTO DE HIDRÁULICA E SANEAMENTO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+INTEL
+Modelo:
+INBUSINESS 8 -PORT
+Tipo:
+10MBPS
+
+
+Doc.:
+termo de doação
+Num.:
+2478
+Data:
+14/05/1998
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+00714710825
+
+
+Assinatura Digital:
+
+

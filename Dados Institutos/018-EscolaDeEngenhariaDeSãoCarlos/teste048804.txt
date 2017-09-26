@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.048804
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+01/07/2010 - Processo: 10.5.14.73.6
+
+
+Responsável:
+2479210-1 Ana Paula Bueno 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4798155
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+COORD.PG-SEM         - COORDENAÇÃO PÓS GRADUAÇÃO - SEM
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+PROC CORE 2 QUAD Q9550 BOX
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+21/2010
+Data:
+21/06/2010
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GABINETE ATX WSK-16 PRETO
+
+
+Assinatura Digital:
+
+

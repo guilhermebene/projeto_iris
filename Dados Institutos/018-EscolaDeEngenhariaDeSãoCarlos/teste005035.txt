@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.005035
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+08/06/2000 - Processo: 00.1.751.18.0
+
+
+Responsável:
+2413428-1 Marcelo Celestini 
+
+
+Material:
+11088 - MESA PARA INFORMÁTICA                                                                               
+
+
+Bem:
+522996
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Projeto
+Modelo:
+179
+Tipo:
+Micro
+
+
+Doc.:
+nota fiscal
+Num.:
+5678
+Data:
+29/05/2000
+
+
+Garantia:
+5 ano(s)
+
+
+Fornecedor:
+Maq-Mil Equipamentos de Escritório Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

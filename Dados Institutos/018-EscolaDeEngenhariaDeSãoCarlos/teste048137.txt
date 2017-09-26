@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.048137
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+09/03/2010 - Processo: 08.1.163.18.9
+
+
+Responsável:
+1117972-1 Glauco Augusto de Paula Caurin 
+
+
+Material:
+146056 - MICROCOMPUTADOR INDUSTRIAL                                                                          
+
+
+Bem:
+4575695
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEM                  - DEPARTAMENTO DE ENGENHARIA MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+JBED RTOS
+Modelo:
+MPC 8245
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+D.I. 08/1170712-6
+Data:
+01/08/2008
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+LOGOBJECT AG
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

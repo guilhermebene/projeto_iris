@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.036382
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+29/06/2005 - Processo: 05.1.499.70.2
+
+
+Responsável:
+2422321-1 Jose Alcinio Baltor 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3334651
+Origem:
+Passagem            
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SCPATRI              - SEÇÃO DE PATRIMÔNIO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Positivo
+Modelo:
+POS_AT SERIES F (CELERON R)
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota fiscal
+Num.:
+1511/12/13/14
+Data:
+15/01/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+297451
+
+
+Assinatura Digital:
+
+

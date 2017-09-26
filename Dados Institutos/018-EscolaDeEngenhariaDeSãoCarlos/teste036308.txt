@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.036308
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+10/06/2005 - Processo: 04.1.994.18.4
+
+
+Responsável:
+76012-1 Ruy Alberto Corrêa Altafim 
+
+
+Material:
+149829 - CONJUNTO DIDÁTICO P/LAB DE PROCESSADORES                                                            
+
+
+Bem:
+3166147
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEL                  - DEPARTAMENTO DE ENGENHARIA ELÉTRICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ALTERA
+Modelo:
+NIOS-DEVKIT-1S10
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+05/0271413-6
+Data:
+16/03/2005
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+NORSTAC INTERNATIONAL LIMITED
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

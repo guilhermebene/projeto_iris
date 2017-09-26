@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.028571
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+26/09/2003 - Processo: 03.1.2101.18.6
+
+
+Responsável:
+2422616-1 Roberto Ragonesi 
+
+
+Material:
+142441 - MULTÍMETRO                                                                                          
+
+
+Bem:
+2611635
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CPD                  - CENTRO DE PROCESSAMENTO DE DADOS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MINIPA
+Modelo:
+ET 2051 A
+Tipo:
+MULTIMETRO DIGITAL
+
+
+Doc.:
+nota fiscal
+Num.:
+9597
+Data:
+24/09/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ELETRONICA PINHE LTDA
+
+
+Identif:
+ET205102588
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.015504
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+08/01/2002 - Processo: 01.1.1941.18.9
+
+
+Responsável:
+2434338-1 Anderson Henrique Maldoti 
+
+
+Material:
+94048 - HUBS PARA REDE                                                                                      
+
+
+Bem:
+1308548
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Planet
+Modelo:
+EH-2400
+Tipo:
+24 portas
+
+
+Doc.:
+nota fiscal
+Num.:
+1431
+Data:
+21/12/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda.
+
+
+Identif:
+0B00116
+
+
+Assinatura Digital:
+
+

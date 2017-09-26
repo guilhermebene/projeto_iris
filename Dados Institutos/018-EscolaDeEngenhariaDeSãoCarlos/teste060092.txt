@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.060092
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+31/03/2015 - Processo: 15.1.54.52.2
+
+
+Responsável:
+3356034-1 Walther Azzolini Junior 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5443296
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEP                  - DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+Core I5 3570 3.4GHZ 6MB Cache
+Tipo:
+Microcomputador
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+21/2013
+Data:
+22/07/2013
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+Gabinete ATX Slim WT-1380P
+
+
+Assinatura Digital:
+
+

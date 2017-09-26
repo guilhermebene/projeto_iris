@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.051082
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+25/07/2011 - Processo: 03.1.175.69.7
+
+
+Responsável:
+2315512-2 Teresinha das Graças Coletta 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+4135962
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVBIBL               - SERVIÇO DE BIBLIOTECA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+ IBM
+Modelo:
+x3400pn7976
+Tipo:
+Servidor rede
+
+
+Doc.:
+nota fiscal
+Num.:
+000692
+Data:
+01/02/2008
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+82AB2V0
+
+
+Assinatura Digital:
+
+

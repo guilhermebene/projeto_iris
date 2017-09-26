@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.046393
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+26/03/2009 - Processo: 08.1.85.73.0
+
+
+Responsável:
+660960-1 Carlos Alberto Fortulan 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+4664868
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEM                  - DEPARTAMENTO DE ENGENHARIA MECÂNICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+CISC
+Modelo:
+PROC CORE 2 QUAD 2.4GHZ Q6600 BOX
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+08/2009
+Data:
+11/03/2009
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+GABINETE ATX RJAS 258D PRETO
+
+
+Assinatura Digital:
+
+

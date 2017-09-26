@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.050143
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+11/01/2011 - Processo: 07.1.1692.18.4
+
+
+Responsável:
+2112902-1 Luiz Cesar Ribeiro Carpinetti 
+
+
+Material:
+108642 - SERVIDOR DE REDE                                                                                    
+
+
+Bem:
+
+Origem:
+Doação              
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEP                  - DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+SUPERMICRO
+Modelo:
+PROC. 3.0GHZ - 8 MEMÓRIAS 4GB - HD 1TB
+Tipo:
+DVDRW
+
+
+Doc.:
+termo de doação
+Num.:
+2231/2010
+Data:
+05/10/2010
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+OPF-ABAQUS2
+
+
+Assinatura Digital:
+
+

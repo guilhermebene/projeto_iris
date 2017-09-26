@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.042717
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+04/12/2007 - Processo: 07.1.1608.18.3
+
+
+Responsável:
+77862-1 Eduardo Morgado Belo 
+
+
+Material:
+134597 - SISTEMA DE TELEMETRIA                                                                               
+
+
+Bem:
+4393090
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CAMPUS II -ENG.AERON - CAMPUS II - ENGENHARIA AERONÁUTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MAXSTREAM
+Modelo:
+XT-09DK
+Tipo:
+
+
+
+Doc.:
+declaração de importação
+Num.:
+07/1136044-2
+Data:
+23/08/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MAXSTREAM, INC
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

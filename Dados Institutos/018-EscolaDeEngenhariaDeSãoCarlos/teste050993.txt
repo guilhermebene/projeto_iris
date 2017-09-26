@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.050993
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+08/07/2011 - Processo: 11.1.2370.18.5
+
+
+Responsável:
+80081-1 Henrique Rozenfeld 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+5008697
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEP                  - DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D LINK
+Modelo:
+DGS 3100
+Tipo:
+4 PORTAS GIGABIT
+
+
+Doc.:
+nota fiscal
+Num.:
+901
+Data:
+07/07/2011
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+OMICRON SISTEMAS DISTRIBUICAO E SERVICOS LTDA
+
+
+Identif:
+F3YH2A9000260
+
+
+Assinatura Digital:
+
+

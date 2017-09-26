@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.058683
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+12/08/2014 - Processo: 14.1.1976.18.0
+
+
+Responsável:
+3537800-1 Edson Cezar Wendland 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+3702596
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SHS                  - DEPARTAMENTO DE HIDRÁULICA E SANEAMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+UBIQUITI
+Modelo:
+AP UNIFI UAP-PRO MIMO
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+142
+Data:
+30/07/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+SECUREWAY TECNOLOGIA DA INFORMAÇÃO LTDA-ME
+
+
+Identif:
+24A43C028A57
+
+
+Assinatura Digital:
+
+

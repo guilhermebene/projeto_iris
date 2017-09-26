@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.038943
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+22/08/2006 - Processo: 05.1.277.73.4
+
+
+Responsável:
+2445452-1 João Batista Dotta 
+
+
+Material:
+141089 - WIRELESS LAN ACCESS POINT                                                                           
+
+
+Bem:
+3308740
+Origem:
+Passagem            
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+Foundry Network
+Modelo:
+Iron Point
+Tipo:
+Wireless Lan Access Point
+
+
+Doc.:
+nota fiscal
+Num.:
+2420
+Data:
+01/03/2005
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+ANO 4291960
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.001444
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+12/05/1999 - Processo: 99.1.725.18.8
+
+
+Responsável:
+66074-1 Manoel Antonio Lopes Rodrigues Alves 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+60208
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+BBCOMP
+Modelo:
+pentium II
+Tipo:
+350 MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+1267
+Data:
+11/05/1999
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+BBCOMP COMERCIO DE PRODUTOS PARA INFORMATICA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

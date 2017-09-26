@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.058908
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+09/10/2014 - Processo: 14.1.2624.18.0
+
+
+Responsável:
+3366550-1 André Canale Garcia 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+3702596
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SHS                  - DEPARTAMENTO DE HIDRÁULICA E SANEAMENTO
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+UBIQUIYTI
+Modelo:
+UAP-PRO
+Tipo:
+AP UNIFI - 300MBPS
+
+
+Doc.:
+nota fiscal
+Num.:
+156
+Data:
+02/10/2014
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Secureway Tecnologia da Informação Ltda - ME
+
+
+Identif:
+24A43C028489
+
+
+Assinatura Digital:
+
+

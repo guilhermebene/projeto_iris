@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.062532
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+25/04/2017 - Processo: 17.5.329.1.6
+
+
+Responsável:
+5347354-1 Marcelo Falcão de Oliveira 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095655
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SMM                  - DEP. DE ENGENHARIA DE MATERIAIS
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-205-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4930
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CM0552347
+
+
+Assinatura Digital:
+
+

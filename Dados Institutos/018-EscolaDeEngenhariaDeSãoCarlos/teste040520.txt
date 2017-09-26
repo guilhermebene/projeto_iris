@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.040520
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+29/05/2007 - Processo: 07.1.1569.18.8
+
+
+Responsável:
+5088992-1 Fernanda Ribeiro Destro de Souza Lima 
+
+
+Material:
+94064 - ROTEADOR DE REDE                                                                                    
+
+
+Bem:
+4293800
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEL                  - DEPARTAMENTO DE ENGENHARIA ELÉTRICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+D-LINK
+Modelo:
+DI624
+Tipo:
+INTERFACE IEEE 802.3u/802.3
+
+
+Doc.:
+nota fiscal
+Num.:
+18131
+Data:
+28/05/2007
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RIC TECH INFORMÁTICA LTDA.
+
+
+Identif:
+F31G169004852
+
+
+Assinatura Digital:
+
+

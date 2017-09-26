@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.004944
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+18/05/2000 - Processo: 00.1.672.18.3
+
+
+Responsável:
+2420893-1 Jose Silvano Cerqueira Lima 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+503088
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SMM                  - DEP. DE ENGENHARIA DE MATERIAIS
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+NET COMPUTER
+Modelo:
+CELERON
+Tipo:
+Pentium II 400MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+158
+Data:
+11/05/2000
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Eternet informatica Ltda.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

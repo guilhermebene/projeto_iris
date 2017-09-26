@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.039501
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+13/11/2006 - Processo: 06.1.2773.18.7
+
+
+Responsável:
+2420913-1 Oswaldo de Andrade 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+4230710
+Origem:
+Sispa Compra        
+Situação:
+Transferido    
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAP                  - DEPARTAMENTO DE ARQUITETURA E URBANISMO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+D LINK
+Modelo:
+3526
+Tipo:
+24 PORTAS
+
+
+Doc.:
+nota fiscal
+Num.:
+6010
+Data:
+07/11/2006
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+OMICRON SISTEMAS COM. E PREST. DE SERV. EM INFORMÁTICA E TELECOMUNICAÇÕES LTDA
+
+
+Identif:
+S/Nº DR2M251002188
+
+
+Assinatura Digital:
+
+

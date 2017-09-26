@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.046859
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+12/08/2009 - Processo: 09.1.2512.18.1
+
+
+Responsável:
+2809026-1 Gerson Vitor Sudano 
+
+
+Material:
+79880 - SISTEMA DE POSICIONAMENTO GLOBAL (GPS)                                                              
+
+
+Bem:
+4808398
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVTRANS              - SERVIÇO DE TRANSPORTES
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+AIRIS
+Modelo:
+T945B
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+822
+Data:
+10/08/2009
+
+
+Garantia:
+6 mes(es)
+
+
+Fornecedor:
+SP GEOSISTEMAS COM DE EQUIP. TOPOGRAFICOS LTDA -ME
+
+
+Identif:
+BD889M00925
+
+
+Assinatura Digital:
+
+

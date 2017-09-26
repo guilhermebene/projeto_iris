@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.042297
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+16/10/2007 - Processo: 07.1.2738.18.8
+
+
+Responsável:
+2445452-1 João Batista Dotta 
+
+
+Material:
+141097 - PONTO DE ACESSO PARA REDE SEM FIO                                                                   
+
+
+Bem:
+4057678
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+STI                  - Seção Técnica de Informática
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+D-LINK
+Modelo:
+DWL-3200AP
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+8603
+Data:
+15/10/2007
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+OMICRON SISTEMAS COM. E PREST. DE SERV. EM INFORMÁTICA E TELECOMUNICAÇÕES LTDA
+
+
+Identif:
+S/Nº3274000362
+
+
+Assinatura Digital:
+
+

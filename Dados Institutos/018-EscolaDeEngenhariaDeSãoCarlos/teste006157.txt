@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.006157
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+06/04/2001 - Processo: 01.1.382.18.6
+
+
+Responsável:
+2084022-1 Joao Vitor Moccellin 
+
+
+Material:
+37400 - SWITCH                                                                                              
+
+
+Bem:
+942774
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEP                  - DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+3C16988
+Tipo:
+24 Portas
+
+
+Doc.:
+nota fiscal
+Num.:
+950
+Data:
+04/04/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+Enternet Informática Ltda.
+
+
+Identif:
+7LHV4AC1778
+
+
+Assinatura Digital:
+
+

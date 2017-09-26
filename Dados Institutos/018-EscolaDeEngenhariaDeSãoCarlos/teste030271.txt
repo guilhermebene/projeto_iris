@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.030271
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+15/09/2004 - Processo: 04.1.1586.18.7
+
+
+Responsável:
+1910484-1 Roseli Ribeiro 
+
+
+Material:
+94080 - SWITCH                                                                                              
+
+
+Bem:
+3151379
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEL                  - DEPARTAMENTO DE ENGENHARIA ELÉTRICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+4250T
+Tipo:
+48 PORTAS 10/100 Mbps
+
+
+Doc.:
+nota fiscal
+Num.:
+002233
+Data:
+09/09/2004
+
+
+Garantia:
+0 permanente
+
+
+Fornecedor:
+ENTERNET INFORMATICA LTDA
+
+
+Identif:
+LY3V49B5A03A0
+
+
+Assinatura Digital:
+
+

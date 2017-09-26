@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.000831
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+24/02/1999 - Processo: 98.1.1860.18.5
+
+
+Responsável:
+2084912-1 Evandro Luis Linhari Rodrigues 
+
+
+Material:
+434 - HUBS PARA REDE DE INFORMATICA                                                                       
+
+
+Bem:
+33162
+Origem:
+Doação              
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SEL                  - DEPARTAMENTO DE ENGENHARIA ELÉTRICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+3COM
+Modelo:
+SUPERSTACK II PS HUB 40
+Tipo:
+24 PORTAS
+
+
+Doc.:
+termo de doação
+Num.:
+1200/98
+Data:
+18/10/1998
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+ 
+
+
+Identif:
+KTSS307B480
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+018.003862
+
+
+Unidade:
+18 - Escola de Engenharia de São Carlos
+
+
+Incorporação:
+13/09/1999 - Processo: 96.1.30661.1.0
+
+
+Responsável:
+2422321-1 Jose Alcinio Baltor 
+
+
+Material:
+9300 - MICROCOMPUTADOR                                                                                     
+
+
+Bem:
+148628
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SVALPAT              - SERVIÇO DE ALMOXARIFADO
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+DTK
+Modelo:
+PENTIUM
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+declaração de importação
+Num.:
+513.525
+Data:
+17/12/1996
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+RITA DE CASSIA ABREU MACEDO
+
+
+Identif:
+6365P46171M
+
+
+Assinatura Digital:
+
+
