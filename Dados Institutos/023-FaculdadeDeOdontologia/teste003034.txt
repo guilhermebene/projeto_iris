@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.003034
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+20/06/2001 - Processo: 01.1.489.23.1
+
+
+Responsável:
+86427-1 Joao Humberto Antoniazzi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+3143600
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POSINF               - PÓS-GRADUAÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TRONI
+Modelo:
+ 
+Tipo:
+ATHLON XP 2400 DE 256MB
+
+
+Doc.:
+nota fiscal
+Num.:
+28056
+Data:
+12/06/2001
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA
+
+
+Identif:
+200042616
+
+
+Assinatura Digital:
+
+

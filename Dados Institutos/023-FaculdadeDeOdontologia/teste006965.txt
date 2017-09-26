@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.006965
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+12/12/2006 - Processo: 06.1.774.23.2
+
+
+Responsável:
+2806704-1 Marco Antonio Marques da Silva 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1164120
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+LMI                  - LABORATÓRIO MULTIDISCIPLINAR INFERIOR
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+TRONI
+Modelo:
+PENTIUM  IV
+Tipo:
+MICROCOMPUTADOR
+
+
+Doc.:
+nota de fabricação própria
+Num.:
+03/320
+Data:
+20/03/2003
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+ 
+
+
+Identif:
+2001320074
+
+
+Assinatura Digital:
+
+

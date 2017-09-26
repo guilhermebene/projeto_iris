@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.003035
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+20/06/2001 - Processo: 01.1.363.23.8
+
+
+Responsável:
+48900-1 Antonio Carlos de Campos 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1000470
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+CIRURGIA             - DISCIPLINA DE CIRURGIA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TRONI
+Modelo:
+
+Tipo:
+PENTIUM III
+
+
+Doc.:
+nota fiscal
+Num.:
+28055
+Data:
+12/06/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICRO SWITCH ELETRO ELETRÔNICA LTDA
+
+
+Identif:
+200003758
+
+
+Assinatura Digital:
+
+

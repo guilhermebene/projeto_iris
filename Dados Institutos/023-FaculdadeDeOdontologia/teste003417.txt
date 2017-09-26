@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.003417
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+15/08/2001 - Processo: 01.1.526.23.4
+
+
+Responsável:
+86427-1 Joao Humberto Antoniazzi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1069411
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POSINF               - PÓS-GRADUAÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+MICROMAX
+Modelo:
+GOLD 6866
+Tipo:
+PENTIUM III 866 MHz
+
+
+Doc.:
+nota fiscal
+Num.:
+2480
+Data:
+13/08/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROMAX COMÉRCIO E SERVIÇO EM INFORMÁTICA LTDA.
+
+
+Identif:
+2000038977
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.016058
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+16/07/2013 - Processo: 13.1.1238.23.4
+
+
+Responsável:
+62730-1 Rodolfo Francisco Haltenhoff Melani 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+5226090
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+ODS                  - DEPTO DE ODONTOLOGIA SOCIAL
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Supermicro
+Modelo:
+XEON 5600
+Tipo:
+Servidor
+
+
+Doc.:
+nota fiscal
+Num.:
+10
+Data:
+29/06/2013
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+Mirella Maira Monzani Villani - ME.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

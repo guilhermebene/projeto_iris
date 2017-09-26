@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.003558
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+18/10/2001 - Processo: 01.1.731.23.7
+
+
+Responsável:
+86427-1 Joao Humberto Antoniazzi 
+
+
+Material:
+12513 - MICROCOMPUTADOR PORTÁTIL (NOTEBOOK)                                                                 
+
+
+Bem:
+1138960
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POSINF               - PÓS-GRADUAÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+TOSHIBA
+Modelo:
+SATELLITE 1800-S253
+Tipo:
+
+
+
+Doc.:
+nota fiscal
+Num.:
+30698
+Data:
+11/10/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROSWICTH ELETRO ELETRÔNICA LTDA.
+
+
+Identif:
+81240S88PV
+
+
+Assinatura Digital:
+
+

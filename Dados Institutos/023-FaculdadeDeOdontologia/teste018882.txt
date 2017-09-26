@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.018882
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+06/02/2017 - Processo: 17.5.50.1.1
+
+
+Responsável:
+2410533-2 José Eduardo Magalhães Marinho 
+
+
+Material:
+354864 - PONTO DE ACESSO REMOTO                                                                              
+
+
+Bem:
+8095663
+Origem:
+Passagem            
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAI                  - SALA DE APOIO À INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+HPE/ARUBA
+Modelo:
+IAP-205-RW
+Tipo:
+RP - ATA 009/2016
+
+
+Doc.:
+nota fiscal
+Num.:
+4934
+Data:
+14/10/2016
+
+
+Garantia:
+3 ano(s)
+
+
+Fornecedor:
+ 
+
+
+Identif:
+CNBPHMJ9HV
+
+
+Assinatura Digital:
+
+

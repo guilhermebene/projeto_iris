@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.003561
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+18/10/2001 - Processo: 01.1.731.23.7
+
+
+Responsável:
+86427-1 Joao Humberto Antoniazzi 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+1138952
+Origem:
+Sispa Compra        
+Situação:
+Baixado        
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+POSINF               - PÓS-GRADUAÇÃO DE INFORMÁTICA
+
+
+Complemento:
+Rua da Praça do Relógio  ,109     (Administração Central)
+
+
+ 
+Bloco: -  Andar: -  - sala                           de trabalho          (local de controle) 
+
+
+Marca:
+GAWA
+Modelo:
+P6BAP-AP
+Tipo:
+C/ZIP DRIVE
+
+
+Doc.:
+nota fiscal
+Num.:
+30698
+Data:
+11/10/2001
+
+
+Garantia:
+1 ano
+
+
+Fornecedor:
+MICROSWITCH ELETRO ELETRÔNICA LTDA.
+
+
+Identif:
+
+
+
+Assinatura Digital:
+
+

@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.001808
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+28/06/2000 - Processo: 00.1.252.23.0
+
+
+Responsável:
+2410533-1 José Eduardo Magalhães Marinho 
+
+
+Material:
+51110 - MICROCOMPUTADOR COMPATÍVEL IBM-PC                                                                   
+
+
+Bem:
+538868
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAI                  - SALA DE APOIO À INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+METRON
+Modelo:
+MMP
+Tipo:
+PENTIUM III, 550MHZ
+
+
+Doc.:
+nota fiscal
+Num.:
+1143
+Data:
+19/06/2000
+
+
+Garantia:
+ 
+
+
+Fornecedor:
+INFOBRÁS- INFORMÁTICA DO BRASIL LTDA.
+
+
+Identif:
+06001275300
+
+
+Assinatura Digital:
+
+

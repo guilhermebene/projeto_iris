@@ -1,0 +1,77 @@
+
+
+Patrimônio:
+023.016581
+
+
+Unidade:
+23 - Faculdade de Odontologia
+
+
+Incorporação:
+25/11/2013 - Processo: 14.1.4.23.0
+
+
+Responsável:
+2410533-1 José Eduardo Magalhães Marinho 
+
+
+Material:
+16918 - NO BREAK                                                                                            
+
+
+Bem:
+4901843
+Origem:
+Sispa Compra        
+Situação:
+Ativo          
+
+
+Utilização:
+Coletivo
+
+
+Localização física 
+SAI                  - SALA DE APOIO À INFORMÁTICA
+
+
+Complemento:
+
+
+
+ 
+ 
+
+
+Marca:
+Lacerda
+Modelo:
+JP 2000
+Tipo:
+SNMP
+
+
+Doc.:
+nota fiscal
+Num.:
+51872
+Data:
+22/11/2013
+
+
+Garantia:
+12 mes(es)
+
+
+Fornecedor:
+Lacerda Sistemas de Energia Ltda.
+
+
+Identif:
+00670 CEPEC
+
+
+Assinatura Digital:
+
+
